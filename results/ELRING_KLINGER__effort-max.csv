@@ -1,0 +1,241 @@
+supplier_name	street_address	address_line_2	city	state	postal_code	country	confidence	category	tier	score	verdict	verdict_reasoning	source_url	evidence_quote	gt_address_city_match	gt_address_country_match
+ELRING KLINGER	Max-Eyth-Straße 2, 72581 Dettingen/Erms, Germany		Dettingen/Erms			Germany	High		A	1.00	unverified		https://elringklinger.de/en/imprint	Headquarters: ElringKlinger AG; Max-Eyth-Straße 2; 72581 Dettingen/Erms; Germany.	False	False
+ELRING KLINGER	1 Kings Park, 5th Avenue, Gateshead, Tyne and Wear NE11 0FA, United Kingdom		Gateshead			United Kingdom	High		A	1.00	unverified		https://find-and-update.company-information.service.gov.uk/company/03132212	ELRING PARTS LIMITED — Registered office: 1 Kings Park, 5th Avenue, Gateshead, Tyne and Wear, NE11 0FA.	False	False
+ELRING KLINGER	30233 Groesbeck Hwy, Roseville, MI 48066, United States		Roseville			United States	High		A	1.00	unverified		https://www.osha.gov/ords/imis/establishment.inspection_detail?id=1187212.015	"ElringKlinger Automotive Manufacturing, Inc.
+30233 Groesbeck Hwy
+Roseville, MI 48066"	False	False
+ELRING KLINGER	13701 E. 9 Mile Road, Warren, MI 48089, United States		Warren			United States	High		A	1.00	unverified		https://www.michigan.gov/taxes/-/media/Project/Websites/treasury/BLGSS/PSD_CSD/Industrial-Facility-Exemption/2015-STC-Certs/Certificates-121615.pdf?hash=A4D32B914CED3BD20A6DAE31A0B8D7EB&rev=1d220b8286d44b5bbaecc8e891cdb16a	"ElringKlinger Automotive Manufacturing, Inc.’s Warren, Michigan facility address is:
+13701 E. 9 Mile Road
+Warren, MI 48089"	False	False
+ELRING KLINGER	3800 Calhoun Memorial Highway, Easley, SC 29640, United States		Easley			United States	High		A	1.00	unverified		https://governor.sc.gov/news/2024-06/elringklinger-group-selects-pickens-county-establish-first-south-carolina-operation	Original project-announcement address: 3800 Calhoun Memorial Highway, Easley, SC 29640.	False	False
+ELRING KLINGER	Siemensstraße 7, 72581 Dettingen/Erms, Germany		Dettingen/Erms			Germany	Medium		B	0.60	unverified		https://elringklinger.de/en/germany/dettingen/erms	"ElringKlinger AG – Plant 1 Delivery Address
+Siemensstraße 7
+72581 Dettingen/Erms
+Germany"	False	False
+ELRING KLINGER	Siemensstraße 1, 72581 Dettingen/Erms, Germany		Dettingen/Erms			Germany	Medium		B	0.60	unverified		https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/lieferanten/lieferantenhandbuch/cargolix/EN/elringklingerag-deliveryprocessplant1.pdf	"ElringKlinger AG – Werk 1
+Siemensstraße 1
+72581 Dettingen/Erms
+Germany"	False	False
+ELRING KLINGER	Paul-Lechler-Straße 31, 72581 Dettingen/Erms, Germany		Dettingen/Erms			Germany	Medium		B	0.60	unverified		https://elringklinger.de/en/germany/dettingen/erms	"ElringKlinger AG – Plant 2, Vogelsang Industrial Area
+Paul-Lechler-Straße 31
+72581 Dettingen/Erms
+Germany"	False	False
+ELRING KLINGER	Am Wäldchen 1, 65594 Runkel, Germany		Runkel			Germany	Medium		B	0.60	unverified		https://elringklinger.de/en/germany/runkel	"Am Wäldchen 1
+65594 Runkel
+Germany"	False	False
+ELRING KLINGER	Leitenstraße 46a, 82538 Geretsried-Gelting, Germany		Geretsried-Gelting			Germany	Medium		B	0.60	unverified		https://elringklinger.de/en/germany/geretsried-gelting	"ElringKlinger AG
+Leitenstraße 46a
+82538 Geretsried-Gelting, Germany"	False	False
+ELRING KLINGER	Daimlerstraße 9–13, 73252 Lenningen, Germany		Lenningen			Germany	Medium		B	0.60	unverified		https://elringklinger.de/en/germany/lenningen	"ElringKlinger AG
+Daimlerstraße 9–13
+73252 Lenningen, Germany"	False	False
+ELRING KLINGER	Daimlerstraße 6–8, 72639 Neuffen, Germany		Neuffen			Germany	Medium		B	0.60	unverified		https://elringklinger.de/en/germany/neuffen	"Daimlerstraße 6–8
+72639 Neuffen
+Germany"	False	False
+ELRING KLINGER	Mercedesstraße 40, 72108 Rottenburg am Neckar, Germany		Rottenburg am Neckar			Germany	Medium		B	0.60	unverified		https://elringklinger.de/en/germany/rottenburg/neckar	"ElringKlinger Logistic Service GmbH is located at:
+Mercedesstraße 40
+72108 Rottenburg am Neckar, Germany"	False	False
+ELRING KLINGER	Nürnberger Straße 2, 90579 Langenzenn, Germany		Langenzenn			Germany	Medium		B	0.60	unverified		https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/01-elringklinger-ag/elringklinger-056352-ekag-matrixzertifikat-um15-2025-en.pdf	"ElringKlinger AG — Location/registration no. 056353
+Nürnberger Straße 2
+90579 Langenzenn
+Germany"	False	False
+ELRING KLINGER	Warnstedter Straße 1, 06502 Thale, Germany		Thale			Germany	Medium		B	0.60	unverified		https://elringklinger.de/en/germany/thale	"Warnstedter Straße 1
+06502 Thale
+Germany"	False	False
+ELRING KLINGER	Richard-Klinger-Straße 8, 65510 Idstein, Germany		Idstein			Germany	Medium		B	0.60	unverified		https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/01-elringklinger-ag/elringklinger-056352-ag-matrixzertifikat-ohs18-2025-en.pdf	"Richard-Klinger-Straße 8
+65510 Idstein
+Germany
+The site’s certified scope is “Coating of Coils.”"	False	False
+ELRING KLINGER	Le Bétout – 2 Route de Nantiat, 87140 Chamborêt, France		Chamborêt			France	Medium		B	0.60	unverified		https://elringklinger.de/en/france/chamboret	"ElringKlinger Meillor S.A.S.
+Le Bétout – 2 Route de Nantiat
+87140 Chamborêt, France"	False	False
+ELRING KLINGER	84 Avenue de la Gare, 87140 Nantiat, France		Nantiat			France	Medium		B	0.60	unverified		https://elringklinger.de/en/france/nantiat	"ElringKlinger Meillor S.A.S.
+84 Avenue de la Gare
+87140 Nantiat, France"	False	False
+ELRING KLINGER	Immeuble Orion Poissy, 37 Boulevard Devaux, 78300 Poissy, France		Poissy			France	Medium		B	0.60	unverified		https://elringklinger.de/en/france/poissy	"37 Boulevard Devaux
+78300 Poissy, France"	False	False
+ELRING KLINGER	C/ Tárrega, 19, 43204 Reus, Tarragona, Spain		Reus			Spain	Medium		B	0.60	unverified		https://elringklinger.de/en/spain/reus	"C/ Tárrega, 19
+43204 Reus, Tarragona, Spain"	False	False
+ELRING KLINGER	Kirkleatham Business Park, Redcar, Cleveland TS10 5RX, United Kingdom		Redcar			United Kingdom	Medium		B	0.60	unverified		https://elringklinger.de/en/united-kingdom/redcar	"ElringKlinger (Great Britain) Ltd.
+Kirkleatham Business Park
+Redcar, Cleveland
+TS10 5RX
+United Kingdom"	False	False
+ELRING KLINGER	Unit 2, Derwent Court, Earlsway, Team Valley Trading Estate, Gateshead, Tyne and Wear NE11 0TF, United Kingdom		Gateshead			United Kingdom	Medium		B	0.60	unverified		https://elringklinger.de/en/united-kingdom/gateshead	"Elring Parts Ltd.
+Unit 2, Derwent Court, Earlsway, Team Valley Trading Estate
+Gateshead, Tyne and Wear
+NE11 0TF, United Kingdom"	False	False
+ELRING KLINGER	Via Giovanni Verga 49, 10036 Settimo Torinese (TO), Italy		Settimo Torinese			Italy	Medium		B	0.60	unverified		https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/11-elringklinger-italia/elringklinger-378812-elringklinger-italia-um15-201126-en.pdf	"ElringKlinger Italia Srl’s address is:
+Via Giovanni Verga 49
+10036 Settimo Torinese (TO)
+Italy"	False	False
+ELRING KLINGER	Paul Lechler utca 4, H-6000 Kecskemét, Hungary		Kecskemét			Hungary	Medium		B	0.60	unverified		https://elringklinger.de/en/hungary/kecskemet	"ElringKlinger Hungary Kft.
+H-6000 Kecskemét, Paul Lechler utca 4., Hungary"	False	False
+ELRING KLINGER	Calea Buziașului 11, 300714 Timișoara, Romania		Timișoara			Romania	Medium		B	0.60	unverified		https://elringklinger.de/en/romania/timisoara	"Calea Buziașului 11
+300714 Timișoara, Romania"	False	False
+ELRING KLINGER	Hasanağa OSB Mahallesi, 14. Cadde No: 14, 16280 Nilüfer/Bursa, Turkey		Nilüfer/Bursa			Turkey	Medium		B	0.60	unverified		https://elringklinger.de/en/turkey/niluefer/bursa	"ElringKlinger TR Otomotiv Sanayi ve Ticaret A.Ş.
+Hasanağa OSB Mahallesi, 14. Cadde No: 14
+16280 Nilüfer, Bursa, Turkey"	False	False
+ELRING KLINGER	47912 Halyard Drive, Suite 111, Plymouth, MI 48170, United States		Plymouth			United States	Medium		B	0.60	unverified		https://elringklinger.de/en/usa/plymouth-michigan	"ElringKlinger Automotive Manufacturing, Inc.
+47912 Halyard Drive, Suite 111
+Plymouth, MI 48170, USA"	False	False
+ELRING KLINGER	23300 Northwestern Highway, Southfield, MI 48075, United States		Southfield			United States	Medium		B	0.60	unverified		https://elringklinger.de/en/usa/southfield-michigan	"ElringKlinger Automotive Manufacturing, Inc.
+23300 Northwestern Highway
+Southfield, MI 48075, USA"	False	False
+ELRING KLINGER	2677 Persistence Drive, Fort Wayne, IN 46808, United States		Fort Wayne			United States	Medium		B	0.60	unverified		https://elringklinger.de/en/usa/fort-wayne-indiana	"ElringKlinger Manufacturing Indiana Inc.
+2677 Persistence Drive
+Fort Wayne, IN 46808
+United States"	False	False
+ELRING KLINGER	317 Grand National Lane, Easley, SC 29640, United States		Easley			United States	Medium		B	0.60	unverified		https://elringklinger.de/en/usa/easley-south-carolina	"ElringKlinger South Carolina, LLC.
+317 Grand National Lane
+Easley, SC 29640
+USA"	False	False
+ELRING KLINGER	Ridgeview 35, 4210 IH-35, San Antonio, TX 78218, United States		San Antonio			United States	Medium		B	0.60	unverified		https://elringklinger.de/en/usa/san-antonio-texas	"ElringKlinger Texas, LLC is located at:
+Ridgeview 35
+4210 IH-35
+San Antonio, TX 78218, USA"	False	False
+ELRING KLINGER	1209 Orange Street, Wilmington, DE 19801, United States		Wilmington			United States	Medium		B	0.60	unverified		https://elringklinger.de/en/usa/wilmington-delaware	"ElringKlinger Holding USA, Inc.
+1209 Orange Street
+Wilmington, New Castle County, Delaware 19801
+USA"	False	False
+ELRING KLINGER	40969 Encyclopedia Circle, Fremont, CA 94538, United States		Fremont			United States	Medium		B	0.60	unverified		https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/39-elringklinger-texas-llc.-san-antonio/elringklinger-31620891-ek-texas-iatf16-2025-en.pdf	"ElringKlinger Silicon Valley, Inc.
+40969 Encyclopedia Circle
+Fremont, CA 94538
+United States of America"	False	False
+ELRING KLINGER	1 Seneca Road, R.R. #4, Leamington, Ontario N8H 5P2, Canada		Leamington			Canada	Medium		B	0.60	unverified		https://elringklinger.de/en/canada/leamington/ontario	"ElringKlinger Canada, Inc.
+1 Seneca Road, R.R. #4
+Leamington, Ontario N8H 5P2
+Canada"	False	False
+ELRING KLINGER	15 Seneca Road, Leamington, Ontario N8H 5P2, Canada		Leamington			Canada	Medium		B	0.60	unverified		https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/12-elringklinger-canada/elringklinger-291867-elringklinger-canada-iatf16-2024-en.pdf	An extended manufacturing site is also listed at 15 Seneca Road, Leamington, Ontario N8H 5P2, Canada.	False	False
+ELRING KLINGER	Alfonso Gómez de Orozco No. 122, Col. Exportec II, 50223 Toluca, Estado de México, Mexico		Toluca			Mexico	Medium		B	0.60	unverified		https://elringklinger.de/en/mexico/toluca	"ElringKlinger México, S.A. de C.V.
+Alfonso Gómez de Orozco No. 122
+Col. Exportec II 50223
+Toluca, Estado de México, Mexico"	False	False
+ELRING KLINGER	Vialidad 1, Manzana 1, Lote 3, Col. Exportec II, Toluca, Estado de México, Mexico		Toluca			Mexico	Medium		B	0.60	unverified		https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/01-elringklinger-ag/elringklinger-056352-ekag-matrixzertifikat-um15-2025-en.pdf	Warehouse and distribution: Vialidad 1, Manzana 1, Lote 3, Col. Exportec II, Toluca, Estado de México, Mexico.	False	False
+ELRING KLINGER	Circuito Granjas 112, Col. San Pedro Totoltepec, C.P. 50223, Toluca, Estado de México, Mexico		Toluca			Mexico	Medium		B	0.60	unverified		https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/13-elringklinger-mexico/elringklinger-018748-ekmx-iatf25-2025-en.pdf	Circuito Granjas 112, Col. San Pedro Totoltepec, 50223 Toluca, Estado de México, Mexico. Scope: Distribution, Warehousing.	False	False
+ELRING KLINGER	Rua Francisco Carlos de Castro Neves, 945, Distrito Industrial Unileste, CEP 13422-170, Piracicaba–SP, Brazil		Piracicaba			Brazil	Medium		B	0.60	unverified		https://elringklinger.de/en/brasil/piracicaba	"ElringKlinger do Brasil Ltda.
+Rua Francisco Carlos de Castro Neves, 945
+Distrito Industrial Unileste
+CEP 13422-170, Piracicaba, São Paulo, Brazil"	False	False
+ELRING KLINGER	13 Bentonite Street, Alrode, Alberton, Gauteng 1451, South Africa		Alberton			South Africa	Medium		B	0.60	unverified		https://elringklinger.de/en/south-africa/alberton	"13 Bentonite Street, Alrode
+Alberton, Gauteng 1451
+South Africa"	False	False
+ELRING KLINGER	118 Jinzhou Street, Economic and Technological Development Zone, 130033 Changchun, Jilin, China		Changchun			China	Medium		B	0.60	unverified		https://elringklinger.de/en/china/changchun	"Changchun ElringKlinger Ltd.
+118 Jinzhou Street, Economic and Technological Development Zone
+130033 Changchun, Jilin, China"	False	False
+ELRING KLINGER	No. 660 Lushan Road, SND, Suzhou, Jiangsu Province 215129, China		Suzhou			China	Medium		B	0.60	unverified		https://elringklinger.de/en/china/suzhou	"ElringKlinger China Ltd.
+No. 660 Lushan Road
+SND, Suzhou, Jiangsu Province 215129
+PR China"	False	False
+ELRING KLINGER	Building 11, No. 11 Mumashan Road, Huangdao District, 266500 Qingdao, Shandong, China		Qingdao			China	Medium		B	0.60	unverified		https://elringklinger.de/en/china/qingdao	"Building 11, No. 11 Mumashan Road
+Huangdao District
+266500 Qingdao, Shandong Province
+PR China"	False	False
+ELRING KLINGER	Unit 1, Workshop 5, No. 58 Xiangtian Road, Tianjin Airport Economic Zone, Tianjin 300308, China		Tianjin			China	Medium		B	0.60	unverified		https://elringklinger.de/en/china/tianjin-branch	"Unit 1, Workshop 5
+No. 58 Xiangtian Road
+Tianjin Airport Economic Zone
+Tianjin 300308, PR China"	False	False
+ELRING KLINGER	Plant A-7, No. 230-1 Lianggang Avenue, Yubei District, Chongqing 401120, China		Chongqing			China	Medium		B	0.60	unverified		https://elringklinger.de/en/china/chongqing	"Plant Building
+No. 230-1 Lianggang Avenue
+Yubei District, Chongqing 401120
+PR China"	False	False
+ELRING KLINGER	Plot No. G2, Ranjangaon Industrial Area, Tal. Shirur, District Pune, Maharashtra 412220, India		Ranjangaon			India	Medium		B	0.60	unverified		https://elringklinger.de/en/india/ranjangaon	"Plot No. G2, Ranjangaon Industrial Area
+Tal. Shirur, District Pune
+PIN 412 220, India"	False	False
+ELRING KLINGER	Plot No. K10, Ranjangaon Industrial Area, Taluka Shirur, District Pune, Maharashtra 412220, India		Ranjangaon			India	Medium		B	0.60	unverified		https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/21-elringklinger-india/elringklinger-405647-ekia-iatf16-2024_rev2025-en.pdf	"Plot No. K10, Ranjangaon Industrial Area
+Taluka Shirur, District Pune
+Maharashtra 412 220
+India"	False	False
+ELRING KLINGER	Kawasan Industri Mitra Karawang, Jl. Mitra Raya II, Blok E-6, Parung Mulya, Ciampel, 41363 Karawang, West Java, Indonesia		Karawang			Indonesia	Medium		B	0.60	unverified		https://elringklinger.de/en/indonesia/karawang-west-java	"PT. ElringKlinger Indonesia
+Kawasan Industri Mitra Karawang, Jl. Mitra Raya II, Blok E-6, Parung Mulya, Ciampel, 41363 Karawang, West Java, Indonesia."	False	False
+ELRING KLINGER	594-1 Koya, Ogawamachi, Hiki-gun, Saitama 355-0311, Japan		Ogawamachi, Saitama			Japan	Medium		B	0.60	unverified		https://elringklinger.de/en/japan/saitama	"Marusan Kogyo Co., Ltd.
+594-1 Koya, Ogawamachi, Hiki-gun
+Saitama 355-0311, Japan"	False	False
+ELRING KLINGER	2452-17 Koya, Ogawamachi, Hiki-gun, Saitama 355-0311, Japan		Ogawamachi, Saitama			Japan	Medium		B	0.60	unverified		https://elringklinger.de/en/japan/saitama	"ElringKlinger Marusan Corporation
+2452-17 Koya, Ogawamachi, Hiki-gun
+Saitama 355-0311
+Japan"	False	False
+ELRING KLINGER	120-3 Hongomachi, Takasaki-shi, Gunma 370-3334, Japan		Takasaki			Japan	Medium		B	0.60	unverified		https://elringklinger.de/en/japan/gunma	"ElringKlinger Marusan Corporation
+120-3 Hongomachi, Takasaki-shi, Gunma 370-3334, Japan"	False	False
+ELRING KLINGER	4-22-16 Aoto, Katsushika-ku, Tokyo 125-0062, Japan		Tokyo			Japan	Medium		B	0.60	unverified		https://elringklinger.de/en/japan/tokyo	"ElringKlinger Marusan Corporation
+4-22-16 Aoto, Katsushika-ku
+Tokyo 125-0062, Japan"	False	False
+ELRING KLINGER	23-7, 4Gongdan-ro 10-gil, Gumi-si, Gyeongsangbuk-do 39424, South Korea		Gumi			South Korea	Medium		B	0.60	unverified		https://elringklinger.de/en/south-korea/gumi	"ElringKlinger Korea Co., Ltd.
+23-7, 4Gongdan-ro 10-gil
+Gumi-si, Gyeongsangbuk-do 39424
+South Korea"	False	False
+ELRING KLINGER	1 MD Tower Building, 14th Floor, Room B, Soi Bangna-Trad 25, Bangna-Trad Road, Bangna, Bangkok 10260, Thailand		Bangkok			Thailand	Medium		B	0.60	unverified		https://elringklinger.de/en/thailand/bangkok	"ElringKlinger (Thailand) Co., Ltd.
+1 MD Tower Building, 14th Floor, Room B, Soi Bangna-Trad 25, Bangna-Trad Road, Bangna, Bangkok 10260, Thailand"	False	False
+ELRING KLINGER	Etzelstraße 10, 74321 Bietigheim-Bissingen, Germany		Bietigheim-Bissingen			Germany	Low		D	0.05	unverified		https://www.elringklinger-engineered-plastics.com/germany/bietigheim-bissingen	"ElringKlinger Kunststofftechnik GmbH
+Etzelstraße 10
+74321 Bietigheim-Bissingen, Germany"	False	False
+ELRING KLINGER	Badenbergstraße 15, 89520 Heidenheim, Germany		Heidenheim			Germany	Low		D	0.05	unverified		https://www.elringklinger-engineered-plastics.com/germany/heidenheim	"ElringKlinger Kunststofftechnik GmbH
+Badenbergstraße 15
+89520 Heidenheim, Germany"	False	False
+ELRING KLINGER	Hocksteiner Weg 40, 41189 Mönchengladbach, Germany		Mönchengladbach			Germany	Low		D	0.05	unverified		https://www.elringklinger-engineered-plastics.com/germany/moenchengladbach	"ElringKlinger Kunststofftechnik GmbH
+Hocksteiner Weg 40
+41189 Mönchengladbach, Germany"	False	False
+ELRING KLINGER	Gewerbestraße 4, 90579 Langenzenn, Germany		Langenzenn			Germany	Low		D	0.05	unverified		https://elringklinger.com.tr/deutschland/langenzenn	"ElringKlinger AG
+Gewerbestraße 4
+90579 Langenzenn, Deutschland"	False	False
+ELRING KLINGER	Quai B, Rue de la Chaudière, 87140 Nantiat, France		Nantiat			France	Low		D	0.05	unverified		https://annuaire-entreprises.data.gouv.fr/entreprise/524831344	France — Nantiat facility: Facility address: Quai B, Rue de la Chaudière, 87140 Nantiat, France.	False	False
+ELRING KLINGER	Unit 1, Connexion Central Boulevard, Blythe Valley Park, Shirley, Solihull, Birmingham B90 8AW, United Kingdom		Solihull			United Kingdom	Low		D	0.05	unverified		https://elringklinger.in/search-1	"Unit 1, Connexion Central Boulevard
+Blythe Valley Park
+Shirley, Solihull
+Birmingham, B90 8AW
+United Kingdom"	False	False
+ELRING KLINGER	Via De Nicola 7/ter, 10036 Settimo Torinese (TO), Italy		Settimo Torinese			Italy	Low		D	0.05	unverified		https://elringklinger.in/italien/settimo-torinese	"Elring Italia Srl
+Via De Nicola 7/ter
+10036 Settimo Torinese (TO), Italy"	False	False
+ELRING KLINGER	Schildstrasse 20, 9475 Sevelen, Switzerland		Sevelen			Switzerland	Low		D	0.05	unverified		https://elringklinger.in/schweiz/sevelen	"ElringKlinger Switzerland AG
+Schildstrasse 20
+9475 Sevelen
+Switzerland"	False	False
+ELRING KLINGER	4961 Golden Parkway, Buford, GA 30518, United States		Buford			United States	Low		D	0.05	unverified		https://elringklinger.in/usa/buford-georgia	"ElringKlinger USA, Inc. is located at:
+4961 Golden Parkway
+Buford, GA 30518, USA"	False	False
+ELRING KLINGER	4971 Golden Parkway, Buford, GA 30518, United States		Buford			United States	Low		D	0.05	unverified		https://www.elringklinger-engineered-plastics.com/fileadmin/elringklinger-kunsstofftechnik/data/pdf/07-newsroom/07.04-broschueren-factsheets-publikationen/broschueren/en/elringklinger-kunststofftechnik-industry-special-hydrogen-en.pdf	"ElringKlinger Engineered Plastics North America, Inc.
+4971 Golden Parkway
+Buford, GA 30518
+USA"	False	False
+ELRING KLINGER	Building A2, No. 1000 Yuntai Shan Road, Sino-German Eco Park, Huangdao District, Qingdao, Shandong 266500, China		Qingdao			China	Low		D	0.05	unverified		https://elringklinger.cn/	"ElringKlinger Plastics Technology (Qingdao) Co., Ltd.
+Building A2, No. 1000 Yuntai Shan Road, Sino-German Eco Park, Huangdao District, Qingdao, Shandong 266500, China"	False	False
+ELRING KLINGER	235 Shirakawa, Misatomachi, Takasaki-shi, Gunma 370-3117, Japan		Takasaki			Japan	Low		D	0.05	unverified		https://elringklinger.jp/	"ElringKlinger Marusan Corporation — Gunma Factory, Second Factory
+〒370-3117
+235, Shirakawa, Misatomachi, Takasaki-shi, Gunma, Japan"	False	False
+ELRING KLINGER	Ohmstr. 15, 72622 Nürtingen, Germany		Nürtingen			Germany	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/nuertingen	"hofer powerTec GmbH
+Ohmstr. 15
+72622 Nürtingen, Germany"	False	False
+ELRING KLINGER	Ulmer Strasse 231, 70327 Stuttgart, Germany		Stuttgart			Germany	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/stuttgart	"hofer driveTec GmbH
+Ulmer Strasse 231
+70327 Stuttgart, Germany"	False	False
+ELRING KLINGER	An der Batterie 3–5, 85120 Hepberg, Germany		Hepberg			Germany	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/hepberg	"hofer SafetyTech GmbH
+An der Batterie 3–5
+85120 Hepberg, Germany"	False	False
+ELRING KLINGER	Zeppelinstr. 18, 85748 Garching-Hochbrück, Germany		Garching-Hochbrück			Germany	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/muenchen	"München / Garching-Hochbrück, Germany
+Zeppelinstr. 18
+85748 Garching-Hochbrück, Germany"	False	False
+ELRING KLINGER	Betriebspark 21, AT-4400 St. Ulrich bei Steyr, Austria		St. Ulrich bei Steyr			Austria	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/st-ulrich	"Betriebspark 21
+AT-4400 St. Ulrich bei Steyr, Austria"	False	False
+ELRING KLINGER	Köglerweg 25, A-8042 Graz, Austria		Graz			Austria	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/graz	"hofer powertrain engineering GmbH
+Köglerweg 25
+A-8042 Graz, Austria"	False	False
+ELRING KLINGER	Donau-City-Straße 11, Ares Tower, 15th Floor, 1220 Vienna, Austria		Vienna			Austria	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/vienna	"Donau-City-Straße 11, Ares Tower, 15th Floor
+1220 Vienna, Austria"	False	False
+ELRING KLINGER	Siemensstr. 19, 39100 Bozen (Bolzano), Italy		Bozen			Italy	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/bozen	"hofer powertrain (IT) Srl
+Siemensstr. 19
+39100 Bozen (Bolzano), Italy"	False	False
+ELRING KLINGER	Room 301, Unit 7, Building 5, Lane 56, Antuo Road, Anting Town, Jiading District, Shanghai 201804, China		Shanghai			China	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/shanghai	"hofer powertrain (Shanghai) Co., Ltd.
+Room 301, Unit 7, Building 5, Lane 56, Antuo Road
+Anting Town, Jiading District, Shanghai 201804, China"	False	False
+ELRING KLINGER	Nishiazabu, Tokyo 106-0031, Japan		Tokyo			Japan	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/tokyo	Address: Nishiazabu, Tokyo 106-0031, Japan	False	False
+ELRING KLINGER	41000 Woodward Ave, Suite 350 East, Bloomfield Hills, MI 48304, United States		Bloomfield Hills			United States	Low		D	0.05	unverified		https://www.hoferpowertrain.com/locations/troy-mi	"hofer powertrain (USA), Inc.
+41000 Woodward Ave, Suite 350 East
+Bloomfield Hills, MI 48304"	False	False
+ELRING KLINGER	Unit 2, Titan Business Centre, Spartan Close, Warwick, Warwickshire CV34 6RR, United Kingdom		Warwick			United Kingdom	Low		D	0.05	unverified		https://www.smmt.co.uk/wp-content/uploads/SMMT_EV-Directory_A4-Brochure_10228_2.2.pdf	"Unit 2, Titan Business Centre
+Spartan Close
+Warwick, Warwickshire
+CV34 6RR, United Kingdom"	False	False
+ELRING KLINGER	Georges-Koehler-Allee 302, 79110 Freiburg, Germany		Freiburg			Germany	Low		D	0.05	unverified		https://www.ionysis.com/contact	"ionysis GmbH
+Georges-Koehler-Allee 302
+79110 Freiburg, Germany"	False	False

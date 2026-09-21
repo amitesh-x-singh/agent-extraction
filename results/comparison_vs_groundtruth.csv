@@ -1,0 +1,31 @@
+file,company,n_candidates,n_gt,candidates_matched,candidates_matched_pct,gt_covered,gt_covered_pct
+File1_synapse_dedup,BOEING,10,175,0,0.0,0,0.0
+File1_synapse_dedup,CORNING,3,61,1,33.3,1,1.6
+File1_synapse_dedup,ELLSWORTH,0,38,0,,0,
+File1_synapse_dedup,ELRING KLINGER,12,20,5,41.7,4,20.0
+File1_synapse_dedup,INTEL,0,59,0,,0,
+File1_synapse_dedup,MICRON TECHNOLOGY,226,53,13,5.8,7,13.2
+File1_synapse_dedup,PANASONIC,0,403,0,,0,
+File1_synapse_dedup,SAINT-GOBAIN,2,150,0,0.0,0,0.0
+File1_synapse_dedup,TE CONNECTIVITY,8,479,0,0.0,0,0.0
+File1_synapse_dedup,YAGEO,4,97,0,0.0,0,0.0
+File2_fs_sample_research,BOEING,68,175,31,45.6,30,17.1
+File2_fs_sample_research,CORNING,70,61,18,25.7,18,29.5
+File2_fs_sample_research,ELLSWORTH,33,38,4,12.1,4,10.5
+File2_fs_sample_research,ELRING KLINGER,41,20,8,19.5,8,40.0
+File2_fs_sample_research,INTEL,32,59,12,37.5,12,20.3
+File2_fs_sample_research,MICRON TECHNOLOGY,50,53,5,10.0,5,9.4
+File2_fs_sample_research,PANASONIC,98,403,34,34.7,33,8.2
+File2_fs_sample_research,SAINT-GOBAIN,72,150,8,11.1,4,2.7
+File2_fs_sample_research,TE CONNECTIVITY,110,479,63,57.3,56,11.7
+File2_fs_sample_research,YAGEO,53,97,12,22.6,9,9.3
+File3_combined_10_companies,BOEING,35,175,17,48.6,16,9.1
+File3_combined_10_companies,CORNING,55,61,5,9.1,5,8.2
+File3_combined_10_companies,ELLSWORTH,27,38,3,11.1,3,7.9
+File3_combined_10_companies,ELRING KLINGER,45,20,11,24.4,10,50.0
+File3_combined_10_companies,INTEL,46,59,11,23.9,11,18.6
+File3_combined_10_companies,MICRON TECHNOLOGY,39,53,5,12.8,4,7.5
+File3_combined_10_companies,PANASONIC,29,403,10,34.5,10,2.5
+File3_combined_10_companies,SAINT-GOBAIN,91,150,16,17.6,16,10.7
+File3_combined_10_companies,TE CONNECTIVITY,39,479,13,33.3,12,2.5
+File3_combined_10_companies,YAGEO,32,97,8,25.0,3,3.1

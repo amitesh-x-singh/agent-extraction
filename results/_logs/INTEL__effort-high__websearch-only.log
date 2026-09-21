@@ -1,0 +1,426 @@
+Researching site locations for: INTEL
+
+Collected 31 distinct candidate address(es), 31 verification(s).
+
+=== Ranked candidates for INTEL ===
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2200 Mission College Blvd., Santa Clara, CA 95054-1549, USA
+    source:  https://www.intel.com/content/www/us/en/support/campus-locations.html?utm_source=openai
+    quote:   Intel Corporation — 2200 Mission College Blvd. — Santa Clara, CA 95054-1549 — USA
+    verifier: Intel's official campus/contact page gives this address, and Intel's SEC filings identify Santa Clara as the principal executive-office location.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2501 NE Century Boulevard, Hillsboro, OR 97124, USA
+    source:  https://www.oregon.gov/deq/aq/cao/nwr/Pages/Intel-Aloha.aspx
+    quote:   Intel Corporation – Gordon Moore Park at Ronler Acres — 2501 NE Century Boulevard — Hillsboro, OR 97124
+    verifier: Oregon DEQ identifies Gordon Moore Park/Ronler Acres at this address and describes the permit as active for Intel's Oregon semiconductor-development and manufacturing operations.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2 New Bailey, 6 Stanley Street, Salford, Greater Manchester, M3 5GS, United Kingdom
+    source:  https://find-and-update.company-information.service.gov.uk/company/01134945?utm_source=openai
+    quote:   Registered office: 2 New Bailey, 6 Stanley Street, Salford, Greater Manchester, M3 5GS
+    verifier: Companies House lists Intel Corporation (UK) Limited as active and records the change from Swindon to this Salford address effective October 31, 2025.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 4500 S. Dobson Road, Chandler, AZ 85248, USA
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf?utm_source=openai
+    quote:   Intel Corporation — 4500 S. Dobson Road — Chandler, AZ 85248, USA
+    verifier: Intel's current manufacturing information continues to identify the Ocotillo campus and 4500 S. Dobson Road as an active Chandler manufacturing site.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 5000 W. Chandler Blvd., Chandler, AZ 85226, USA
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2026-01/0222427-cert-qms-eng-intel-corporation-main-appendix.pdf?utm_source=openai
+    quote:   Intel Chandler Campus — 5000 W. Chandler Blvd. — Chandler, AZ 85226 — United States
+    verifier: Intel's newer certification appendix lists the Chandler Campus at this address; Intel's U.S. locations page also lists the Chandler campus.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 3585 SW 198th Avenue, Aloha, OR 97007, USA
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4326-assembly-and-test-manufacturing-certificate.pdf?utm_source=openai
+    quote:   Intel Corporation — 3585 SW 198th Avenue — Aloha, OR 97007, United States
+    verifier: Oregon DEQ currently covers Intel's Aloha campus under an active permit, and Intel's certification documentation gives the same Aloha address.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1600 Rio Rancho Blvd. SE, Rio Rancho, NM 87124, USA
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-c-intel-rio-rancho-12-2013-certificate.pdf?utm_source=openai
+    quote:   Intel New Mexico / Fab 11X — 1600 Rio Rancho Blvd. S.E. — Rio Rancho, NM 87124, USA
+    verifier: Intel's Fab 9 opening/news materials and later certification records continue to identify Rio Rancho as an operating Intel manufacturing site at this address.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1900 Prairie City Road, Folsom, CA 95630, USA
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2025-01/foundryisms-usism-000503-iso27001-certificate-final.pdf?utm_source=openai
+    quote:   Intel Corporation — 1900 Prairie City Road — Folsom, CA 95630, United States
+    verifier: The 2025 Intel certification identifies Folsom as an infrastructure-data-center and application-development site; independent California employment records give the same street address.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Collinstown Industrial Park, Leixlip, County Kildare, W23 CX68, Ireland
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-g-ireland-fab-24-certificate.pdf?utm_source=openai
+    quote:   Intel Ireland Ltd., Collinstown Industrial Park, Leixlip, Co. Kildare, Ireland
+    verifier: Intel's Fab 24 documentation gives the Leixlip campus address, and current reporting says Intel's Irish operations were consolidated toward the Leixlip campus after the Shannon closure plan.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2 Tzoran Street, New Industrial Area, Kiryat Gat 82109, Israel
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-fab-sort-manufacturing-certificate.pdf?utm_source=openai
+    quote:   Intel Electronics Ltd. — 2 Tzoran Street — New Industrial Area — Kiryat Gat 82109, Israel
+    verifier: Intel's recent certification documentation still lists 2 Tzoran Street for the Kiryat Gat manufacturing site/Fab 28.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 94 Em Hamoshavat Road, Petah Tikva 4970602, Israel
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-uk-bcrs.pdf?utm_source=openai
+    quote:   94 Em Hamoshavat Rd, Petach-Tikva ... Intel Mobile Communications Israel Ltd.
+    verifier: Intel's corporate documentation lists the Petah Tikva address for Intel Mobile Communications Israel, and Intel identifies Petah Tikva as an active Israeli development center.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Intel Costa Rica campus, La Ribera de Belén, Heredia 40701, Costa Rica
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2023-03/iso-50001-certificate.pdf?utm_source=openai
+    quote:   Belén, Heredia 40701, Costa Rica
+    verifier: Intel's 2025 materials and its Q2 2025 filing identify the Belén campus as an Intel location. The assembly-and-test operation was scheduled for gradual closure, but engineering and corporate-services activity was expected to continue.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Bayan Lepas Free Industrial Zone, Phase 3, Halaman Kampung Jawa, 11900 Bayan Lepas, Pulau Pinang, Malaysia
+    source:  https://cdrdv2-public.intel.com/891637/Invoice%20Requirements%20By%20Country-Region.pdf?utm_source=openai
+    quote:   Bayan Lepas Free Industrial Zone, Phase 3 — Halaman Kampung Jawa — 11900 Bayan Lepas, Pulau Pinang, Malaysia
+    verifier: Intel's 2025 manufacturing information continues to identify Penang as an active assembly, packaging, and manufacturing-support location; Intel's invoice document gives the matching address.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Lot 8, Jalan Hi-Tech 2/3, Kulim Hi-Tech Park, 09090 Kulim, Kedah Darul Aman, Malaysia
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4326-tm-multi-site-registration-cmg-9001-2008-certificate.pdf?utm_source=openai
+    quote:   Lot 8, Jalan Hi-Tech 2/3 — Kulim Hi-Tech Park — 09090 Kulim, Kedah Darul Aman, Malaysia
+    verifier: A 2025 Kulim local-industry source and Intel manufacturing information both identify Lot 8/KM1 as an active Intel assembly-and-test site.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 8-1 Kexin Road, Chengdu High-Tech Zone (West Park), Chengdu, Sichuan 611731, China
+    source:  https://www.intel.com/content/dam/www/public/emea/xe/en/pdf/nsai-certificate-registration-occupational-health-safety.pdf?utm_source=openai
+    quote:   Intel Products (Chengdu) Ltd. — No. 8-1 Kexin Road — Chengdu High-Tech Zone (West Park) — Chengdu, Sichuan 611731, China
+    verifier: Intel announced a Chengdu facility expansion, and SEC/Intel 2025 materials continue to list Intel Products (Chengdu) Ltd. as an active subsidiary and assembly-and-test operation.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 36 North Third Ring East Road, Dongcheng District, Beijing 100013, China
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf?utm_source=openai
+    quote:   No. 36 North Third Ring Road East, Dongcheng District, Beijing 100013, China
+    verifier: Intel's 2025 corporate documentation gives this Beijing address, and a 2025 Intel China announcement uses the same Global Trade Center address and telephone number.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 5th Floor, 82 Uisadang-daero, Yeongdeungpo-gu, Seoul 07321, Republic of Korea
+    source:  https://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html
+    quote:   5th Floor, 82 Uisadang-daero, Yeongdeungpo-gu, Seoul 07321, Republic of Korea
+    verifier: Intel's Korean privacy notice independently gives the same address for Intel Korea's official representative.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 45 Evans Street, Office U07, Sydney, NSW 2041, Australia
+    source:  https://cdrdv2-public.intel.com/858774/CMS%20Declaration%20of%20Conformity%20100506%20R1.pdf?utm_source=openai
+    quote:   Intel Australia Pty Ltd — 45 Evans Street, Office U07 — Sydney, NSW 2041, Australia
+    verifier: Intel's regulatory declaration gives this Australian office address. No contradictory relocation or closure evidence was found in the targeted checks.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 9 Andrei Saharov Street, Haifa 3508409, Israel
+    source:  https://www.intel.de/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf?utm_source=openai
+    quote:   Intel Israel Limited — 9 Andrei Saharov Street — Haifa 3508409, Israel
+    verifier: Intel's 2025 corporate documentation lists Intel Israel at this MATAM/Haifa address, and Intel's Israel site confirms Haifa remains an Intel development center.
+
+- [D] score=0.05 verdict=uncertain  address_city_matched=no   address_country_matched=no
+    address: 10 Ha-Marpe Street, Har Hotzvim Industrial Area, Jerusalem 9777410, Israel
+    source:  https://www.waze.com/live-map/directions/il/jerusalem-district/jerusalem/intel?to=place.ChIJMV_sQxzWAhURqo-iN0ERQXg&utm_source=openai
+    quote:   Intel — 10 Ha-Marpe Street — Har Hotzvim Industrial Area — Jerusalem, Israel — Postal code: 9777410
+    verifier: A current map listing gives 10 Ha-Marpe Street, while older Intel certification documents give Hamarpe 9 St. Intel confirms the Jerusalem operation, but the exact building/street number is inconsistent.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Lot I2, D1 Street, Saigon Hi-Tech Park, Tan Phu Ward, Thu Duc City, Ho Chi Minh City, Vietnam
+    source:  https://www.intel.vn/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf?utm_source=openai
+    quote:   Lot I2, D1 Street, Saigon Hi-Tech Park, Tan Phu Ward, Thu Duc City, Ho Chi Minh City, Vietnam
+    verifier: The Saigon Hi-Tech Park's 2025 project listing independently gives the same Intel Products Vietnam address, and Intel identifies Ho Chi Minh City as a major assembly-and-test facility.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 880 Zi Xing Road, Zizhu Science Park, Minhang District, Shanghai 201109, China
+    source:  https://www.amap.com/place/B0FFI9NR5G?utm_source=openai
+    quote:   中国上海市闵行区紫竹科学园区紫星路880号，邮编201109
+    verifier: The map listing matches Intel's 2025 corporate documentation for Intel Asia-Pacific Research & Development Ltd. at 880 Zi Xing Road.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 9 Raffles Place, #26-01, Republic Plaza, Singapore 048619
+    source:  https://www.companies.sg/business/199704681N/INTEL-TECHNOLOGY-ASIA-PTE-LTD?utm_source=openai
+    quote:   Current registered address: 9 Raffles Place, #26-01, Republic Plaza, Singapore 048619
+    verifier: The Singapore company listing gives this current registered address, and LEI records show the address change became effective in 2023. Intel's older 2025 corporate document still contains 80 Robinson Road for a related/legacy listing, so the legal entity should be checked before use.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1-4-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan, Marunouchi Eiraku Building 25F
+    source:  https://www.intel.co.jp/content/www/jp/ja/company-overview/profile.html?utm_source=openai
+    quote:   1-4-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan — Marunouchi Eiraku Building 25F
+    verifier: Intel Japan's official company profile identifies this as both the registered office and Tokyo headquarters, and Intel's 2025 Japanese materials repeat the address.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 20/F, No. 369, Section 7, Zhongxiao East Road, Nangang District, Taipei City, Taiwan
+    source:  https://www.waze.com/live-map/directions/tw/taipei-city/intel-corporation?to=place.ChIJJ9dk512rQjQRmOWLs9JeH08
+    quote:   台北市南港區忠孝東路七段369號20樓
+    verifier: Taiwan company-registry results and Intel's 2025 corporate documentation identify Intel entities at No. 369, Section 7, Zhongxiao East Road, Taipei.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Suite 1700, Park Place, 666 Burrard Street, Vancouver, BC V6C 2X8, Canada
+    source:  https://lei.bloomberg.com/leis/view/549300LR4YUD9KBC5P61?utm_source=openai
+    quote:   Suite 1700, Park Place, 666 Burrard Street, Vancouver, BC V6C 2X8, Canada
+    verifier: The active LEI record and Intel's 2025 corporate document both identify Suite 1700, 666 Burrard Street as the registered Canadian address. A separate 450 SW Marine Drive address appears to be an operating/legacy location.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Dornacher Straße 1, 85622 Feldkirchen, Germany
+    source:  https://www.intel.de/content/www/de/de/legal/impressum.html?utm_source=openai
+    quote:   Intel Deutschland GmbH — Dornacher Straße 1 — 85622 Feldkirchen, Germany
+    verifier: Intel Germany's current legal notice lists the same Feldkirchen address, consistent with Intel's EU contact page.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: ul. Juliusza Słowackiego 173, 80-298 Gdańsk, Poland
+    source:  https://www.imsig.pl/krs/0000101882?utm_source=openai
+    quote:   ul. Juliusza Słowackiego 173, 80-298 Gdańsk, Poland
+    verifier: The Polish registry listing identifies Intel Technology Poland as active in 2025 at this address; Intel's global-sites page describes the Gdańsk operation as an engineering/R&D center.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 90–92 Route de la Reine, 92100 Boulogne-Billancourt, France
+    source:  https://annuaire-entreprises.data.gouv.fr/entreprise/302456199?utm_source=openai
+    quote:   The current registered office is 90–92 Route de la Reine, 92100 Boulogne-Billancourt.
+    verifier: France's official business registry identifies this as Intel Corporation SAS's current registered office, effective October 1, 2023. The older Meudon address is therefore not current for the legal entity.
+
+- [A] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 2800 Center Drive North, DuPont, WA 98327, USA
+    source:  https://apps.ecology.wa.gov/facilitysite/FacilitySite/FacilitySiteReport?FacilitySiteId=51474982&utm_source=openai
+    quote:   Intel Corporation – DuPont Campus — 2800 Center Drive North — DuPont, WA 98327
+    verifier: Washington records retain the Intel DuPont campus name as a historical/alternate name, but current reporting says Intel relocated its workers and the property was redeveloped for warehouse and fulfillment use.
+
+- [D] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 75 Reed Road, Hudson, MA 01749, USA
+    source:  https://www.townofhudson.org/DocumentCenter/View/6174/75-Reed-Road-Press-Release-112025-PDF?utm_source=openai
+    quote:   75 Reed Road ... former Intel campus
+    verifier: The Town of Hudson identifies 75 Reed Road as the former Intel campus. Intel's Hudson manufacturing operation closed earlier, and the campus was sold for redevelopment.
+
+Ground-truth address row(s) available for 'INTEL': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\INTEL__effort-high__websearch-only.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 23 calls, 858360 in / 22086 out tokens
+TOTAL web_search: 218 calls, 2834776 in / 78875 out tokens
+TOTAL tool calls attempted: 218 (no cap -- none blocked)
+TOTAL estimated cost: $3.0398 (rough estimate, see config.py)
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         23 calls, 858360 in / 22086 out tokens
+
+--- Queries issued (218) ---
+[site_extractor] web_search: site:intel.com locations Intel offices manufacturing facilities address
+[site_extractor] web_search: Intel manufacturing sites fabs addresses official
+[site_extractor] web_search: site:intel.com "Our Locations" Intel address
+[site_extractor] web_search: Intel 10-K properties manufacturing facilities addresses 2024
+[site_extractor] web_search: Intel corporate headquarters address official
+[site_extractor] web_search: Intel ISO certificate site address manufacturing
+[site_extractor] web_search: Intel international office locations address official
+[site_extractor] web_search: Intel distribution center warehouse address
+[site_extractor] web_search: Intel R&D center address Israel Ireland India China
+[site_extractor] web_search: Intel subsidiaries registered office address OpenCorporates
+[site_extractor] web_search: Intel careers locations offices site address
+[site_extractor] web_search: Intel plant address Arizona Oregon New Mexico Ireland Israel
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html Chandler "4500"
+[site_extractor] web_search: site:intel.com Intel Folsom address "Folsom" campus
+[site_extractor] web_search: site:intel.com Intel Hudson Massachusetts address
+[site_extractor] web_search: site:intel.com Intel Hillsboro address "2501" "229th" OR "Century"
+[site_extractor] web_search: site:intel.com Intel Fort Collins address
+[site_extractor] web_search: site:intel.com Intel Austin address campus
+[site_extractor] web_search: site:intel.com Intel Columbia South Carolina address
+[site_extractor] web_search: site:intel.com Intel DuPont Washington address
+[site_extractor] web_search: site:intel.com Intel Rio Rancho address 1600
+[site_extractor] web_search: site:intel.com Intel Aloha address 3585
+[site_extractor] web_search: site:intel.com Intel Leixlip address Collinstown Industrial Park
+[site_extractor] web_search: site:intel.com Intel Israel Kiryat Gat Jerusalem Haifa Petah Tikva address
+[site_extractor] web_search: Intel China office address official Beijing Shanghai Chengdu Dalian
+[site_extractor] web_search: site:intel.com Intel Beijing address "Intel"
+[site_extractor] web_search: site:intel.com Intel Shanghai address campus
+[site_extractor] web_search: site:intel.com Intel India Bangalore address campus
+[site_extractor] web_search: site:intel.com Intel Costa Rica address Heredia office
+[site_extractor] web_search: site:intel.com Intel Malaysia Penang Kulim address assembly test
+[site_extractor] web_search: site:intel.com Intel Vietnam Ho Chi Minh address assembly test
+[site_extractor] web_search: site:intel.com Intel Singapore address campus
+[site_extractor] web_search: site:intel.com Intel Japan Tokyo address office
+[site_extractor] web_search: site:intel.com Intel Germany Munich address office
+[site_extractor] web_search: site:intel.com Intel UK Swindon address office
+[site_extractor] web_search: site:intel.com Intel Canada Toronto address office
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Ho Chi Minh" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Bangalore" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Singapore" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Costa Rica" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Penang" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "China" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Japan" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Israel" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Germany" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Ireland" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "United Kingdom" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/campus-locations.html "Mexico" address
+[site_extractor] web_search: Intel Santa Clara 2200 Mission College Blvd current address 2025
+[site_extractor] web_search: Intel Chandler 4500 S Dobson Road current address 2025
+[site_extractor] web_search: Intel Rio Rancho 1600 Rio Rancho Blvd current address 2025
+[site_extractor] web_search: Intel Hillsboro 2501 NW 229th Avenue current address Oregon DEQ
+[site_extractor] web_search: Intel Aloha 3585 SW 198th Avenue current address Oregon DEQ
+[site_extractor] web_search: Intel Folsom 1900 Prairie City Road current address
+[site_extractor] web_search: Intel Hudson 75 Reed Road current facility address
+[site_extractor] web_search: Intel DuPont 2800 Center Drive North current facility Washington
+[site_extractor] web_search: Intel Leixlip Collinstown Industrial Park Fab 24 address current
+[site_extractor] web_search: Intel Kiryat Gat 2 Tzoran Street 82109 current address
+[site_extractor] web_search: Intel Jerusalem 9 Hamarpe Street current address
+[site_extractor] web_search: Intel Haifa 9 Andrei Saharov Street current address
+[site_extractor] web_search: Intel Petah Tikva 94 Em Hamoshavot Road current address
+[site_extractor] web_search: Intel Bangalore 23-56P Devarabeesanahalli current address
+[site_extractor] web_search: Intel Ho Chi Minh Lot I2 D1 Street current facility address 2025
+[site_extractor] web_search: Intel Penang Bayan Lepas 11900 current facility address
+[site_extractor] web_search: Intel Kulim Malaysia assembly test facility address
+[site_extractor] web_search: Intel Shanghai 751 Zi Ri Road current address
+[site_extractor] web_search: Intel Beijing No 36 North Third Ring Road East current address
+[site_extractor] web_search: Intel Tokyo 1-4-1 Marunouchi current address 2025
+[site_extractor] web_search: Intel Vancouver 666 Burrard Street current address company registry
+[site_extractor] web_search: Intel Costa Rica La Ribera Belen current address 2025
+[site_extractor] web_search: Intel Singapore 80 Robinson Road current address 2025
+[site_extractor] web_search: Intel Swindon Pipers Way current office closed moved 2025
+[site_extractor] web_search: Intel 2025 "1900 Prairie City Road" Folsom
+[site_extractor] web_search: Intel 2025 "1600 Rio Rancho Blvd" Rio Rancho
+[site_extractor] web_search: Intel 2025 "3585 SW 198th" Aloha
+[site_extractor] web_search: Intel 2025 "2501 NE Century Boulevard" Hillsboro
+[site_extractor] web_search: Intel 2025 "4500 S. Dobson Road" Chandler
+[site_extractor] web_search: Intel 2025 "2 Tzoran Street" Kiryat Gat
+[site_extractor] web_search: Intel 2025 "9 Andrei Saharov" Haifa
+[site_extractor] web_search: Intel 2025 "94 Em Hamoshavot" Petah Tikva
+[site_extractor] web_search: Intel 2025 "23-56P" Bangalore
+[site_extractor] web_search: Intel 2025 "Lot I2, D1 Street" Vietnam
+[site_extractor] web_search: Intel 2025 "Lot 8, Jalan Hi-Tech 2/3" Kulim
+[site_extractor] web_search: Intel 2025 "11900 Bayan Lepas" Penang
+[site_extractor] web_search: site:intel.com "10 Ha-Marpe" Intel Jerusalem
+[site_extractor] web_search: Intel Jerusalem "10 Ha-Marpe St" official
+[site_extractor] web_search: site:intel.com "75 Reed Road" Intel Hudson closure
+[site_extractor] web_search: site:intel.com "Pipers Way" "New Bailey" Intel UK
+[site_extractor] web_search: Intel DuPont Washington campus current 2800 Center Drive North 2025
+[site_extractor] web_search: Intel Aloha campus 3585 SW 198th current Oregon government
+[site_extractor] web_search: Intel Folsom campus current 1900 Prairie City Road city government
+[site_extractor] web_search: Intel Vancouver 666 Burrard Street 2025 official
+[site_extractor] web_search: Intel China 23rd Floor ShanghaiMart Tower 2299 Yan'an Road Intel
+[site_extractor] web_search: Intel Shanghai branch address 2299 Yan'an Road current
+[site_extractor] web_search: Intel India Bengaluru campus current 23-56P official
+[site_extractor] web_search: Intel Costa Rica 300 metros oeste La Ribera Belen address
+[site_extractor] web_search: site:intel.com Intel Taiwan Taipei address office
+[site_extractor] web_search: site:intel.com Intel South Korea Seoul address office
+[site_extractor] web_search: site:intel.com Intel Philippines address office
+[site_extractor] web_search: site:intel.com Intel Brazil address office
+[site_extractor] web_search: site:intel.com Intel France Paris address office
+[site_extractor] web_search: site:intel.com Intel Poland Gdansk address office
+[site_extractor] web_search: site:intel.com Intel Ireland Shannon address current
+[site_extractor] web_search: site:intel.com Intel Malaysia Kulim Penang current manufacturing facilities
+[site_extractor] web_search: Intel assembly test manufacturing sites current 2025 locations official
+[site_extractor] web_search: Intel global locations Taiwan address official corporate document
+[site_extractor] web_search: Intel Israel official locations Haifa Jerusalem Petah Tikva address 2025
+[site_extractor] web_search: Intel United States facilities addresses official certificate 2025 Folsom Chandler Rio Rancho Oregon
+[site_extractor] web_search: site:intel.com "5000 W. Chandler Blvd" Intel
+[site_extractor] web_search: Intel Chandler "5000 W Chandler Blvd" current campus
+[site_extractor] web_search: Intel Chandler 4500 S Dobson 5000 W Chandler address difference
+[site_extractor] web_search: site:intel.com "2501 NE Century Boulevard" "Intel" address
+[site_extractor] web_search: site:intel.com "1600 Rio Rancho Blvd" "Intel New Mexico"
+[site_extractor] web_search: site:intel.com "3585 SW 198th Avenue" Intel
+[site_extractor] web_search: site:intel.com "1900 Prairie City Road" Intel Folsom
+[site_extractor] web_search: site:intel.com "75 Reed Road" Intel Fab 17
+[site_extractor] web_search: site:intel.com "2800 Center Drive North" Intel
+[site_extractor] web_search: site:intel.com "Collinstown Industrial Park" "W23 CX68"
+[site_extractor] web_search: site:intel.com "Dornacher Straße 1" Intel
+[site_extractor] web_search: site:intel.com "2 New Bailey" Intel
+[site_extractor] web_search: "5000 W. Chandler Boulevard" "Intel Corporation"
+[site_extractor] web_search: "5000 W Chandler Blvd" Intel Arizona address
+[site_extractor] web_search: "5000 West Chandler Boulevard" Intel
+[site_extractor] web_search: Intel Chandler campus 5000 W Chandler Blvd 85226 official
+[site_extractor] web_search: Intel Chandler 5000 W Chandler Blvd map current
+[site_extractor] web_search: Intel Chandler campus address 5000 W Chandler Boulevard
+[site_extractor] web_search: Intel Chandler Ocotillo 4500 S Dobson Road government permit current
+[site_extractor] web_search: Intel Ocotillo campus current address 4500 S Dobson official
+[site_extractor] web_search: site:intel.com/content/dam/www/central-libraries/us/en/documents/2026-01/0222427 "4500 S" Chandler
+[site_extractor] web_search: "4500 S. Dobson Road" Intel current 2026 certificate
+[site_extractor] web_search: site:intel.com "Intel Ocotillo Campus" "4500 S. Dobson Road"
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/articles/000089875 "Chandler" "4500"
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/articles/000089875 "Rio Rancho" "1600"
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/articles/000089875 "Hillsboro" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/articles/000089875 "Leixlip" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/articles/000089875 "Kiryat Gat" address
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/articles/000089875 "Jerusalem" address
+[site_extractor] web_search: Intel Chengdu China facility address official
+[site_extractor] web_search: site:intel.com Chengdu "Intel Products" address
+[site_extractor] web_search: Intel San Jose Costa Rica facility address official 2025
+[site_extractor] web_search: site:intel.com "San José" "Costa Rica" Intel address
+[site_extractor] web_search: Intel assembly test Shanghai address official facility
+[site_extractor] web_search: Intel Chandler Fab 42 address 4500 S Dobson current
+[site_extractor] web_search: Intel Leixlip Fab 34 address official 2025
+[site_extractor] web_search: Intel Oregon D1X 2501 NE Century Blvd current 2025
+[site_extractor] web_search: Intel New Mexico Fab 11X address 1600 Rio Rancho Blvd official
+[site_extractor] web_search: Intel Israel Fab 28 address 11 Hahavatz current
+[site_extractor] web_search: Intel Shanghai 880 Zi Xing Road address official
+[site_extractor] web_search: site:intel.com "880 Zi Xing Road" Intel Shanghai
+[site_extractor] web_search: Intel Shanghai assembly test "880 Zi Xing Road"
+[site_extractor] web_search: Intel Shanghai facility 880 Zixing Road 201108 address
+[site_extractor] web_search: Intel Shanghai 880 Zi Xing Road current 2025
+[site_extractor] web_search: site:intel.com "94 Em Hamoshavot Road"
+[site_extractor] web_search: site:intel.com "9 Andrei Saharov Street"
+[site_extractor] web_search: site:intel.com "Shderot Hahavatz" Intel
+[site_extractor] web_search: site:intel.com "Hamarpe 9 St" Intel
+[site_extractor] web_search: site:intel.com "23-56P" "Bengaluru"
+[site_extractor] web_search: site:intel.com "Calle 129" "Zona Franca Belén"
+[site_extractor] web_search: site:intel.com "No. 8-1 Kexin Road"
+[site_extractor] web_search: site:intel.com "No. 880 Zi Xing Road"
+[site_extractor] web_search: site:intel.com "80 Robinson Road" "Singapore 068898"
+[site_extractor] web_search: site:intel.com "Av. Dr. Chucri Zaidan, 940"
+[site_extractor] web_search: site:intel.com "ul. Słowackiego 173" Intel
+[site_extractor] web_search: site:intel.com "2, rue de Paris" Meudon Intel
+[site_extractor] web_search: site:cdrdv2-public.intel.com/891637 "Dornacher" Intel Germany
+[site_extractor] web_search: site:intel.com/content/www/us/en/support/articles/000033137 "2 New Bailey"
+[site_extractor] web_search: site:intel.com/content/www/us/en/content-details/868923 "2 New Bailey"
+[site_extractor] web_search: Intel UK 2 New Bailey 6 Stanley Street current 2026 official
+[site_extractor] web_search: Intel Germany Dornacher Str 1 85622 Feldkirchen current 2025
+[site_extractor] web_search: Intel Brazil Av Dr Chucri Zaidan 940 current 2025
+[site_extractor] web_search: Intel France 2 rue de Paris Meudon current 2025
+[site_extractor] web_search: Intel Taiwan 369 Section 7 Zhongxiao East Road current 2025
+[site_extractor] web_search: Intel Seoul 82 Uisadang-daero current 2025
+[site_extractor] web_search: Intel Poland Słowackiego 173 Gdansk current 2025
+[site_extractor] web_search: Intel Philippines 30th Street E-Square Crescent Park West Taguig current
+[site_extractor] web_search: Intel 2025 official site address "2 New Bailey, 6 Stanley Street"
+[site_extractor] web_search: Intel Corporation SAS 90-92 Route de la Reine current registered office 2025
+[site_extractor] web_search: site:annuaire-entreprises.data.gouv.fr/entreprise/302456199 Intel address
+[site_extractor] web_search: Intel France 90 92 Route de la Reine Boulogne address official
+[site_extractor] web_search: Intel Brazil current office Avenida Escazu closure 2025
+[site_extractor] web_search: Intel Costa Rica Calle 129 Zona Franca Belen current site 2025
+[site_extractor] web_search: Intel Switzerland office address official
+[site_extractor] web_search: Intel Netherlands Eindhoven High Tech Campus 83 current address
+[site_extractor] web_search: Intel Schiphol-Rijk Capronilaan 37 current address
+[site_extractor] web_search: Intel Australia Sydney address official
+[site_extractor] web_search: Intel New Zealand address official
+[site_extractor] web_search: site:intel.com Intel Czech Republic office address Prague
+[site_extractor] web_search: site:intel.com Intel Italy office address Milan
+[site_extractor] web_search: site:intel.com Intel Sweden office address Kista
+[site_extractor] web_search: site:intel.com Intel Austria office address Vienna
+[site_extractor] web_search: site:intel.com Intel Belgium office address Brussels
+[site_extractor] web_search: site:intel.com Intel Israel Tel Aviv address office
+[site_extractor] web_search: site:intel.com Intel Argentina office address
+[site_extractor] web_search: site:intel.com Intel Turkey office address Istanbul
+[site_extractor] web_search: site:intel.com Intel Russia office address Moscow current
+[site_extractor] web_search: site:intel.com Intel Spain office address Madrid Barcelona
+[site_extractor] web_search: Intel Penang facility current 2025 Bayan Lepas assembly test
+[site_extractor] web_search: Intel Kulim facility current 2025 Lot 8
+[site_extractor] web_search: Intel Chengdu facility current 2025 No 8-1 Kexin Road
+[site_extractor] web_search: Intel Shanghai 880 Zi Xing Road current R&D facility 2025
+[site_extractor] web_search: Intel Beijing No 36 North Third Ring current office 2025
+[site_extractor] web_search: Intel Singapore 80 Robinson Road current office 2025
+[site_extractor] web_search: Intel Tokyo 1-4-1 Marunouchi current office official 2025
+[site_extractor] web_search: Intel Seoul 82 Uisadang-daero current office official 2025
+[site_extractor] web_search: Intel Taiwan 369 Zhongxiao East Road current office 2025
+[site_extractor] web_search: Intel Vancouver 666 Burrard current office 2025
+[site_extractor] web_search: Intel Haifa 9 Andrei Saharov current office 2025
+[site_extractor] web_search: Intel Petah Tikva 94 Em Hamoshavot current office 2025
+[site_extractor] web_search: Intel "9 Raffles Place" "Singapore 048619" official
+[site_extractor] web_search: Intel Technology Asia 9 Raffles Place current registered address
+[site_extractor] web_search: site:sgpgrid.com Intel Technology Asia 9 Raffles Place
+[site_extractor] web_search: Intel Singapore 80 Robinson Road 9 Raffles Place address change
+[site_extractor] web_search: Intel Technology Asia Pte Ltd UEN 199704681N address 9 Raffles Place
+[site_extractor] web_search: Intel Technology Canada 450 SW Marine Drive Unit 700 current address
+[site_extractor] web_search: site:opengovca.com/vancouver-business Intel Technology Canada 450 SW Marine
+[site_extractor] web_search: Intel Vancouver office 450 SW Marine Drive official 2025
+[site_extractor] web_search: Intel Canada company registry address 2025 Vancouver
+[site_extractor] web_search: Intel Technology of Canada ULC current registered office 666 Burrard 450 Marine
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl

@@ -1,0 +1,539 @@
+Researching site locations for: CORNING
+
+Collected 57 distinct candidate address(es), 57 verification(s).
+
+=== Ranked candidates for CORNING ===
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: One Riverfront Plaza, Corning, NY 14831, USA
+    source:  https://www.corning.com/worldwide/en/about-us/company-profile.html?utm_source=openai
+    quote:   Corning Incorporated — One Riverfront Plaza, Corning, NY 14831, USA
+    verifier: Corning’s current company-profile page identifies this as world headquarters, and the SEC filing for the latest reported year also lists One Riverfront Plaza as the principal executive office.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 792 Addison Road / South Hamilton Road, Erwin, NY 14870, USA
+    source:  https://dec.ny.gov/news/environmental-notice-bulletin/2024-11-13/completed-application/town-of-erwin-erwin-manufacturing-complex?utm_source=openai
+    quote:   Corning’s Erwin Manufacturing Complex is listed at 792 Addison Road / South Hamilton Road, Erwin, NY 14870
+    verifier: The New York environmental notice identifies the Erwin Manufacturing Complex at this address, while later NY environmental permit records show continuing permitted operations in 2025.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 14556 Highway 601 South, Concord, NC 28025, USA
+    source:  https://www.deq.nc.gov/news/events/comment-period-opens-corning-incorporated-npdes-wastewater-permit-no-nc0086169-fiber-optic-facility?utm_source=openai
+    quote:   Fiber Optic Facility is located at 14556 Highway 601 South, Concord, NC 28025
+    verifier: North Carolina DEQ identifies this as Corning’s fiber-optic facility. A later North Carolina permitted-facility listing shows the operation remained active; some Corning job materials use nearby Midland/Concord locality descriptions.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 310 North College Road, Wilmington, NC 28405, USA
+    source:  https://www.deq.nc.gov/news/events/epa-comment-period-corning-incorporated-wilmington?utm_source=openai
+    quote:   Corning Incorporated, 310 North College Road, Wilmington, NC 28405, USA
+    verifier: The North Carolina DEQ notice gives the same address and identifies the Wilmington Corning operation; a current Corning job posting continues to recruit for the Wilmington plant.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1764 Trivium Parkway, Newton, NC 28658, USA
+    source:  https://ofis.trade.gov/Site/Details/5969?utm_source=openai
+    quote:   Corning Optical Communications’ Trivium facility is listed at 1764 Trivium Parkway, Newton, NC 28658
+    verifier: The U.S. Foreign-Trade-Zone site record identifies Corning’s Trivium facility at this address, and Corning’s current announcement describes ongoing manufacturing expansion at Trivium.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1891 Page Mill Road, Suite 100, Palo Alto, CA 94304, USA
+    source:  https://www.corning.com/cala/pt/products/advanced-optics/product-materials/semiconductor-laser-optic-components/semiconductor-contact-us.html?utm_source=openai
+    quote:   Corning West Technology Center, 1891 Page Mill Road, Suite 100, Palo Alto, CA 94304, United States
+    verifier: Corning’s current Advanced Optics contact page identifies the West Technology Center at this address; no closure or relocation evidence was found.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Avenida Industrial del Norte, Lote 2, Manzana 6, Parque Industrial del Norte, Reynosa, Tamaulipas 88730, Mexico
+    source:  https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html?utm_source=openai
+    quote:   Plant 1 — Avenida Industrial del Norte, Lote 2, Manzana 6, Parque Industrial del Norte, Reynosa, Tamaulipas 88730
+    verifier: Corning’s current locations page identifies this as the RWD warehouse/distribution plant and current related logistics openings are associated with the site.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Avenida los Pinos No. 1050, Lote 1, Manzana 6, Parque Industrial Villa Florida, Reynosa, Tamaulipas 88730, Mexico
+    source:  https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html?utm_source=openai
+    quote:   Avenida los Pinos #1050, Lote 1, Manzana 6, Parque Industrial Villa Florida, Reynosa, Tamaulipas 88730
+    verifier: Corning’s current locations page identifies this as the RWD warehouse/distribution plant and current related logistics openings are associated with the site.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Avenida los Encinos No. 1011-A, Manzana 7, Lote 1, Parque Industrial Villa Florida, Reynosa, Tamaulipas 88730, Mexico
+    source:  https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html?utm_source=openai
+    quote:   RWD Plant — Avenida los Encinos No. 1011-A, Manzana 7, Lote 1, Parque Industrial Villa Florida, C.P. 88730
+    verifier: Corning’s current locations page identifies this as the RWD warehouse/distribution plant and current related logistics openings are associated with the site.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 7 Bis Avenue de Valvins, 77210 Avon, France
+    source:  https://www.corning.com/emea/en/careers/locations/France/locations-in-france/avon.html?utm_source=openai
+    quote:   Avon — Corning SAS, 7 Bis Avenue de Valvins, 77210 Avon, France
+    verifier: Corning’s current French location page identifies Avon as its French head office and European Technology Center at this address. Some registry records use nearby Samois-sur-Seine/Avon locality wording, but not a conflicting street address.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Rue Saint Laurent, CS 10243, Bagneaux-sur-Loing, 77797 Nemours Cedex, France
+    source:  https://www.corning.com/emea/en/careers/locations/France/locations-in-france/bagneaux.html?utm_source=openai
+    quote:   Bagneaux-sur-Loing — Corning Specialty Glass, Rue Saint Laurent, CS 10243, 77797 Nemours Cedex, France
+    verifier: Corning’s page identifies the Bagneaux specialty-glass plant at Rue Saint Laurent, and French regulator records list the Corning installation there as operating with authorization after 2025 inspections.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 123 Route de Caestre, 59190 Borre, France
+    source:  https://www.corning.com/emea/en/careers/locations/France/locations-in-france/borre.html?utm_source=openai
+    quote:   Physical address: 123 Route de Caestre, 59190 Borre, France
+    verifier: Corning’s page distinguishes this physical address from the Hazebrouck mailing address. The French government business directory lists Corning Gosselin at Borre as active and Corning’s ISO certificate remains valid through 2027.
+
+- [A] score=1.00 verdict=uncertain  address_city_matched=no   address_country_matched=no
+    address: 1 Rue Gutenberg, 44160 Pontchâteau, France
+    source:  https://www.corning.com/emea/en/careers/locations/France/locations-in-france/pontchateau.html?utm_source=openai
+    quote:   Pontchâteau — Corning Pouyet SAS, 1 Rue Gutenberg, 44160 Pontchâteau, France
+    verifier: Corning’s current careers page lists the Pontchâteau operation at this address, but adversarial searching surfaced an older claim that the operation was closed in 2018. Current Corning materials and company records point to continued activity, but the conflicting history warrants uncertainty.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Carl-Billand-Str. 1, 67661 Kaiserslautern, Germany
+    source:  https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/kaiserslautern-wiesbaden.html?utm_source=openai
+    quote:   Corning GmbH, Carl-Billand-Str. 1, 67661 Kaiserslautern, Germany
+    verifier: Corning’s current Germany page lists the production and warehouse site at this address; the Corning corporate data document and German business-register information also identify the company as active there.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Abraham-Lincoln-Straße 30, 65189 Wiesbaden, Germany
+    source:  https://www.corning.com/emea/de/contact-us.html?utm_source=openai
+    quote:   Abraham-Lincoln-Straße 30, 65189 Wiesbaden, Germany
+    verifier: Corning’s current German contact page identifies this as the Wiesbaden office. No relocation or closure notice was found.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Walther-Nernst-Straße 5, 12489 Berlin, Germany
+    source:  https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/berlin-hagen-hanover.html?utm_source=openai
+    quote:   Corning Optical Communications GmbH & Co. KG, Walther-Nernst-Straße 5, 12489 Berlin, Germany
+    verifier: Corning’s current location page identifies the Hagen branch/plant at Profilstraße 4, and current Corning job and subsidiary information continues to associate operations with the site.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Profilstraße 4, 58093 Hagen, Germany
+    source:  https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/berlin-hagen-hanover.html?utm_source=openai
+    quote:   Corning Optical Communications GmbH & Co. KG, Profilstraße 4, 58093 Hagen, Germany
+    verifier: Corning’s current location page identifies the Hagen branch/plant at Profilstraße 4, and current Corning job and subsidiary information continues to associate operations with the site.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Smolice 1e, 95-010 Stryków, Łódzkie, Poland
+    source:  https://www.corning.com/emea/en/careers/locations/poland/locations-in-poland.html?utm_source=openai
+    quote:   Corning Optical Communications Poland, Smolice 1e, 95-010 Stryków, łódzkie, Poland
+    verifier: Corning’s current Poland page lists the Stryków manufacturing site at this address. A 2025 local transit schedule also included a Smolice/Corning stop, supporting continued operation.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: ul. Tarczyńska 114, 96-320 Mszczonów, Poland
+    source:  https://www.corning.com/emea/en/careers/locations/poland/Mszczonow.html?utm_source=openai
+    quote:   Corning’s Mszczonów address is ul. Tarczyńska 114, 96-320 Mszczonów, Poland
+    verifier: Corning’s current Mszczonów page gives Tarczyńska 114, and current Corning job listings continue to identify Mszczonów as the Poland fiber-draw facility.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Daniszewska Street 4, 03-230 Warsaw, Poland
+    source:  https://www.corning.com/emea/en/careers/locations/poland/Warsaw.html?utm_source=openai
+    quote:   Corning HTL S.A., Daniszewska Street 4, Warsaw 03-230, Poland
+    verifier: Corning’s current Warsaw page lists the HTL Life Sciences plant at this address; no newer conflicting address or closure evidence was found.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 26, Ke Chuang 10th Street, Beijing 100176, China
+    source:  https://www.corning.com/careers/cn/en/Locations/Beijing.html?utm_source=openai
+    quote:   Corning Display Technologies plant — No. 26, Ke Chuang 10th Street, Beijing, China
+    verifier: Corning’s current Beijing location page identifies this as the regional headquarters branch; no move or closure evidence was found.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 1 Jianguomenwai Avenue, China World Tower 1, Room 2716, Beijing 100004, China
+    source:  https://www.corning.com/careers/cn/en/Locations/Beijing.html?utm_source=openai
+    quote:   Regional headquarters branch: No. 1 Jianguomenwai Avenue, China World Tower 1, Room 2716, Beijing, 100004
+    verifier: Corning’s current Beijing location page identifies this as the regional headquarters branch; no move or closure evidence was found.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 358 Lu Qiao Road, Gate 4, Pudong, Shanghai 201206, China
+    source:  https://www.corning.com/careers/cn/en/Locations/Shanghai.html?utm_source=openai
+    quote:   China (Shanghai) Regional Headquarters — No. 358 Lu Qiao Road (Gate 4), Pudong, Shanghai 201206, China
+    verifier: The current Corning Shanghai page lists the Cable Systems facility at this address; no closure or relocation evidence was found.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Building 8, No. 255 Bei He Highway, Jiading, Shanghai 201807, China
+    source:  https://www.corning.com/careers/cn/en/Locations/Shanghai.html?utm_source=openai
+    quote:   Corning Cable Systems (Shanghai) Co., Ltd., Building 8, No. 255 Bei He Highway, Jiading, Shanghai 201807
+    verifier: The current Corning Shanghai page lists the Cable Systems facility at this address; no closure or relocation evidence was found.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Siemens Road, No. 1, Hi-Tech Development Zone, Chengdu 610042, China
+    source:  https://www.corning.com/careers/cn/en/Locations/Chengdu.html?utm_source=openai
+    quote:   Corning Optical Fiber Cable — Siemens Road, No. 1, Hi-Tech Development Zone, Chengdu 610042, P.R. China
+    verifier: Corning’s current Chengdu page identifies the optical-fiber cable facility at this address and describes it as an operating facility opened in 2000.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: T03/17, No. 1801 Pang Jin Road, Wujiang Economic Development Zone, Jiangsu 215200, China
+    source:  https://www.corning.com/careers/cn/en/Locations/Wujiang.html?utm_source=openai
+    quote:   Corning Life Sciences (Wujiang) Co., Ltd., T03/17, No. 1801, Pang Jin Road, Wujiang, Jiangsu 215200, China
+    verifier: Corning’s current Wujiang page lists the Life Sciences facility at this address, and Corning’s 2025 China materials describe ongoing manufacturing there.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Science and Education Town, Wujin District, Changzhou, Jiangsu 213164, China
+    source:  https://www.corning.com/careers/cn/zh/careers/Location/Changzhou.html?utm_source=openai
+    quote:   Science and Education Town, Wujin District, Changzhou, Jiangsu Province, China; postal code 213164
+    verifier: Corning’s current Chinese careers page lists the Changzhou Advanced Flow Reactor site at this location; Corning also describes R&D, demonstration, training, and manufacturing activity there.
+
+- [A] score=1.00 verdict=uncertain  address_city_matched=no   address_country_matched=no
+    address: No. 39, Fu Xing Avenue, Investment Area, Fuzhou, Fujian 350014, China
+    source:  https://www.corning.com/careers/cn/en/Locations/Fuzhou.html?utm_source=openai
+    quote:   Photop Technologies, Inc., No. 39, Fu Xing Avenue, Investment Area, Fuzhou, Fujian, China 350014
+    verifier: Corning’s current careers page lists Photop Technologies at this address, but the operation is not clearly described as a standalone Corning-branded site and corporate ownership references are potentially confusing. The physical address is supported, but affiliation should be checked before treating it as a direct Corning facility.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 3399, Wolong Road, Xinzhan District, Hefei, Anhui 230012, China
+    source:  https://www.corning.com/careers/cn/en/Locations/Hefei.html?utm_source=openai
+    quote:   Corning Display Technologies (Hefei) Co., Ltd., No. 3399, Wolong Road, Xinzhan District, Hefei, Anhui, China
+    verifier: Corning’s current Hefei careers page lists the Display Technologies plant at this address; current China location materials continue to identify Hefei operations.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 1951, Zhongliang Avenue, High-Tech Zone, Bengbu, Anhui, China
+    source:  https://www.corning.com/cn/zh/about-us/company-profile/Corning-in-China/locations-in-china.html?utm_source=openai
+    quote:   Bengbu — Corning Pharmaceutical Glass Co., Ltd., No. 1951, Zhongliang Avenue, High-Tech Zone, Bengbu, Anhui, China
+    verifier: Corning’s China locations page lists the Bengbu pharmaceutical-glass site at this address; no newer conflicting address or closure notice was found.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 168 Nanhai Avenue, Haikou Bonded Area, Haikou 570216, China
+    source:  https://www.corning.com/careers/cn/en/Locations/Haikou.html?utm_source=openai
+    quote:   No. 168 Nanhai Avenue, Haikou City, Hainan Province, China; postcode 570216
+    verifier: The current Corning Haikou page identifies the Hainan Optical Communications facility at this address and continues to list it as a company location.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: D-237, MIDC Phase II, Chakan, Pune, Maharashtra 410501, India
+    source:  https://www.corning.com/careers/in/en/Locations/Pune.html?utm_source=openai
+    quote:   Corning Technologies India Pvt. Ltd., D-237, MIDC Phase II, Chakan, Pune, Maharashtra 410501, India
+    verifier: Corning’s current Pune careers page gives this exact address and continues to identify the site as its optical-fiber manufacturing facility.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 184 Science Center Drive, Painted Post, NY 14870, USA
+    source:  https://www.corning.com/media/worldwide/Sustainability/Files/GlobalImpactReport/2025/Corning-2025-Global-Impact-Report.pdf?utm_source=openai
+    quote:   Corning’s Characterization Sciences Department at 184 Science Center Drive
+    verifier: The 2025 Corning report associates the research campus with 184 Science Center Drive; a current campus listing also identifies Corning’s Sullivan Park at this address. No relocation or closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 334 County Route 16, Canton, NY 13617, USA
+    source:  https://www.corning.com/emea/en/products/advanced-optics/canton-jobs.html?utm_source=openai
+    quote:   Corning Canton Plant — 334 County Route 16, Canton, NY 13617, USA
+    verifier: The current Corning Advanced Optics careers page continues to list the Canton Plant at this address; no closure or relocation notice was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 60 O’Connor Road, Fairport, NY 14450, USA
+    source:  https://www.corning.com/emea/en/products/advanced-optics/fairport-jobs.html?utm_source=openai
+    quote:   Fairport Plant — 60 O’Connor Road, Fairport, NY 14450, United States
+    verifier: Corning’s current Fairport Plant page gives the same address and telephone number. No contradictory newer address or closure marker was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 275 River Street, Oneonta, NY 13820, USA
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+    quote:   Oneonta, New York Manufacturing Plant — 275 River Street, Oneonta, NY 13820, USA
+    verifier: Corning’s Life Sciences quality document identifies the Monterrey site at this address, and current public listings continue to associate the facility and telephone number with Corning.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2 Alfred Road, Kennebunk, ME 04043, USA
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+    quote:   Corning Life Sciences — Kennebunk manufacturing plant, 2 Alfred Road, Kennebunk, Maine 04043
+    verifier: Corning’s Life Sciences quality document identifies the Monterrey site at this address, and current public listings continue to associate the facility and telephone number with Corning.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 836 North Street, Building 300, Suite 3401, Tewksbury, MA 01876-1253, USA
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+    quote:   Corning Life Sciences, 836 North Street, Building 300, Suite 3401, Tewksbury, MA 01876-1253
+    verifier: Corning’s Life Sciences quality document identifies the Monterrey site at this address, and current public listings continue to associate the facility and telephone number with Corning.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1 Becton Circle, Durham, NC 27712, USA
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+    quote:   Durham, North Carolina — 1 Becton Circle, Durham, NC 27712, United States
+    verifier: Corning’s Life Sciences quality document identifies the Monterrey site at this address, and current public listings continue to associate the facility and telephone number with Corning.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 6507 South 400 West, Salt Lake City, UT 84107, USA
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+    quote:   Manufacturing Plant — 6507 South 400 West, Salt Lake City, Utah 84107
+    verifier: Corning’s Life Sciences quality document identifies the Monterrey site at this address, and current public listings continue to associate the facility and telephone number with Corning.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1242 Commerce Avenue, Woodland, CA 95776, USA
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+    quote:   California Manufacturing Plant — 1242 Commerce Ave., Woodland, CA 95776
+    verifier: Corning’s Life Sciences quality document identifies the Monterrey site at this address, and current public listings continue to associate the facility and telephone number with Corning.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2 Oak Park Drive, Bedford, MA 01730, USA
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+    quote:   2 Oak Park Drive, Bedford, MA 01730
+    verifier: Corning’s Life Sciences quality document identifies the Monterrey site at this address, and current public listings continue to associate the facility and telephone number with Corning.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 9345 Discovery Boulevard, Manassas, VA 20109, USA
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+    quote:   Mediatech, Inc. / Corning Life Sciences, 9345 Discovery Boulevard, Manassas, VA 20109
+    verifier: Corning’s Life Sciences quality document identifies the Monterrey site at this address, and current public listings continue to associate the facility and telephone number with Corning.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 563 Crystal Avenue, Vineland, NJ 08360, USA
+    source:  https://www.corning.com/cala/en/products/pharmaceutical-technologies/pharmaceutical-tubing.html?utm_source=openai
+    quote:   Corning Pharmaceutical Glass — 563 Crystal Avenue, Vineland, NJ 08360, USA
+    verifier: Corning’s pharmaceutical-glass product materials continue to identify Vineland as a pharmaceutical-glass facility, and the address is given in Corning materials.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 800 17th Street NW, Hickory, NC 28601, USA
+    source:  https://www.corning.com/content/dam/corning/media/worldwide/cls/documents/Local%20Data%20Controllers%20for%20Notices.pdf?utm_source=openai
+    quote:   Corning Optical Communications LLC, 800 17th Street NW, Hickory, NC 28601, United States
+    verifier: Corning’s corporate data-controller document lists the Rio de Janeiro optical-communications operation, and a current Corning product document repeats the same site and telephone number.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 4200 Corning Place, Charlotte, NC 28216, USA
+    source:  https://www.corning.com/optical-communications/worldwide/en/home/support/customer-support.html?utm_source=openai
+    quote:   Corning Optical Communications LLC, 4200 Corning Place, Charlotte, NC 28216, USA
+    verifier: Corning’s current Optical Communications customer-support page lists this as its U.S. contact address. It is a corporate/customer-support site, not necessarily a plant.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 5310 West Camelback Road, Glendale, AZ 85301, USA
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+    quote:   Corning Optical Communications RF LLC — 5310 West Camelback Road, Glendale, Arizona 85301
+    verifier: The current Corning data-controller document lists this Las Rozas address. Adversarial searching found that the older Pozuelo address was moved in 2019; the Las Rozas address is the current one.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Antigua Carretera a Roma, km 3.6, 66480 San Nicolás de los Garza, Nuevo León, Mexico
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+    quote:   Corning Monterrey, Ant. Carr. A Roma, km 3.6, 66480 San Nicolás, Nuevo León, Mexico
+    verifier: Corning’s Life Sciences quality document identifies the Monterrey site at this address, and current public listings continue to associate the facility and telephone number with Corning.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 9 Mianjunan Road, Fucheng District, Mianyang, Sichuan 621000, China
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+    quote:   Corning Display Technologies (Mianyang) Co., Ltd., No. 9, Mianjunan Road, Fucheng District, Mianyang, Sichuan 621000, China
+    verifier: The current Corning data-controller document lists this Las Rozas address. Adversarial searching found that the older Pozuelo address was moved in 2019; the Las Rozas address is the current one.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 12117 Obuchi, Kakegawa-shi, Shizuoka 437-1397, Japan
+    source:  https://www.corning.com/careers/jp/en/Japan/Shizuoka.html?utm_source=openai
+    quote:   Shizuoka Plant — 12117 Obuchi, Kakegawa-shi, Shizuoka 437-1397, Japan
+    verifier: Corning’s current Japan careers page lists the Shizuoka plant at this address and describes ongoing display-glass production.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1 Takumi-cho, Sakai-ku, Sakai-shi, Osaka 590-8503, Japan
+    source:  https://www.corning.com/careers/jp/en/Japan/Osaka.html?utm_source=openai
+    quote:   Sakai City Plant — 1 Takumi-cho, Sakai-ku, Sakai-shi, Osaka 590-8503, Japan
+    verifier: Corning’s current Osaka page lists the Sakai City plant at this address and identifies it as an operating display-glass facility.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Estrada do Camorim, 633, Jacarepaguá, Rio de Janeiro, Brazil
+    source:  https://www.corning.com/content/dam/corning/media/worldwide/cls/documents/Local%20Data%20Controllers%20for%20Notices.pdf?utm_source=openai
+    quote:   Corning Comunicações Ópticas S.A., Estrada do Camorim, 633, Jacarepaguá, Rio de Janeiro, Brazil
+    verifier: Corning’s corporate data-controller document lists the Rio de Janeiro optical-communications operation, and a current Corning product document repeats the same site and telephone number.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Elwy House, Lakeside Business Village, St David’s Park, Ewloe, Flintshire CH5 3XD, United Kingdom
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+    quote:   Elwy House, Lakeside Business Village, St David’s Park, Ewloe, Flintshire CH5 3XD, United Kingdom
+    verifier: The current Corning data-controller document lists this Las Rozas address. Adversarial searching found that the older Pozuelo address was moved in 2019; the Las Rozas address is the current one.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Via Montelungo 4, 56122 Pisa (PI), Italy
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+    quote:   Corning Pharmaceutical Glass S.p.A., Via Montelungo 4, 56122 Pisa (PI), Italy
+    verifier: The current Corning data-controller document lists this Las Rozas address. Adversarial searching found that the older Pozuelo address was moved in 2019; the Las Rozas address is the current one.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Fogostraat 12, 1060 LJ Amsterdam, The Netherlands
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+    quote:   Corning B.V., Fogostraat 12, 1060 LJ Amsterdam, The Netherlands
+    verifier: The current Corning data-controller document lists this Las Rozas address. Adversarial searching found that the older Pozuelo address was moved in 2019; the Las Rozas address is the current one.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: D4 Platz 3, 6039 Root Längenbold, Switzerland
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+    quote:   Corning Switzerland GmbH, D4 Platz 3, 6039 Root Längenbold, Switzerland
+    verifier: The current Corning data-controller document lists this Las Rozas address. Adversarial searching found that the older Pozuelo address was moved in 2019; the Las Rozas address is the current one.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Gabriel García Márquez 4, 1st Floor, 28232 Las Rozas de Madrid, Madrid, Spain
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+    quote:   Gabriel García Márquez 4, 1st Floor, 28232 Las Rozas de Madrid, Madrid, Spain
+    verifier: The current Corning data-controller document lists this Las Rozas address. Adversarial searching found that the older Pozuelo address was moved in 2019; the Las Rozas address is the current one.
+
+Ground-truth address row(s) available for 'CORNING': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\CORNING__effort-high__websearch-only.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 24 calls, 816446 in / 23678 out tokens
+TOTAL web_search: 175 calls, 2281786 in / 64973 out tokens
+TOTAL tool calls attempted: 175 (no cap -- none blocked)
+TOTAL estimated cost: $2.4760 (rough estimate, see config.py)
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         24 calls, 816446 in / 23678 out tokens
+
+--- Queries issued (175) ---
+[site_extractor] web_search: Corning Incorporated official locations headquarters address manufacturing plants site:corning.com
+[site_extractor] web_search: Corning Incorporated 10-K headquarters principal executive offices address properties facilities
+[site_extractor] web_search: site:corning.com Corning locations offices manufacturing facilities address
+[site_extractor] web_search: Corning Incorporated ISO 9001 certificate address plant
+[site_extractor] web_search: Corning Incorporated distribution center warehouse address
+[site_extractor] web_search: Corning Incorporated global locations address Europe Asia plant
+[site_extractor] web_search: Corning Incorporated R&D center address locations
+[site_extractor] web_search: Corning company LinkedIn locations headquarters address
+[site_extractor] web_search: site:corning.com/careers/us/en/Locations Corning address manufacturing
+[site_extractor] web_search: site:corning.com/worldwide/en/contact-us.html "Address" Corning "NY"
+[site_extractor] web_search: site:corning.com/careers/ "Corning" "Address" "Plant"
+[site_extractor] web_search: Corning locations in the United States manufacturing plant address official
+[site_extractor] web_search: site:corning.com/cala/en/careers/locations/ "Address" Corning plant
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations Corning plant address
+[site_extractor] web_search: Corning Life Sciences manufacturing sites addresses official
+[site_extractor] web_search: Corning Optical Communications manufacturing locations addresses official
+[site_extractor] web_search: site:corning.com/cn/zh/about-us/company-profile/Corning-in-China/locations-in-china.html "Address"
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations Corning "Address:" manufacturing
+[site_extractor] web_search: site:corning.com/careers/jp/en/Japan Corning plant address Shizuoka Sakai
+[site_extractor] web_search: site:corning.com/careers/in/en/Locations/Pune.html address
+[site_extractor] web_search: site:corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html Corning address
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/France/locations-in-france Corning address plant
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/germany/locations-in-germany Corning address plant
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/poland/locations-in-poland.html Corning address
+[site_extractor] web_search: site:corning.com/cn/zh/about-us/company-profile/Corning-in-China/locations-in-china.html Shanghai "No." Corning
+[site_extractor] web_search: site:corning.com/cn/zh/about-us/company-profile/Corning-in-China/locations-in-china.html Mianyang Wujiang Changzhou address
+[site_extractor] web_search: site:corning.com/cn/zh/about-us/company-profile/Corning-in-China/locations-in-china.html Hefei Bengbu Hainan Fuzhou Ningbo address
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Beijing.html Corning address plant
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Suzhou.html Corning address
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Mianyang.html Corning address
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Wujiang.html Corning address
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Changzhou.html Corning address
+[site_extractor] web_search: site:corning.com/media/worldwide/global/documents/datacontrollers.pdf Corning Brazil France Germany address
+[site_extractor] web_search: site:corning.com/media/worldwide/global/documents/datacontrollers.pdf Corning Europe address
+[site_extractor] web_search: site:corning.com/media/worldwide/global/documents/datacontrollers.pdf Corning United States address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf Kennebunk Tewksbury Oneonta
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "275 River"
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Manufacturing site"
+[site_extractor] web_search: site:corning.com/media/worldwide/global/documents/datacontrollers.pdf Corning Mexico Reynosa address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf Reynosa Borre Warsaw
+[site_extractor] web_search: site:corning.com "Erwin Manufacturing Plant" address Corning
+[site_extractor] web_search: site:corning.com "Wilmington" "310 North College" Corning
+[site_extractor] web_search: site:corning.com "Keller" "4200" Corning address
+[site_extractor] web_search: site:corning.com "Harrodsburg" plant address Corning
+[site_extractor] web_search: site:corning.com "Durham" Corning Life Sciences address
+[site_extractor] web_search: site:corning.com "Winston-Salem" Corning plant address
+[site_extractor] web_search: site:corning.com "Concord" "Optical Fiber Manufacturing Facility" address Corning
+[site_extractor] web_search: site:corning.com "Kennebunk" "2 Alfred Road" Corning
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Bedford" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Kennebunk" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Tewksbury" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Monterrey" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Manassas" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Salt Lake City" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Woodland" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Borre" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Reynosa" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Durham" "Manassas"
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Warsaw" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Kennebunk" "Oneonta"
+[site_extractor] web_search: site:corning.com "Corning Life Sciences" "9345 Discovery"
+[site_extractor] web_search: site:corning.com "Corning Life Sciences" "1242 Commerce"
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Oneonta" address
+[site_extractor] web_search: site:corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf "Wujiang" address
+[site_extractor] web_search: Corning 2 Alfred Road Kennebunk current plant
+[site_extractor] web_search: Corning 334 County Route 16 Canton NY current plant address
+[site_extractor] web_search: Corning 836 North Street Tewksbury current address
+[site_extractor] web_search: Corning 9345 Discovery Boulevard Manassas current facility
+[site_extractor] web_search: Corning 275 River Street Oneonta current plant 2025
+[site_extractor] web_search: Corning One Riverfront Plaza current headquarters moved closed 2025 2026
+[site_extractor] web_search: Corning Erwin Manufacturing Complex 792 Addison Road current permit 2025
+[site_extractor] web_search: Corning 60 O'Connor Road Fairport current facility address
+[site_extractor] web_search: site:corning.com "310 North College Avenue" Corning Wilmington
+[site_extractor] web_search: site:corning.com "800 17th Street NW" Corning current manufacturing
+[site_extractor] web_search: site:corning.com "3180 Centre Park Boulevard" Corning current
+[site_extractor] web_search: site:corning.com "14556 Highway 601 South" Corning current facility
+[site_extractor] web_search: site:corning.com "Smolice 1e" current plant 2025
+[site_extractor] web_search: site:corning.com "Tarczyńska 1" Mszczonów current
+[site_extractor] web_search: site:corning.com "Profilstraße 4" Hagen current
+[site_extractor] web_search: site:corning.com "Estrada do Camorim, 633" Corning current
+[site_extractor] web_search: site:corning.com/optical-communications "Winston-Salem" "3180 Centre Park"
+[site_extractor] web_search: site:corning.com/optical-communications "Newton" "Trivium" address
+[site_extractor] web_search: site:corning.com/optical-communications "Concord, NC" address facility
+[site_extractor] web_search: site:corning.com "Fairport Plant" "60 O’Connor Road"
+[site_extractor] web_search: site:corning.com/optical-communications "Hickory" "800 17th Street"
+[site_extractor] web_search: site:corning.com "Corning Advanced Optics" "334 County Route 16"
+[site_extractor] web_search: site:corning.com "Sullivan Park" address Painted Post Erwin
+[site_extractor] web_search: site:corning.com/optical-communications "Wilmington" address plant Corning
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations "Spain" Corning address
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations "Italy" Corning address
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations "United Kingdom" Corning address
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations "Switzerland" Corning address
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations Corning Fuzhou Hefei Bengbu address
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations "Netherlands" Corning address
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations "Shanghai" "255 Bei He"
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations "Haikou" address Corning
+[site_extractor] web_search: site:corning.com "Parque Industrial Villa Florida" Corning Reynosa address
+[site_extractor] web_search: site:corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html "Reynosa" "Parque Industrial"
+[site_extractor] web_search: Corning Reynosa current manufacturing sites addresses official 2025
+[site_extractor] web_search: site:corning.com "Parque Industrial del Norte" "Reynosa" Corning "Avenida"
+[site_extractor] web_search: site:corning.com "FINSA IV" "Avenida Industrial Falcon"
+[site_extractor] web_search: Corning Monterrey Ant Carr A Roma km 3.6 current facility
+[site_extractor] web_search: site:corning.com/careers/mx/en/Locations Corning Reynosa address
+[site_extractor] web_search: Corning optical communications Reynosa address current
+[site_extractor] web_search: site:corning.com "RY1" Reynosa Corning address
+[site_extractor] web_search: site:corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html "Plant 2"
+[site_extractor] web_search: site:corning.com "Reynosa Plant" "Avenida Industrial del Norte"
+[site_extractor] web_search: site:corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html "Warehouse"
+[site_extractor] web_search: site:corning.com "RWD Plant" "Avenida los Encinos"
+[site_extractor] web_search: site:corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html "Plant 3"
+[site_extractor] web_search: site:corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html "RAM" address
+[site_extractor] web_search: site:corning.com "RAM facility" "Avenida los Pinos" Corning
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Fuzhou.html "No. 39"
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Shanghai.html "Corning Shanghai" address
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Hefei.html "No. 3399"
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Chengdu.html "Siemens Road"
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Changzhou.html "Science and Education Town"
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Beijing.html "No. 26"
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations "Ningbo" Corning address
+[site_extractor] web_search: site:corning.com/careers/cn/en/Locations/Haikou.html "No. 168"
+[site_extractor] web_search: Corning Beijing No. 26 Ke Chuang 10th Street current plant 2025
+[site_extractor] web_search: Corning Chengdu Siemens Road No. 1 current facility 2025
+[site_extractor] web_search: Corning Shanghai 358 Lu Qiao Road current regional headquarters
+[site_extractor] web_search: Corning Wujiang 1801 Pang Jin Road current manufacturing 2025
+[site_extractor] web_search: Corning Hefei 3399 Wolong Road current plant
+[site_extractor] web_search: Corning Fuzhou 39 Fu Xing Avenue current facility
+[site_extractor] web_search: Corning Haikou 168 Nanhai Avenue current facility
+[site_extractor] web_search: Corning Japan Shizuoka 12117 Obuchi current plant
+[site_extractor] web_search: Corning Japan Sakai 1 Takumi-cho current plant
+[site_extractor] web_search: site:corning.com/media/worldwide/global/documents/datacontrollers.pdf "United States" "Corning" "Street"
+[site_extractor] web_search: site:corning.com "Corning West Technology Center" address
+[site_extractor] web_search: site:corning.com "Corning Advanced Optics" "Palo Alto" address
+[site_extractor] web_search: site:corning.com "Sullivan Park Science" "Science Center Road"
+[site_extractor] web_search: site:corning.com "Corning Technology Center" "Painted Post" address
+[site_extractor] web_search: site:corning.com/careers/us/en/Locations "Corning" "NY" plant address
+[site_extractor] web_search: site:corning.com "R&D Center" "Corning" "address" facility
+[site_extractor] web_search: Corning official office address New York Rochester Wilmington Manassas plant
+[site_extractor] web_search: Corning 9345 Discovery Boulevard Manassas 2025 ISO active
+[site_extractor] web_search: Corning Sullivan Park 184 Science Center Drive current 2025
+[site_extractor] web_search: Corning 1891 Page Mill Road Palo Alto current technical center
+[site_extractor] web_search: Corning 5310 West Camelback Road Glendale current facility
+[site_extractor] web_search: Corning 45 Discovery Blvd Manassas current address
+[site_extractor] web_search: Corning 6507 South 400 West Salt Lake City current plant
+[site_extractor] web_search: Corning 1 Becton Circle Durham current plant
+[site_extractor] web_search: "184 Science Center Drive" Corning Sullivan Park current
+[site_extractor] web_search: Corning Avon 7 Bis Avenue de Valvins current office 2025
+[site_extractor] web_search: Corning Bagneaux Rue Saint Laurent current plant 2025
+[site_extractor] web_search: Corning Borre 123 Route de Caestre current plant
+[site_extractor] web_search: Corning Pontchateau 1 Rue Gutenberg current plant
+[site_extractor] web_search: Corning Kaiserslautern Carl-Billand-Strasse 1 current plant
+[site_extractor] web_search: Corning Wiesbaden Abraham-Lincoln-Strasse 30 current office
+[site_extractor] web_search: Corning Mszczonow Tarczyńska 114 current site address
+[site_extractor] web_search: Corning Warsaw Daniszewska 4 current plant address
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/germany/locations-in-germany/berlin-hagen-hanover.html "Profilstraße 4"
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/germany/locations-in-germany/kaiserslautern-wiesbaden.html "Carl-Billand"
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/germany/locations-in-germany "Hannover" Corning address
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/germany Corning "Berlin" address
+[site_extractor] web_search: Corning Germany Hagen Profilstraße 4 current 2025
+[site_extractor] web_search: Corning Germany Kaiserslautern Carl-Billand-Str 1 active 2025
+[site_extractor] web_search: Corning Borre Gosselin active manufacturing 2025
+[site_extractor] web_search: Corning Strykow Smolice 1e active 2025 plant
+[site_extractor] web_search: Corning B.V. Fogostraat 12 Amsterdam current office 2025
+[site_extractor] web_search: Corning Pharmaceutical Glass Pisa Via Montelungo 4 current plant 2025
+[site_extractor] web_search: Corning Switzerland D4 Platz 3 Root Längenbold current office
+[site_extractor] web_search: Corning Elwy House Ewloe current office 2025
+[site_extractor] web_search: Corning Pozuelo Camino Cerro de Los Gamos current office
+[site_extractor] web_search: Corning "Gabriel García Márquez 4" current office
+[site_extractor] web_search: site:corning.com/media/worldwide/global/documents/datacontrollers.pdf "Fogostraat 12"
+[site_extractor] web_search: site:corning.com/media/worldwide/global/documents/datacontrollers.pdf "Via Montelungo 4"
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/poland/Mszczonow.html "Tarczyńska" "96-320"
+[site_extractor] web_search: site:corning.com/media/worldwide/global/documents/datacontrollers.pdf "Tarczyńska"
+[site_extractor] web_search: Corning Mszczonów official address Tarczyńska 1 or 114
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/poland/Mszczonow.html "Poland Fiber Draw Facility"
+[site_extractor] web_search: site:corning.com/emea/en/careers/locations/poland/Mszczonow.html "Mszczonów" address
+[site_extractor] web_search: site:corning.com "6530 South 400 West" Corning warehouse
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl

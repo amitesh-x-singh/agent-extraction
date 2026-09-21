@@ -1,0 +1,31 @@
+file_a,file_b,company,n_a,n_b,overlap_a_to_b,overlap_pct_of_a,overlap_b_to_a,overlap_pct_of_b
+File1_synapse_dedup,File2_fs_sample_research,BOEING,10,68,0,0.0,0,0.0
+File1_synapse_dedup,File2_fs_sample_research,CORNING,3,70,2,66.7,6,8.6
+File1_synapse_dedup,File2_fs_sample_research,ELLSWORTH,0,33,0,,0,
+File1_synapse_dedup,File2_fs_sample_research,ELRING KLINGER,12,41,3,25.0,3,7.3
+File1_synapse_dedup,File2_fs_sample_research,INTEL,0,32,0,,0,
+File1_synapse_dedup,File2_fs_sample_research,MICRON TECHNOLOGY,226,50,45,19.9,29,58.0
+File1_synapse_dedup,File2_fs_sample_research,PANASONIC,0,98,0,,0,
+File1_synapse_dedup,File2_fs_sample_research,SAINT-GOBAIN,2,72,0,0.0,0,0.0
+File1_synapse_dedup,File2_fs_sample_research,TE CONNECTIVITY,8,110,0,0.0,0,0.0
+File1_synapse_dedup,File2_fs_sample_research,YAGEO,4,53,0,0.0,0,0.0
+File1_synapse_dedup,File3_combined_10_companies,BOEING,10,35,0,0.0,0,0.0
+File1_synapse_dedup,File3_combined_10_companies,CORNING,3,55,0,0.0,0,0.0
+File1_synapse_dedup,File3_combined_10_companies,ELLSWORTH,0,27,0,,0,
+File1_synapse_dedup,File3_combined_10_companies,ELRING KLINGER,12,45,1,8.3,1,2.2
+File1_synapse_dedup,File3_combined_10_companies,INTEL,0,46,0,,0,
+File1_synapse_dedup,File3_combined_10_companies,MICRON TECHNOLOGY,226,39,47,20.8,23,59.0
+File1_synapse_dedup,File3_combined_10_companies,PANASONIC,0,29,0,,0,
+File1_synapse_dedup,File3_combined_10_companies,SAINT-GOBAIN,2,91,0,0.0,0,0.0
+File1_synapse_dedup,File3_combined_10_companies,TE CONNECTIVITY,8,39,0,0.0,0,0.0
+File1_synapse_dedup,File3_combined_10_companies,YAGEO,4,32,0,0.0,0,0.0
+File2_fs_sample_research,File3_combined_10_companies,BOEING,68,35,9,13.2,8,22.9
+File2_fs_sample_research,File3_combined_10_companies,CORNING,70,55,32,45.7,31,56.4
+File2_fs_sample_research,File3_combined_10_companies,ELLSWORTH,33,27,12,36.4,12,44.4
+File2_fs_sample_research,File3_combined_10_companies,ELRING KLINGER,41,45,38,92.7,42,93.3
+File2_fs_sample_research,File3_combined_10_companies,INTEL,32,46,11,34.4,12,26.1
+File2_fs_sample_research,File3_combined_10_companies,MICRON TECHNOLOGY,50,39,31,62.0,32,82.1
+File2_fs_sample_research,File3_combined_10_companies,PANASONIC,98,29,24,24.5,19,65.5
+File2_fs_sample_research,File3_combined_10_companies,SAINT-GOBAIN,72,91,26,36.1,27,29.7
+File2_fs_sample_research,File3_combined_10_companies,TE CONNECTIVITY,110,39,27,24.5,23,59.0
+File2_fs_sample_research,File3_combined_10_companies,YAGEO,53,32,14,26.4,18,56.2

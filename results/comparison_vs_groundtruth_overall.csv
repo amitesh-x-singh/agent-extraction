@@ -1,0 +1,4 @@
+file,n_candidates,candidates_matched,candidates_matched_pct,n_gt,gt_covered,gt_covered_pct
+File1_synapse_dedup,265,19,7.2,1535,12,0.8
+File2_fs_sample_research,627,195,31.1,1535,179,11.7
+File3_combined_10_companies,438,99,22.6,1535,90,5.9

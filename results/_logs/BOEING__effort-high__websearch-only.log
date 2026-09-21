@@ -1,0 +1,530 @@
+Researching site locations for: BOEING
+
+Collected 45 distinct candidate address(es), 46 verification(s).
+
+=== Ranked candidates for BOEING ===
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 737 Logan Avenue North, Renton, WA 98057, USA
+    source:  https://apps.ecology.wa.gov/facilitysite/FacilitySite/FacilitySiteReport?FACILITYSITEID=21957&utm_source=openai
+    quote:   For the 737 plant site, 737 Logan Ave N, Renton, WA 98057 is the most specific current listing.
+    verifier: Washington Ecology's current facility record identifies this as the active Boeing 737 production site. Address ZIP conventions vary across Boeing and government records, but the street and city match.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 740–742 Chester Road, Delta, BC V3M 6J1, Canada
+    source:  https://services.boeing.com/locations/customer-service-centers-locations?utm_source=openai
+    quote:   740–742 Chester Road
+Delta, BC V3M 6J1
+Canada
+    verifier: Boeing's current customer-service-center locator lists this Delta aircraft-parts and repair-services facility.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 12845 Rue Brault, Mirabel, Québec J7J 0C4, Canada
+    source:  https://services.boeing.com/locations/north-america/mirabel-quebec?utm_source=openai
+    quote:   12845 Rue Brault
+Mirabel, Québec J7J 0C4
+Canada
+    verifier: Boeing's current Mirabel location page and current customer-service directory list this address.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 425 Tranmere Drive, Unit 2, Mississauga, Ontario L5S 1L4, Canada
+    source:  https://services.boeing.com/locations/north-america/mississauga-ontario?utm_source=openai
+    quote:   425 Tranmere Drive, Unit 2
+Mississauga, Ontario L5S 1L4, Canada
+    verifier: Boeing's current Mississauga location page lists this Toronto-area aircraft-parts facility. Older product cards may omit or abbreviate the street address.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 4451 Aircraft Drive, Suite C, Anchorage, AK 99502-0906, USA
+    source:  https://services.boeing.com/locations/north-america/anchorage-alaska
+    quote:   Boeing Distribution (BDI) Anchorage warehouse/distribution location
+    verifier: Boeing's current Anchorage location page identifies this as its warehouse/distribution location.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 3350 Davie Road, Suite 206, Davie, FL 33314-1638, USA
+    source:  https://services.boeing.com/locations/north-america/davie-florida?utm_source=openai
+    quote:   3350 Davie Rd., Suite 206
+    verifier: Boeing's current Davie page identifies the Florida Hose Shop and aircraft-parts services facility at 3350 Davie Road, Suite 206.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 929 Long Bridge Drive, Arlington, VA 22202, USA
+    source:  https://www.boeing.com/company/general-info/corporate-governance?utm_source=openai
+    quote:   Office of the Corporate Secretary
+Boeing Corporate Offices
+929 Long Bridge Drive
+Arlington, VA 22202
+    verifier: Boeing's current corporate-governance page gives this corporate-office address, and the current SEC annual filing identifies 929 Long Bridge Drive as Boeing's principal executive office.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 700 15th Street SW, Auburn, WA 98001, USA
+    source:  https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+    quote:   Auburn Site
+700 15th Street SW
+Auburn, WA 98001, USA
+    verifier: The Boeing certificate gives this Missile and Weapon Systems Division address. Current map and government/business records continue to associate Boeing defense and missile operations with it.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 18001 Canyon Road East, Puyallup, WA 98375, USA
+    source:  https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+    quote:   Boeing’s Puyallup, Washington site address is: 18001 Canyon Road East, Puyallup, WA 98375, USA
+    verifier: The Boeing certificate gives this Missile and Weapon Systems Division address. Current map and government/business records continue to associate Boeing defense and missile operations with it.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 4635 NE Cornfoot Road, Portland, OR 97218, USA
+    source:  https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+    quote:   Boeing – PDX
+4635 NE Cornfoot Rd
+Portland, OR 97218, USA
+    verifier: The Boeing certificate gives this Missile and Weapon Systems Division address. Current map and government/business records continue to associate Boeing defense and missile operations with it.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 6300 James S. McDonnell Boulevard, St. Louis, MO 63134, USA
+    source:  https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+    quote:   Boeing’s St. Louis site address is: 6300 James S. McDonnell Blvd., St. Louis, MO 63134-1940
+    verifier: The Boeing certificate gives this Missile and Weapon Systems Division address. Current map and government/business records continue to associate Boeing defense and missile operations with it.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2600 N. 3rd Street / Highway 94, St. Charles, MO 63301-0060, USA
+    source:  https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+    quote:   Boeing BDS St. Charles
+2600 N. 3rd St. / Highway 94
+St. Charles, MO 63301-0060, USA
+    verifier: The Boeing certificate gives this Missile and Weapon Systems Division address. Current map and government/business records continue to associate Boeing defense and missile operations with it.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 5400 International Boulevard, North Charleston, SC 29418, USA
+    source:  https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+    quote:   Boeing South Carolina
+5400 International Blvd.
+North Charleston, SC 29418
+    verifier: The Boeing certificate gives this Missile and Weapon Systems Division address. Current map and government/business records continue to associate Boeing defense and missile operations with it.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 499 Boeing Boulevard, Huntsville, AL 35824, USA
+    source:  https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+    quote:   Missile and Weapon Systems Division
+499 Boeing Blvd.
+Huntsville, AL 35824
+United States of America
+    verifier: The Boeing certificate gives this Missile and Weapon Systems Division address. Current map and government/business records continue to associate Boeing defense and missile operations with it.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 5000 E. McDowell Road, Mesa, AZ 85215-9707, USA
+    source:  https://investmentrecovery.boeing.com/surplus/auctiondetail.aspx?auctionid=67740&utm_source=openai
+    quote:   The Boeing Company
+5000 E. McDowell Road
+Mesa, AZ 85215-9707
+United States
+    verifier: A current Boeing Investment Recovery listing identifies the Mesa site, and Boeing's Apache materials describe active manufacturing operations there.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 6001 S. Air Depot Boulevard, Oklahoma City, OK 73135, USA
+    source:  https://investmentrecovery.boeing.com/surplus/auctiondetail.aspx?auctionid=64854&utm_source=openai
+    quote:   Boeing’s Oklahoma City location is: 6001 S. Air Depot Blvd. Oklahoma City, OK 73135
+    verifier: Boeing's current store directory identifies an employee store in the Oklahoma City campus, supporting continued operation at the address.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 375 Airlift Drive, San Antonio, TX 78226, USA
+    source:  https://investmentrecovery.boeing.com/surplus/auctiondetail.aspx?auctionid=67990&utm_source=openai
+    quote:   Boeing San Antonio
+375 Airlift Drive
+San Antonio, TX 78226
+    verifier: Boeing identifies San Antonio as an active complex modification and maintenance facility, and its current Investment Recovery material associates the operation with this address.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 6601 NW 36th Street, Miami, FL 33166-6922, USA
+    source:  https://www.boeing.com/company/global-presence/latin-america?utm_source=openai
+    quote:   Boeing Latin America Office
+6601 NW 36th Street
+Miami, FL 33166-6922
+United States
+    verifier: Boeing's current Latin America page lists this Brazil office, and Boeing's 2024 Brazil backgrounder confirms continuing research and engineering operations in São José dos Campos.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 4000 N. Lakewood Boulevard, Long Beach, CA 90808, USA
+    source:  https://events.boeing.com/profile/web/index.cfm?PKwebID=0x81967abcd&utm_source=openai
+    quote:   Boeing Long Beach Site
+4000 N. Lakewood Blvd.
+Long Beach, CA 90808
+    verifier: Although final C-17 production ended in Long Beach, Boeing currently identifies the Long Beach Site and Global Services operations at this address; current Boeing events and location pages support continued use.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Av. Cassiano Ricardo, 601, 16th floor, Jardim Aquarius, São José dos Campos, SP 12246-870, Brazil
+    source:  https://www.boeing.com/company/global-presence/latin-america?utm_source=openai
+    quote:   Av. Cassiano Ricardo, 601 – 16th floor
+Jardim Aquarius
+São José dos Campos, SP, Brazil
+CEP 12246-870
+    verifier: Boeing's current Latin America page lists this Brazil office, and Boeing's 2024 Brazil backgrounder confirms continuing research and engineering operations in São José dos Campos.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Frankfurter Str. 233, 63263 Neu-Isenburg, Germany
+    source:  https://www.boeing.com/privacy/data_protection_officers?utm_source=openai
+    quote:   Boeing – Frankfurter Str. 233
+63263 Neu-Isenburg (Frankfurt)
+Germany
+    verifier: Boeing's current privacy notice lists Boeing Singapore Private Limited at this address; Boeing's Southeast Asia and Singapore pages corroborate the office.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 16th Floor, 136 Sejong-daero, Jung-gu, Seoul 100-768, Republic of Korea
+    source:  https://www.boeing.com/privacy/data_protection_officers?utm_source=openai
+    quote:   Boeing Korea mailing address:
+16th Floor, 136 Sejong-daero
+Jung-gu, Seoul 100-768
+Republic of Korea
+    verifier: Boeing's current privacy notice lists Boeing Singapore Private Limited at this address; Boeing's Southeast Asia and Singapore pages corroborate the office.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 38 Beach Road, #16-11 South Beach Tower, Singapore 189767
+    source:  https://www.boeing.com/privacy/data_protection_officers?utm_source=openai
+    quote:   Boeing Singapore Private Limited
+38 Beach Road, #16-11 South Beach Tower
+Singapore 189767
+    verifier: Boeing's current privacy notice lists Boeing Singapore Private Limited at this address; Boeing's Southeast Asia and Singapore pages corroborate the office.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2 Cranberry Road, Parsippany, NJ 07054-1053, USA
+    source:  https://services.boeing.com/bgsmedias/sys_master/root/hb6/haf/9057386790942/Wheel-and-Brake-Operations-Specifications-Certificate-Parsippany-NJ-2025/Wheel-and-Brake-Operations-Specifications-Certificate-Parsippany-NJ-2025.pdf?utm_source=openai
+    quote:   2 Cranberry Road
+Parsippany, NJ 07054-1053
+    verifier: The 2025 Boeing/FAA repair-station certificate identifies this as an aircraft-parts repair and distribution facility. No newer relocation evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 12 rue de Caulet, BAT C01, 31300 Toulouse, France
+    source:  https://shop.boeing.com/bgsmedias/BDSI-Global-AS9120-Rev-B-Certificate-240215.pdf?context=bWFzdGVyfHBkZnwyMTIwODN8YXBwbGljYXRpb24vcGRmfHBkZi9oMzAvaDIwLzg5MzMxNjY2MTI1MTAucGRmfDliZDAxMjU4OWYxMDc1ZTU3ZjQ0YzRkNWFmNGY5YWY3ZTlkZjAwNTNkMzU3N2ZjOWMxNWU1OTZmZDBmNjZjMDA&utm_source=openai
+    quote:   Toulouse: 12 rue de Caulet, BAT C01, 31300 Toulouse, France
+    verifier: French government business records updated in 2026 show Boeing Distribution Services' Senlis establishment as active, corroborating the Boeing certification address.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 27 Rue E. Audibert, 60305 Senlis, France
+    source:  https://shop.boeing.com/bgsmedias/BDSI-Global-AS9120-Rev-B-Certificate-240215.pdf?context=bWFzdGVyfHBkZnwyMTIwODN8YXBwbGljYXRpb24vcGRmfHBkZi9oMzAvaDIwLzg5MzMxNjY2MTI1MTAucGRmfDliZDAxMjU4OWYxMDc1ZTU3ZjQ0YzRkNWFmNGY5YWY3ZTlkZjAwNTNkMzU3N2ZjOWMxNWU1OTZmZDBmNjZjMDA&utm_source=openai
+    quote:   Senlis: 27 Rue E. Audibert, 60305 Senlis, France
+    verifier: French government business records updated in 2026 show Boeing Distribution Services' Senlis establishment as active, corroborating the Boeing certification address.
+
+- [B] score=0.60 verdict=uncertain  address_city_matched=no   address_country_matched=no
+    address: Av. Tahel S/N, esquina Ruiz Cortines, Puerta No. 3, Col. Pensador Mexicano, Ciudad de México, C.P. 15520, Mexico
+    source:  https://www.boeing.com/content/dam/boeing/boeingdotcom/commercial/services/assets/brochure/fs-product-catalog.pdf?utm_source=openai
+    quote:   Av. Tahel S/N, esquina Ruiz Cortines, Puerta No. 3
+Col. Pensador Mexicano
+Ciudad de México, C.P. 15520
+    verifier: The address appears in an older Boeing Flight Services brochure and remains an active aviation-training location, but current Boeing training-campus materials do not clearly confirm it as a Boeing-operated campus. Treat as historical/customer-partner related unless Boeing confirms it.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 3003 W Casino Road, Everett, WA 98204, USA
+    source:  https://www.boeingstore.com/pages/find-stores/1000?utm_source=openai
+    quote:   Boeing Everett Delivery Center
+3003 W Casino Rd
+Everett, WA 98204
+    verifier: The current Boeing Store directory still lists the Everett Delivery Center at this address.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 25 Victoria Street, London SW1H 0EX, United Kingdom
+    source:  https://www.boeing.co.uk/content/dam/boeing/en_uk/pdf/bio-steve-burnell-may-2025.pdf?utm_source=openai
+    quote:   Boeing United Kingdom
+25 Victoria Street
+London, SW1H 0EX
+United Kingdom
+    verifier: A May 2025 Boeing UK executive biography gives this address, and Companies House records associate it with Boeing United Kingdom Limited.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Avenida Sur del Aeropuerto de Barajas 38, Madrid 28042, Spain
+    source:  https://eur-lex.europa.eu/resource.html?format=PDF&uri=cellar%3A7efecf4b-75de-11eb-9ac9-01aa75ed71a1.0001.02%2FDOC_2&utm_source=openai
+    quote:   Boeing Aerospace Spain, S.L., Avenida Sur del Aeropuerto de Barajas 38, Madrid 28042, Spain
+    verifier: The EU-hosted corporate document gives the registered office, and recent Spanish BORME activity confirms Boeing Aerospace Spain remains active at the Madrid address.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 6 avenue Marceau, 75008 Paris, France
+    source:  https://www.pappers.fr/entreprise/boeing-france-sas-818092132/documents/BOEING%20FRANCE%20SAS%20-%20Statuts%20mis%20%C3%A0%20jour%2009-06-2021.pdf?utm_source=openai
+    quote:   Boeing France SAS, 6 avenue Marceau, 75008 Paris, France
+    verifier: French registry data identifies Boeing France SAS as active and confirms this Paris head-office address.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 3rd Floor, DLF Centre, Sansad Marg, New Delhi, Delhi 110001, India
+    source:  https://www.boeing.co.in/content/dam/boeing/en-in/media/boeingindia/boeing-in-india/about-boeing-in-india/AB6709864-MGT-7_BIPL_2024-25.pdf?utm_source=openai
+    quote:   3rd Floor, DLF Centre, Sansad Marg,
+New Delhi, Delhi 110001, India
+    verifier: Boeing India's FY 2024–25 filing and its current India website identify this as the New Delhi headquarters/registered office.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Level 10, Exchange House, 10 Bridge Street, Sydney, NSW 2000, Australia
+    source:  https://www.boeing.com.au/content/dam/boeing/en-au/pdf/boeing_australia_modern_slavery_statement_2021_final.pdf?utm_source=openai
+    quote:   Boeing Australia headquarters:
+Level 10, Exchange House
+10 Bridge Street
+Sydney NSW 2000
+Australia
+    verifier: The address appears in Boeing Australia's corporate statement, and Boeing Australia's current privacy page continues to identify the Sydney office address.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Lennéstraße 9, 10785 Berlin, Germany
+    source:  https://www.lobbyregister.bundestag.de/suche/R004507/66794?backUrl=%2Fsuche%3Fq%3D%25241%26page%3D152%26pageSize%3D10%26sort%3DRELEVANCE_DESC&utm_source=openai
+    quote:   Boeing Deutschland GmbH
+Lennéstraße 9
+10785 Berlin
+Germany
+    verifier: The German Bundestag lobbying registry currently lists Boeing Deutschland GmbH at this Berlin address.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 30 Changi North Rise, #01-01, Singapore 498780
+    source:  https://www.boeing-sea.com/?utm_source=openai
+    quote:   Boeing Singapore Training & Flight Services
+30 Changi North Rise, #01-01, Singapore 498780
+    verifier: Boeing's Singapore training-campus page continues to list this operating simulator and flight-services campus.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Toranomon Hills Station Tower, 39th Floor, 2-6-1 Toranomon, Minato-ku, Tokyo 105-5539, Japan
+    source:  https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010001124596&utm_source=openai
+    quote:   Boeing Japan K.K.
+Toranomon Hills Station Tower, 39th Floor
+2-6-1 Toranomon, Minato-ku, Tokyo 105-5539, Japan
+    verifier: Current Japanese government corporate data lists Boeing Japan K.K. at Toranomon Hills Station Tower, corroborating the post-relocation address.
+
+- [B] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 100 South Stewart Avenue, Building 86-301, Ridley Park, PA 19078, USA
+    source:  https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+    quote:   Ridley Park, Pennsylvania:
+100 South Stewart Avenue
+Building 86-301, Mail Code P01-46
+Ridley Park, PA 19078
+    verifier: The address appears in a product-line card, but Boeing's newer official privacy and Southeast Asia pages identify 38 Beach Road as the Singapore corporate office. The older address may remain product-support-specific, but it should not be treated as the current general Boeing office.
+
+- [B] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 8151 Tuscany Avenue, El Segundo, CA 90245, USA
+    source:  https://www.boeing.com/content/dam/boeing/boeingdotcom/commercial/noise/losangeles.pdf?utm_source=openai
+    quote:   Boeing’s El Segundo, California facility is listed at: 8151 Tuscany Avenue, El Segundo, CA 90245
+    verifier: Current property evidence classifies the address as residential, and Boeing's own older documentation appears to refer to a noise/weather monitoring terminal rather than a current physical operating site.
+
+- [D] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 99 Murray Park Road, Winnipeg, MB R3J 3M6, Canada
+    source:  https://www.boeing.ca/news/2018/boeing-manitoba-aerospace-manufacturer-safe-work-certified?utm_source=openai
+    quote:   99 Murray Park Road
+Winnipeg, Manitoba R3J 3M6
+Canada
+    verifier: Manitoba records state that Boeing's Redwood activities were relocated and the lease expired in January 2022; current Boeing Canada materials identify 99 Murray Park Road as the active Winnipeg operation, while the property is now associated with another tenant.
+
+- [B] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 48 Alexander Place, Murarrie, QLD 4172, Australia
+    source:  https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+    quote:   Address: 48 Alexander Place, Murarrie QLD 4172, Australia
+    verifier: The address appears in a product-line card, but Boeing's newer official privacy and Southeast Asia pages identify 38 Beach Road as the Singapore corporate office. The older address may remain product-support-specific, but it should not be treated as the current general Boeing office.
+
+- [B] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 20–22 Lindaway Place, Tullamarine, Victoria 3043, Australia
+    source:  https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+    quote:   20–22 Lindaway Place
+Tullamarine, Victoria 3043, Australia
+    verifier: The address appears in a product-line card, but Boeing's newer official privacy and Southeast Asia pages identify 38 Beach Road as the Singapore corporate office. The older address may remain product-support-specific, but it should not be treated as the current general Boeing office.
+
+- [B] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: Hoogoorddreef 15, 1101 BA Amsterdam Zuidoost, Netherlands
+    source:  https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+    quote:   Hoogoorddreef 15
+1101 BA Amsterdam Zuidoost
+The Netherlands
+    verifier: The address appears in a product-line card, but Boeing's newer official privacy and Southeast Asia pages identify 38 Beach Road as the Singapore corporate office. The older address may remain product-support-specific, but it should not be treated as the current general Boeing office.
+
+- [B] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: Nihon Seimei Marunouchi Building, 20th Floor, 1-6-6 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan
+    source:  https://events.boeing.com/accounts/register123/boeing/bgs/events/flightopssympjapan-12442/Directions%20to%20BJKK%20%289-2-2016%29.pdf?utm_source=openai
+    quote:   Nihon Seimei Marunouchi Building, 20th Floor
+1-6-6 Marunouchi, Chiyoda-ku
+Tokyo 100-0005, Japan
+    verifier: This was a Boeing Japan address in older event materials, but current Japanese government corporate data identifies Boeing Japan K.K. at Toranomon Hills Station Tower following a relocation.
+
+- [B] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 331 North Bridge Road, #06-06 Odeon Towers, Singapore 188720
+    source:  https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+    quote:   331 North Bridge Road, #06-06 Odeon Towers
+Singapore 188720
+    verifier: The address appears in a product-line card, but Boeing's newer official privacy and Southeast Asia pages identify 38 Beach Road as the Singapore corporate office. The older address may remain product-support-specific, but it should not be treated as the current general Boeing office.
+
+- [D] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 1345 Redwood Avenue, Winnipeg, Manitoba, Canada
+    source:  https://www.boeing.ca/news/2018/boeing-manitoba-aerospace-manufacturer-safe-work-certified?utm_source=openai
+    quote:   Boeing also operates a second Winnipeg site at 1345 Redwood Avenue.
+    verifier: Manitoba records state that Boeing's Redwood activities were relocated and the lease expired in January 2022; current Boeing Canada materials identify 99 Murray Park Road as the active Winnipeg operation, while the property is now associated with another tenant.
+
+Ground-truth address row(s) available for 'BOEING': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\BOEING__effort-high__websearch-only.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 22 calls, 627242 in / 21649 out tokens
+TOTAL web_search: 169 calls, 2190373 in / 56931 out tokens
+TOTAL tool calls attempted: 169 (no cap -- none blocked)
+TOTAL estimated cost: $2.3478 (rough estimate, see config.py)
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         22 calls, 627242 in / 21649 out tokens
+
+--- Queries issued (169) ---
+[site_extractor] web_search: site:boeing.com Boeing locations offices facilities address
+[site_extractor] web_search: site:boeing.com Boeing contact headquarters address
+[site_extractor] web_search: site:boeing.com Boeing manufacturing sites plant address
+[site_extractor] web_search: Boeing 10-K principal executive offices address properties facilities
+[site_extractor] web_search: Boeing ISO 9001 certificate address manufacturing site
+[site_extractor] web_search: Boeing warehouse distribution center address
+[site_extractor] web_search: Boeing locations LinkedIn offices addresses
+[site_extractor] web_search: Boeing facility address Everett Renton Charleston St Louis Wichita
+[site_extractor] web_search: site:boeing.com/company/global-presence/united-states Boeing Auburn address
+[site_extractor] web_search: site:boeing.com/company/global-presence/united-states Boeing California facility address
+[site_extractor] web_search: site:boeing.com/company/global-presence/united-states Boeing Oklahoma City address
+[site_extractor] web_search: site:boeing.com/company/global-presence/united-states Boeing Mesa address
+[site_extractor] web_search: site:boeing.com/company/global-presence/united-states Boeing Philadelphia Ridley Park address
+[site_extractor] web_search: site:boeing.com/company/global-presence/united-states Boeing St Louis address
+[site_extractor] web_search: site:boeing.com/company/global-presence/united-states Boeing Portland address
+[site_extractor] web_search: site:boeing.com/company/global-presence/united-states Boeing Puyallup address
+[site_extractor] web_search: site:boeing.com/company/global-presence Boeing Japan office address Tokyo Nagoya
+[site_extractor] web_search: site:boeing.com/company/global-presence Boeing India office address Bengaluru New Delhi
+[site_extractor] web_search: site:boeing.com/company/global-presence Boeing Australia office address Melbourne Brisbane Sydney
+[site_extractor] web_search: site:boeing.com/company/global-presence Boeing Europe office address London Madrid Paris
+[site_extractor] web_search: site:boeing.com/company/global-presence Boeing Middle East office address Dubai Riyadh
+[site_extractor] web_search: site:boeing.com/company/global-presence Boeing Brazil office 6601 NW 36th Street
+[site_extractor] web_search: site:boeing.com/company/global-presence Boeing China office address Beijing Shanghai
+[site_extractor] web_search: site:boeing.com/company/global-presence Boeing Canada office address
+[site_extractor] web_search: site:boeing.com "Everett, WA 98204" Boeing address
+[site_extractor] web_search: site:boeing.com/content/dam/boeing ISO 14001 Certificates Boeing Everett Renton Auburn Puyallup address
+[site_extractor] web_search: site:boeing.com "San Antonio" Boeing facility address
+[site_extractor] web_search: site:boeing.com "Tukwila" Boeing address facility
+[site_extractor] web_search: site:boeing.com "Renton, WA 98055" Boeing address
+[site_extractor] web_search: site:boeing.com "El Segundo" Boeing address facility
+[site_extractor] web_search: site:boeing.com "Huntsville" Boeing address facility
+[site_extractor] web_search: site:boeing.com "St. Louis, MO 63134" Boeing address
+[site_extractor] web_search: site:services.boeing.com/locations "Address" Boeing Dallas Texas distribution
+[site_extractor] web_search: site:services.boeing.com/locations/north-america Boeing "Address" Miami
+[site_extractor] web_search: site:services.boeing.com/locations/north-america Boeing "Address" Seattle
+[site_extractor] web_search: site:services.boeing.com/locations/europe Boeing "Address" Amsterdam
+[site_extractor] web_search: site:services.boeing.com/locations/asia-pacific Boeing "Address" Singapore
+[site_extractor] web_search: site:services.boeing.com/locations "distribution center" Boeing address
+[site_extractor] web_search: site:services.boeing.com "Van Nuys" Boeing address
+[site_extractor] web_search: site:services.boeing.com "Charleston" Boeing address service center
+[site_extractor] web_search: Boeing Renton factory address current 737 Logan Ave 2025
+[site_extractor] web_search: Boeing Everett facility address current 3003 Casino Road 2025
+[site_extractor] web_search: Boeing facility closures moved headquarters Arlington 929 Long Bridge Drive current 2025
+[site_extractor] web_search: Boeing Puyallup 18001 Canyon Road East current facility
+[site_extractor] web_search: Boeing St Louis 6300 James McDonnell Blvd current address 2025
+[site_extractor] web_search: Boeing Auburn 700 15th Street SW current facility closed
+[site_extractor] web_search: Boeing Long Beach 4000 Lakewood Blvd facility closed current
+[site_extractor] web_search: Boeing South Carolina 5400 International Blvd current facility 2025
+[site_extractor] web_search: Boeing official office address Poland Warsaw Boeing
+[site_extractor] web_search: Boeing official office address Ukraine Kyiv Boeing
+[site_extractor] web_search: Boeing official office address Mexico Boeing Mexico City
+[site_extractor] web_search: Boeing official office address Argentina Chile Colombia Boeing
+[site_extractor] web_search: Boeing official office address Germany Boeing Deutschland
+[site_extractor] web_search: Boeing official office address United Kingdom Boeing UK 25 Victoria Street current
+[site_extractor] web_search: Boeing official office address South Africa Johannesburg Boeing
+[site_extractor] web_search: Boeing official office address South Korea Seoul Boeing
+[site_extractor] web_search: site:boeing.co.uk "25 Victoria Street" Boeing
+[site_extractor] web_search: site:boeing.pl "Emilii Plater 53" Boeing
+[site_extractor] web_search: site:boeing.in Boeing India address New Delhi
+[site_extractor] web_search: site:boeing.co.in Boeing India "New Delhi" address
+[site_extractor] web_search: site:boeing-me.com Boeing Dubai address P.O. Box 54289
+[site_extractor] web_search: site:boeing.africa Boeing address Johannesburg
+[site_extractor] web_search: site:boeing.com.au Boeing Australia office address
+[site_extractor] web_search: site:boeing.ca Boeing Canada Winnipeg address Boeing
+[site_extractor] web_search: site:services.boeing.com/bgsmedias "Brisbane" "Alexander Place" Boeing
+[site_extractor] web_search: site:services.boeing.com/bgsmedias "Melbourne" "Lindaway Place" Boeing
+[site_extractor] web_search: site:services.boeing.com/bgsmedias "Delta" Boeing customer service address Canada
+[site_extractor] web_search: site:services.boeing.com/bgsmedias "Mississauga" Boeing customer service address
+[site_extractor] web_search: site:services.boeing.com/bgsmedias "Parsippany" Boeing address
+[site_extractor] web_search: site:services.boeing.com/bgsmedias "Anchorage" Boeing address
+[site_extractor] web_search: site:services.boeing.com/bgsmedias "Burgess Hill" Boeing address
+[site_extractor] web_search: site:services.boeing.com/bgsmedias "Mirabel" Boeing address
+[site_extractor] web_search: "Boeing Customer Service Center" "Burgess Hill" address
+[site_extractor] web_search: "Delta, British Columbia" Boeing "Customer Service Center" address
+[site_extractor] web_search: "Mirabel, Quebec" Boeing "Customer Service Center" address
+[site_extractor] web_search: "Boeing" "331 North Bridge Road" Singapore
+[site_extractor] web_search: "Boeing" "3350 Davie Road" customer service
+[site_extractor] web_search: "Boeing" "Hoogoorddreef 15" Amsterdam
+[site_extractor] web_search: "Boeing" "4451 Aircraft Drive" Anchorage
+[site_extractor] web_search: "Boeing" "2 Cranberry Road" Parsippany
+[site_extractor] web_search: Boeing official facility address "Seattle, WA" Boeing site
+[site_extractor] web_search: Boeing official facility address "Houston, TX" Boeing site
+[site_extractor] web_search: Boeing official facility address "Huntsville, AL" Boeing site
+[site_extractor] web_search: Boeing official facility address "Jacksonville, FL" Boeing site
+[site_extractor] web_search: Boeing official facility address "Colorado Springs" Boeing site
+[site_extractor] web_search: Boeing official facility address "Tukwila, WA" Boeing site
+[site_extractor] web_search: Boeing official facility address "North Charleston, SC" 9775 Patriot Blvd
+[site_extractor] web_search: Boeing official facility address "St. Charles, MO" Boeing site
+[site_extractor] web_search: site:boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf "Huntsville" address
+[site_extractor] web_search: site:boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf "St. Charles" address
+[site_extractor] web_search: site:boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf "Ladson"
+[site_extractor] web_search: site:boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf "Mesa"
+[site_extractor] web_search: site:boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf "Oklahoma City"
+[site_extractor] web_search: site:boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf "San Antonio"
+[site_extractor] web_search: site:boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf "Portland" address
+[site_extractor] web_search: site:boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf "Auburn" address
+[site_extractor] web_search: "3003 W Casino Rd" Boeing current site
+[site_extractor] web_search: "737 Logan Ave N" Boeing current plant
+[site_extractor] web_search: "700 15th Street SW" Boeing Auburn active
+[site_extractor] web_search: "18001 Canyon Road E" Boeing current
+[site_extractor] web_search: "4635 NE Cornfoot" Boeing current
+[site_extractor] web_search: "6300 James S. McDonnell Blvd" Boeing current
+[site_extractor] web_search: "2600 N. 3rd St" Boeing current
+[site_extractor] web_search: "5400 International Blvd" Boeing current
+[site_extractor] web_search: "499 Boeing Blvd" Boeing Huntsville current
+[site_extractor] web_search: "5000 E. McDowell Road" Boeing current facility
+[site_extractor] web_search: "6001 S. Air Depot Blvd" Boeing current facility
+[site_extractor] web_search: "375 Airlift Drive" Boeing current facility
+[site_extractor] web_search: "100 South Stewart Avenue" Boeing Ridley Park current
+[site_extractor] web_search: "8151 Tuscany Avenue" Boeing current facility
+[site_extractor] web_search: "4000 N. Lakewood Blvd" Boeing current site
+[site_extractor] web_search: "6601 NW 36th Street" Boeing Miami current
+[site_extractor] web_search: "Av. Tahel" Boeing Flight Services current
+[site_extractor] web_search: "6 avenue Marceau" Boeing France current office
+[site_extractor] web_search: "3rd Floor, DLF Centre, Sansad Marg" Boeing current
+[site_extractor] web_search: "Avenida Sur del Aeropuerto de Barajas 38" Boeing current
+[site_extractor] web_search: "25 Victoria Street" Boeing current office 2025
+[site_extractor] web_search: "Level 10, Exchange House" Boeing Australia current
+[site_extractor] web_search: "99 Murray Park Road" Boeing current Winnipeg
+[site_extractor] web_search: "1345 Redwood Avenue" Boeing current Winnipeg
+[site_extractor] web_search: "4 Hlybochytska Street" Boeing current Ukraine office
+[site_extractor] web_search: "48 Alexander Place" Boeing current Brisbane
+[site_extractor] web_search: "740-742 Chester Road" Boeing current Delta
+[site_extractor] web_search: "20-22 Lindaway Place" Boeing current Melbourne
+[site_extractor] web_search: "12845 Rue Brault" Boeing current Mirabel
+[site_extractor] web_search: "2 Cranberry Road" Boeing current distribution facility
+[site_extractor] web_search: "4451 Aircraft Drive" Boeing current distribution center
+[site_extractor] web_search: "Hoogoorddreef 15" Boeing current office
+[site_extractor] web_search: "331 North Bridge Road" Boeing current office Singapore
+[site_extractor] web_search: "20–22 Lindaway Place" Boeing current address
+[site_extractor] web_search: "Boeing" "DLF Centre" current office New Delhi 2025
+[site_extractor] web_search: site:boeing-sea.com "38 Beach Road" Boeing Singapore current
+[site_extractor] web_search: "Av. Cassiano Ricardo, 601" Boeing current office
+[site_extractor] web_search: "3350 Davie Road" Boeing current facility 2025
+[site_extractor] web_search: site:boeing-sea.com "30 Changi North Rise" Boeing
+[site_extractor] web_search: "Mississauga" Boeing "L5S 1L4" current address
+[site_extractor] web_search: "30 Changi North Rise" Boeing current training
+[site_extractor] web_search: site:boeing.com "Boeing Spain" "Avenida Sur"
+[site_extractor] web_search: site:boeing.com "Boeing Singapore" "Beach Road"
+[site_extractor] web_search: site:boeing.com "Boeing Germany" address office
+[site_extractor] web_search: site:boeing.com "Boeing Japan" "Marunouchi" address
+[site_extractor] web_search: site:boeing.com "Boeing France" address
+[site_extractor] web_search: site:boeing.com "Boeing International Corporation" "Warsaw" address
+[site_extractor] web_search: site:boeing.com "Boeing Korea" address
+[site_extractor] web_search: site:boeing.com "Boeing Canada" "Ottawa" address
+[site_extractor] web_search: "1-6-6 Marunouchi" Boeing Japan current office 2025
+[site_extractor] web_search: "Lennéstraße 9" Boeing current Berlin office
+[site_extractor] web_search: "12 rue de Caulet" Boeing current Toulouse
+[site_extractor] web_search: "Frankfurter Str. 233" Boeing current Neu-Isenburg
+[site_extractor] web_search: "29 Rue E. Audibert" Boeing current Senlis
+[site_extractor] web_search: "6 avenue Marceau" "Boeing France SAS" active
+[site_extractor] web_search: "Avenida Sur del Aeropuerto de Barajas 38" Boeing Aerospace Spain active
+[site_extractor] web_search: "136 Sejong-daero" Boeing current Korea office
+[site_extractor] web_search: site:boeing.com "2-6-1 Toranomon"
+[site_extractor] web_search: "29 route de l’Arpenteur" Boeing current
+[site_extractor] web_search: "2-6-1 Toranomon" "Boeing Japan" current
+[site_extractor] web_search: "425 Tranmere Drive" Boeing current Mississauga
+[site_extractor] web_search: "27 Rue E. Audibert" Boeing Distribution current
+[site_extractor] web_search: "740–742 Chester Road" Boeing current location
+[site_extractor] web_search: "Boeing Japan K.K." "Toranomon Hills Station Tower"
+[site_extractor] web_search: "38 Beach Road" Boeing current 2025 Singapore
+[site_extractor] web_search: site:boeing.com/privacy/data_protection_officers "38 Beach Road" Boeing Singapore
+[site_extractor] web_search: site:boeing.com/privacy/data_protection_officers "136 Sejong-daero" Boeing
+[site_extractor] web_search: site:boeing.com.au/privacy "10 Bridge Street" Boeing Australia
+[site_extractor] web_search: site:boeing.ca "99 Murray Park Road" Boeing Canada largest aerospace composite
+[site_extractor] web_search: site:boeing.com/company/about-bca/washington "18001 Canyon Road"
+[site_extractor] web_search: site:boeing.com/company/global-presence/latin-america "São José dos Campos" Boeing
+[site_extractor] web_search: site:boeing.com/company/general-info/corporate-governance "929 Long Bridge Drive"
+[site_extractor] web_search: site:boeing.com/privacy/data_protection_officers "Frankfurter Str. 233" Boeing
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl

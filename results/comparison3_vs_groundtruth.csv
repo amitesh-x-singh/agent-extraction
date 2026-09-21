@@ -1,0 +1,31 @@
+file,company,n_candidates,n_gt,candidates_matched,candidates_matched_pct,gt_covered,gt_covered_pct
+synapse_input_3,BOEING,13,175,0,0.0,0,0.0
+synapse_input_3,CORNING,42,61,9,21.4,8,13.1
+synapse_input_3,ELLSWORTH,7,38,2,28.6,1,2.6
+synapse_input_3,ELRING KLINGER,42,20,3,7.1,3,15.0
+synapse_input_3,INTEL,9,59,1,11.1,1,1.7
+synapse_input_3,MICRON TECHNOLOGY,368,53,19,5.2,7,13.2
+synapse_input_3,PANASONIC,64,403,2,3.1,2,0.5
+synapse_input_3,SAINT-GOBAIN,10,150,1,10.0,1,0.7
+synapse_input_3,TE CONNECTIVITY,122,479,2,1.6,1,0.2
+synapse_input_3,YAGEO,5,97,0,0.0,0,0.0
+fs_sample_research,BOEING,68,175,31,45.6,30,17.1
+fs_sample_research,CORNING,70,61,18,25.7,18,29.5
+fs_sample_research,ELLSWORTH,33,38,4,12.1,4,10.5
+fs_sample_research,ELRING KLINGER,41,20,8,19.5,8,40.0
+fs_sample_research,INTEL,32,59,12,37.5,12,20.3
+fs_sample_research,MICRON TECHNOLOGY,50,53,5,10.0,5,9.4
+fs_sample_research,PANASONIC,98,403,34,34.7,33,8.2
+fs_sample_research,SAINT-GOBAIN,72,150,8,11.1,4,2.7
+fs_sample_research,TE CONNECTIVITY,110,479,63,57.3,56,11.7
+fs_sample_research,YAGEO,53,97,12,22.6,9,9.3
+combined_10_effort_high,BOEING,45,175,14,31.1,14,8.0
+combined_10_effort_high,CORNING,57,61,15,26.3,15,24.6
+combined_10_effort_high,ELLSWORTH,35,38,5,14.3,5,13.2
+combined_10_effort_high,ELRING KLINGER,50,20,12,24.0,11,55.0
+combined_10_effort_high,INTEL,31,59,9,29.0,9,15.3
+combined_10_effort_high,MICRON TECHNOLOGY,48,53,5,10.4,5,9.4
+combined_10_effort_high,PANASONIC,68,403,27,39.7,25,6.2
+combined_10_effort_high,SAINT-GOBAIN,34,150,5,14.7,5,3.3
+combined_10_effort_high,TE CONNECTIVITY,53,479,26,49.1,25,5.2
+combined_10_effort_high,YAGEO,51,97,12,23.5,7,7.2

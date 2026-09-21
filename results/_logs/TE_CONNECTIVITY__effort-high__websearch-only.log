@@ -1,0 +1,541 @@
+Researching site locations for: TE CONNECTIVITY
+
+Collected 53 distinct candidate address(es), 53 verification(s).
+
+=== Ranked candidates for TE CONNECTIVITY ===
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Building 5, No. 1528 Gumei Road, Shanghai 200233, China
+    source:  https://www.te.com/de/about-te/our-company/impressum.html
+    quote:   Tyco Electronics (Shanghai) Co., Ltd., Building 5, No. 1528 Gumei Road, Shanghai 200233, China
+    verifier: TE’s current German impressum identifies this Shanghai address. Other current TE records also identify Shanghai operations.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 3-5-8 Hisamoto, Takatsu-ku, Kawasaki, Kanagawa 213-8535, Japan
+    source:  https://www.te.com/ja/about-te/our-company/te-japan/te-japan-location.html
+    quote:   3-5-8 Hisamoto, Takatsu-ku, Kawasaki, Kanagawa, Japan
+    verifier: The current TE Japan directory lists the Utsunomiya sales office at this address.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 4-2-13 Awajimachi, Chuo-ku, Osaka, Osaka 541-0047, Japan
+    source:  https://www.te.com/ja/about-te/our-company/te-japan/te-japan-location.html
+    quote:   〒541-0047 大阪府大阪市中央区淡路町4-2-13 アーバンネット御堂筋ビル4階
+    verifier: The current TE Japan directory lists the Utsunomiya sales office at this address.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2-160 Kitamachi, Toyota-shi, Aichi 471-0027, Japan
+    source:  https://www.te.com/ja/about-te/our-company/te-japan/te-japan-location.html
+    quote:   Como Square West 6F, 2-160 Kitamachi, Toyota-shi, Aichi 471-0027, Japan
+    verifier: The current TE Japan directory lists the Utsunomiya sales office at this address.
+
+- [A] score=1.00 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1-9-15 Higashishukugō, Utsunomiya, Tochigi 321-0953, Japan
+    source:  https://www.te.com/ja/about-te/our-company/te-japan/te-japan-location.html
+    quote:   〒321-0953 栃木県宇都宮市東宿郷1-9-15 フローラビル8階
+    verifier: The current TE Japan directory lists the Utsunomiya sales office at this address.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Parkmore Business Park West, Parkmore, Ballybrit, Galway, H91 VN2T, Ireland
+    source:  https://www.te.com/en/customer-support/connect-with-us.html
+    quote:   Parkmore Business Park West; Parkmore, Ballybrit; Galway, H91 VN2T; Ireland
+    verifier: TE’s current contact page identifies this as its U.S. regional headquarters. No contrary closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 680 East Swedesford Road, Suite 100, Wayne, PA 19087, United States
+    source:  https://www.te.com/en/customer-support/connect-with-us.html
+    quote:   680 East Swedesford Road, Suite 100; Wayne, PA 19087; United States
+    verifier: TE’s current contact page identifies this as its U.S. regional headquarters. No contrary closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Ampèrestraße 12–14, 64625 Bensheim, Germany
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Germany GmbH, Ampèrestraße 12–14, 64625 Bensheim, Germany
+    verifier: The 2025 statutory statements list the Vietnam entity at these units; older documents show a different suite in the same building, not a different site.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Brabantlaan 2A, 5216 TV ’s-Hertogenbosch, The Netherlands
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Nederland B.V., Brabantlaan 2A, 5216 TV ’s-Hertogenbosch, The Netherlands
+    verifier: The 2025 statutory statements list the Vietnam entity at these units; older documents show a different suite in the same building, not a different site.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 83 Clemenceau Avenue, #06-01 UE Square, Singapore 239920
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Tyco Electronics Singapore Pte. Ltd., 83 Clemenceau Avenue, #06-01, UE Square, Singapore 239920
+    verifier: The 2025 statutory statements list the Vietnam entity at these units; older documents show a different suite in the same building, not a different site.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Unit 1, Level 18, Tower 1, Kowloon Commerce Centre, 51 Kwai Cheong Road, Kwai Chung, New Territories, Hong Kong
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Unit 1, Level 18, Tower 1, Kowloon Commerce Centre, 51 Kwai Cheong Road, Kwai Chung, New Territories, Hong Kong
+    verifier: The 2025 statutory statements list the Vietnam entity at these units; older documents show a different suite in the same building, not a different site.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Units 215–216, Saigon Trade Center, 37 Ton Duc Thang Street, Saigon Ward, Ho Chi Minh City, Vietnam
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Units 215–216, Saigon Trade Center, 37 Tôn Đức Thắng Street, Saigon Ward, Ho Chi Minh City, Vietnam
+    verifier: The 2025 statutory statements list the Vietnam entity at these units; older documents show a different suite in the same building, not a different site.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 100 Shobugaike, Kakegawa-shi, Shizuoka-ken 436-0040, Japan
+    source:  https://www.te.com/ja/about-te/our-company/te-japan/kakegawa-plant.html
+    quote:   100 Shobugaike, Kakegawa-shi, Shizuoka-ken, Japan; 〒436-0040
+    verifier: TE’s dedicated Kakegawa plant page describes this as an active development and production facility; current listings also retain the address.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 7 Industrial Park Road, Medway, MA 02053, United States
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-medway.html
+    quote:   Medway, Massachusetts: 7 Industrial Park Rd, Medway, MA 02053, USA
+    verifier: The dedicated TE manufacturing page remains active and TE’s certification page shows certification through 2027. No closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 5905 Trenton Lane North, Plymouth, MN 55442, United States
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-plymouth-tl.html
+    quote:   5905 Trenton Lane North, Plymouth, MN 55442, USA
+    verifier: TE continues to list this as a medical manufacturing site; no closure or relocation notice was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 5015 Cheshire Parkway North, Plymouth, MN 55446, United States
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-plymouth-cp.html
+    quote:   5015 Cheshire Parkway North, Plymouth, MN 55446, USA
+    verifier: The dedicated TE page and current careers listings identify this as an operating Plymouth manufacturing site.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 10025 Southwest Freeman Drive, Wilsonville, OR 97070, United States
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-wilsonville.html
+    quote:   10025 Southwest Freeman Drive, Wilsonville, OR 97070, USA
+    verifier: TE’s dedicated page describes an active medical manufacturing center; a 2025 TE announcement describes expansion at the Wilsonville facility.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1000 Lucas Way, Hampton, VA 23666, United States
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+    quote:   1000 Lucas Way, Hampton, VA 23666
+    verifier: TE’s certification records list the address with ISO 13485 certification valid through December 2027; no closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1396 Charlotte Highway, Fairview, NC 28730, United States
+    source:  https://www.te.com/content/dam/te-com/documents/medical/global/Quality/Harrisburg%20-%2010301091-201023_2010.pdf
+    quote:   TE Connectivity Corporation, 1396 Charlotte Highway, Fairview, NC 28730, United States
+    verifier: The TE certification document gives the exact address, while current TE careers listings identify Fairview-based positions.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 8000 Piedmont Triad Parkway, Greensboro, NC 27409, United States
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+    quote:   8000 Piedmont Triad Parkway, Greensboro, NC 27409
+    verifier: TE’s certification records list the address with ISO 13485 certification valid through December 2027; no closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 8300 Triad Drive, Greensboro, NC 27409, United States
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+    quote:   8300 Triad Drive, Greensboro, NC 27409
+    verifier: TE’s certification records list the address with ISO 13485 certification valid through December 2027; no closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 719 Pegg Road, Greensboro, NC 27409, United States
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+    quote:   719 Pegg Road, Greensboro, NC 27409
+    verifier: TE’s certification records list the address with ISO 13485 certification valid through December 2027; no closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2800 Fulling Mill Road, Middletown, PA 17057, United States
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+    quote:   2800 Fulling Mill Road, Middletown, PA 17057
+    verifier: TE’s certification records list the address with ISO 13485 certification valid through December 2027; no closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2901 Fulling Mill Road, Middletown, PA 17057, United States
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+    quote:   2901 Fulling Mill Road, Middletown, PA 17057
+    verifier: TE’s certification records list the address with ISO 13485 certification valid through December 2027; no closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 3101 Fulling Mill Road, Middletown, PA 17057, United States
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+    quote:   3101 Fulling Mill Road, Middletown, PA 17057
+    verifier: TE’s certification records list the address with ISO 13485 certification valid through December 2027; no closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 10401 Winnetka Avenue North, Suite 100, Brooklyn Park, MN 55445, United States
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+    quote:   10401 Winnetka Avenue North, Suite 100, Brooklyn Park, MN 55445
+    verifier: TE’s certification records list the address with ISO 13485 certification valid through December 2027; no closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Zona Franca Metropolitana, Edificio 3-C, Heredia 40104, Costa Rica
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-costa-rica-heredia.html
+    quote:   Zona Franca Metropolitana, Edificio 3-C, Heredia 40104, Costa Rica
+    verifier: The dedicated TE page describes an operating Heredia medical manufacturing site; 2025 filings identify the Costa Rican entity as operating.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Calle Potrerillos, Zona Franca Flexipark, Bodega G5, San Rafael, Costa Rica
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-costa-rica-sr.html
+    quote:   Calle Potrerillos, Zona Franca Flexipark, Bodega G5, Costa Rica
+    verifier: TE’s dedicated page lists this San Rafael manufacturing site, and the Costa Rica certification page continues to list San Rafael operations.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 8 Chunhui Road, Suzhou Industrial Park, Jiangsu, China 215122
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-china.html
+    quote:   No. 8 Chunhui Road, Suzhou Industrial Park, Jiangsu, China 215122
+    verifier: TE’s current dedicated page identifies the Suzhou manufacturing and R&D site; 2025 statutory records list Suzhou entities as operating.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: #88, Sahasra Shree, 1st Floor, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-india.html
+    quote:   #88, Sahasra Shree, 1st Floor, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India
+    verifier: TE’s dedicated page lists the Bangalore manufacturing site; current certification records show the Whitefield site certified through 2027.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 69F, KIADB Bengaluru Aerospace Park, B.K. Halli Post, Bagalur, Bengaluru North, Karnataka 562149, India
+    source:  https://careers.te.com/job/MANUFACTURING-TEAM-LEADER-II-%28IND%29/152658-en_US
+    quote:   No. 69F, KIADB Bengaluru Aerospace Park, B.K. Halli Post, Bagalur, Bengaluru North, Karnataka 562149, India
+    verifier: Current TE manufacturing-team and materials-planning postings identify this as an active onsite manufacturing location; 2025 filings list the related entity as operating.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Carretera Internacional KM 1969, Guadalajara–Nogales KM 2, CP 85340, Empalme, Sonora, Mexico
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-mexico.html
+    quote:   Carretera Internacional KM 1969, Guadalajara–Nogales KM 2, CP 85340, Empalme, Sonora, Mexico
+    verifier: TE’s dedicated page describes active molding and assembly manufacturing at this site; recent records describe continuing Empalme operations.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Calle Latitud Sur No. 74, Hermosillo, Sonora 83175, Mexico
+    source:  https://www.te.com/en/about-te/news-center/production-facility-in-hermosillo.html
+    quote:   The distribution center is located at: Calle Latitud Sur, No. 74, Hermosillo, Sonora 83175, Mexico
+    verifier: TE announced this distribution center and current TE certification and careers results show continuing Hermosillo operations. The announcement says it replaced an older smaller facility, not the whole Hermosillo operation.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Plot No. 522, Lorong Perusahaan Baru 3, Prai Industrial Estate, Prai, Penang 13600, Malaysia
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=mys
+    quote:   Plot No. 522, Lorong Perusahaan Baru 3, Prai Industrial Estate, 13600 Prai, Penang, Malaysia
+    verifier: TE lists the Prai plant with certifications valid into 2027–2029; recent recruitment and shipping records also indicate ongoing operations.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Rua Ampère, 304 – Campo da Penha, Bragança Paulista, São Paulo 12929-570, Brazil
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=bra
+    quote:   TE Connectivity Brasil Indústria de Eletrônicos Ltda., Rua Ampère, 304 – Campo da Penha, Bragança Paulista, São Paulo 12929-570, Brazil
+    verifier: TE’s certification page lists the site with current certifications, and Brazilian registry and local production evidence indicate the facility remains active.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Calle Santiago Troncoso No. 460, Fraccionamiento Lote Bravo, C.P. 32599, Ciudad Juárez, Chihuahua, Mexico
+    source:  https://www.te.com/es/utilities/management-system-certifications.html
+    quote:   Calle Santiago Troncoso No. 460, Fraccionamiento Lote Bravo, C.P. 32599, Ciudad Juárez, Chihuahua, Mexico
+    verifier: TE’s certification records and 2025 statutory filings continue to identify the Tijuana site as operating. Product-line transfers do not establish a full plant closure.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Av. Producción No. 20, Parque Industrial Internacional, Tijuana, Baja California 22424, Mexico
+    source:  https://www.te.com/es/utilities/management-system-certifications.html
+    quote:   Av. Producción No. 20, Parque Industrial Internacional, Tijuana, Baja California 22424, Mexico
+    verifier: TE’s certification records and 2025 statutory filings continue to identify the Tijuana site as operating. Product-line transfers do not establish a full plant closure.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1 rue Ampère, 95300 Pontoise, France
+    source:  https://www.te.com/fr/utilities/management-system-certifications.html
+    quote:   1 rue Ampère, 95300 Pontoise, France
+    verifier: The current TE French certification page lists this address; no contradictory closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 26 rue des Dames, Zone Industrielle, BP 59, 78340 Les Clayes-sous-Bois, France
+    source:  https://www.te.com/fr/utilities/management-system-certifications.html
+    quote:   26 rue des Dames, Zone Industrielle, BP 59, 78340 Les Clayes-sous-Bois, France
+    verifier: The current TE French certification page lists this address; no contradictory closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1 rue du Port, 38120 Saint-Égrève, France
+    source:  https://www.te.com/fr/utilities/management-system-certifications.html
+    quote:   1 rue du Port, 38120 Saint-Égrève, France
+    verifier: The current TE French certification page lists this address; no contradictory closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 4 rue Gaye-Marie, 31300 Toulouse, France
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   4 rue Gaye-Marie, 31300 Toulouse — TE Connectivity Sensors France
+    verifier: TE supplier documentation identifies the Toulouse sensor operation at this address, and TE certification records list Toulouse operations. No closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Ampère-Straße 11, 91550 Dinkelsbühl, Germany
+    source:  https://www.te.com/de/utilities/management-system-certifications.html
+    quote:   TE Connectivity Germany, Ampère-Straße 11, 91550 Dinkelsbühl, Germany
+    verifier: TE’s certification page lists the Speyer Innovation Center. Reporting indicates production is planned to end by December 2028, so the site is current but has a future production wind-down risk.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Mobilstraße 2, 76744 Wörth am Rhein, Germany
+    source:  https://www.te.com/de/utilities/management-system-certifications.html
+    quote:   TE Connectivity Germany GmbH, Mobilstraße 2, 76744 Wörth am Rhein, Germany
+    verifier: TE’s certification page lists the Speyer Innovation Center. Reporting indicates production is planned to end by December 2028, so the site is current but has a future production wind-down risk.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Siemensstraße 13, 67346 Speyer, Germany
+    source:  https://www.te.com/de/utilities/management-system-certifications.html
+    quote:   TE Connectivity — Speyer Innovation Center, Siemensstraße 13, 67346 Speyer, Germany
+    verifier: TE’s certification page lists the Speyer Innovation Center. Reporting indicates production is planned to end by December 2028, so the site is current but has a future production wind-down risk.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Baross Gábor utca 2–6, 2534 Tát, Hungary
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=hun
+    quote:   TE Connectivity – Tát, Hungary, Baross Gábor utca 2–6, 2534 Tát
+    verifier: TE’s certification page lists current certifications, and a 2025 factory-visit program described Tát as an operating production site.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Komenského 821, 541 01 Trutnov, Czech Republic
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=cze
+    quote:   Komenského 821, 541 01 Trutnov, Czech Republic
+    verifier: TE’s certification page lists active Trutnov certifications, while TE’s Czech careers page describes two operating Trutnov plants.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: ul. Kablowa 1, 70-895 Szczecin, Poland
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=pol
+    quote:   TE lists its facility at ul. Kablowa 1, 70-895 Szczecin
+    verifier: TE lists active certifications for this Szczecin facility through 2029; recent TE recruitment and statutory filings identify the branch as operating.
+
+- [B] score=0.60 verdict=uncertain  address_city_matched=no   address_country_matched=no
+    address: Rua Circular Intermédia nº 22, Parque Industrial e Tecnológico de Évora, 7005-513 Évora, Portugal
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=prt
+    quote:   Rua Circular Intermédia nº 22, Parque Industrial e Tecnológico de Évora, 7005-513 Évora, Portugal
+    verifier: TE’s certification page lists this address, but product-change notices report that some Évora production was transferred to Trutnov and Dobrany. I found no clear evidence of complete site closure.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Corso Fratelli Cervi 15, 10093 Collegno, Torino, Italy
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=ita
+    quote:   TE Connectivity Italy, Corso Fratelli Cervi 15, 10093 Collegno, Torino, Italy
+    verifier: TE’s current Italian certification page and 2025 statutory statements list this location; no closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Avenida Diagonal 123, 11th floor, Barcelona, 08005, Spain
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=esp
+    quote:   Avenida Diagonal 123, 11th floor, Barcelona, 08005, Spain
+    verifier: TE’s Spanish certification listing and Spanish terms document identify this office address; no relocation or closure evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Güemes 676, Piso 1, Vicente López, Buenos Aires, Argentina
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=arg
+    quote:   Güemes 676, Piso 1, Vicente López, Buenos Aires, Argentina
+    verifier: TE’s Argentina certification listing identifies this facility; no closure or relocation evidence was found.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 304 Sinwon-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16675, South Korea
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=kor
+    quote:   304 Sinwon-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16675
+    verifier: TE’s current Korea certification records list this Suwon site with certification validity extending to 2029.
+
+- [B] score=0.60 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Shiyan Street, Bao’an District, Shenzhen City, Guangdong 518108, China
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=chn
+    quote:   TE Connectivity Technology Park, Shiyan Street, Bao’an District, Shenzhen City, Guangdong 518108, China
+    verifier: TE’s China certification records list this Shenzhen technology-park location; no closure or relocation evidence was found.
+
+Ground-truth address row(s) available for 'TE CONNECTIVITY': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\TE_CONNECTIVITY__effort-high__websearch-only.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 25 calls, 860055 in / 24521 out tokens
+TOTAL web_search: 201 calls, 2399522 in / 64474 out tokens
+TOTAL tool calls attempted: 201 (no cap -- none blocked)
+TOTAL estimated cost: $2.7687 (rough estimate, see config.py)
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         25 calls, 860055 in / 24521 out tokens
+
+--- Queries issued (201) ---
+[site_extractor] web_search: TE Connectivity official locations address site:te.com locations
+[site_extractor] web_search: TE Connectivity 10-K properties manufacturing facilities addresses
+[site_extractor] web_search: site:te.com TE Connectivity contact headquarters address Harrisburg
+[site_extractor] web_search: TE Connectivity ISO 9001 certificate address plant
+[site_extractor] web_search: TE Connectivity plant factory address manufacturing site
+[site_extractor] web_search: TE Connectivity warehouse distribution center address
+[site_extractor] web_search: TE Connectivity office locations address Germany China India
+[site_extractor] web_search: TE Connectivity LinkedIn locations address
+[site_extractor] web_search: site:te.com "Manufacturing Site" "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Address" TE Connectivity
+[site_extractor] web_search: site:te.com "TE Connectivity" "Middletown" address manufacturing
+[site_extractor] web_search: site:te.com "TE Connectivity" "China" "Address" manufacturing site
+[site_extractor] web_search: site:te.com "TE Connectivity" "India" manufacturing address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Bensheim" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Mexico" manufacturing address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Japan" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "France" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "United Kingdom" address
+[site_extractor] web_search: site:te.com/ja/about-te/our-company/te-japan/te-japan-location.html "〒"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "No." "Road"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "USA" "Address"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Swindon" "Faraday Road"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Pontoise" "1 rue Ampère"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html TE Connectivity "Plant" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Tijuana" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Hermosillo" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Kakegawa" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Switzerland" address headquarters
+[site_extractor] web_search: site:te.com "TE Connectivity" "Netherlands" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Poland" address plant
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=pol "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=mex "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=deu "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=ind "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=chn "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=jpn "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=kor "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=hun "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=bra "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=ita "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=esp "TE Connectivity" address
+[site_extractor] web_search: TE Connectivity plc registered office Galway Parkmore Business Park West H91VN2T official
+[site_extractor] web_search: TE Connectivity Corporation 680 East Swedesford Road Wayne PA official
+[site_extractor] web_search: site:te.com/en/customer-support/connect-with-us.html "680 East Swedesford"
+[site_extractor] web_search: TE Connectivity principal executive offices 1050 Westlakes Drive Berwyn official
+[site_extractor] web_search: site:te.com/en/policies-agreements/privacy-policy.html "1050 Westlakes"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Hampton" "1000 Lucas Way"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Middletown, PA" "2800 Fulling"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Harrisburg" "2100 Paxton"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Greensboro" address manufacturing
+[site_extractor] web_search: site:te.com "TE Connectivity" "Menlo Park" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Wilsonville" "10025"
+[site_extractor] web_search: site:investors.te.com/overview/default.aspx "Parkmore Business Park West"
+[site_extractor] web_search: site:te.com "Parkmore Business Park West" "H91"
+[site_extractor] web_search: site:te.com "Galway" "Parkmore" TE Connectivity address
+[site_extractor] web_search: site:sec.gov TE Connectivity 2025 10-K Galway address
+[site_extractor] web_search: site:sec.gov/Archives/edgar/data/1385157 TE Connectivity "1050 Westlakes"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Singapore" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Malaysia" address plant
+[site_extractor] web_search: site:te.com "TE Connectivity" "Thailand" address plant
+[site_extractor] web_search: site:te.com "TE Connectivity" "Vietnam" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Taiwan" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Czech Republic" address plant
+[site_extractor] web_search: site:te.com "TE Connectivity" "Austria" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Hungary" "Tát" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Romania" address plant
+[site_extractor] web_search: site:te.com "TE Connectivity" "Portugal" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Spain" "Goiru Kalea"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Dinkelsbühl" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Turkey" address plant
+[site_extractor] web_search: site:te.com "TE Connectivity" "Wörth am Rhein" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Speyer" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Berlin" address Germany
+[site_extractor] web_search: site:te.com "TE Connectivity" "Calw" address
+[site_extractor] web_search: site:te.com "TE Connectivity" Canada address office plant
+[site_extractor] web_search: site:te.com "TE Connectivity" Brazil "Bragança Paulista" address
+[site_extractor] web_search: site:te.com "TE Connectivity" Brazil manufacturing address certification
+[site_extractor] web_search: site:te.com "TE Connectivity" Mexico "Juárez" address
+[site_extractor] web_search: site:te.com "TE Connectivity" Mexico "Empalme" address manufacturing
+[site_extractor] web_search: site:te.com "TE Connectivity" Mexico "Tecate" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "El Paso Distribution Center"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Hermosillo" "Distribution Center"
+[site_extractor] web_search: site:te.com "TE Connectivity" Argentina address
+[site_extractor] web_search: site:te.com "TE Connectivity" Costa Rica address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Minnesota" manufacturing address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Pennsylvania" plant address
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Heredia" "Zona Franca Metropolitana"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Medway" "7 Industrial Park"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Plymouth" "5905 Trenton"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "5015 Cheshire"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Galway" "Parkmore West"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Suzhou" "Chunhui"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Empalme" "Carretera"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Wilsonville" "Freeman"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Bangalore" address
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Mexico" "manufacturing site"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities "Malaysia" address
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities.html "Costa Rica" "China" "Ireland"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities.html "United States" "India"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities.html "Hermosillo"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities.html "Plymouth" "Medway" "Wilsonville"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities.html "Heredia" "San Rafael"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities.html "Galway" "Suzhou"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-costa-rica-heredia.html "Zona Franca"
+[site_extractor] web_search: site:te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-costa-rica-sr.html "Calle Potrerillos"
+[site_extractor] web_search: site:te.com "San Rafael, Costa Rica" "Bodega G5" TE Connectivity
+[site_extractor] web_search: site:te.com "Heredia, 40104" "TE Connectivity"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Plymouth, MN 55442"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Plymouth, MN 55446"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Galway, H91 VN2T" manufacturing
+[site_extractor] web_search: site:te.com "TE Connectivity" "No. 8 Chunhui Road"
+[site_extractor] web_search: site:te.com/ja/about-te/our-company/te-japan/te-japan-location.html "大阪" "住所"
+[site_extractor] web_search: site:te.com/ja/about-te/our-company/te-japan/te-japan-location.html "掛川工場"
+[site_extractor] web_search: site:te.com/ja/about-te/our-company/te-japan/te-japan-location.html "Toyota" "TE Connectivity"
+[site_extractor] web_search: TE Connectivity Japan Kakegawa factory address site:te.com
+[site_extractor] web_search: TE Connectivity Osaka office address site:te.com
+[site_extractor] web_search: TE Connectivity Utsunomiya office address site:te.com
+[site_extractor] web_search: site:te.com/ja/about-te/our-company/te-japan/te-japan-location.html "3-5-8 Hisamoto"
+[site_extractor] web_search: TE Connectivity Toyota Japan address site:te.com
+[site_extractor] web_search: site:te.com/ja/about-te/our-company/te-japan/te-japan-location.html "宇都宮" "〒321-0953"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=chn "Weifang" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Shanghai 200233" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=kor "Korea" "TE Connectivity" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=kor "Suwon" "Gyeonggi"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=chn "Shenzhen" "Shiyan Street"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Beijing" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=chn "Suzhou" address TE Connectivity
+[site_extractor] web_search: site:te.com "TE Connectivity" "Hong Kong" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Greensboro" address TE
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Harrisburg" address TE
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Menlo Park" address TE
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Middletown" address TE
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Wilbur Way" TE Connectivity
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Harrisburg, PA 17111"
+[site_extractor] web_search: site:careers.te.com TE Connectivity "Greensboro, NC 27409" plant
+[site_extractor] web_search: site:careers.te.com TE Connectivity "2100 Paxton Street"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Kirkwood" address manufacturing
+[site_extractor] web_search: site:te.com "TE Connectivity" "Fairview" plant address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Pottstown" address
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Greensboro, NC 27409" "8000" "8300"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "North Carolina" "TE Connectivity"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Pennsylvania" "TE Connectivity"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "California" "TE Connectivity"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Texas" "TE Connectivity"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Indiana" "TE Connectivity"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Michigan" "TE Connectivity"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "New Hampshire" "TE Connectivity"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=usa "Massachusetts" "TE Connectivity"
+[site_extractor] web_search: site:te.com "relocated" "TE Connectivity" address office
+[site_extractor] web_search: site:te.com "closed" "TE Connectivity" manufacturing site
+[site_extractor] web_search: "TE Connectivity" "moved" address office
+[site_extractor] web_search: "TE Connectivity" "permanently closed" facility
+[site_extractor] web_search: "TE Connectivity" facility closure plant closed 2024 2025
+[site_extractor] web_search: "TE Connectivity" "Hermosillo" closure OR closed
+[site_extractor] web_search: "TE Connectivity" "Medway" closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Wilsonville" closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Middletown" closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Kakegawa" closed OR moved
+[site_extractor] web_search: "TE Connectivity" "Swindon" closed OR moved
+[site_extractor] web_search: site:te.com "TE Connectivity" "Pohořelice" "691 23"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Trutnov" "Komenského 821"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Szczecin" "Kablowa 1"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Lębork" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Les Clayes-sous-Bois" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Toulouse" "Gaye-Marie"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Saint-Égrève" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "Barcelona" "Avenida Diagonal 123"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Collegno" "Corso Fratelli Cervi"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Netherlands" "Brabantlaan 2A"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Vietnam" "Saigon Trade Center"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Hong Kong" "Kowloon Commerce Centre"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?f1=12 "Shirwal"
+[site_extractor] web_search: site:careers.te.com "Wagholi facility" "Rahu Road"
+[site_extractor] web_search: site:te.com "Pune" "Kesnand" "TE Connectivity"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Bengaluru" "560066" address
+[site_extractor] web_search: site:careers.te.com "Bengaluru Aerospace Park" "69F"
+[site_extractor] web_search: site:te.com "TE Connectivity India" "RMZ NXT" address
+[site_extractor] web_search: site:te.com "TE Connectivity" "1000 Lucas Way, Hampton"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Fairview, NC 28730"
+[site_extractor] web_search: site:te.com "TE Connectivity" "719 Pegg Road"
+[site_extractor] web_search: site:te.com "TE Connectivity" "8000 Piedmont Triad Parkway"
+[site_extractor] web_search: site:te.com "TE Connectivity" "8300 Triad Drive"
+[site_extractor] web_search: site:te.com "TE Connectivity" "Brooklyn Park" "10401 Winnetka"
+[site_extractor] web_search: site:te.com "TE Connectivity" "2901 Fulling Mill Road"
+[site_extractor] web_search: site:te.com "TE Connectivity" "900 Wilshire Boulevard" Troy
+[site_extractor] web_search: site:te.com "TE Connectivity" "3101 Fulling Mill Road"
+[site_extractor] web_search: "TE Connectivity" "Tát" closed OR closure OR moved
+[site_extractor] web_search: "TE Connectivity" "Trutnov" closed OR closure OR moved
+[site_extractor] web_search: "TE Connectivity" "Szczecin" closed OR closure OR moved
+[site_extractor] web_search: "TE Connectivity" "Bragança Paulista" closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Bangalore" plant closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Suzhou" plant closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Costa Rica" plant closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Guaymas" plant closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Tijuana" plant closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Prai" plant closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Pontoise" closed OR closure
+[site_extractor] web_search: "TE Connectivity" "Dinkelsbühl" closed OR closure
+[site_extractor] web_search: site:te.com/es/utilities/management-system-certifications.html "Carretera Federal Mexicali" "Tecate"
+[site_extractor] web_search: site:te.com/en/utilities/management-system-certifications.html?iso=cze "691 23 Pohořelice" "963"
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl

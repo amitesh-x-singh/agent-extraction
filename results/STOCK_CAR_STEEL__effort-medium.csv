@@ -1,0 +1,10 @@
+supplier_name	street_address	address_line_2	city	state	postal_code	country	confidence	category	legal_entity	site_name	site_type	ownership_type	operational_status	status_as_of	tier	score	source_url	evidence_quote	gt_address_city_match	gt_address_country_match
+STOCK CAR STEEL	801 Performance Rd A		Mooresville	North Carolina	28115	United States	High		SCSA/SRI Fornelli, Inc. (formerly Stock Car Steel and Aluminum, Inc.)	Stock Car Steel & Aluminum	Distribution Center, Warehouse, Office	Operating site of SCSA/SRI Fornelli, Inc.	Active		A	1.00	https://www.stockcarsteel.com/locations	"Stock Car Steel
+801 Performance Rd A
+Mooresville, NC 28115
+Phone: (704) 664-3044"	False	False
+STOCK CAR STEEL	122 Knob Hill Rd		Mooresville	North Carolina	28117	United States	High		SCSA/SRI Fornelli, Inc. (same SRI corporate group as Stock Car Steel & Aluminum)	SRI Performance	Distribution Center, Warehouse, Office	Related SRI group operating entity; corporate relationship supported by the shared official locations directory	Active		A	1.00	https://www.stockcarsteel.com/locations	"SRI Performance
+122 Knob Hill Rd
+Mooresville, NC 28117
+Phone: (704) 662-6982"	False	False
+STOCK CAR STEEL	451 Southpoint Circle, Suite 100		Brownsburg	Indiana	46112	United States	High		SRI Indianapolis; exact legal entity not publicly confirmed	SRI Indianapolis	Sales Office, Distribution Center, Customer Service Facility	SRI family-of-brands facility combining SRI Performance and Stock Car Steel & Aluminum offerings; exact ownership percentage not publicly confirmed	Active		A	1.00	https://sri-indy.com/about-us	SRI Indianapolis is a strategic expansion that brings together the expertise and product offerings of SRI Performance and Stock Car Steel & Aluminum in one convenient Midwest location.	False	False

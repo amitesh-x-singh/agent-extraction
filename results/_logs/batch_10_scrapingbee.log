@@ -1,0 +1,1831 @@
+WARNING: Address ground truth CSV not found at C:\Users\AmiteshSingh\Development\site_extraction_one_agent\groundtruth.csv.
+WARNING: Address ground truth CSV not found at C:\Users\AmiteshSingh\Development\site_extraction_one_agent\groundtruth.csv.
+WARNING: Address ground truth CSV not found at C:\Users\AmiteshSingh\Development\site_extraction_one_agent\groundtruth.csv.
+Batch: 10 companies from suppliers.csv
+INTEL, CORNING, TE CONNECTIVITY, SAINT-GOBAIN, PANASONIC, BOEING, MICRON TECHNOLOGY, ELLSWORTH, ELRING KLINGER, YAGEO
+
+
+==============================================================================
+[1/10] INTEL
+==============================================================================
+Researching site locations for: INTEL
+
+Collected 57 distinct candidate address(es).
+
+Company domains treated as first-party: intel.com, intel.co.jp, intel.de, mobileye.com, exploreintel.com
+
+=== Ranked candidates for INTEL ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 2200 Mission College Boulevard, Santa Clara, California, 95054-1549, United States
+    site_type: Headquarters, Office, R&D, Engineering, Design
+    source:  https://www.intel.com/content/www/us/en/support/campus-locations.html
+    quote:   Corporate Mailing Address 2200 Mission College Blvd. Santa Clara, CA 95054-1549 USA
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 3585 Southwest 198th Avenue, Aloha, Oregon, 97007, United States
+    site_type: Manufacturing Plant, Semiconductor Processing, Assembly/Sort
+    source:  https://www.oregon.gov/deq/aq/cao/nwr/Pages/Intel-Aloha.aspx
+    quote:   Aloha campus at 3585 SW 198th Avenue in Aloha, Oregon.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 2501 Northeast Century Boulevard, Hillsboro, Oregon, 97124, United States
+    site_type: Manufacturing Plant, Wafer Fabrication, R&D
+    source:  https://www.oregon.gov/deq/aq/cao/nwr/Pages/Intel-Aloha.aspx
+    quote:   Gordon Moore Park at Ronler Acres campus at 2501 NE Century Boulevard in Hillsboro, Oregon
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 1300 South MoPac Expressway, Austin, Texas, 78746, United States
+    site_type: R&D, Engineering, Design
+    source:  https://www.tdlr.texas.gov/TABS/Search/Print/TABS2020017258
+    quote:   Intel Corporation 1300 S MoPac Expressway Austin, TX 78746 United States
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Dornacher Straße 1, Feldkirchen, Bavaria, 85622, Germany
+    site_type: Office, Sales, Marketing, Engineering
+    source:  https://www.intel.de/content/www/de/de/legal/impressum.html
+    quote:   Intel Deutschland GmbH, Dornacher Straße 1, 85622 Feldkirchen, Germany
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 1 Shlomo Momo Halevi, Har Hotzvim, Jerusalem, Israel
+    site_type: Headquarters, R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   Jerusalem Shlomo Momo Halevi 1, Har Hotzvim
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 52 Mordechai Anilevich Street, Tel Aviv, Israel
+    site_type: R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   Tel Aviv Mordechai Anilevich 52
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: One Tower, 19 Abba Hillel Silver, Ramat Gan, Israel
+    site_type: R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   Ramat Gan One Tower, Abba Hillel Silver 19
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 9 Andrei Sakharov, Matam Industrial Park, Buildings 3 and 25, Haifa, Israel
+    site_type: R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   Haifa Andrei Sakharov 9, Matam Industrial Park, Buildings 3, 25
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 25301 Dequindre Road, Madison Heights, Michigan, 48071, United States
+    site_type: R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   Detroit 25301 Dequindre Rd, Madison Heights, MI 48071
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Lütticher Straße 132, Düsseldorf, 40547, Germany
+    site_type: R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   Dusseldorf Lütticher Str. 132, 40547
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Bruckmannring 1-3, Oberschleißheim, Bavaria, 85764, Germany
+    site_type: R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   MUNICH Bruckmannring 1-3, 85764 Oberschleißheim
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Tower C, Building 1, No. 2 Kexueyuan South Road, Beijing, China
+    site_type: R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   Beijing Tower C, Building 1, No. 2 Kexueyuan South Road
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: No. 288 Jiujiang Road, Huangpu District; Building 17, No. 288 Yulv Road, Malu Town, Jiading District, Shanghai, China
+    site_type: R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   Shanghai No. 288, Jiujiang Road, Huangpu District; Building 17, No.288 Yulv Road, Malu Town, Jiading District
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Palazzo Siena, 2-4-6 Higashi-Shinbashi, Minato-ku, Tokyo, 105-0021, Japan
+    site_type: Sales Office, R&D, Engineering, Office
+    source:  https://www.mobileye.com/contact/
+    quote:   Tokyo 2-4-6-9F Palazzo Siena, Higashi-Shinbashi, Minato-ku, 1050021
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1900 Prairie City Road, Folsom, California, 95630, United States
+    site_type: R&D, Engineering, Design, Office
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2023-03/iso-50001-certificate.pdf
+    quote:   Intel Folsom campus: 1900 Prairie City Road, Folsom, CA 95630.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3065 Bowers Avenue SC2-12, Santa Clara, California, 95052-8119, United States
+    site_type: Manufacturing Plant, Testing/Quality, R&D
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf
+    quote:   Intel Corporation – Intel Mask Operations | Santa Clara, USA | 3065 Bowers Avenue SC2-12, Santa Clara, CA 95052-8119, USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5000 West Chandler Boulevard, Chandler, Arizona, 85226, United States
+    site_type: Office, R&D, Engineering, Manufacturing Support
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2026-01/0222427-cert-qms-eng-intel-corporation-main-appendix.pdf
+    quote:   Intel Chandler | Chandler, United States | 5000 W. Chandler Blvd., Chandler, Arizona, 85226, United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4500 South Dobson Road, Chandler, Arizona, 85248, United States
+    site_type: Manufacturing Plant, Wafer Fabrication, R&D
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf
+    quote:   Intel Corporation – Fab 32 | Chandler, USA | 4500 S. Dobson Road, Chandler, AZ 85248, USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5200 Northeast Elam Young Parkway, Hawthorn Farm 2, Hillsboro, Oregon, 97124, United States
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2026-01/0222427-cert-qms-eng-intel-corporation-main-appendix.pdf
+    quote:   Intel Hawthorn Farms | Hillsboro, United States | 5200 NE Elam Young Parkway, Hawthorn Farm 2, Hillsboro, Oregon, 97124, United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 111 Northeast 25th Avenue, Hillsboro, Oregon, 97124, United States
+    site_type: R&D, Engineering, Manufacturing Support
+    source:  https://www.intel.com/pressroom/kits/sites/oregon/jones_farm_photos.htm
+    quote:   111 NE 25th Avenue Hillsboro, OR 97124
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1600 Rio Rancho Boulevard Southeast, Rio Rancho, New Mexico, 87124, United States
+    site_type: Manufacturing Plant, Wafer Fabrication, Advanced Packaging
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf
+    quote:   Intel Corporation – Fab 11X | Rio Rancho, USA | 1600 Rio Rancho Boulevard S.E., Rio Rancho, NM 87124, USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 75 Reed Road, Hudson, Massachusetts, 01749, United States
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf
+    quote:   Intel Corporation – Fab 17 | Hudson, USA | 75 Reed Road, Hudson, MA 01749, USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Clover Valley Road and Green Chapel Road area, New Albany, Ohio, United States
+    site_type: Manufacturing Plant, Wafer Fabrication, Office, Supporting Operations
+    source:  https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-ohio.html
+    quote:   Intel is planning to invest more than $28 billion in the construction of two new leading-edge chip factories in Ohio... in New Albany, Licking County.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Collinstown Industrial Park, Leixlip, County Kildare, W23 CX68, Ireland
+    site_type: Manufacturing Plant, Wafer Fabrication, R&D, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Ireland Limited | Leixlip, Ireland | Collinstown Industrial Park, Leixlip, Co.Kildare, Ireland, W23 CX68
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2 Tzoran Street, New Industrial Area, Qiryat Gat, 82109, Israel
+    site_type: Manufacturing Plant, Wafer Fabrication, R&D
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf
+    quote:   Intel Corporation – Fab 28 and IDPj | Qiryat Gat, Israel | 2 Tzoran Street, Qiryat Gat, 82109, Israel
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Hamarpe 9 Street, Har Hotzvim Industrial Area, Jerusalem, 91004, Israel
+    site_type: Manufacturing Plant, Assembly/Processing, R&D
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf
+    quote:   Intel Israel International Die | Jerusalem, Israel | Hamarpe 9 St., Har Hotzvim Industrial Area, Jerusalem 91004, Israel
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Andrei Saharov 9 Street, Haifa, 3508409, Israel
+    site_type: R&D, Engineering, Design, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Israel Limited | Haifa | Andrei Saharov 9 Street Haifa, 3508409, Israel
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 109 Huaihe Road East, Dalian, Liaoning, 116600, China
+    site_type: Manufacturing Plant, Wafer Fabrication, Processing
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf
+    quote:   Intel Corporation – Fab 68 | Dalian, China | No. 109 Huaihe Rd, Dalian, LN 116600, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 8-1 Kexin Road, Chengdu High-Tech Zone (West Park), Chengdu, Sichuan, 611731, China
+    site_type: Assembly, Testing/Quality, Manufacturing
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2022-12/nsai-intel-iso-9001-2015-mss-certificate-12-14-22.pdf
+    quote:   Intel Chengdu | Chengdu, China | No. 8-1 Kexin Road, Chengdu High-Tech Zone (West Park), Chengdu City, Sichuan Province, China 611731
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 880 Zi Xing Road, Zizhu Science Park, Shanghai, 201109, China
+    site_type: R&D, Engineering, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Asia-Pacific Research & Development Ltd. | Shanghai, China | No. 880 Zi Xing Road, Zizhu Science Park, Shanghai, 201109, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 8F, Raycom Infotech Park A, No. 2 Kexueyuan South Road, Beijing, 100190, China
+    site_type: R&D, Engineering, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel China Research Center Ltd. | Beijing, China | 8F, Raycom Infotech Park A, No.2, Kexueyuan South Road, Beijing, Haidian District, 100190, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 23–56P, Devarabeesanahalli, Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka, 560103, India
+    site_type: R&D, Engineering, Design, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Technology India Private Limited | Bangalore, India | 23-56P, Deverabeesanahalli, Varthur Hobli, Outer Ring Road, Bangalore, Karnataka, 560 103, India
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Plot No. 15A, Survey No. Part 21, 2nd Main Road, Veer Sandra, Electronics City, Bengaluru, Karnataka, 560100, India
+    site_type: R&D, Engineering, Design, Office
+    source:  https://cdrdv2-public.intel.com/891637/Invoice%20Requirements%20By%20Country-Region.pdf
+    quote:   Bangalore DC1, Plot No. 15A, Survey No. Part 21, 2nd Main Road, Veer Sandra, Electronics City, Bengaluru 560100
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Calle 129, La Ribera, Zona Franca Belén, Belén, Heredia, 40702, Costa Rica
+    site_type: Assembly, Testing/Quality, R&D, Global Services Center
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2022-12/nsai-intel-iso-9001-2015-mss-certificate-12-14-22.pdf
+    quote:   Intel Costa Rica | Belen, Costa Rica | Calle 129 La Ribera, Belen, Costa Rica
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Bayan Lepas Free Industrial Zone, Phase 3, Halaman Kampung Jawa, Penang, 11900, Malaysia
+    site_type: Assembly, Testing/Quality, Manufacturing, R&D
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2022-12/nsai-intel-iso-9001-2015-mss-certificate-12-14-22.pdf
+    quote:   Intel Penang | Penang, Malaysia | Bayan Lepas Free Industrial Zone, Phase 3, Halaman Kampung Jawa, Penang 11900 Malaysia
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Kulim Hi-Tech Park, Kulim, Kedah, 09000, Malaysia
+    site_type: Assembly, Testing/Quality, Manufacturing, R&D
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2022-12/nsai-intel-iso-9001-2015-mss-certificate-12-14-22.pdf
+    quote:   Intel Kulim | Kulim, Malaysia | Kulim Hi-Tech Park, Kulim, Kedah 09000 Malaysia
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Lot I2, D1 Road, Saigon Hi-Tech Park, Thu Duc City / Ho Chi Minh City, Vietnam
+    site_type: Assembly, Testing/Quality, Manufacturing
+    source:  https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2026-01/0222427-cert-qms-eng-intel-corporation-main-appendix.pdf
+    quote:   Intel Vietnam | Ho Chi Minh City, Vietnam | Lot I2, D1 Road, Saigon Hi-Tech Park, Thu Duc City, Ho Chi Minh City, Vietnam
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: ul. Slowackiego 173, Gdansk, 80-298, Poland
+    site_type: R&D, Engineering, Software Development, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Technology Poland Sp. Z o.o. | Gdansk, Poland | ul. Slowackiego 173, 80-298, Gdansk, Poland
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Al. Jerozolimskie 146C, Warsaw, 02-305, Poland
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.com/content/www/us/en/corporate-responsibility/community-global-sites.html
+    quote:   Warsaw — Intel sales office — Al. Jerozolimskie 146C, 02-305 Warszawa, Poland
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Les Montalets, 2 rue de Paris, Meudon, Île-de-France, 92196, France
+    site_type: Sales Office, Engineering, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Corporation SAS | Meudon, France | Les Montalets, 2, rue de Paris, 92196, Meudon Cedex, France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Milanofiori, Palazzo E/4, Assago, Milan, 20057, Italy
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Corporation Italia S.p.A. | Assago, Italy | Milanofiori, Palazzo, E/4, 20057, Assago (Milano), Italy
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2A Piața Consiliul Europei, United Business Center 1, 7th and 8th floors, Timișoara, Timiș, Romania
+    site_type: R&D, Software Development, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Software Development S.R.L. | Timișoara, Romania | 2A Piața Consiliul Europei, United Business Center 1, 7th floor unit U1E7 and 8th floor
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Level 61, Governor Phillip Tower, 1 Farrer Place, Sydney, New South Wales, 2000, Australia
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Australia Pty. Ltd. | Sydney, Australia | Level 61, Governor Phillip Tower, 1 Farrer Place, Sydney NSW 2000, Australia
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Avenida Doutor Chucri Zaidan, 940, 9th–11th floors, Vila Cordeiro, São Paulo, São Paulo, 04583-904, Brazil
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Semicondutores do Brasil Ltda. | São Paulo, Brazil | Av. Dr. Chucri Zaidan, 940, 9o, 10o, e 11o andares, Vila Cordeiro, Sao Paulo, 04583904, Brazil
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Suite 1700, Park Place, 666 Burrard Street, Vancouver, British Columbia, V6C 2X8, Canada
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Technology of Canada, ULC | Vancouver, Canada | Suite 1700, Park Place, 666 Burrard Street, Vancouver BC V6C 2X8, Canada
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Avenida del Bosque 1001, Colonia El Bajío, Zapopan, Jalisco, 45019, Mexico
+    site_type: R&D, Engineering, Design, Office
+    source:  https://cdrdv2-public.intel.com/891637/Invoice%20Requirements%20By%20Country-Region.pdf
+    quote:   Intel Tecnologia De Mexico SRL de CV | Zapopan, Mexico | Avenida del Bosque #1001, Colonia El Bajio, Zapopan- Jalisco CP. 45019, Mexico
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Marunouchi Eiraku Building, 25th Floor, 1-4-1 Marunouchi, Chiyoda-ku, Tokyo, 100-0005, Japan
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.co.jp/content/www/jp/ja/company-overview/profile.html
+    quote:   本店所在地：東京都 千代田区 丸の内 1-4-1 丸の内永楽ビル 25 階
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 80 Robinson Road, #02-00, Singapore, 068898, Singapore
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Technology Asia Pte Ltd | Singapore, Singapore | 80 Robinson Road #02-00, 068898, Singapore
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5th Floor, 82 Uisadang-daero, Yeongdeungpo-gu, Seoul, 07321, South Korea
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.com/content/www/us/en/privacy/privacy-notice-korea.html
+    quote:   Intel Korea Ltd. 5th Floor, 82 Uisadang-daero, Yeongdeungpo-gu, Seoul 07321 Republic of Korea
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 20/F, No. 369, Section 7, Zhongxiao East Road, Nangang District, Taipei, Taiwan
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Innovation Technologies Limited | Taipei, Taiwan | 20/F, No.369, Sec 7, Zhong Xiao East Road, NanGang District, Taipei, Taiwan
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 7F, No. 190, Section 2, Zhonghua Road, East District, Hsinchu City, Taiwan
+    site_type: Office, Engineering, Design
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Innovation Technologies Limited, Hsinchu Branch | Hsinchu City, Taiwan | 7F, No. 190, Sec. 2, Zhonghua Road, East Dist., Hsinchu City, Taiwan
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Unit 702, 7th Floor, Net3 Cube, 3rd Avenue corner 30th Street, E-Square Crescent Park West, Bonifacio Global City, Taguig, Metro Manila, 1634, Philippines
+    site_type: Sales Office, Marketing, Office
+    source:  https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+    quote:   Intel Microelectronics (Phils.) Inc. | Manila, Philippines | Unit 702, 7th floor, Net3 Cube, 3rd Ave Corner, 30th St., E-Square Crescent Park West, Bonifacio Global City, Metro Manila, 1634, Philippines
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 87 M Thai Tower, All Seasons Place, 23rd Floor, Unit 2320, Wireless Road, Lumpini, Pathumwan, Bangkok, 10330, Thailand
+    site_type: Sales Office, Marketing, Office
+    source:  https://cdrdv2-public.intel.com/891637/Invoice%20Requirements%20By%20Country-Region.pdf
+    quote:   Intel Microelectronics (Thailand) Ltd | Bangkok, Thailand | 87, M. Thai Tower, 23rd Floor unit no. 2320, All Seasons Place, Wireless Road, Lumpini, Patumwan, Bangkok 10330, Thailand
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 4701 Technology Parkway, Fort Collins, Colorado, 80528, United States
+    site_type: R&D, Engineering, Hardware Validation, Office
+    source:  https://www.crexi.com/properties/1230626/colorado-4701-4721-technology-parkway
+    quote:   4701 Technology Parkway, Fort Collins, CO 80528
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 2800 Center Drive North, DuPont, Washington, 98327, United States
+    site_type: Office, Engineering, Operations
+    source:  https://fcc.report/company/intel-corporation-16
+    quote:   Company: Intel Corporation — Address: 2800 Center Dr N, DuPont, WA 98327, USA
+
+Ground-truth address row(s) available for 'INTEL': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\INTEL.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 297342 in / 12226 out tokens
+TOTAL web_search: 52 calls, 968335 in / 48081 out tokens
+TOTAL scrapingbee: 0 calls, 0 credits (~$0.0000), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 69 (issued: web_search 45/45, fetch_page 24/40, of which 7 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0)
+TOTAL estimated cost: $0.8455 (rough estimate, see config.py)
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 297342 in / 12226 out tokens
+
+--- Queries issued (76) ---
+[site_extractor] web_search: Intel official global locations offices manufacturing sites worldwide
+[site_extractor] web_search: Intel 2024 annual report properties manufacturing facilities addresses
+[site_extractor] web_search: site:intel.com locations Intel facilities countries offices
+[site_extractor] web_search: Intel global contact us locations country sites subsidiaries brands Mobileye Altera
+[site_extractor] web_search: Intel manufacturing locations fabs Arizona Oregon New Mexico Ireland Israel Malaysia Vietnam China
+[site_extractor] web_search: Intel acquired brands subsidiaries operating websites Mobileye Habana Labs Altera
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/jobs/locations.html
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/corporate-responsibility/community-global-sites.html
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/support/articles/000089875/programs/intel-corporation.html
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/foundry/manufacturing.html
+[site_extractor] fetch_page: https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm
+[site_extractor] fetch_page: https://csrreportbuilder.intel.com/pdfbuilder/pdfs/CSR-2024-25-Full-Report.pdf
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/support/campus-locations.html
+[site_extractor] fetch_page: https://www.mobileye.com/contact/
+[site_extractor] fetch_page_search_fallback: https://csrreportbuilder.intel.com/pdfbuilder/pdfs/CSR-2024-25-Full-Report.pdf
+[site_extractor] web_search: Intel office Texas Austin address Google Business Profile
+[site_extractor] web_search: Google Maps Intel office California Bay Area address
+[site_extractor] web_search: Intel office California Los Angeles San Diego Sacramento address directory
+[site_extractor] web_search: Intel office Colorado Fort Collins address directory
+[site_extractor] web_search: Intel office Arizona Chandler Phoenix address Google Business Profile
+[site_extractor] web_search: Intel office Oregon Hillsboro Portland address directory
+[site_extractor] web_search: Intel office Massachusetts Hudson address directory
+[site_extractor] web_search: Intel office Washington state DuPont address directory
+[site_extractor] web_search: Intel office New Mexico Rio Rancho Albuquerque address directory
+[site_extractor] web_search: Intel office Ohio Columbus New Albany address directory
+[site_extractor] web_search: Intel office North Carolina Georgia Florida address directory
+[site_extractor] web_search: Intel office New York New Jersey address directory
+[site_extractor] web_search: Intel office Illinois Michigan Pennsylvania address directory
+[site_extractor] web_search: Intel Google Business Profile United States office service center warehouse address
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-ohio.html
+[site_extractor] fetch_page: https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf
+[site_extractor] fetch_page: https://www.oregon.gov/deq/aq/cao/nwr/Pages/Intel-Aloha.aspx
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-massachusetts.html
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/jobs/locations/united-states.html
+[site_extractor] fetch_page: https://www.intel.com/content/dam/support/us/en/documents/services/warranty/latin_america_freight_process.pdf
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-texas.html
+[site_extractor] fetch_page: https://www.exploreintel.com/campuses/oregon
+[site_extractor] fetch_page_search_fallback: https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf
+[site_extractor] fetch_page_search_fallback: https://www.intel.com/content/dam/support/us/en/documents/services/warranty/latin_america_freight_process.pdf
+[site_extractor] web_search: Intel China Chengdu Shanghai Dalian address facility official
+[site_extractor] web_search: Intel Ireland Leixlip address Intel campus official
+[site_extractor] web_search: Intel Costa Rica San Jose Heredia address official campus
+[site_extractor] web_search: Intel Poland Gdansk Warsaw address official office
+[site_extractor] web_search: Intel Vietnam Ho Chi Minh City assembly test address official
+[site_extractor] web_search: Intel Germany Munich Karlsruhe Duisburg Nuremberg address official
+[site_extractor] web_search: Intel Malaysia Penang Kulim address official facility
+[site_extractor] web_search: Intel Mexico Guadalajara Mexico City address official design center
+[site_extractor] web_search: Intel Philippines Singapore Japan Korea Taiwan office address official
+[site_extractor] web_search: Intel India Bangalore Hyderabad design center address official
+[site_extractor] web_search: Intel Israel Jerusalem Haifa Kiryat Gat address official
+[site_extractor] web_search: Intel Australia Brazil Canada France Italy UK Romania Turkey office address official
+[site_extractor] fetch_page: https://www.intel.co.jp/content/www/jp/ja/company-overview/profile.html
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/support/articles/000033137/services/quality-regulatory-ecology.html
+[site_extractor] fetch_page: https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-california.html
+[site_extractor] fetch_page: https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2026-01/0222427-cert-qms-eng-intel-corporation-main-appendix.pdf
+[site_extractor] fetch_page: https://www.intel.com/content/www/us/en/content-details/792114/rba-validated-audit-process-for-intel-ho-chi-minh-city-vietnam.html
+[site_extractor] fetch_page: https://cdrdv2-public.intel.com/891637/Invoice%20Requirements%20By%20Country-Region.pdf
+[site_extractor] fetch_page: https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2022-12/nsai-intel-iso-9001-2015-mss-certificate-12-14-22.pdf
+[site_extractor] fetch_page_search_fallback: https://cdrdv2-public.intel.com/891637/Invoice%20Requirements%20By%20Country-Region.pdf
+[site_extractor] fetch_page_search_fallback: https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2022-12/nsai-intel-iso-9001-2015-mss-certificate-12-14-22.pdf
+[site_extractor] fetch_page_search_fallback: https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2026-01/0222427-cert-qms-eng-intel-corporation-main-appendix.pdf
+[site_extractor] fetch_page_search_fallback: https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf
+[site_extractor] web_search: Intel Costa Rica Belen Calle 129 address official
+[site_extractor] web_search: site:intel.com Santa Clara Intel Bowers Avenue address Folsom
+[site_extractor] web_search: site:intel.com Folsom California Intel address campus
+[site_extractor] web_search: Intel Shannon Ireland address Intel office official
+[site_extractor] web_search: Intel Guadalajara Avenida del Bosque 1001 address Intel
+[site_extractor] web_search: Intel Haifa Israel address official Intel campus
+[site_extractor] web_search: Intel Austin 1300 S MoPac Expressway official address
+[site_extractor] web_search: site:intel.com Chandler Intel 5000 W Chandler Blvd address
+[site_extractor] web_search: site:intel.com Hillsboro Intel Jones Farm address 2111 NE 25th Avenue
+[site_extractor] web_search: Intel Altera locations offices official address 2025
+[site_extractor] web_search: site:intel.com Fort Collins Intel 4701 Technology Parkway address
+[site_extractor] web_search: Intel Mobileye locations Detroit Jerusalem Tokyo official address
+[site_extractor] web_search: Intel Ohio New Albany construction status 2025 under construction official
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+
+Combined CSV now holds 1 companies: results\combined_10_scrapingbee.csv
+
+==============================================================================
+[2/10] CORNING
+==============================================================================
+Researching site locations for: CORNING
+
+Collected 89 distinct candidate address(es).
+
+Company domains treated as first-party: corning.com, corningjobs.corning.com
+
+=== Ranked candidates for CORNING ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: One Riverfront Plaza, Corning, New York, 14831, United States
+    site_type: Headquarters, Office, R&D
+    source:  https://www.corning.com/worldwide/en/about-us/company-profile.html
+    quote:   World Headquarters: One Riverfront Plaza Corning, NY 14831 USA
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 310 North College Road, Wilmington, North Carolina, 28405, United States
+    site_type: Manufacturing Plant
+    source:  https://www.deq.nc.gov/news/events/public-comment-period-stormwater-permit-ncs000076-wilmington-fiber-optic-facility-new-hanover-county
+    quote:   Wilmington | Optical fiber manufacturing facility — Corning Incorporated | 310 North College Road, Wilmington, NC 28405
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: D-237, MIDC Phase II, Chakan, Pune, Maharashtra, 410501, India
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/careers/in/en/Locations/Pune.html
+    quote:   Corning Technologies India Pvt Ltd Address: D-237, MIDC Phase ll, Chakan, Pune Post code: 410501
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avenida Industrial del Norte, Lote 2, Manzana 6, Parque Industrial del Norte, Reynosa, Tamaulipas, 88730, Mexico
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html
+    quote:   Reynosa Plant 1 | Reynosa, Mexico | Avenida Industrial del Norte. Lote 2 Manzana 6, Parque Industrial del Norte, Reynosa, Tamaulipas, Mexico. 88730
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avenida los Pinos #1050, Lote 1, Manzana 6, Parque Industrial Villa Florida, Reynosa, Tamaulipas, 88730, Mexico
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html
+    quote:   RAM Plant | Reynosa, Mexico | Avenida los Pinos #1050 Lote 1 Manzana 6. Parque Industrial Villa Florida. Reynosa, Tamaulipas, Mexico. 88730
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Ave Industrial Rio Grande, Lote 2, Manzana 7, Parque Industrial del Norte, Reynosa, Tamaulipas, 88736, Mexico
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html
+    quote:   RCS Plant | Reynosa, Mexico | Ave Industrial Rio Grande Lote 2, Manzana 7. Parque Industrial del Norte. Reynosa, Tamaulipas, Mexico. 88736
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avenida los Encinos No. 1011-A, Manzana 7, Lote 1, Parque Industrial Villa Florida, Reynosa, Tamaulipas, 88730, Mexico
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html
+    quote:   RWD Plant | Reynosa, Mexico | Avenida los Encinos, No. 1011-A, Manzana 7 Lote 1, Parque Industrial Villa Florida,C.P. 88730
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Carl-Billand-Str. 1, Kaiserslautern, Rhineland-Palatinate, 67661, Germany
+    site_type: Manufacturing Plant, Warehouse
+    source:  https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/kaiserslautern-wiesbaden.html
+    quote:   Corning GmbH | Kaiserslautern, Germany | Carl-Billand-Str. 1, 67661 Kaiserslautern
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Abraham-Lincoln-Str. 30, Wiesbaden, Hesse, 65189, Germany
+    site_type: Regional Office, Sales Office
+    source:  https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/kaiserslautern-wiesbaden.html
+    quote:   Corning GmbH | Wiesbaden, Germany | Abraham-Lincoln-Str. 30, 65189 Wiesbaden
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 123 Route de Caestre, Borre, Hauts-de-France, 59190, France
+    site_type: Manufacturing Plant, Life Sciences
+    source:  https://www.corning.com/emea/fr/careers/locations/France/locations-in-france/borre.html
+    quote:   Corning Gosselin S.A.S. | Borre, France | 123 Route de Caestre, 59190 Borre, France
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Rue Saint Laurent, CS 10243, Bagneaux-sur-Loing, Île-de-France, 77797, France
+    site_type: Manufacturing Plant, Specialty Glass
+    source:  https://www.corning.com/emea/en/careers/locations/France/locations-in-france/bagneaux.html
+    quote:   Corning SAS- Specialty Glass | Bagneaux sur Loing, France | Rue Saint Laurent, CS 10243, 77797 Nemours Cedex
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 1 Rue Gutenberg, Pontchâteau, Pays de la Loire, 44160, France
+    site_type: Manufacturing Plant, Optical Communications
+    source:  https://www.corning.com/emea/en/careers/locations/France/locations-in-france/pontchateau.html
+    quote:   Corning Pouyet SAS | Pontchâteau, France | 1 Rue Gutenberg, 44160 Pontchâteau, France
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Smolice 1e, Stryków, Łódzkie, 95-010, Poland
+    site_type: Manufacturing Plant, Technology Center
+    source:  https://www.corning.com/emea/en/careers/locations/poland/strykow.html
+    quote:   Corning | Stryków, Polska | Smolice 1e, 95-010 Stryków, łódzkie, Polska
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: ul. Tarczyńska 114, Mszczonów, Masovian Voivodeship, 96-320, Poland
+    site_type: Manufacturing Plant, Warehouse, Engineering
+    source:  https://www.corning.com/emea/en/careers/locations/poland/Mszczonow.html
+    quote:   Address: ul. Tarczyńska 114, Mszczonów
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Daniszewska Street 4, Warsaw, Masovian Voivodeship, 03-230, Poland
+    site_type: Manufacturing Plant, Warehouse, Office
+    source:  https://www.corning.com/emea/en/careers/locations/poland/Warsaw.html
+    quote:   Corning HTL S.A. – Corning Life Science Warsaw Plant ... Address: Daniszewska Street 4, Warsaw 03-230
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 212 Tangjeong-ro, Asan, Chungcheongnam-do, 31454, South Korea
+    site_type: R&D, Technology Center
+    source:  https://www.corning.com/kr/ko/about-us/company-profile/corning-in-korea/locations-in-korea.html
+    quote:   코닝테크놀로지센터코리아 | Asan, South Korea | 충청남도 아산시 탕정면 탕정로 212, 31454
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: No. 1, Keyuan Road, Taichung, 407721, Taiwan
+    site_type: Manufacturing Plant, Display Technologies
+    source:  https://www.corning.com/tw/zh_tw/about-us/company-profile/corning-in-taiwan.html
+    quote:   台灣康寧顯示玻璃股份有限公司（台中廠） | Taichung, Taiwan | 台中市 407721西屯區科園路1號
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: No. 33, Section 2, Huandong Road, Tainan Science Park, Tainan, 741014, Taiwan
+    site_type: Manufacturing Plant, Display Technologies
+    source:  https://www.corning.com/tw/zh_tw/about-us/company-profile/corning-in-taiwan.html
+    quote:   台灣康寧顯示玻璃股份有限公司（台南廠） | Tainan, Taiwan | 台南市 741014 台南科學園區環東路 2 段33 號
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: No. 8, Section 3, Minsheng East Road, 8F, Taipei, 104511, Taiwan
+    site_type: Regional Headquarters, Office
+    source:  https://www.corning.com/tw/zh_tw/about-us/company-profile/corning-in-taiwan.html
+    quote:   台灣康寧顯示玻璃股份有限公司（台北區域總部） | Taipei, Taiwan | 台北市中山區104511民生東路三段8號8樓
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Gangnam Finance Center, 6F, 152 Teheran-ro, Seoul, 06236, South Korea
+    site_type: Regional Office, Sales Office
+    source:  https://www.corning.com/kr/ko/about-us/company-profile/corning-in-korea/locations-in-korea.html
+    quote:   한국코닝(주) | Seoul, South Korea | 서울특별시 강남구 테헤란로 152, 강남파이낸스센터 5층, 6층, 06236
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 7 Techno 11-ro, Yuseong-gu, Daejeon, 34036, South Korea
+    site_type: Manufacturing Plant, Technology Center
+    source:  https://www.corning.com/kr/ko/about-us/company-profile/corning-in-korea/locations-in-korea.html
+    quote:   코닝나노프로텍(주) | Daejeon, South Korea | 대전시 유성구 테크노11로 7, 34036
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 1 Kim Seng Promenade, Great World City, #09-11/12 West Tower, Singapore, 237994, Singapore
+    site_type: Regional Office
+    source:  https://www.corning.com/asean/en/contact-us.html
+    quote:   Corning Singapore Holdings Private Limited | Singapore, Singapore | 1 Kim Seng Promenade, Great World City, #09-11/12 West Tower, Singapore 237994
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 836 North Street, Building 300, Suite 3401, Tewksbury, Massachusetts, 01876, United States
+    site_type: Headquarters, Office
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+    quote:   Corning Life Sciences Headquarters | Tewksbury, USA | 836 North Street, Building 300, Suite 3401, Tewksbury, MA 01876
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 792 Addison Road, Painted Post, New York, 14870, United States
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/worldwide/en/products/environmental-technologies/services.html
+    quote:   Corning Erwin Plant 792 Addison Road Painted Post, New York, 14870 USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 890 Addison Road, Painted Post, New York, 14870, United States
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/worldwide/en/products/environmental-technologies/services.html
+    quote:   Corning Diesel Plant 890 Addison Road Painted Post, New York, 14870 USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 275 River Street, Oneonta, New York, 13820, United States
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+    quote:   Oneonta, New York Manufacturing Plant | Oneonta, USA | 275 River Street, Oneonta, NY 13820
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 60 O'Connor Road, Fairport, New York, 14450, United States
+    site_type: Manufacturing Plant, R&D, Advanced Optics
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Tropel Corporation | Fairport, United States | 60 O'Connor Rd., Fairport, New York 14450, United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 7708 US 64 Alt West, Tarboro, North Carolina, 27886, United States
+    site_type: Distribution Center, Warehouse
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+    quote:   North American Distribution Center | Tarboro, USA | 7708 US 64 Alt West, Tarboro, NC 27886
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4200 Corning Place, Charlotte, North Carolina, 28216, United States
+    site_type: Headquarters, Office, Customer Service
+    source:  https://www.corning.com/optical-communications/worldwide/en/home/support/customer-support.html
+    quote:   Corning Optical Communications 4200 Corning Place Charlotte, NC 28216
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 800 17th Street NW, Hickory, North Carolina, 28601, United States
+    site_type: Manufacturing Plant, Technology Center
+    source:  https://www.corning.com/fiber-to-the-premise/cala/en/home/support-center.html
+    quote:   Corning Optical Communications LLC | Hickory, United States | 800 17th Street NW, Hickory, NC 28601
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1164 23rd Street SE, Hickory, North Carolina, 28602, United States
+    site_type: Manufacturing Plant, Technology Center
+    source:  https://www.corning.com/fiber-to-the-premise/worldwide/en/home/support-center.html
+    quote:   Hickory — Global Technology / HMTC facility 1164 23rd Street SE, Hickory, NC 28602
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: One Becton Circle, Durham, North Carolina, 27712, United States
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+    quote:   Durham, North Carolina Manufacturing Plant | Durham, USA | One Becton Circle, Durham, NC, 27712
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3050 North Franklin Street, Christiansburg, Virginia, 24073, United States
+    site_type: Manufacturing Plant, Engineering, Testing
+    source:  https://www.corning.com/worldwide/en/products/environmental-technologies/services.html
+    quote:   Corning Blacksburg Plant 3050 North Franklin St. Christiansburg, Virginia 24073 USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 9345 Discovery Boulevard, Manassas, Virginia, 20109, United States
+    site_type: Manufacturing Plant, Life Sciences
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+    quote:   Manassas, Virginia Manufacturing Plant | Manassas, USA | 9345 Discovery Blvd, Manassas, VA 20109
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2 Oak Park Drive, Bedford, Massachusetts, 01730, United States
+    site_type: Manufacturing Plant, Life Sciences
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+    quote:   Bedford, Massachusetts Manufacturing Plant | Bedford, USA | 2 Oak Park Drive, Bedford, MA 01730
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2 Alfred Road, T03/17, Kennebunk, Maine, 04043, United States
+    site_type: Manufacturing Plant, R&D
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+    quote:   Kennebunk, Main Manufacturing Plant | Kennebunk, USA | 2 Alfred Road, T03/17, Kennebunk, Maine 04043
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1242 Commerce Avenue, Woodland, California, 95776, United States
+    site_type: Manufacturing Plant, Life Sciences
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+    quote:   Woodland, California Manufacturing Plant | Woodland, USA | 1242 Commerce Ave., Woodland, CA 95776
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 6507 South 400 West, Salt Lake City, Utah, 84107, United States
+    site_type: Manufacturing Plant, Warehouse, Life Sciences
+    source:  https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+    quote:   Salt Lake City, Utah Manufacturing Plant | Salt Lake City, USA | 6507 South 400 West, Salt Lake City, Utah 84107
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5310 West Camelback Road, Glendale, Arizona, 85301, United States
+    site_type: Manufacturing Plant, Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Optical Communications RF LLC | Glendale, United States | 5310 West Camelback Road, Glendale, Arizona 85301, United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 563 Crystal Avenue, Vineland, New Jersey, United States
+    site_type: Manufacturing Plant, Pharmaceutical Technologies
+    source:  https://www.corning.com/worldwide/en/products/pharmaceutical-technologies/pharmaceutical-tubing.html
+    quote:   Corning Pharmaceutical Glass, LLC | Vineland, U.S.A. | 563 Crystal Avenue
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2nd Floor, Pioneer Square, CRPF Road, Sector-62, Near Golf Course Extension Road, Gurugram, Haryana, 122005, India
+    site_type: Regional Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Technologies India Private Limited | Gurugram, India | 2nd Floor, Pioneer Square, CRPF Road Sector-62, Near Golf Course Extension Road, Gurgaon, Gurugram, Haryana, India, 122005
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Antigua Carretera a Roma, Km. 3.6, San Nicolás de los Garza, Nuevo León, 66480, Mexico
+    site_type: Manufacturing Plant, Distribution, Sales Office
+    source:  https://www.corning.com/catalog/cls/documents/iso-certificates/Corning_ISO9001_2015_Certificate.pdf
+    quote:   Corning Mexicana S.A. de C.V. | San Nicolás, Mexico | Ant. Carr. A Roma, km 3.6, San Nicolás, Nuevo Leon, Mexico 66480
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Leipziger Str. 121, Berlin, Berlin, 10117, Germany
+    site_type: Technology Center, Office, R&D
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Optical Communications GmbH & Co. KG | Berlin, Germany | Leipziger Str. 121, 10117 Berlin, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 7 bis Avenue de Valvins, Samois-sur-Seine, Île-de-France, 77920, France
+    site_type: Office, Technology Support
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning SAS | Samois sur Seine, France | 7 bis Avenue de Valvins, 77920 Samois sur Seine, France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 24 Rue Jean Baldassini, Lyon, Auvergne-Rhône-Alpes, 69007, France
+    site_type: R&D, Technology Center, Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Varioptic SAS | Lyon, France | Corning Technology Center - Lyon, 24 Rue Jean Baldassini, 69007 Lyon, France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Fogostraat 12, Amsterdam, North Holland, 1060 LJ, The Netherlands
+    site_type: Sales Office, Distribution Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning B.V. | Amsterdam, The Netherlands | Fogostraat 12, 1060 LJ Amsterdam, The Netherlands
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Via Montelungo, 4, Pisa, Tuscany, 56122, Italy
+    site_type: Manufacturing Plant, Pharmaceutical Technologies
+    source:  https://www.corning.com/worldwide/en/products/pharmaceutical-technologies/pharmaceutical-tubing.html
+    quote:   Corning Pharmaceutical Glass S.p.A. | Pisa, Italy | Via Montelungo, 4
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Via Mercantini 5, Torino, Piedmont, 10121, Italy
+    site_type: Office, Optical Communications
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Optical Communications S.r.l. | Torino, Italy | Via Mercantini 5, Torino 10121, Italy
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 78-84 Main Road, Clayton, Victoria, 3168, Australia
+    site_type: Office, Optical Communications
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Optical Communications Pty. Ltd. | Clayton, Australia | 78-84 Main Road, Clayton 3168, Australia
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 400 Avenue Sainte-Croix, Saint-Laurent, Quebec, H4N 3L4, Canada
+    site_type: Office, R&D, Software Engineering
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   iBwave Solutions Inc. | Saint-Laurent, Canada | 400 Avenue Sainte-Croix, Saint-Laurent QC H4N 3L4 Canada
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Silicon Valley, California, United States
+    site_type: R&D, Technology Center
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning West Technology Center | Silicon Valley, United States | Silicon Valley, CA, United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Shanghai, Shanghai, China
+    site_type: R&D, Research Center
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning Research Center China | Shanghai, China | Shanghai, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Changzhou, Jiangsu, China
+    site_type: R&D, Technology Center
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning Reactor Technology Center | Changzhou, China | Changzhou, Jiangsu, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Pune, Maharashtra, India
+    site_type: R&D, Research Center
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning Research Center India | Pune, India | Pune, India
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Fontainebleau, Île-de-France, France
+    site_type: R&D, Technology Center, Laboratory
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning European Technology Center (CETC): S&T European Laboratory | Fontainebleau, France | Fontainebleau, France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Hsinchu, Hsinchu, Taiwan
+    site_type: R&D, Research Center
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning Research Center Taiwan | Hsinchu, Taiwan | Hsinchu, Taiwan
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Taipei, Taipei, Taiwan
+    site_type: R&D, Technology Center
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning Advanced Technology Center | Taipei, Taiwan | Taipei, Taiwan
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Montreal, Quebec, Canada
+    site_type: R&D, Technology Center
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning Technology Center – Montreal, Canada | Montreal, Canada
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Helsinki, Finland
+    site_type: R&D, Laboratory
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning Scientific Center | Helsinki, Finland | Helsinki, Finland
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Kennebunk, Maine, United States
+    site_type: R&D, Product Development
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning Life Science Product Development | Kennebunk, United States | Kennebunk, Maine, United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Keller, Texas, United States
+    site_type: R&D, Laboratory
+    source:  https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+    quote:   Corning Optical Connectivity Labs | Keller, United States | Keller, Texas, United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 12117 Obuchi, Kakegawa, Shizuoka, 437-1397, Japan
+    site_type: Manufacturing Plant, R&D, Technology Center
+    source:  https://www.corning.com/careers/jp/en/Japan/Shizuoka.html
+    quote:   Shizuoka plant, Corning Japan K.K. Address: 12117, Obuchi, Kakegawa-shi, Shizuoka Post code: 437-1397
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 22, South Tongji Road, Beijing Economic-Technological Development Area, Beijing, Beijing, 101102, China
+    site_type: Manufacturing Plant, Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Display Technologies (China) Co., Ltd. | Beijing, China | No. 22, South Tongji Road, Beijing Economic - Technology Development Area, Beijing 101102, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 169 Chuangqiang Road, Yongning Street, Zengcheng District, Guangzhou, Guangdong, 511300, China
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Display Technologies (Guangzhou) Co., Ltd. | Guangzhou, China | 169 Chuangqiang Rd, Yongning Street, Zengcheng District, Guangzhou Guangzhou, China 511300
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 5-399 Yunhan Road, Shuitu High-tech Industry Park, Chongqing, Chongqing, China
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Display Technologies (Chongqing) Co., Ltd. | Chongqing, China | No. 5-399 Yunhan Road, Shuitu High-tech Industry Park, Beibei District, Chongqing
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 3399 Wolong Road, Xinzhan District, Hefei, Anhui, China
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Display Technologies (Hefei) Co., Ltd. | Hefei, China | No. 3399, Wolong Road, Xinzhan District, Hefei, Anhui Province, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 9 Mianjuan Road, Fucheng District, Mianyang, Sichuan, 621000, China
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Display Technologies (Mianyang) Co., Ltd. | Mianyang, China | No. 9, Mianjuan Road, Fucheng District Mianyang, Sichuan, 621000 China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: North Tuanjie Avenue, Plant 2, East Village of Shisizhigou, Wuhan, Hubei, China
+    site_type: Manufacturing Plant
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Display Technologies (Wuhan) Co., Ltd. | Wuhan, China | North Tuanjie Avenue No #2 Plant, East Village of Shisizhigou, Wuhan, Hubei
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 1801 Pang Jin Road, Building T03/17, Wujiang, Jiangsu, 215200, China
+    site_type: Manufacturing Plant, Life Sciences
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Life Sciences (Wujiang) Co., Ltd. | Wujiang, China | No. T03/17 Building, No. 1801 Pang Jin Rd, Wujiang Economic Development Zone, 215200, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 18 Changwu Middle Road, Changzhou Science & Education Town, Changzhou, Jiangsu, 213000, China
+    site_type: Manufacturing Plant, R&D, Technology Center
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Advanced Flow Reactor Technology Co., Ltd. | Changzhou, China | The 7th & 8th floor of Block B of Technology Venture Center,18 Changwu Middle Road, Changzhou Science & Education Town, Wujin District, Changzhou, Jiangsu Province, Changzhou, China 213000
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Room 1718, Building 1, Century Financial Building, Suzhou Industrial Park, Suzhou, Jiangsu, China
+    site_type: Manufacturing Plant, R&D, Pharmaceutical Technologies
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Advanced Flow Pharmaceutical Technology (Suzhou) Co., Ltd. | Suzhou, China | Room 1718, Building 1, Century Financial Building, Suzhou Industrial Park, Jiangsu, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 1951 Daqing Nan Road, High-tech Zone, Anhui, Bengbu, Anhui, China
+    site_type: Manufacturing Plant, Pharmaceutical Technologies
+    source:  https://www.corning.com/worldwide/en/products/pharmaceutical-technologies/pharmaceutical-tubing.html
+    quote:   Corning Pharmaceutical Glass Co., Ltd. | Bengbu, China | No. 1951 Daqing Nan Road, High-tech Zone, Anhui
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 358 Lu Qiao Road, Jinqiao Export Processing Zone, Pudong, Shanghai, Shanghai, 201206, China
+    site_type: Manufacturing Plant, Regional Headquarters, Office
+    source:  https://www.corning.com/worldwide/en/products/environmental-technologies/services.html
+    quote:   Corning Shanghai Plant No.358 Lu Qiao Road Pudong Shanghai, 201206
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: The Center, 989 Changle Road, 30th Floor, Shanghai, Shanghai, China
+    site_type: Global Headquarters, Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Display Headquarters | Shanghai, China | The Center No. 8, Floor 30, 989 Changle Road, Xuhui District, Shanghai, PRC
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Siemens Road, No. 1, Hi-Tech Development Zone, Chengdu, Sichuan, 610042, China
+    site_type: Manufacturing Plant, Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Optical Fiber Cable (Chengdu) Co., Ltd. | Chengdu, China | Siemens Road, No 1, Hi-Terch. Devleopment Zone, Chengdu 610042, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 168 Nanhai Avenue, Haikou Bonded Area, C02, 06, Haikou, Hainan, China
+    site_type: Manufacturing Plant, Optical Communications
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning (Hainan) Optical Communications Co., Ltd. | Haikou, China | C02, 06, Haikou Bonded Area, No. 168 Nanhai Avenue, Haikou, Hainan Province, PRC
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Taepyungro Building, 12F, 310 Taepyungro-2ga, Seoul, 100-767, South Korea
+    site_type: Office, Advanced Materials
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Precision Materials Co., Ltd. | Seoul, Korea, South | 12th Floor, Taepyungro Building, 310 Taepyungro-2ga, Jung-gu, Seoul 100-767
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Rua Dr. Renato Paes de Barros 714, 12th Floor, Suites 121/122, São Paulo, São Paulo, 04530-001, Brazil
+    site_type: Regional Office, Sales Office
+    source:  https://www.corning.com/worldwide/en/products/environmental-technologies/services.html
+    quote:   Corning Brasil Indústria e Comércio Ltda. Rua Dr. Renato Paes 714 - 12° - andar Itaim Bibi, Sao Paulo, 04530-001
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Maipú 267, piso 13, Buenos Aires, Argentina
+    site_type: Regional Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Argentina SAS | Ciudad Autónoma de Buenos Aires, Argentina | Maipú 267, piso 13
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Rue Andre Dumont 12, Axis Park, Mont-Saint-Guibert, Walloon Brabant, 1435, Belgium
+    site_type: Regional Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Belgium SRL | Mont-Saint-Guibert, Belgium | Rue Andre Dumont 12, Axis Park, 1435 Mont-Saint-Guibert, Belgium
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Gabriel Garcia Marquez 4, Las Rozas de Madrid, Madrid, 28232, Spain
+    site_type: Office, Optical Communications
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Optical Communications, S.L.U. | Madrid, Spain | Gabriel Garcia Marquez 4. Las Rozas de Madrid - 28232 - Madrid/Spain
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Secteur 11, 2 Rue Annabia, Hay Riad, Rabat, Morocco
+    site_type: Office, Optical Communications
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Optical Communications Morocco Sarl | Rabat, Morocco | SECTEUR 11 2RUE ANNABIA HAY RIAD, Rabat, Morocco
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Elwy House, Lakeside Business Village, St David's Park, Ewloe, Flintshire, CH5 3XD, United Kingdom
+    site_type: Office, Regional Office
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Limited | Ewloe, United Kingdom | Elwy House, Lakeside Business Village, St David's Park, Ewloe, Flintshire CH5 3XD, United Kingdom
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Gebze Organize Sanayi Bölgesi, Tembelova Mevkii, Gençlik Caddesi, No:3003, Gebze, Kocaeli, 41400, Turkey
+    site_type: Manufacturing Plant, Office, Optical Communications
+    source:  https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+    quote:   Corning Optik Iletisim Sanayi Limited Sirketi | Gebze, Turkey | Gebze Organize Sanayi Bolgesi, Tembelova Mevkii, Gençlik Caddesi, No:3003, Gebze, Kocaeli 41400, Turkey
+
+Ground-truth address row(s) available for 'CORNING': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\CORNING.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 187098 in / 17024 out tokens
+TOTAL web_search: 54 calls, 937256 in / 40975 out tokens
+TOTAL scrapingbee: 34 calls, 14 credits (~$0.0028), 21 failed -> escalated to paid search
+TOTAL tool calls attempted: 66 (issued: web_search 30/45, fetch_page 34/40, of which 24 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 2)
+TOTAL estimated cost: $0.8373 (rough estimate, see config.py)
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 187098 in / 17024 out tokens
+
+--- Queries issued (88) ---
+[site_extractor] web_search: Corning Incorporated official locations global locations contact facilities
+[site_extractor] web_search: Corning Incorporated annual report properties facilities manufacturing locations PDF
+[site_extractor] web_search: site:corning.com Corning locations manufacturing plants offices worldwide
+[site_extractor] web_search: Corning subsidiaries acquired brands official Corning sites contact
+[site_extractor] web_search: Corning official contact us global offices country sites
+[site_extractor] web_search: Corning Incorporated headquarters address official
+[site_extractor] fetch_page: https://www.corning.com/worldwide/en/about-us/company-profile.html
+[site_extractor] fetch_page: https://www.corning.com/asean/en/contact-us.html
+[site_extractor] fetch_page: https://www.corning.com/worldwide/en/contact-us.html
+[site_extractor] fetch_page: https://www.corning.com/in/en/contact-us.html
+[site_extractor] fetch_page: https://www.corning.com/cala/en/contact-us.html
+[site_extractor] fetch_page: https://www.corning.com/worldwide/en/corning-reports/2025-global-impact-report
+[site_extractor] fetch_page: https://www.corning.com/emea/en/contact-us.html
+[site_extractor] fetch_page: https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+[site_extractor] fetch_page: https://www.corning.com/cala/en/careers/locations.html
+[site_extractor] fetch_page: https://www.corning.com/media/worldwide/global/documents/corning_10-k_2025.pdf
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/asean/en/contact-us.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/emea/en/innovation/culture-of-innovation/global-labs-culture-of-innovation-corning.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/worldwide/en/corning-reports/2025-global-impact-report
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/cala/en/contact-us.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/worldwide/en/contact-us.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/emea/en/contact-us.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/media/worldwide/global/documents/corning_10-k_2025.pdf
+[site_extractor] web_search: Google Maps Corning Incorporated Texas optical communications facility address
+[site_extractor] web_search: Corning office Pennsylvania address directory Google Business Profile
+[site_extractor] web_search: Google Maps Corning Incorporated New York office plant address
+[site_extractor] web_search: Corning office Kentucky manufacturing address directory
+[site_extractor] web_search: Google Maps Corning Incorporated Virginia manufacturing office address
+[site_extractor] web_search: Corning office Ohio manufacturing address yellowpages OR dnb OR manta
+[site_extractor] web_search: Google Maps Corning Incorporated Arizona plant office address
+[site_extractor] web_search: Corning office California technology center address directory
+[site_extractor] web_search: Google Maps Corning Incorporated North Carolina Charlotte Hickory Wilmington address
+[site_extractor] web_search: Corning office New York address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Corning Incorporated Alabama facility address
+[site_extractor] web_search: Corning office Minnesota manufacturing address directory
+[site_extractor] web_search: Google Maps Corning Incorporated Oregon facility address
+[site_extractor] web_search: Corning office South Carolina manufacturing address directory
+[site_extractor] web_search: Corning manufacturing plants China Shanghai Xiamen Suzhou official address
+[site_extractor] web_search: Corning Life Sciences manufacturing facilities address Kennebunk Tewksbury Durham official
+[site_extractor] web_search: Corning Display Technologies plant address Taiwan Japan Korea official
+[site_extractor] web_search: Corning optical communications locations plant address Mexico Reynosa official
+[site_extractor] web_search: Corning manufacturing facilities Europe France Poland Germany official address plant
+[site_extractor] web_search: Corning India manufacturing plant Pune optical communications address official
+[site_extractor] fetch_page: https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html
+[site_extractor] fetch_page: https://www.corning.com/emea/en/careers/locations/France/locations-in-france/pontchateau.html
+[site_extractor] fetch_page: https://www.corning.com/emea/en/careers/locations/poland/Mszczonow.html
+[site_extractor] fetch_page: https://www.corning.com/emea/en/careers/locations/France/locations-in-france/bagneaux.html
+[site_extractor] fetch_page: https://www.corning.com/emea/en/careers/locations/poland/strykow.html
+[site_extractor] fetch_page: https://www.corning.com/emea/fr/careers/locations/France/locations-in-france/borre.html
+[site_extractor] fetch_page: https://www.corning.com/emea/en/careers/locations/poland/Warsaw.html
+[site_extractor] fetch_page: https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/kaiserslautern-wiesbaden.html
+[site_extractor] fetch_page: https://www.corning.com/cn/zh/about-us/company-profile/Corning-in-China/locations-in-china.html
+[site_extractor] fetch_page: https://www.corning.com/tw/zh_tw/about-us/company-profile/corning-in-taiwan.html
+[site_extractor] fetch_page: https://www.corning.com/careers/jp/en/Japan/Shizuoka.html
+[site_extractor] fetch_page: https://www.corning.com/kr/ko/about-us/company-profile/corning-in-korea/locations-in-korea.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/emea/en/careers/locations/poland/strykow.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/kr/ko/about-us/company-profile/corning-in-korea/locations-in-korea.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/emea/en/careers/locations/France/locations-in-france/pontchateau.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/cn/zh/about-us/company-profile/Corning-in-China/locations-in-china.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/emea/fr/careers/locations/France/locations-in-france/borre.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/emea/en/careers/locations/France/locations-in-france/bagneaux.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/kaiserslautern-wiesbaden.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/tw/zh_tw/about-us/company-profile/corning-in-taiwan.html
+[site_extractor] fetch_page: https://www.corning.com/careers/in/en/Locations/Pune.html
+[site_extractor] fetch_page: https://www.corning.com/catalog/cls/documents/iso-certificates/Corning_ISO9001_2015_Certificate.pdf
+[site_extractor] fetch_page: https://www.corning.com/fiber-to-the-premise/worldwide/en/home/support-center.html
+[site_extractor] fetch_page: https://www.corning.com/worldwide/en/products/environmental-technologies/services.html
+[site_extractor] fetch_page: https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/catalog/cls/documents/iso-certificates/Corning_ISO9001_2015_Certificate.pdf
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf
+[site_extractor] web_search: Corning optical communications plant locations United States Hickory Wilmington Charlotte official address
+[site_extractor] web_search: Corning Advanced Optics Tropel Fairport address official Corning
+[site_extractor] web_search: Corning pharmaceutical technologies plant Pisa official address Corning
+[site_extractor] web_search: site:corning.com Corning Life Sciences locations Bedford Mediatech Salt Lake City address
+[site_extractor] fetch_page: https://www.corning.com/optical-communications/worldwide/en/home/support/customer-support.html
+[site_extractor] fetch_page: https://www.corning.com/fiber-to-the-premise/cala/en/home/support-center.html
+[site_extractor] fetch_page: https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+[site_extractor] fetch_page: https://www.corning.com/optical-communications/worldwide/en/home/news-and-events/news-releases/2023/03/corning-opens-optical-cable-manufacturing-campus-in-north-carolina-to-accelerate-broadband-buildouts-and-connect-the-unconnected.html
+[site_extractor] fetch_page: https://www.corning.com/worldwide/en/products/pharmaceutical-technologies/pharmaceutical-tubing.html
+[site_extractor] fetch_page: https://www.corning.com/cala/en/careers/locations
+[site_extractor] fetch_page: https://www.corning.com/emea/en/careers/locations
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/fiber-to-the-premise/cala/en/home/support-center.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/optical-communications/worldwide/en/home/news-and-events/news-releases/2023/03/corning-opens-optical-cable-manufacturing-campus-in-north-carolina-to-accelerate-broadband-buildouts-and-connect-the-unconnected.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/emea/en/careers/locations
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/worldwide/en/products/pharmaceutical-technologies/pharmaceutical-tubing.html
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf
+[site_extractor] fetch_page_search_fallback: https://www.corning.com/cala/en/careers/locations
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+
+Combined CSV now holds 2 companies: results\combined_10_scrapingbee.csv
+
+==============================================================================
+[3/10] TE CONNECTIVITY
+==============================================================================
+Researching site locations for: TE CONNECTIVITY
+
+Collected 123 distinct candidate address(es).
+
+Company domains treated as first-party: te.com, supplier.te.com, first-sensor.com, kries.com, richards-mfg.com
+
+=== Ranked candidates for TE CONNECTIVITY ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Peter-Behrens-Straße 15, Berlin, Berlin, 12459, Germany
+    site_type: Semiconductor Manufacturing Plant, Cleanroom, R&D, Headquarters
+    source:  https://www.first-sensor.com/en/company/about-us/our-locations/
+    quote:   First Sensor AG is headquartered in Berlin... semiconductor silicon chip production facility, with over 2.000 square meters of clean room space.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Darßer Bogen 19, Berlin, Berlin, 13088, Germany
+    site_type: R&D, Manufacturing Plant, Cleanroom
+    source:  https://www.first-sensor.com/en/company/about-us/our-locations/
+    quote:   The Berlin-Weißensee location focuses on the development and production of electronic micro systems for pressure, flow and optical sensors.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Grenzstraße 22, Dresden, Saxony, 01109, Germany
+    site_type: Semiconductor Manufacturing Plant, R&D, Cleanroom
+    source:  https://www.first-sensor.com/en/company/about-us/our-locations/
+    quote:   Our location in Dresden-Klotzsche has many years of experience... developing and manufacturing... micro systems.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Allee 35, Oberdischingen, Baden-Württemberg, 89610, Germany
+    site_type: Manufacturing Plant, Cleanroom, Testing Facility
+    source:  https://www.first-sensor.com/en/company/about-us/our-locations/
+    quote:   The location includes a production area with a continuously monitored clean room of over 1,800 square meters.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Biegelwiesenstraße 24, Waiblingen, Baden-Württemberg, 71334, Germany
+    site_type: Engineering Center, Manufacturing Plant, Office
+    source:  https://www.kries.com/en/contact-kries-en
+    quote:   Company Address: TE Connectivity Smart Grid GmbH Biegelwiesenstr. 24 D-71334 Waiblingen
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Parkmore Business Park West, Parkmore, Ballybrit, Galway, County Galway, H91 VN2T, Ireland
+    site_type: Corporate Headquarters, Office
+    source:  https://www.te.com/en/customer-support/connect-with-us.html
+    quote:   TE Connectivity plc Parkmore Business Park West, Parkmore, H91VN2T Ballybrit, Galway, Ireland
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 680 East Swedesford Road, Wayne, Pennsylvania, 19087, United States
+    site_type: Regional Headquarters, Office
+    source:  https://www.te.com/en/customer-support/connect-with-us.html
+    quote:   Regional Headquarters 680 East Swedesford Road Wayne, PA 19087 United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 10 Earlsfort Terrace, Dublin, County Dublin, D02 T380, Ireland
+    site_type: Registered Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity plc | Dublin, Ireland | 10 Earlsfort Terrace, Dublin 2, D02 T380, Ireland
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: International Science Centre, Block 1, National Technology Park (UL Campus), Castletroy, County Limerick, V94 C61W, Ireland
+    site_type: Office, R&D, Engineering Center
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   TE Connectivity Ireland Limited | Castletroy, Ireland | International Science Centre Block 1 National Technology Park (UL Campus)V94 C61W, Castletroy
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Unit B, Block 1, Shannon Business Park, Shannon, County Clare, V14 FP57, Ireland
+    site_type: Office, Operations Site
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   TE Connectivity Ireland Limited | Shannon, Ireland | Unit B Block 1 Shannon Business Park Shannon Co. Clare V14 FP57
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Unit 201, Ballybrit Business Park, Galway, County Galway, Ireland
+    site_type: Office, Sensor Operations
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   MEAS Ireland (Betatherm) Limited | Galway, Ireland | Unit 201 Ballybrit Business Park Galway
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Unit 6, Block 8, Blanchardstown Corporate Park, Dublin, County Dublin, Dublin 15, Ireland
+    site_type: Office, Operations Site
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   TYCO ELECTRONICS IRELAND LIMITED | Dublin 15, Ireland | Blanchardstown Corporate Park Unit 6 Block 8 Dublin 15
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Unit 2/3 Corella Close, Berkeley Vale, New South Wales, 2261, Australia
+    site_type: Office, Operations Site
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   TE Connectivity Australia Pty Ltd | Berkeley Vale, Australia | UNIT 2/3 CORELLA CLOSE BERKELEY VALE NSW 2261
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Suite 501, Level 5, 3 Thomas Holt Drive, Macquarie Park, New South Wales, 2113, Australia
+    site_type: Office
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   TE Connectivity Australia Pty Ltd | Macquarie Park, Australia | SUITE 501, LEVEL 5, 3 THOMAS HOLT DRIVE MACQUARIE PARK NSW 2113
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Schrackstraße 1, Waidhofen an der Thaya, Lower Austria, 3830, Austria
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Austria GmbH | Waidhofen an der Thaya, Austria | Schrackstraße 1, 3830 Waidhofen an der Thaya, Austria
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Siemenslaan 14, Oostkamp, West Flanders, 8020, Belgium
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Belgium BV | Oostkamp, Belgium | Siemenslaan 14, 8020 Oostkamp, Belgium
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Rua Ampere, 304, Bragança Paulista, São Paulo, 12929-570, Brazil
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Brasil Indústria de Eletrônicos Ltda. | Sao Paulo, Brazil | City of Braganca Paulista, State of Sao Paulo, Rua Ampere, no. 304, Sao Paulo, 12929-570, Brazil
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 600-1741 Lower Water Street, Halifax, Nova Scotia, B3J 0J2, Canada
+    site_type: Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity ULC | Halifax, Canada | 600-1741, Lower Water Street, Halifax, Nova Scotia, B3J 0J2, Canada
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: K AMP 1293/4, Kuřim, South Moravian Region, 664 34, Czech Republic
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=cze
+    quote:   Kuřim manufacturing site: K AMP 1293, 664 34 Kuřim, Czech Republic
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Kolma 467, Trutnov, Hradec Králové Region, 541 03, Czech Republic
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=cze
+    quote:   Trutnov manufacturing site: Kolma 467, 541 03 Trutnov, Czech Republic
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Komenského 821, Trutnov, Hradec Králové Region, 541 01, Czech Republic
+    site_type: Registered Office, Manufacturing Operations
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   Tyco Electronics EC Trutnov S.r.o. | Trutnov, Czech Republic | Komenskho 821 54101 Trutnov
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2E, Sletvej, Tranbjerg, Central Denmark Region, 8310, Denmark
+    site_type: Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity (Denmark) ApS | Tranbjerg, Denmark | 2E, Sletvej, Tranbjerg, 8310, Denmark
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Konalantie 47 B, Helsinki, Uusimaa, 00390, Finland
+    site_type: Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Tyco Electronics Finland Oy | Helsinki, Finland | Konalantie 47 B, 00390, Helsinki
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1 Rue Ampère, Pontoise, Île-de-France, 95300, France
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Deutsch Group France | Pontoise, France | 1, Rue Ampère, 95300 Pontoise, France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 17 Rue Lavoisier, Evreux, Normandy, 27000, France
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Connecteurs Electriques Deutsch | Evreux, France | 17, rue Lavoisier 27000 Evreux, France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Zone d'Activités Économiques Heiden Est, 16 Rue du Luxembourg, Wittelsheim, Grand Est, 68310, France
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Schaffner EMC France Zone d’Activités Économiques Heiden Est 16 Rue du Luxembourg 68310 Wittelsheim, France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4 Rue Gaye-Marie, Toulouse, Occitanie, 31027, France
+    site_type: R&D, Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Sensors France | Toulouse, France | 4, rue Gaye-Marie, Toulouse, Cedex 3, France, 31027
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Ziegelhau 25, Adelberg, Baden-Württemberg, 73099, Germany
+    site_type: Manufacturing Plant, R&D, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   ERNI Deutschland GmbH | Adelberg, Germany | Ziegelhau 25, 73099 Adelberg, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Ampèrestraße 12-14, Bensheim, Hesse, 64625, Germany
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Germany GmbH | Bensheim, Germany | Ampèrestraße 12-14, 64625 Bensheim, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Finsinger Feld 1, Ottobrunn, Bavaria, 85521, Germany
+    site_type: Manufacturing Plant, Engineering Center, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Energy GmbH | Ottobrunn, Germany | Finsinger Feld 1, Ottobrunn, 85521, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Bernrieder Strasse 15, Niederwinkling, Bavaria, 94559, Germany
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Industrial GmbH | Niederwinkling, Germany | Bernrieder Strasse 15, Niederwinkling, 94559, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Bohnland 16, Wildberg, Baden-Württemberg, 72218, Germany
+    site_type: Manufacturing Plant, R&D, Office
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   TE Connectivity KISSLING Products GmbH | Wildberg, Germany | Bohnland 16 72218 Wildberg
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Sandwiesenstraße 19, Waiblingen, Baden-Württemberg, 71334, Germany
+    site_type: Engineering Center, Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Kries Energietechnik GmbH & Co. KG | Waiblingen, Germany | Sandwiesenstraße 19, Waiblingen, 71334, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Hauert 13, Dortmund, North Rhine-Westphalia, 44227, Germany
+    site_type: Engineering Center, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Smart Grid GmbH | Dortmund, Germany | Hauert 13, Dortmund, 44227, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: AMP utca 2, Esztergom, Komárom-Esztergom, 2500, Hungary
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Tyco Electronics Hungary Termelő Korlátolt Felelősségű Társaság | Esztergom, Hungary | 2500 Esztergom AMP utca 2.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 88P, Sahasra Shree, Ground Floor, Export Promotion Industrial Park (EPIP), Bengaluru, Karnataka, 560066, India
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Deutsch India Power Connectors Private Limited | Bangalore, India | No. 88P, Sahasra Shree, Ground Floor, Export Promotion Industrial Park (EPIP), Bangalore - 560066
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: #88, Sahasra Shree, 1st Floor, EPIP Zone Whitefield, Bengaluru, Karnataka, 560066, India
+    site_type: R&D, Engineering Center, Office
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-india.html
+    quote:   Home of our R&D center dedicated to supporting growth and leadership for our Medical business.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 22 B, TE Park, Phase 2, Whitefield Main Road, Doddanakundi Industrial Area 2, EPIP Zone, Bengaluru, Karnataka, 560048, India
+    site_type: Manufacturing Plant, Office
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   TE Connectivity India Pvt Limited | Bengaluru, India | 22 B, TE Park, Phase, 2, Whitefield Main Rd, Doddanakundi Industrial Area 2, EPIP Zone, Bengaluru,560048 Karnataka
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Gut Nos. 1122, 1129, 1140, 1295, 1296, Village Shirwal, Taluka Khandala, Shirwal, Maharashtra, 412801, India
+    site_type: Manufacturing Plant
+    source:  https://supplier.te.com/documents/40044/0/Global/8f4c7ab7-9dd0-4787-bd37-936e9045bd5b
+    quote:   Village Shirwal, Taluka Khandala District Satara – 412801 Maharashtra, India
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Survey No. 166/3, Gut No. 95, Kesnand Village, Wagholi-Rahu Road, Pune, Maharashtra, 412207, India
+    site_type: Manufacturing Plant, Office
+    source:  https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+    quote:   TE Connectivity India Pvt Limited | Pune, India | Survey No. 166/3, GUT No. 95, Kesnand Village, Wagholi-Rahu Road, 412207 PUNE
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3 Chome-5-8 Hisamoto, Takatsu Ward, Kawasaki, Kanagawa, 213-0011, Japan
+    site_type: Medical Manufacturing Plant, R&D, Testing Facility
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-japan.html
+    quote:   A 67,000 sq. ft. site specializing in medical connector design and development.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3-5-8 Hisamoto, Takatsu-ku, Kawasaki, Kanagawa, Japan
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Japan G.K. | Kawasaki-shi, Japan | 3-5-8 Hisamoto, Takatsu-ku, Kawasaki-shi, Kanagawa, Japan
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Suite 13.02, Menara Tan & Tan, 207 Jalan Tun Razak, Kuala Lumpur, Kuala Lumpur, 50400, Malaysia
+    site_type: Regional Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Malaysia Sdn. Bhd. | Kuala Lumpur, Malaysia | Suite 13.02, Menara Tan & Tan, 207 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 837 Moo 9, Gateway City Industrial Estate, Huasamrong, Plaengyao, Chachoengsao, Chachoengsao, 24190, Thailand
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/en/utilities/management-system-certifications.html?iso=tha
+    quote:   837 Moo 9, Gateway City Industrial Estate Huasamrong, Plaengyao Chachoengsao 24190, Thailand
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Northern Region Industrial Estate, 179 Moo 4, Tambon Banklang, Amphur Muang, Lamphun, Lamphun, 51000, Thailand
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   ERNI Electronics (Thailand) Co., Ltd. | Lamphun, Thailand | Northern Region Industrial Estate, 179 M.4 T.Banklang, A.Muang, Lamphun, 51000
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 999/18 Bangkok Free Trade Zone, Moo 15, Bangna-Trad km. 23 Road, Tambol Bang Saothong, Samut Prakan, Samut Prakan, Thailand
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Wema Environmental Technologies Ltd. | Samutprakarn, Thailand | No. 999/18 Bangkok Free Trade Zone
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Lot 38-A, Phase 1B, First Philippine Industrial Park-SEZ, Tanauan, Batangas, 4232, Philippines
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Manufacturing Philippines Inc. | City of Tanauan, Philippines | Lot 38-A, Phase 1B, First Philippine Industrial Park-Special Economic Zone
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Lot No. 102, Zone Franche Logistique Ksar Al Majaz, Port Tanger Med, Tangier, Tangier-Tetouan-Al Hoceima, 94152, Morocco
+    site_type: Manufacturing Plant, Logistics Center, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Morocco SARL | Tanger, Morocco | Lot n°102, Zone Franche Logistique Ksar Al Majaz, Port Tanger MED, Tanger, 94152
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: ul. Grunwaldzka 38, Nowa Wieś Lęborska, Pomeranian Voivodeship, 84-351, Poland
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Industrial Poland sp. z o.o. | Nowa Wies Leborska, Poland | ul. Grunwaldzka 38 84-351 Nowa Wies Leborska
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: ul. Kablowa 1, Szczecin, West Pomeranian Voivodeship, 70-895, Poland
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Tyco Electronics Polska Sp. z o.o. Oddzial w Szczecinie | Szczecin, Poland | ul. Kablowa nr 1, Szczecin, 70-895
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: ul. Wielicka 28B, Kraków, Lesser Poland Voivodeship, 30-552, Poland
+    site_type: Office, Services Center
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Poland Services sp. z o.o. | Cracow, Poland | ul. Wielicka 28B, 30-552, Cracow
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Estrada de Almeirim, Horta das Figueiras, Évora, Alentejo, 7005-797, Portugal
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Tyco Electronics Componentes Electromecanicos Lda. | Évora, Portugal | Estrada de Almeirim, Horta das Figueiras, Évora, 7005-797
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: DJ691 KM 7+192, Dumbrăvița, Timiș County, Romania
+    site_type: R&D, Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Sensor Solutions S.R.L. | Timis county, Romania | Dumbravita commune, Drumul Judetean 691, Km 7 + 192
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: P. Hostinského 5226/38, Rimavská Sobota, Banská Bystrica Region, 979 01, Slovakia
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Slovakia s.r.o. | Rimavská Sobota, Slovakia | P. Hostinského 5226/38, Rimavská Sobota 979 01
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 9 Calle Goiru, Arrasate-Mondragon, Gipuzkoa, 20500, Spain
+    site_type: R&D, Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   microLIQUID, S.L.U. | Arrasate-Mondragon, Spain | 9, Calle Goiru, Arrasate-Mondragon, Guipuzcoa, 20500
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Avenida Diagonal 123, 11th floor, Barcelona, Catalonia, 08005, Spain
+    site_type: Office, Engineering Center
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Electronics Spain, S.L.U. | Barcelona, Spain | Avenida Diagonal number 123, 11th floor, Barcelona, 08005
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Mühlenstrasse 26, Schaffhausen, Schaffhausen, 8200, Switzerland
+    site_type: Office, Engineering Center
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Solutions GmbH | Schaffhausen, Switzerland | Mühlenstrasse 26 8200 Schaffhausen
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Faraday Road, Dorcan, Swindon, England, SN3 5HH, United Kingdom
+    site_type: Office, Services Center
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Tyco Electronics UK Ltd. | Swindon, United Kingdom | Finance Service Centre Faraday Road, Dorcan, SN3 5HH, Swindon
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Seacon House, Hewett Road, Gapton Hall Industrial Estate, Great Yarmouth, Norfolk, England, NR31 0RB, United Kingdom
+    site_type: Manufacturing Plant, R&D, Testing Facility, Service Center
+    source:  https://www.te.com/en/products/brands/seacon.html
+    quote:   Seacon House Hewett Road Gapton Hall Industrial Estate Great Yarmouth Norfol NR31 0RB United Kingdom
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1050 Westlakes Drive, Berwyn, Pennsylvania, 19312, United States
+    site_type: Corporate Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   TE Connectivity Corporation | Berwyn, United States | 1050 Westlakes Drive, Berwyn, Pennsylvania, 19312
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2800 Fulling Mill Road, Middletown, Pennsylvania, 17057, United States
+    site_type: Manufacturing Plant, Tooling Center, Engineering Center
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Pennsylvania, 2800 Fulling Mill Road, Middletown, PA 17057
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2900 Fulling Mill Road, Middletown, Pennsylvania, 17057, United States
+    site_type: Manufacturing Plant, Engineering Center
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Pennsylvania, 2900 Fulling Mill Road, Middletown, PA 17057
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3101 Fulling Mill Road, Middletown, Pennsylvania, 17057, United States
+    site_type: Tooling Center, Manufacturing Support, Engineering Center
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Pennsylvania, 3101 Fulling Mill Road, Middletown, Pennsylvania 17057
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1311 South Market Street, Mechanicsburg, Pennsylvania, 17055, United States
+    site_type: Distribution Center, Warehouse
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Pennsylvania, 1311 South Market Street, Mechanicsburg, Pennsylvania 17055
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2100 Paxton Street, Harrisburg, Pennsylvania, 17111, United States
+    site_type: Manufacturing Plant, Engineering Center
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Pennsylvania, 2100 Paxton Street, Harrisburg, PA 17111
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1590 Kauffman Road, Landisville, Pennsylvania, 17538, United States
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Pennsylvania, 1590 Kauffman Road, Landisville, PA, 17538
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1250 East Main Street, Mount Joy, Pennsylvania, 17552, United States
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Pennsylvania, 1250 East Main Street, Mount Joy, PA 17552
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3155 State Route 72, Jonestown, Pennsylvania, 17268, United States
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Pennsylvania, 3155 State Route 72, Jonestown, Pennsylvania 17268
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1000 Lucas Way, Hampton, Virginia, 23666, United States
+    site_type: Sensor Manufacturing Plant, R&D
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Virginia, 1000 Lucas Way, Hampton, Virginia, 23666
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 7 Industrial Park Road, Medway, Massachusetts, 02053, United States
+    site_type: Medical Manufacturing Plant, R&D
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-medway.html
+    quote:   A 80,000 sq. ft. site dedicated to metal tubing and precisioned engineered components.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 10025 Southwest Freeman Drive, Wilsonville, Oregon, 97070, United States
+    site_type: Medical Manufacturing Plant, R&D, Cleanroom, Testing Facility
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-wilsonville.html
+    quote:   A 260,000 sq. ft. site and center of excellence for wire & coil technologies and connector development.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5905 Trenton Lane North, Plymouth, Minnesota, 55442, United States
+    site_type: Medical Manufacturing Plant, R&D, Cleanroom, Testing Facility
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-plymouth-tl.html
+    quote:   A 100,000+ sq. ft. site and center of excellence for Structural Heart & Electrophysiology.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5015 Cheshire Parkway North, Plymouth, Minnesota, 55446, United States
+    site_type: Medical Manufacturing Plant, R&D, Testing Facility
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-plymouth-cp.html
+    quote:   A 26,000 sq. ft. site and center of excellence for laser processing.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 67 Murray Drive, Tullahoma, Tennessee, 37388, United States
+    site_type: Distribution Center, Manufacturing Plant
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Tennessee, 67 Murray Drive, Tullahoma, TN, 37388
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 509 Airpark Drive, Tullahoma, Tennessee, 37388, United States
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Tennessee, 509 Airpark Drive, Tullahoma, Tennessee 37388
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1740 Joe Battle Boulevard, Building 3, El Paso, Texas, 79936, United States
+    site_type: Distribution Center, Warehouse
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Texas, 1740 Joe Battle Boulevard, Building 3, El Paso, TX, 79936
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1039 Schlipf Road, Katy, Texas, 77493, United States
+    site_type: Office, Engineering Center, Service Center
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Texas, 1039 Schlipf Road, Katy, TX 77493
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1700 Gillespie Way, El Cajon, California, 92020, United States
+    site_type: Manufacturing Plant, Engineering Center, Service Center
+    source:  https://www.te.com/en/products/brands/seacon.html
+    quote:   1700 Gillespie Way El Cajon, CA 92020
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 501 Oakside Avenue, Redwood City, California, 94036, United States
+    site_type: Manufacturing Plant, Wire and Cable Manufacturing
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, California, 501 Oakside Avenue, Redwood City, California 94036
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 550 Linden Avenue, Carpinteria, California, 93013, United States
+    site_type: Manufacturing Plant, Aerospace Manufacturing
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, California, 550 Linden Avenue, Carpinteria, California 93013
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1701 McCarthy Boulevard, Milpitas, California, 95035, United States
+    site_type: Manufacturing Plant, R&D, Office
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, California, 1701 McCarthy Blvd, Milpitas, California, 95035
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 6801 Kaiser Drive, Fremont, California, 94555, United States
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, California, 6801 Kaiser Drive, Fremont, California 94555
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 44901 Industrial Drive, Fremont, California, 94538, United States
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, California, 44901 Industrial Drive, Fremont, California, 94538
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1204 West Industrial Park Drive, Nogales, Arizona, 85621, United States
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Arizona, 1204 W Industrial Park Dr, Nogales, AZ 85621
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1396 Charlotte Highway, Fairview, North Carolina, 28730, United States
+    site_type: Manufacturing Plant, Aerospace Manufacturing
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, North Carolina, 1396 Charlotte Highway, Fairview, North Carolina 28730
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 719 Pegg Road, Greensboro, North Carolina, 27409, United States
+    site_type: Manufacturing Plant, Testing Facility
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, North Carolina, 719 Pegg Road, Greensboro, North Carolina 27409
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3700 Reidsville Road, Winston-Salem, North Carolina, 27101, United States
+    site_type: Manufacturing Plant, R&D, Office
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, North Carolina, 3700 Reidsville Road, Winston Salem, NC 27101
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3800 Reidsville Road, Winston-Salem, North Carolina, 27107, United States
+    site_type: Manufacturing Plant, R&D, Testing Facility
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, North Carolina, 3800 Reidsville Road, Winston-Salem, North Carolina, NC, 27102
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3900 Reidsville Road, Winston-Salem, North Carolina, 27101, United States
+    site_type: Manufacturing Plant, R&D, Testing Facility
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, North Carolina, 3900 Reidsville Road, Winston-Salem, North Carolina 27101
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3920 Reidsville Road, Winston-Salem, North Carolina, 27101, United States
+    site_type: Manufacturing Plant, R&D, Testing Facility
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, North Carolina, 3920 Reidsville Road, Winston-Salem, North Carolina 27101
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 8000 Purfoy Road, Fuquay-Varina, North Carolina, 27526, United States
+    site_type: Testing Facility, Engineering Center
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, North Carolina, 8000 Purfoy Road, Fuquay-Varina, NC 27526
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 175 North Diamond Street, Mansfield, Ohio, 44902, United States
+    site_type: Manufacturing Plant, Repair/Service Center
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Ohio, 175 North Diamond Street, Mansfield, Ohio 44902
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 60 Commerce Drive, Hauppauge, New York, 11788, United States
+    site_type: Manufacturing Plant, Testing Facility
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, New York, 60 Commerce Drive, Hauppauge, NY 11788 USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 15030 Compark Boulevard, Suite 110, Parker, Colorado, 80134, United States
+    site_type: R&D, Office, Medical Operations
+    source:  https://www.te.com/en/utilities/management-system-certifications.html
+    quote:   USA, Colorado, 15030 Compark Blvd, Suite 110, Parker, Colorado 80134
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1209 Orange Street, Wilmington, Delaware, 19801-1120, United States
+    site_type: Manufacturing Plant, Office, Engineering Center
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Harger, LLC | Wilmington, United States | 1209 Orange Steet, Wilmington, Delaware, 19801-1120
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Grayslake, Grayslake, Illinois, United States
+    site_type: Manufacturing Plant, Engineering Center
+    source:  https://www.te.com/en/about-te/news-center/te-acquires-harger.html
+    quote:   Harger products are manufactured in Grayslake, IL and Fairmont, NC, USA.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Fairmont, Fairmont, North Carolina, United States
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/en/about-te/news-center/te-acquires-harger.html
+    quote:   Harger products are manufactured in Grayslake, IL and Fairmont, NC, USA.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 517 Lyons Avenue, Irvington, New Jersey, 07111, United States
+    site_type: Manufacturing Plant, Office
+    source:  https://www.richards-mfg.com/
+    quote:   Richards Manufacturing 517 Lyons Avenue, Irvington, NJ 07111
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 159 Ort Lane, Merlin, Oregon, 97532, United States
+    site_type: R&D, Engineering Center, Office
+    source:  https://www.te.com/content/dam/te-com/documents/consumer-devices/global/te-connectivity-connector.pdf
+    quote:   Linx Technologies — Oregon Design Center 159 Ort Lane Merlin, OR 97532 United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Parque Industrial Bellavista, Carretera Internacional KM 1969, Guadalajara-Nogales KM 2, Empalme, Sonora, 85340, Mexico
+    site_type: Medical Manufacturing Plant, Cleanroom, R&D
+    source:  https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-mexico.html
+    quote:   A 117,000 sq. ft. site dedicated to high volume molding and assembly.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Blvd. Industrial Norte No. 23, Parque Industrial Hermosillo Norte, Hermosillo, Sonora, 83118, Mexico
+    site_type: Manufacturing Plant, Office
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   AMP Amermex, S.A. de C.V. | Hermosillo, Mexico | Blvd. Industrial Norte No. 23, Parque Industrial Hermosillo Norte, Hermosillo, Sonora, CP, 83118
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Blvd. Paseo del Cucapah No. 16822-B, Colonia El Lago, Tijuana, Baja California, 22210, Mexico
+    site_type: Manufacturing Plant
+    source:  https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+    quote:   Seacon Global Production, S. de R.L. de C.V. | Tijuana, Mexico | Blvd. Paseo del Cucapah no 16822-B, Colonia el Lago C.P., Tijuana, B.C. 22210 MexicoTraceback (most recent call last):
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain\agents\structured_output.py", line 99, in _parse_with_schema
+    return adapter.validate_python(data)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\pydantic\type_adapter.py", line 441, in validate_python
+    return self.validator.validate_python(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        object,
+        ^^^^^^^
+    ...<6 lines>...
+        by_name=by_name,
+        ^^^^^^^^^^^^^^^^
+    )
+    ^
+pydantic_core._pydantic_core.ValidationError: 5 validation errors for SiteExtractionResult
+candidates.49.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.50.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.51.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.52.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.74.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain\agents\factory.py", line 1211, in _handle_model_output
+    structured_response = provider_strategy_binding.parse(output)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain\agents\structured_output.py", line 430, in parse
+    return _parse_with_schema(self.schema, self.schema_kind, data)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain\agents\structured_output.py", line 103, in _parse_with_schema
+    raise ValueError(msg) from e
+ValueError: Failed to parse data to SiteExtractionResult: 5 validation errors for SiteExtractionResult
+candidates.49.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.50.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.51.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.52.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.74.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\cli.py", line 251, in run_batch
+    result = run_one(company, reasoning_effort=reasoning_effort)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\cli.py", line 181, in run_one
+    pipeline = _run_pipeline(company, reasoning_effort=reasoning_effort)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\cli.py", line 121, in _run_pipeline
+    result = agent.invoke(
+        {"messages": [{"role": "user", "content": f"Research physical site locations for: {company}"}]},
+        config={"callbacks": [usage_callback]},
+    )
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3913, in invoke
+    for chunk in self.stream(
+                 ~~~~~~~~~~~^
+        input,
+        ^^^^^^
+    ...<11 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\main.py", line 2967, in stream
+    for _ in runner.tick(
+             ~~~~~~~~~~~^
+        [t for t in loop.tasks.values() if not t.writes],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        schedule_task=loop.accept_push,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 207, in tick
+    run_with_retry(
+    ~~~~~~~~~~~~~~^
+        t,
+        ^^
+    ...<10 lines>...
+        },
+        ^^
+    )
+    ^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 617, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 707, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 447, in invoke
+    ret = self.func(*args, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain\agents\factory.py", line 1486, in model_node
+    result = wrap_model_call_handler(request, _execute_model_sync)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain\agents\factory.py", line 309, in normalized_single
+    return _to_composed_result(single_handler(request, handler))
+                               ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langsmith\run_helpers.py", line 781, in wrapper
+    function_result = run_container["context"].run(
+        func, *args, **kwargs
+    )
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\search_tool.py", line 729, in wrap_model_call
+    return handler(request)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain\agents\factory.py", line 1459, in _execute_model_sync
+    handled_output = _handle_model_output(output, effective_response_format)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain\agents\factory.py", line 1217, in _handle_model_output
+    raise validation_error from exc
+langchain.agents.structured_output.StructuredOutputValidationError: Failed to parse structured output for tool 'SiteExtractionResult': Failed to parse data to SiteExtractionResult: 5 validation errors for SiteExtractionResult
+candidates.49.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.50.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.51.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.52.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+candidates.74.street_address
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type.
+During task with name 'model' and id 'a77485e0-9748-9a2b-1dea-eaccba765f00'

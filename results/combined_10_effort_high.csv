@@ -1,0 +1,474 @@
+supplier,address,url
+BOEING,"737 Logan Avenue North, Renton, WA 98057, USA",https://apps.ecology.wa.gov/facilitysite/FacilitySite/FacilitySiteReport?FACILITYSITEID=21957&utm_source=openai
+BOEING,"740–742 Chester Road, Delta, BC V3M 6J1, Canada",https://services.boeing.com/locations/customer-service-centers-locations?utm_source=openai
+BOEING,"12845 Rue Brault, Mirabel, Québec J7J 0C4, Canada",https://services.boeing.com/locations/north-america/mirabel-quebec?utm_source=openai
+BOEING,"425 Tranmere Drive, Unit 2, Mississauga, Ontario L5S 1L4, Canada",https://services.boeing.com/locations/north-america/mississauga-ontario?utm_source=openai
+BOEING,"4451 Aircraft Drive, Suite C, Anchorage, AK 99502-0906, USA",https://services.boeing.com/locations/north-america/anchorage-alaska
+BOEING,"3350 Davie Road, Suite 206, Davie, FL 33314-1638, USA",https://services.boeing.com/locations/north-america/davie-florida?utm_source=openai
+BOEING,"929 Long Bridge Drive, Arlington, VA 22202, USA",https://www.boeing.com/company/general-info/corporate-governance?utm_source=openai
+BOEING,"700 15th Street SW, Auburn, WA 98001, USA",https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+BOEING,"18001 Canyon Road East, Puyallup, WA 98375, USA",https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+BOEING,"4635 NE Cornfoot Road, Portland, OR 97218, USA",https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+BOEING,"6300 James S. McDonnell Boulevard, St. Louis, MO 63134, USA",https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+BOEING,"2600 N. 3rd Street / Highway 94, St. Charles, MO 63301-0060, USA",https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+BOEING,"5400 International Boulevard, North Charleston, SC 29418, USA",https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+BOEING,"499 Boeing Boulevard, Huntsville, AL 35824, USA",https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/environment/pdf/ISO_14001_Certificates.pdf?utm_source=openai
+BOEING,"5000 E. McDowell Road, Mesa, AZ 85215-9707, USA",https://investmentrecovery.boeing.com/surplus/auctiondetail.aspx?auctionid=67740&utm_source=openai
+BOEING,"6001 S. Air Depot Boulevard, Oklahoma City, OK 73135, USA",https://investmentrecovery.boeing.com/surplus/auctiondetail.aspx?auctionid=64854&utm_source=openai
+BOEING,"375 Airlift Drive, San Antonio, TX 78226, USA",https://investmentrecovery.boeing.com/surplus/auctiondetail.aspx?auctionid=67990&utm_source=openai
+BOEING,"6601 NW 36th Street, Miami, FL 33166-6922, USA",https://www.boeing.com/company/global-presence/latin-america?utm_source=openai
+BOEING,"4000 N. Lakewood Boulevard, Long Beach, CA 90808, USA",https://events.boeing.com/profile/web/index.cfm?PKwebID=0x81967abcd&utm_source=openai
+BOEING,"Av. Cassiano Ricardo, 601, 16th floor, Jardim Aquarius, São José dos Campos, SP 12246-870, Brazil",https://www.boeing.com/company/global-presence/latin-america?utm_source=openai
+BOEING,"Frankfurter Str. 233, 63263 Neu-Isenburg, Germany",https://www.boeing.com/privacy/data_protection_officers?utm_source=openai
+BOEING,"16th Floor, 136 Sejong-daero, Jung-gu, Seoul 100-768, Republic of Korea",https://www.boeing.com/privacy/data_protection_officers?utm_source=openai
+BOEING,"38 Beach Road, #16-11 South Beach Tower, Singapore 189767",https://www.boeing.com/privacy/data_protection_officers?utm_source=openai
+BOEING,"2 Cranberry Road, Parsippany, NJ 07054-1053, USA",https://services.boeing.com/bgsmedias/sys_master/root/hb6/haf/9057386790942/Wheel-and-Brake-Operations-Specifications-Certificate-Parsippany-NJ-2025/Wheel-and-Brake-Operations-Specifications-Certificate-Parsippany-NJ-2025.pdf?utm_source=openai
+BOEING,"12 rue de Caulet, BAT C01, 31300 Toulouse, France",https://shop.boeing.com/bgsmedias/BDSI-Global-AS9120-Rev-B-Certificate-240215.pdf?context=bWFzdGVyfHBkZnwyMTIwODN8YXBwbGljYXRpb24vcGRmfHBkZi9oMzAvaDIwLzg5MzMxNjY2MTI1MTAucGRmfDliZDAxMjU4OWYxMDc1ZTU3ZjQ0YzRkNWFmNGY5YWY3ZTlkZjAwNTNkMzU3N2ZjOWMxNWU1OTZmZDBmNjZjMDA&utm_source=openai
+BOEING,"27 Rue E. Audibert, 60305 Senlis, France",https://shop.boeing.com/bgsmedias/BDSI-Global-AS9120-Rev-B-Certificate-240215.pdf?context=bWFzdGVyfHBkZnwyMTIwODN8YXBwbGljYXRpb24vcGRmfHBkZi9oMzAvaDIwLzg5MzMxNjY2MTI1MTAucGRmfDliZDAxMjU4OWYxMDc1ZTU3ZjQ0YzRkNWFmNGY5YWY3ZTlkZjAwNTNkMzU3N2ZjOWMxNWU1OTZmZDBmNjZjMDA&utm_source=openai
+BOEING,"Av. Tahel S/N, esquina Ruiz Cortines, Puerta No. 3, Col. Pensador Mexicano, Ciudad de México, C.P. 15520, Mexico",https://www.boeing.com/content/dam/boeing/boeingdotcom/commercial/services/assets/brochure/fs-product-catalog.pdf?utm_source=openai
+BOEING,"3003 W Casino Road, Everett, WA 98204, USA",https://www.boeingstore.com/pages/find-stores/1000?utm_source=openai
+BOEING,"25 Victoria Street, London SW1H 0EX, United Kingdom",https://www.boeing.co.uk/content/dam/boeing/en_uk/pdf/bio-steve-burnell-may-2025.pdf?utm_source=openai
+BOEING,"Avenida Sur del Aeropuerto de Barajas 38, Madrid 28042, Spain",https://eur-lex.europa.eu/resource.html?format=PDF&uri=cellar%3A7efecf4b-75de-11eb-9ac9-01aa75ed71a1.0001.02%2FDOC_2&utm_source=openai
+BOEING,"6 avenue Marceau, 75008 Paris, France",https://www.pappers.fr/entreprise/boeing-france-sas-818092132/documents/BOEING%20FRANCE%20SAS%20-%20Statuts%20mis%20%C3%A0%20jour%2009-06-2021.pdf?utm_source=openai
+BOEING,"3rd Floor, DLF Centre, Sansad Marg, New Delhi, Delhi 110001, India",https://www.boeing.co.in/content/dam/boeing/en-in/media/boeingindia/boeing-in-india/about-boeing-in-india/AB6709864-MGT-7_BIPL_2024-25.pdf?utm_source=openai
+BOEING,"Level 10, Exchange House, 10 Bridge Street, Sydney, NSW 2000, Australia",https://www.boeing.com.au/content/dam/boeing/en-au/pdf/boeing_australia_modern_slavery_statement_2021_final.pdf?utm_source=openai
+BOEING,"Lennéstraße 9, 10785 Berlin, Germany",https://www.lobbyregister.bundestag.de/suche/R004507/66794?backUrl=%2Fsuche%3Fq%3D%25241%26page%3D152%26pageSize%3D10%26sort%3DRELEVANCE_DESC&utm_source=openai
+BOEING,"30 Changi North Rise, #01-01, Singapore 498780",https://www.boeing-sea.com/?utm_source=openai
+BOEING,"Toranomon Hills Station Tower, 39th Floor, 2-6-1 Toranomon, Minato-ku, Tokyo 105-5539, Japan",https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010001124596&utm_source=openai
+BOEING,"100 South Stewart Avenue, Building 86-301, Ridley Park, PA 19078, USA",https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+BOEING,"8151 Tuscany Avenue, El Segundo, CA 90245, USA",https://www.boeing.com/content/dam/boeing/boeingdotcom/commercial/noise/losangeles.pdf?utm_source=openai
+BOEING,"99 Murray Park Road, Winnipeg, MB R3J 3M6, Canada",https://www.boeing.ca/news/2018/boeing-manitoba-aerospace-manufacturer-safe-work-certified?utm_source=openai
+BOEING,"48 Alexander Place, Murarrie, QLD 4172, Australia",https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+BOEING,"20–22 Lindaway Place, Tullamarine, Victoria 3043, Australia",https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+BOEING,"Hoogoorddreef 15, 1101 BA Amsterdam Zuidoost, Netherlands",https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+BOEING,"Nihon Seimei Marunouchi Building, 20th Floor, 1-6-6 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan",https://events.boeing.com/accounts/register123/boeing/bgs/events/flightopssympjapan-12442/Directions%20to%20BJKK%20%289-2-2016%29.pdf?utm_source=openai
+BOEING,"331 North Bridge Road, #06-06 Odeon Towers, Singapore 188720",https://services.boeing.com/bgsmedias/sys_master/images/h51/h26/9062274859038/Rotorcraft%20Product%20Line%20Card_March%202026_FA/Rotorcraft-Product-Line-Card-March-2026-FA.pdf?utm_source=openai
+BOEING,"1345 Redwood Avenue, Winnipeg, Manitoba, Canada",https://www.boeing.ca/news/2018/boeing-manitoba-aerospace-manufacturer-safe-work-certified?utm_source=openai
+CORNING,"One Riverfront Plaza, Corning, NY 14831, USA",https://www.corning.com/worldwide/en/about-us/company-profile.html?utm_source=openai
+CORNING,"792 Addison Road / South Hamilton Road, Erwin, NY 14870, USA",https://dec.ny.gov/news/environmental-notice-bulletin/2024-11-13/completed-application/town-of-erwin-erwin-manufacturing-complex?utm_source=openai
+CORNING,"14556 Highway 601 South, Concord, NC 28025, USA",https://www.deq.nc.gov/news/events/comment-period-opens-corning-incorporated-npdes-wastewater-permit-no-nc0086169-fiber-optic-facility?utm_source=openai
+CORNING,"310 North College Road, Wilmington, NC 28405, USA",https://www.deq.nc.gov/news/events/epa-comment-period-corning-incorporated-wilmington?utm_source=openai
+CORNING,"1764 Trivium Parkway, Newton, NC 28658, USA",https://ofis.trade.gov/Site/Details/5969?utm_source=openai
+CORNING,"1891 Page Mill Road, Suite 100, Palo Alto, CA 94304, USA",https://www.corning.com/cala/pt/products/advanced-optics/product-materials/semiconductor-laser-optic-components/semiconductor-contact-us.html?utm_source=openai
+CORNING,"Avenida Industrial del Norte, Lote 2, Manzana 6, Parque Industrial del Norte, Reynosa, Tamaulipas 88730, Mexico",https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html?utm_source=openai
+CORNING,"Avenida los Pinos No. 1050, Lote 1, Manzana 6, Parque Industrial Villa Florida, Reynosa, Tamaulipas 88730, Mexico",https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html?utm_source=openai
+CORNING,"Avenida los Encinos No. 1011-A, Manzana 7, Lote 1, Parque Industrial Villa Florida, Reynosa, Tamaulipas 88730, Mexico",https://www.corning.com/cala/en/careers/locations/Mexico/locations-in-Mexico.html?utm_source=openai
+CORNING,"7 Bis Avenue de Valvins, 77210 Avon, France",https://www.corning.com/emea/en/careers/locations/France/locations-in-france/avon.html?utm_source=openai
+CORNING,"Rue Saint Laurent, CS 10243, Bagneaux-sur-Loing, 77797 Nemours Cedex, France",https://www.corning.com/emea/en/careers/locations/France/locations-in-france/bagneaux.html?utm_source=openai
+CORNING,"123 Route de Caestre, 59190 Borre, France",https://www.corning.com/emea/en/careers/locations/France/locations-in-france/borre.html?utm_source=openai
+CORNING,"1 Rue Gutenberg, 44160 Pontchâteau, France",https://www.corning.com/emea/en/careers/locations/France/locations-in-france/pontchateau.html?utm_source=openai
+CORNING,"Carl-Billand-Str. 1, 67661 Kaiserslautern, Germany",https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/kaiserslautern-wiesbaden.html?utm_source=openai
+CORNING,"Abraham-Lincoln-Straße 30, 65189 Wiesbaden, Germany",https://www.corning.com/emea/de/contact-us.html?utm_source=openai
+CORNING,"Walther-Nernst-Straße 5, 12489 Berlin, Germany",https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/berlin-hagen-hanover.html?utm_source=openai
+CORNING,"Profilstraße 4, 58093 Hagen, Germany",https://www.corning.com/emea/en/careers/locations/germany/locations-in-germany/berlin-hagen-hanover.html?utm_source=openai
+CORNING,"Smolice 1e, 95-010 Stryków, Łódzkie, Poland",https://www.corning.com/emea/en/careers/locations/poland/locations-in-poland.html?utm_source=openai
+CORNING,"ul. Tarczyńska 114, 96-320 Mszczonów, Poland",https://www.corning.com/emea/en/careers/locations/poland/Mszczonow.html?utm_source=openai
+CORNING,"Daniszewska Street 4, 03-230 Warsaw, Poland",https://www.corning.com/emea/en/careers/locations/poland/Warsaw.html?utm_source=openai
+CORNING,"No. 26, Ke Chuang 10th Street, Beijing 100176, China",https://www.corning.com/careers/cn/en/Locations/Beijing.html?utm_source=openai
+CORNING,"No. 1 Jianguomenwai Avenue, China World Tower 1, Room 2716, Beijing 100004, China",https://www.corning.com/careers/cn/en/Locations/Beijing.html?utm_source=openai
+CORNING,"No. 358 Lu Qiao Road, Gate 4, Pudong, Shanghai 201206, China",https://www.corning.com/careers/cn/en/Locations/Shanghai.html?utm_source=openai
+CORNING,"Building 8, No. 255 Bei He Highway, Jiading, Shanghai 201807, China",https://www.corning.com/careers/cn/en/Locations/Shanghai.html?utm_source=openai
+CORNING,"Siemens Road, No. 1, Hi-Tech Development Zone, Chengdu 610042, China",https://www.corning.com/careers/cn/en/Locations/Chengdu.html?utm_source=openai
+CORNING,"T03/17, No. 1801 Pang Jin Road, Wujiang Economic Development Zone, Jiangsu 215200, China",https://www.corning.com/careers/cn/en/Locations/Wujiang.html?utm_source=openai
+CORNING,"Science and Education Town, Wujin District, Changzhou, Jiangsu 213164, China",https://www.corning.com/careers/cn/zh/careers/Location/Changzhou.html?utm_source=openai
+CORNING,"No. 39, Fu Xing Avenue, Investment Area, Fuzhou, Fujian 350014, China",https://www.corning.com/careers/cn/en/Locations/Fuzhou.html?utm_source=openai
+CORNING,"No. 3399, Wolong Road, Xinzhan District, Hefei, Anhui 230012, China",https://www.corning.com/careers/cn/en/Locations/Hefei.html?utm_source=openai
+CORNING,"No. 1951, Zhongliang Avenue, High-Tech Zone, Bengbu, Anhui, China",https://www.corning.com/cn/zh/about-us/company-profile/Corning-in-China/locations-in-china.html?utm_source=openai
+CORNING,"No. 168 Nanhai Avenue, Haikou Bonded Area, Haikou 570216, China",https://www.corning.com/careers/cn/en/Locations/Haikou.html?utm_source=openai
+CORNING,"D-237, MIDC Phase II, Chakan, Pune, Maharashtra 410501, India",https://www.corning.com/careers/in/en/Locations/Pune.html?utm_source=openai
+CORNING,"184 Science Center Drive, Painted Post, NY 14870, USA",https://www.corning.com/media/worldwide/Sustainability/Files/GlobalImpactReport/2025/Corning-2025-Global-Impact-Report.pdf?utm_source=openai
+CORNING,"334 County Route 16, Canton, NY 13617, USA",https://www.corning.com/emea/en/products/advanced-optics/canton-jobs.html?utm_source=openai
+CORNING,"60 O’Connor Road, Fairport, NY 14450, USA",https://www.corning.com/emea/en/products/advanced-optics/fairport-jobs.html?utm_source=openai
+CORNING,"275 River Street, Oneonta, NY 13820, USA",https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+CORNING,"2 Alfred Road, Kennebunk, ME 04043, USA",https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+CORNING,"836 North Street, Building 300, Suite 3401, Tewksbury, MA 01876-1253, USA",https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+CORNING,"1 Becton Circle, Durham, NC 27712, USA",https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+CORNING,"6507 South 400 West, Salt Lake City, UT 84107, USA",https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+CORNING,"1242 Commerce Avenue, Woodland, CA 95776, USA",https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+CORNING,"2 Oak Park Drive, Bedford, MA 01730, USA",https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+CORNING,"9345 Discovery Boulevard, Manassas, VA 20109, USA",https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+CORNING,"563 Crystal Avenue, Vineland, NJ 08360, USA",https://www.corning.com/cala/en/products/pharmaceutical-technologies/pharmaceutical-tubing.html?utm_source=openai
+CORNING,"800 17th Street NW, Hickory, NC 28601, USA",https://www.corning.com/content/dam/corning/media/worldwide/cls/documents/Local%20Data%20Controllers%20for%20Notices.pdf?utm_source=openai
+CORNING,"4200 Corning Place, Charlotte, NC 28216, USA",https://www.corning.com/optical-communications/worldwide/en/home/support/customer-support.html?utm_source=openai
+CORNING,"5310 West Camelback Road, Glendale, AZ 85301, USA",https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+CORNING,"Antigua Carretera a Roma, km 3.6, 66480 San Nicolás de los Garza, Nuevo León, Mexico",https://www.corning.com/catalog/cls/documents/quality-survey/Corning-Life-Sciences-Quality-System-Survey-Response.pdf?utm_source=openai
+CORNING,"No. 9 Mianjunan Road, Fucheng District, Mianyang, Sichuan 621000, China",https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+CORNING,"12117 Obuchi, Kakegawa-shi, Shizuoka 437-1397, Japan",https://www.corning.com/careers/jp/en/Japan/Shizuoka.html?utm_source=openai
+CORNING,"1 Takumi-cho, Sakai-ku, Sakai-shi, Osaka 590-8503, Japan",https://www.corning.com/careers/jp/en/Japan/Osaka.html?utm_source=openai
+CORNING,"Estrada do Camorim, 633, Jacarepaguá, Rio de Janeiro, Brazil",https://www.corning.com/content/dam/corning/media/worldwide/cls/documents/Local%20Data%20Controllers%20for%20Notices.pdf?utm_source=openai
+CORNING,"Elwy House, Lakeside Business Village, St David’s Park, Ewloe, Flintshire CH5 3XD, United Kingdom",https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+CORNING,"Via Montelungo 4, 56122 Pisa (PI), Italy",https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+CORNING,"Fogostraat 12, 1060 LJ Amsterdam, The Netherlands",https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+CORNING,"D4 Platz 3, 6039 Root Längenbold, Switzerland",https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+CORNING,"Gabriel García Márquez 4, 1st Floor, 28232 Las Rozas de Madrid, Madrid, Spain",https://www.corning.com/media/worldwide/global/documents/datacontrollers.pdf?utm_source=openai
+ELLSWORTH,"W129 N10825 Washington Drive, Germantown, WI 53022, United States",https://www.ellsworth.com/contact-us/global-locator/
+ELLSWORTH,"95 Distribution Drive, Sparks, NV 89441, United States",https://www.ellsworth.com/globalassets/literature-library/line-card/ellsworth-adhesives-line-card.pdf
+ELLSWORTH,"1625 Crescent Circle, Suite 220, Carrollton, TX 75006, United States",https://www.linkedin.com/company/ellsworth-adhesives
+ELLSWORTH,"21630 N 9th Ave, Phoenix, AZ, United States",https://www.linkedin.com/company/ellsworth-adhesives
+ELLSWORTH,"J.M. Salvatierra 17601, Col. Garita de Otay, Tijuana, BC 22509, Mexico",https://www.ellsworth.com/globalassets/literature-library/line-card/ellsworth-adhesives-line-card.pdf
+ELLSWORTH,"Libramiento Norponiente esquina Carretera 57, Navatec Business Park, Bodegas 2 y 3, Módulo D, Santiago de Querétaro, Querétaro 76116, Mexico",https://www.ellsworth.com/globalassets/literature-library/line-card/ellsworth-adhesives-line-card.pdf
+ELLSWORTH,"N109 W13300 Ellsworth Drive, Germantown, WI 53022, United States",https://www.resinlab.com/contact-us/
+ELLSWORTH,"560 Arvin Avenue, Suite 5, Stoney Creek, ON L8E 5P1, Canada",https://www.ellsworthadhesives.ca/contact-us/global-locator/
+ELLSWORTH,"Unit 2A Langlands Avenue, Kelvin South Business Park, East Kilbride, Glasgow G75 0YG, United Kingdom",https://www.fisnar.com/contact-us-europe/
+ELLSWORTH,"9 Chaussée Jules César, Bâtiment D / 406, 95520 Osny, France",https://annuaire-entreprises.data.gouv.fr/entreprise/513528653
+ELLSWORTH,"Maybachstrasse 4, 89233 Neu-Ulm/Burlafingen, Germany",https://www.fisnar.com/contact-us-europe/
+ELLSWORTH,"Polígono Industrial Los Frailes, Nave 37A, Ctra. Alcalá a Daganzo M-118 Km 3.3, 28814 Daganzo, Madrid, Spain",https://www.fisnar.com/contact-us-europe/
+ELLSWORTH,"Västberga Allé 36B, 126 30 Hägersten, Sweden",https://www.fisnar.com/contact-us-europe/
+ELLSWORTH,"Ul. Morgowa 4, lok. 47, 91-223 Łódź, Poland",https://www.ellsworthadhesives.co.uk/wp-content/uploads/2025/01/Ellsworth-Adhesives-Ltd-9001-Jan-2025.pdf
+ELLSWORTH,"Inflancka 4, 00-189 Warsaw, Poland",https://rejestr.io/krs/519563/ellsworth-adhesives-poland
+ELLSWORTH,"Building 5, No. 63 Weixin Road, Suzhou Industrial Park, Suzhou, Jiangsu 215127, China",https://www.ellsworth.com.cn/company/contact.html
+ELLSWORTH,"27/F, Units D–G, Guomao Commercial Building, 3005 Nanhu Road, Luohu District, Shenzhen, Guangdong 518005, China",https://www.ellsworth.com.cn/company/contact.html
+ELLSWORTH,"Room 2710, A Tower, Optics Valley Times Square, 111 Guanshan Avenue, Hongshan District, Wuhan, Hubei 430073, China",https://www.ellsworth.com.cn/company/contact.html
+ELLSWORTH,"Unit 2505–6, 25th Floor, Prosperity Center, 25 Chong Yip Street, Kwun Tong, Kowloon, Hong Kong",https://www.ellsworth.com.hk/company/contact.html
+ELLSWORTH,"14F-C, No. 77, Section 1, Xintai 5th Road, Xizhi District, New Taipei City, Taiwan",https://www.ellsworth.com.tw/company/contact.html
+ELLSWORTH,"Netaji Subhash Place, Pitampura, New Delhi 110034, India",https://www.ellsworth.in/Company/Contact.html
+ELLSWORTH,"MSR Capital, Ashok Chowk, near Morwadi Court, Pimpri, Pune 411018, Maharashtra, India",https://www.ellsworth.in/Company/Contact.html
+ELLSWORTH,"3rd Floor, No. 558, 9th Cross, 3rd Phase, JP Nagar, Bangalore 560078, Karnataka, India",https://www.ellsworth.in/Company/Contact.html
+ELLSWORTH,"9 Raffles Place, #19-21, Republic Plaza Tower 2, Singapore 048619",https://www.ellsworth.com.sg/company/contact.html
+ELLSWORTH,"Bangna Tower C, 17th Floor, Unit C, Moo 12, Bangna-Trad Road Km. 6.5, Bangkaew, Bangplee, Samutprakarn 10540, Thailand",https://www.ellsworth.co.th/company/contact.html
+ELLSWORTH,"No. 35G & 35-1, Jalan Aman Tiara 3, Bandar Tropicana Aman, 42500 Telok Panglima Garang, Selangor, Malaysia",https://www.ellsworth.com.my/company/worldwide.html
+ELLSWORTH,"No. 72-3-49, Jalan Mahsuri, 11950 Bayan Lepas, Pulau Pinang, Malaysia",https://www.ellsworth.com.my/Company/Contact.html
+ELLSWORTH,"No. 10, Ground Floor, Lorong Delima 4, Taman Seri Delima, Juru, 14000 Bukit Mertajam, Penang, Malaysia",https://www.ellsworth.com.my/Company/Contact.html
+ELLSWORTH,"1st Floor, 99 Nguyễn Thị Minh Khai, Bến Thành Ward, Ho Chi Minh City, Vietnam",https://www.ellsworth.com.vn/company/contact.html
+ELLSWORTH,"5B Floor, VMT Building, 86 Duy Tân, Cầu Giấy Ward, Hanoi, Vietnam",https://www.ellsworth.com.vn/company/contact.html
+ELLSWORTH,"Beltway Office Park, Tower B, 5th Floor, Jl. TB Simatupang No. 41, Jakarta 12550, Indonesia",https://www.fisnar.com/contact-us/
+ELLSWORTH,"Unit LG 103 & 105, Sycamore Arcade Building, Alabang-Zapote Road, Muntinlupa City 1770, Philippines",https://www.ellsworth.com.ph/Company/Contact.html
+ELLSWORTH,"Building No. 3, Lot 2, Daiichi Industrial Park Special Economic Zone, Maguyam Road, Silang, Cavite 4118, Philippines",https://www.ellsworth.com.ph/Company/Contact.html
+ELLSWORTH,"Avenida Guido Caloi, 1985, Galpão 14, Jardim São Luís, São Paulo, SP 05802-140, Brazil",https://casadosdados.com.br/solucao/cnpj/ellsworth-latin-america-adesivos-ltda-09721554000152
+ELLSWORTH,"Factory 9, 9 Elite Way, Carrum Downs, Melbourne, VIC, Australia",https://www.ellsworth.com/resources/news/2012/ellsworth-adhesives-expands-to-australia/
+ELRING KLINGER,"Max-Eyth-Straße 2, 72581 Dettingen/Erms, Germany",https://elringklinger.de/en/imprint
+ELRING KLINGER,"Siemensstraße 7, 72581 Dettingen/Erms, Germany",https://elringklinger.de/en/germany/dettingen/erms
+ELRING KLINGER,"Paul-Lechler-Straße 31, 72581 Dettingen/Erms, Germany",https://elringklinger.de/en/germany/dettingen/erms
+ELRING KLINGER,"Etzelstraße 10, 74321 Bietigheim-Bissingen, Germany",https://elringklinger.de/en/germany/bietigheim-bissingen-1
+ELRING KLINGER,"Leitenstraße 46a, 82538 Geretsried-Gelting, Germany",https://elringklinger.de/en/germany/geretsried-gelting
+ELRING KLINGER,"Badenbergstraße 15, 89520 Heidenheim, Germany",https://elringklinger.de/en/germany/heidenheim
+ELRING KLINGER,"Hocksteiner Weg 40, 41189 Mönchengladbach, Germany",https://elringklinger.de/en/germany/moenchengladbach
+ELRING KLINGER,"Daimlerstraße 9–13, 73252 Lenningen, Germany",https://elringklinger.de/en/germany/lenningen
+ELRING KLINGER,"Daimlerstraße 6–8, 72639 Neuffen, Germany",https://elringklinger.de/en/germany/neuffen
+ELRING KLINGER,"Mercedesstraße 40, 72108 Rottenburg am Neckar, Germany",https://elringklinger.de/en/germany/rottenburg/neckar
+ELRING KLINGER,"Am Wäldchen 1, 65594 Runkel, Germany",https://elringklinger.de/en/germany/runkel
+ELRING KLINGER,"Le Betout – Route de Nantiat, 87140 Chamborêt, France",https://elringklinger.de/en/france/chamboret
+ELRING KLINGER,"84 Avenue de la Gare, 87140 Nantiat, France",https://elringklinger.de/en/france/nantiat
+ELRING KLINGER,"Immeuble Orion Poissy, 37 Boulevard Devaux, 78300 Poissy, France",https://elringklinger.de/en/france/poissy
+ELRING KLINGER,"C/ Tárrega, 19, 43204 Reus, Tarragona, Spain",https://elringklinger.de/en/spain/reus
+ELRING KLINGER,"Kirkleatham Business Park, Troisdorf Way, Redcar, Cleveland TS10 5RX, United Kingdom",https://elringklinger.de/en/united-kingdom/redcar
+ELRING KLINGER,"Unit 2, Derwent Court, Earlsway, Team Valley Trading Estate, Gateshead, Tyne and Wear NE11 0TF, United Kingdom",https://elringklinger.de/en/united-kingdom/gateshead
+ELRING KLINGER,"Hasanağa Organize Sanayi Bölgesi, 14th Cadde No. 14, 16280 Nilüfer/Bursa, Türkiye",https://elringklinger.de/en/turkey/niluefer/bursa
+ELRING KLINGER,"Via De Nicola 7/ter, 10036 Settimo Torinese (TO), Italy",https://elringklinger.de/en/italy/settimo-torinese-elringklinger-italia-srl
+ELRING KLINGER,"Paul-Lechler-Straße 4, H-6000 Kecskemét, Hungary",https://elringklinger.de/en/hungary/kecskemet
+ELRING KLINGER,"Calea Buziașului 11, 300714 Timișoara, Romania",https://elringklinger.de/en/romania/timisoara
+ELRING KLINGER,"No. 118 Jinzhou Street, Economic and Technological Development Zone, 130033 Changchun, Jilin Province, China",https://elringklinger.de/en/china/changchun
+ELRING KLINGER,"Building A2, 1000 Yuntai Shan Road, Pilot Free Trade Zone, Qingdao, Shandong 266100, China",https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/37-elringklinger-plastics_technology-qingdao-china/elringklinger-522792-ek-plastics-technology-qingdao-iatf25-2025-en.pdf
+ELRING KLINGER,"Unit 1, Workshop 5, No. 58 Xiangtian Road, Tianjin Airport Economic Zone, Tianjin 300308, China",https://elringklinger.de/en/china/tianjin-branch
+ELRING KLINGER,"594-1 Koya, Ogawamachi, Hiki-gun, Saitama 355-0311, Japan",https://elringklinger.de/en/japan/saitama
+ELRING KLINGER,"2452-17 Koya, Ogawamachi, Hiki-gun, Saitama 355-0311, Japan",https://elringklinger.de/en/japan/saitama
+ELRING KLINGER,"120-3 Hongomachi, Takasaki-shi, Gunma 370-3334, Japan",https://elringklinger.de/en/japan/gunma
+ELRING KLINGER,"4-22-16 Aoto, Katsushika-ku, Tokyo 125-0062, Japan",https://elringklinger.de/en/japan/tokyo
+ELRING KLINGER,"Plot No. G2, Ranjangaon Industrial Area, Tal. Shirur, District Pune, PIN 412220, India",https://elringklinger.de/en/india/ranjangaon
+ELRING KLINGER,"Kawasan Industri Mitra Karawang, Jl. Mitra Raya II, Blok E-6, Parung Mulya, Ciampel, 41363 Karawang, West Java, Indonesia",https://elringklinger.de/en/indonesia/karawang-west-java
+ELRING KLINGER,"23-7, 4 Gongdan-ro 10-gil, Gumi-si, Gyeongsangbuk-do 39424, South Korea",https://elringklinger.de/en/south-korea/gumi
+ELRING KLINGER,"1 MD Tower Building, 14th Floor, Room B, Soi Bangna-Trad 25, Bangna-Trad Road, Bangna, Bangkok 10260, Thailand",https://elringklinger.de/en/thailand/bangkok
+ELRING KLINGER,"1209 Orange Street, Wilmington, DE 19801, USA",https://elringklinger.de/en/usa/wilmington-delaware
+ELRING KLINGER,"Ridgeview 35, 4210 IH-35, San Antonio, TX 78218, USA",https://elringklinger.de/en/usa/san-antonio-texas
+ELRING KLINGER,"23300 Northwestern Highway, Southfield, MI 48075, USA",https://elringklinger.de/en/usa/southfield-michigan
+ELRING KLINGER,"47912 Halyard Drive, Suite 111, Plymouth, MI 48170, USA",https://elringklinger.de/en/usa/plymouth-michigan
+ELRING KLINGER,"2677 Persistence Drive, Fort Wayne, IN 46808, USA",https://elringklinger.de/en/usa/fort-wayne-indiana
+ELRING KLINGER,"317 Grand National Lane, Easley, SC 29640, USA",https://elringklinger.de/en/usa/easley-south-carolina
+ELRING KLINGER,"Alfonso Gómez de Orozco No. 122, Col. Exportec II, C.P. 50223, Toluca, Estado de México, Mexico",https://elringklinger.de/en/mexico/toluca
+ELRING KLINGER,"Rua Francisco Carlos de Castro Neves, 945, Distrito Industrial Unileste, CEP 13422-170, Piracicaba, São Paulo, Brazil",https://elringklinger.de/en/brasil/piracicaba
+ELRING KLINGER,"13 Bentonite Street, Alrode, Alberton 1450, South Africa",https://elringklinger.de/en/south-africa/alberton
+ELRING KLINGER,"No. A-7 Plant Building, No. 230-1 Lianggang Avenue, Yubei District, Chongqing 401120, China",https://elringklinger.cn/china/chongqing
+ELRING KLINGER,"No. 660 Lushan Road, Suzhou New District, Suzhou, Jiangsu 215129, China",https://elringklinger.cn/china/suzhou
+ELRING KLINGER,"1 Seneca Road, R.R. #4, Leamington, Ontario N8H 5P2, Canada",https://elringklinger.com.tr/en/canada/leamington/ontario
+ELRING KLINGER,"Gewerbestraße 4, 90579 Langenzenn, Germany",https://elringklinger.de/en/germany/langenzenn
+ELRING KLINGER,"Warnstedter Straße 1, 06502 Thale, Germany",https://elringklinger.de/en/germany/thale
+ELRING KLINGER,"40969 Encyclopedia Circle, Fremont, CA 94538, USA",https://elringklinger.com.tr/usa/fremont-plymouth
+ELRING KLINGER,"4961 Golden Parkway, Buford, GA 30518, USA",https://elringklinger.cn/en/usa/buford-georgia-2
+ELRING KLINGER,"Schildstrasse 20, 9475 Sevelen, Switzerland",https://elringklinger.de/fileadmin/data/pdf/04-nachhaltigkeit/zertifizierung/18-elringklinger-switzerland/elringklinger-415866-elringklinger-switzerland-iatf16-2024-en.pdf
+ELRING KLINGER,"Unit 1, Connexion Central Boulevard, Blythe Valley Park, Solihull, West Midlands B90 8AW, United Kingdom",https://find-and-update.company-information.service.gov.uk/company/10338183/filing-history
+INTEL,"2200 Mission College Blvd., Santa Clara, CA 95054-1549, USA",https://www.intel.com/content/www/us/en/support/campus-locations.html?utm_source=openai
+INTEL,"2501 NE Century Boulevard, Hillsboro, OR 97124, USA",https://www.oregon.gov/deq/aq/cao/nwr/Pages/Intel-Aloha.aspx
+INTEL,"2 New Bailey, 6 Stanley Street, Salford, Greater Manchester, M3 5GS, United Kingdom",https://find-and-update.company-information.service.gov.uk/company/01134945?utm_source=openai
+INTEL,"4500 S. Dobson Road, Chandler, AZ 85248, USA",https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-intel-fsm-msr-certificate.pdf?utm_source=openai
+INTEL,"5000 W. Chandler Blvd., Chandler, AZ 85226, USA",https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2026-01/0222427-cert-qms-eng-intel-corporation-main-appendix.pdf?utm_source=openai
+INTEL,"3585 SW 198th Avenue, Aloha, OR 97007, USA",https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4326-assembly-and-test-manufacturing-certificate.pdf?utm_source=openai
+INTEL,"1600 Rio Rancho Blvd. SE, Rio Rancho, NM 87124, USA",https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-c-intel-rio-rancho-12-2013-certificate.pdf?utm_source=openai
+INTEL,"1900 Prairie City Road, Folsom, CA 95630, USA",https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2025-01/foundryisms-usism-000503-iso27001-certificate-final.pdf?utm_source=openai
+INTEL,"Collinstown Industrial Park, Leixlip, County Kildare, W23 CX68, Ireland",https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-g-ireland-fab-24-certificate.pdf?utm_source=openai
+INTEL,"2 Tzoran Street, New Industrial Area, Kiryat Gat 82109, Israel",https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4325-fab-sort-manufacturing-certificate.pdf?utm_source=openai
+INTEL,"94 Em Hamoshavat Road, Petah Tikva 4970602, Israel",https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-uk-bcrs.pdf?utm_source=openai
+INTEL,"Intel Costa Rica campus, La Ribera de Belén, Heredia 40701, Costa Rica",https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2023-03/iso-50001-certificate.pdf?utm_source=openai
+INTEL,"Bayan Lepas Free Industrial Zone, Phase 3, Halaman Kampung Jawa, 11900 Bayan Lepas, Pulau Pinang, Malaysia",https://cdrdv2-public.intel.com/891637/Invoice%20Requirements%20By%20Country-Region.pdf?utm_source=openai
+INTEL,"Lot 8, Jalan Hi-Tech 2/3, Kulim Hi-Tech Park, 09090 Kulim, Kedah Darul Aman, Malaysia",https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/19-4326-tm-multi-site-registration-cmg-9001-2008-certificate.pdf?utm_source=openai
+INTEL,"No. 8-1 Kexin Road, Chengdu High-Tech Zone (West Park), Chengdu, Sichuan 611731, China",https://www.intel.com/content/dam/www/public/emea/xe/en/pdf/nsai-certificate-registration-occupational-health-safety.pdf?utm_source=openai
+INTEL,"No. 36 North Third Ring East Road, Dongcheng District, Beijing 100013, China",https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf?utm_source=openai
+INTEL,"5th Floor, 82 Uisadang-daero, Yeongdeungpo-gu, Seoul 07321, Republic of Korea",https://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html
+INTEL,"45 Evans Street, Office U07, Sydney, NSW 2041, Australia",https://cdrdv2-public.intel.com/858774/CMS%20Declaration%20of%20Conformity%20100506%20R1.pdf?utm_source=openai
+INTEL,"9 Andrei Saharov Street, Haifa 3508409, Israel",https://www.intel.de/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf?utm_source=openai
+INTEL,"10 Ha-Marpe Street, Har Hotzvim Industrial Area, Jerusalem 9777410, Israel",https://www.waze.com/live-map/directions/il/jerusalem-district/jerusalem/intel?to=place.ChIJMV_sQxzWAhURqo-iN0ERQXg&utm_source=openai
+INTEL,"Lot I2, D1 Street, Saigon Hi-Tech Park, Tan Phu Ward, Thu Duc City, Ho Chi Minh City, Vietnam",https://www.intel.vn/content/dam/www/public/us/en/documents/corporate-information/intel-bcr-eea-final-2025.pdf?utm_source=openai
+INTEL,"No. 880 Zi Xing Road, Zizhu Science Park, Minhang District, Shanghai 201109, China",https://www.amap.com/place/B0FFI9NR5G?utm_source=openai
+INTEL,"9 Raffles Place, #26-01, Republic Plaza, Singapore 048619",https://www.companies.sg/business/199704681N/INTEL-TECHNOLOGY-ASIA-PTE-LTD?utm_source=openai
+INTEL,"1-4-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan, Marunouchi Eiraku Building 25F",https://www.intel.co.jp/content/www/jp/ja/company-overview/profile.html?utm_source=openai
+INTEL,"20/F, No. 369, Section 7, Zhongxiao East Road, Nangang District, Taipei City, Taiwan",https://www.waze.com/live-map/directions/tw/taipei-city/intel-corporation?to=place.ChIJJ9dk512rQjQRmOWLs9JeH08
+INTEL,"Suite 1700, Park Place, 666 Burrard Street, Vancouver, BC V6C 2X8, Canada",https://lei.bloomberg.com/leis/view/549300LR4YUD9KBC5P61?utm_source=openai
+INTEL,"Dornacher Straße 1, 85622 Feldkirchen, Germany",https://www.intel.de/content/www/de/de/legal/impressum.html?utm_source=openai
+INTEL,"ul. Juliusza Słowackiego 173, 80-298 Gdańsk, Poland",https://www.imsig.pl/krs/0000101882?utm_source=openai
+INTEL,"90–92 Route de la Reine, 92100 Boulogne-Billancourt, France",https://annuaire-entreprises.data.gouv.fr/entreprise/302456199?utm_source=openai
+INTEL,"2800 Center Drive North, DuPont, WA 98327, USA",https://apps.ecology.wa.gov/facilitysite/FacilitySite/FacilitySiteReport?FacilitySiteId=51474982&utm_source=openai
+INTEL,"75 Reed Road, Hudson, MA 01749, USA",https://www.townofhudson.org/DocumentCenter/View/6174/75-Reed-Road-Press-Release-112025-PDF?utm_source=openai
+MICRON TECHNOLOGY,"101 West Louis Henna Blvd., Suite 210, Austin, TX 78728, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"8000 S. Federal Way, Boise, ID 83716, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"5171 NY-31, Clay, NY 13041, USA",https://tw.micron.com/about/locations
+MICRON TECHNOLOGY,"2235 Iron Point Road, Folsom, CA 95630, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"2452 Clover Basin Dr., Suite C, Longmont, CO 80503, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"9600 Godwin Drive, Manassas, VA 20110, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"3475 East Commercial Court, Meridian, ID 83642, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"3001 Broadway Street N.E., Suite 200, Minneapolis, MN 55413-2657, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"1500 N. Greenville Ave., Suite 900, Richardson, TX 75081, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"110 Holger Way, San Jose, CA 95134, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"One Lincoln Center, Floor 8, 110 West Fayette St., Syracuse, NY 13202, USA",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Connect Building, Floor 6, Anillo Periférico Sur 7988, Santa María Tequepexpan, Tlaquepaque, Jalisco 45601, Mexico",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Immeuble Iliade, 23 Avenue Carnot, 91300 Massy, France",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Carl-Wery-Str. 22, 81739 Munich, Germany",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Leopoldstrasse 250B, 80807 Munich, Germany",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Viale Remo De Feo, 1, 80022 Arzano (NA), Italy",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Via Newton, 34, 67051 Avezzano (AQ), Italy",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Via Trento, 26, 20871 Vimercate (MB), Italy",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Venture House, 2 Arlington Square, Downshire Way, Bracknell, Berkshire RG12 1WA, United Kingdom",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"IMEC Campus, Kapeldreef 75, 3001 Leuven, Belgium",https://www.micron.com/legal
+MICRON TECHNOLOGY,"Building 1, No. 1535 Hong Mei Road, Xuhui District, Shanghai 200233, China",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Plaza, No. 4018 Jintian Road, Shenzhen 518026, China",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Zone B, Shaanxi Xi’an Export Processing Zone, 28 XinXi Avenue, Xi’an 710119, China",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Cessna Business Park, Kadubeesanahalli Village, Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka 560103, India",https://in.micron.com/about/locations
+MICRON TECHNOLOGY,"Block A, Financial District, Nankaramguda, Serilingampally, Hyderabad, Telangana 500032, India",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Plot No. SM12 51/3, Sanand GIDC-II Industrial Estate, Ahmedabad, Gujarat 382110, India",https://in.micron.com/about/locations
+MICRON TECHNOLOGY,"Hashimoto Engineering Center, 3-1-35 Minamihashimoto, Chuo-ku, Sagamihara-shi, Kanagawa 252-5297, Japan",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Shinagawa Season Terrace 8F, 1-2-70 Konan, Minato-ku, Tokyo 108-0075, Japan",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Hakuwa Showa-cho Building, 11-2 Saijo Showa-cho, Higashihiroshima City, Hiroshima Prefecture 739-0014, Japan",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"5th Floor, Glass Tower Building, 534 Teheran-ro, Gangnam-gu, Seoul 06181, South Korea",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"1 North Coast Drive, Singapore 757432",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"990 Bendemeer Road, Singapore 339942",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"1 Woodlands Industrial Park D, Street 1, Singapore 738799",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"No. 1063, Plot 19, Tingkat Perusahaan 6, Prai Industrial Estate, 13600 Prai, Penang, Malaysia",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"PMT 779, Lingkaran Cassia Selatan, Taman Perindustrian Batu Kawan, 14110 Bandar Cassia, Penang, Malaysia",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"Tanjung Agas Industrial Area, P.O. Box 62, Muar, Johor 84000, Malaysia",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"7F, No. 1, Huanke 1st Rd., Zhubei City, Hsinchu County 30247, Taiwan",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"No. 8, Tongke 7th Rd., Tongluo Township, Miaoli County 366003, Taiwan",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"No. 369, Sec. 4, Sanfeng Rd., Houli District, Taichung City 42152, Taiwan",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"No. 36, Keji 1st Rd., Annan District, Tainan City 709404, Taiwan",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"23F & 24F, No. 170, Jingmao 1st Rd., Nangang District, Taipei City 11568, Taiwan",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"No. 667, Fuhsing 3rd Rd., Hwa-Ya Technology Park, Guishan District, Taoyuan City 33383, Taiwan",https://www.micron.com/about/locations
+MICRON TECHNOLOGY,"1160 Exchange Street, Boise, ID 83716-5746, USA",https://assets.micron.com/adobe/assets/urn%3Aaaid%3Aaem%3Ad249baf5-5cc2-45e7-b5c2-dcc0c51331cc/renditions/original/as/micron-iso-9001-certificate.pdf
+MICRON TECHNOLOGY,"Haggerty Corporate Centre III, 28100 Cabot Drive, Suite 206, Novi, MI 48377, USA",https://my.micron.com/content/dam/micron/global/public/documents/about/certificate/iatf-169492016-micron-technology-taiwan-fab-16.pdf
+MICRON TECHNOLOGY,"Raffles City Beijing Office Tower, Unit 4, 10th Floor, No. 1 Dongzhimen South Street, Beijing 100007, China",https://assets.micron.com/adobe/assets/urn%3Aaaid%3Aaem%3Ad249baf5-5cc2-45e7-b5c2-dcc0c51331cc/original/as/micron-iso-9001-certificate.pdf
+MICRON TECHNOLOGY,"Piazza Luigi da Porto, 20, 35131 Padova, Italy",https://2gis.it/padova/firm/9289202512676535
+MICRON TECHNOLOGY,"ToHa Building, 23 Menachem Begin Road, Tel Aviv-Yafo 6618356, Israel",https://micron.wd1.myworkdayjobs.com/en-US/External/job/ASIC-Design-Engineer_JR103370-1
+MICRON TECHNOLOGY,"950 West Bethany Drive, Suite 120, Allen, TX 75013, USA",https://www.my.micron.com/content/dam/micron/global/public/documents/about/certificate/micron-iso-9001-certificate.pdf
+PANASONIC,"Panasonic Tokyo Shiodome Building, 1-5-1 Higashi-Shimbashi, Minato-ku, Tokyo 105-8301, Japan",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"No. 300 Zhongnan Street, Suzhou Industrial Park, Jiangsu Province, China",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"3rd Floor, B Wing, i-Think Techno Campus, Pokharan Road No. 2, Thane West, Thane 400607, India",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"Rua Ulhôa Rodrigues, 1.119, Edifício Office Shopping Tamboré, 20º andar, Tamboré, Barueri, SP 06460-040, Brazil",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"Jl. Raya Bogor Km. 29, Pekayon, Pasar Rebo, Jakarta Timur 13710, Indonesia",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"Lot 2, Persiaran Tengku Ampuan, Section 21, Shah Alam Industrial Site, 40300 Shah Alam, Selangor Darul Ehsan, Malaysia",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"1-1-1 Sakata, Oizumi-machi, Oura-gun, Gunma 370-0596, Japan",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"4017 Shimonakata, Takaki-cho, Kasugai-shi, Aichi 486-8522, Japan",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"5-1-1 Sakuragaoka, Kusatsu-shi, Shiga 528-8502, Japan",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"Esaka Building, 3-25-13 Tarumi-cho, Suita-shi, Osaka 564-0062, Japan",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"Blenheim House, Blenheim Court, Brown Fields, Welwyn Garden City, Hertfordshire AL7 1AD, United Kingdom",https://www.panasonic.com/global/hvac-cc/about/location.html
+PANASONIC,"Robert-Bosch-Straße 27–29, 63225 Langen, Germany",https://automotive.panasonic.com/en/corporate/about/officelist/paseu/imprint
+PANASONIC,"Hagenauer Straße 43, 65203 Wiesbaden, Germany",https://eu.connect.panasonic.com/de/en/support/contact-us
+PANASONIC,"Wyncliffe Road, Pentwyn Industrial Estate, Cardiff CF23 7XB, United Kingdom",https://find-and-update.company-information.service.gov.uk/company/01174086
+PANASONIC,"Panasonic Meguro Building, 3-5-20 Nishi-Gotanda, Shinagawa-ku, Tokyo 141-8487, Japan",https://www.panasonic.com/global/about/corporate-profile/overview.html
+PANASONIC,"1-10-12 Yagumo-higashi-machi, Moriguchi-shi, Osaka 570-0021, Japan",https://www.panasonic.com/global/about/corporate-profile/base.html
+PANASONIC,"2-15 Matsuba-cho, Kadoma-shi, Osaka 571-8503, Japan",https://www.panasonic.com/global/about/corporate-profile/base.html
+PANASONIC,"2-3-1-1 Noji-Higashi, Kusatsu City, Shiga 525-8520, Japan",https://www.panasonic.com/jp/about/corporate-profile/base.html
+PANASONIC,"4-1-62 Minoshima, Hakata-ku, Fukuoka City, Fukuoka 812-8531, Japan",https://www.panasonic.com/jp/about/corporate-profile/base.html
+PANASONIC,"1-5-1 Takatsukadai, Nishi-ku, Kobe-shi, Hyogo 651-2271, Japan",https://www.panasonic.com/global/about/corporate-profile/base.html
+PANASONIC,"13-13 Katayama-cho, Kashiwara-shi, Osaka 582-8501, Japan",https://www.panasonic.com/global/about/corporate-profile/base.html
+PANASONIC,"1-1 Matsushita-cho, Moriguchi-shi, Osaka 570-8511, Japan",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"1-2-63 Hirabayashi-kita, Suminoe-ku, Osaka-shi, Osaka 559-8729, Japan",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"612-1 Uchida, Kinokawa-shi, Wakayama 649-6414, Japan",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"222-1 Kaminaizen, Sumoto-shi, Hyogo 656-8555, Japan",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"139-32 Aza Toyohisakaitaku, Toyohisa, Matsushige-Cho, Itano-Gun, Tokushima 771-0213, Japan",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"15-2 Nishikiminamimachi, Kaizuka-shi, Osaka 597-0094, Japan",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"1-1 Koiso, Awaji-shi, Hyogo 656-2303, Japan",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"407 Kashunota, Minamiawaji-shi, Hyogo 656-0513, Japan",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"1 Electric Avenue, Suite 110, Sparks, NV 89437, United States",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"10301 Astra Parkway, De Soto, KS 66018, United States",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"One Panasonic Drive, Columbus, GA 31907, United States",https://energy.panasonic.com/dam/master/pdf/en/certifications/iso14001/ISO14001_PECA_EN_280303.pdf
+PANASONIC,"3701 Schatulga Road, Columbus, GA 31907, United States",https://energy.panasonic.com/dam/master/pdf/en/certifications/iso14001/ISO14001_PECA_EN_280303.pdf
+PANASONIC,"4209 Milgen Road, Columbus, GA 31907, United States",https://energy.panasonic.com/dam/master/pdf/en/certifications/iso14001/ISO14001_PECA_EN_280303.pdf
+PANASONIC,"Avenida Santa Barbara No. 601, Ex-Ejido San Nicolas, Gral. Escobedo, Nuevo León, C.P. 66050, Mexico",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"Alajuela, San Rafael, Intersección de la carretera 122 y 147, 20108, Costa Rica",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"Kawasan Industri Gobel, Jl. Teuku Umar KM. 44, Telaga Asih, Cikarang Barat, Bekasi 17530, Jawa Barat, Indonesia",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"No. 86 Sunwu Road, Xukou, Wuzhong District, Suzhou 215164, China",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"166 Moo 4, Sukhumvit Road, T. Teparak, A. Muang Samutprakarn 10270, Thailand",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"Plot No. 112, Sector-III, Industrial Area, Pithampur, District Dhar 454774, Madhya Pradesh, India",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"Birmann 11, Avenida Alexandre Dumas, 1711, 8º andar, Chácara Santo Antônio, São Paulo, SP 04717-911, Brazil",https://www.panasonic.com/global/energy/company/global-network.html
+PANASONIC,"Toranomon Hills Station Tower, 22F–23F, 2-6-1 Toranomon, Minato-ku, Tokyo 105-5523, Japan",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"15F, No. 18, Lane 666, Haiyang West Road, Pudong New District, Shanghai 200126, China",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"Rojana Industrial Park, 1/69 Moo 5, Rojana Road, Tambon Kanham, Amphur Uthai, Phra Nakhon Si Ayutthaya 13210, Thailand",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"Plot J1, J2, Thang Long Industrial Park, Dong Anh District, Hanoi, Vietnam",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"12th Floor, Ambience Corporate Office, Tower-2, Ambience Island, NH-8, Gurgaon 122002, Haryana, India",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"Av. Centinela No. 1729, Parque Industrial Cachanilla, Mexicali, Baja California, C.P. 21394, Mexico",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"Lot C4-10, Carmelray Industrial Park II, Barangay Punta, Calamba, Laguna 4027, Philippines",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"No. 20-1, Kuang Fu Road, Hsin Chu Industrial District, 22 Lin Fen, Huang Tsun, Hu Kou Hsiang, Taiwan R.O.C.",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"Jalan Jemuju 16/13, 40200 Shah Alam, Selangor Darul Ehsan, Malaysia",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"Caroline-Herschel-Straße 100, 85521 Ottobrunn, Germany",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"Zeppelinstraße 19, 21337 Lüneburg, Germany",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"Průmyslová 1, 348 15 Planá, Czech Republic",https://www.panasonic.com/global/industry/outline/map.html
+PANASONIC,"Two Riverfront Plaza, 10th Floor, Newark, NJ 07102-5490, United States",https://industry.panasonic.com/global/en/salesnetwork/globalnetwork/america
+PANASONIC,"4261 Ikonobe-cho, Tsuzuki-ku, Yokohama City, Kanagawa 224-8520, Japan",https://automotive.panasonic.com/en/corporate/about/overview
+PANASONIC,"776 Highway 74 South, Peachtree City, GA 30269, United States",https://automotive.panasonic.com/en/corporate/about/officelist
+PANASONIC,"15 Shirasaka Ushishimizu, Shirakawa City, Fukushima 961-0835, Japan",https://automotive.panasonic.com/en/corporate/about/officelist
+PANASONIC,"1578-5 Uegawa-cho, Matsusaka City, Mie 515-0041, Japan",https://automotive.panasonic.com/en/corporate/about/officelist
+PANASONIC,"Manzana 6, Lote 3, Parque Industrial del Norte, Reynosa, Tamaulipas, C.P. 88736, Mexico",https://automotive.panasonic.com/en/corporate/about/officelist
+PANASONIC,"No. 300, HongGang Road, GanJingZi District, Dalian, Liaoning Province 116033, China",https://automotive.panasonic.com/en/corporate/about/officelist
+PANASONIC,"No. 666 Lushan Road, Suzhou New District, Jiangsu Province, Suzhou 215129, China",https://automotive.panasonic.com/en/corporate/about/officelist
+PANASONIC,"Plot 10, Phase 4, Prai Industrial Estate, 13600 Prai, Penang, Malaysia",https://automotive.panasonic.com/en/corporate/about/officelist
+PANASONIC,"Isidoro Sepulveda #851, Col. Regio Parque Industrial, Apodaca, Nuevo León, C.P. 66633, Mexico",https://automotive.panasonic.com/en/corporate/about/officelist
+PANASONIC,"Maxis 2, Western Road, Bracknell, Berkshire RG12 1RT, United Kingdom",https://www.panasonic.com/uk/corporate/profile/overview.html
+PANASONIC,"1 place des Papèteries, 92000 Nanterre, France",https://www.panasonic.com/fr/corporate/profil-de-l-entreprise/presentation.html
+PANASONIC,"202 Bedok South Avenue 1, Unit #02-01, Singapore 469332",https://www.panasonic.com/sg/corporate/profile/overview.html
+PANASONIC,"1006 Kadoma, Kadoma City, Osaka 571-8501, Japan",https://holdings.panasonic/global/corporate/phd/profile.html
+PANASONIC,"3347 Michelson Drive, Suite 100, Irvine, CA 92612, United States",https://www.panasonic.aero/contact-us
+SAINT-GOBAIN,"Tour Saint-Gobain, 12 place de l’Iris, 92400 Courbevoie / 92096 La Défense Cedex",https://www.saint-gobain.com/en/contact?utm_source=openai
+SAINT-GOBAIN,"Plot Nos. 10–17, KIADB Industrial Area, Harohalli (V), Kanakapura Taluk, Ramanagaram District, Bengaluru, Karnataka 562112",https://gec.saint-gobain.com/ContactUs.aspx?utm_source=openai
+SAINT-GOBAIN,"5 rue du Dauphiné, ZI de Chesnes, 38070 Saint-Quentin-Fallavier",https://joinus.saint-gobain.com/en/fra/tpr/a/91710/302009/technicien-master-ou-ingenieur-en-maintenance-industrielle-alternance-hf?utm_source=openai
+SAINT-GOBAIN,"20 Moores Road, Malvern, PA 19355",https://www.saint-gobain-northamerica.com/who-we-are/contact?utm_source=openai
+SAINT-GOBAIN,"Saint-Gobain House, East Leake, Loughborough, Leicestershire, LE12 6JU",https://www.saint-gobain.co.uk/contact-us?utm_source=openai
+SAINT-GOBAIN,"Whitehouse Industrial Estate, Runcorn, Cheshire, WA7 3DP",https://www.saint-gobain.co.uk/isover?utm_source=openai
+SAINT-GOBAIN,"Weeland Road, Eggborough, East Riding of Yorkshire, DN14 0FD",https://www.saint-gobain.co.uk/saint-gobain-glass?utm_source=openai
+SAINT-GOBAIN,"Krefelder Straße 195, 52070 Aachen",https://www.saint-gobain.de/kontakt?utm_source=openai
+SAINT-GOBAIN,"Industriestraße 125, 67346 Speyer",https://www.isover.de/standorte?utm_source=openai
+SAINT-GOBAIN,"ul. Okrężna 16, 44-100 Gliwice",https://www.saint-gobain.pl/nasze-lokalizacje?block_config_key=9KsBOpayngjTG1odr0E8b2eWzTq12opeKm0xMnQfLO0&page=1&utm_source=openai
+SAINT-GOBAIN,"ul. Szklarska 27, 68-200 Żary–Kunice",https://www.saint-gobain.pl/nasze-lokalizacje?utm_source=openai
+SAINT-GOBAIN,"ul. Józefa Piłsudskiego 18, 46-100 Namysłów",https://www.saint-gobain.pl/services/vetrotech-saint-gobain-poland/jozefa-pilsudskiego-18/46-100/namyslow?utm_source=openai
+SAINT-GOBAIN,"Via Ponte a Piglieri 2, 56121 Pisa (PI)",https://www.saint-gobain.it/media/911/download?attachment=&utm_source=openai
+SAINT-GOBAIN,"Via Giulio Pastore 15, 66013 Chieti Scalo",https://www.gyproc.it/services/deposito-saint-gobain-di-chieti/giulio-pastore15/66013/chieti-scalo
+SAINT-GOBAIN,"Kemalpaşa OSB Mahallesi, Kuyucak Yolu Sokak No: 284, 35730 Kemalpaşa/İzmir",https://www.saint-gobain.com.tr/iletisim?utm_source=openai
+SAINT-GOBAIN,"GEBKİM Organize Sanayi Bölgesi, Burak Sarıcı Caddesi No: 3, 41455 Dilovası/Kocaeli",https://www.saint-gobain.com.tr/markalarimiz/chryso?utm_source=openai
+SAINT-GOBAIN,"Str. Bruxelles nr. 29, Ariceștii Rahtivani, 107025, Prahova",https://www.saint-gobain.ro/contact/contact-chryso-romania?utm_source=openai
+SAINT-GOBAIN,"No. 968 Wangqiao Road, Jinqiao Development Zone, Pudong, Shanghai 201201",https://www.gyproc.com.cn/%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC?utm_source=openai
+SAINT-GOBAIN,"5th Level, Leela Business Park, Andheri–Kurla Road, Andheri East, Mumbai, Maharashtra 400059",https://www.saint-gobain.co.in/?utm_source=openai
+SAINT-GOBAIN,"Plot No. 901/A, GIDC Mega Estate, Jhagadia, Bharuch, Gujarat 393110",https://www.jia-india.org/members.php?filter=S&utm_source=openai
+SAINT-GOBAIN,"Calzada Legaria 549, Torre 1, Piso 14, Colonia 10 de Abril, C.P. 11250",https://www.saint-gobain.com.mx/node/2571?utm_source=openai
+SAINT-GOBAIN,"4–6 Colbert Road, Campbellfield, VIC 3061",https://www.saint-gobain.com.au/contact-us?utm_source=openai
+SAINT-GOBAIN,"12 Ararat Street, Worcester, MA 01606",https://www.saint-gobain-northamerica.com/sites/default/files/2025-07/Ceramics_Worcester_MA_07-08-2025.pdf?utm_source=openai
+SAINT-GOBAIN,"1500 Independence Avenue, Bryan, TX 77803",https://www.saint-gobain-northamerica.com/sites/default/files/2025-07/Ceramics_Bryan_TX_07-08-2025.pdf?utm_source=openai
+SAINT-GOBAIN,"2651 Penny Road, Claremont, NC 28610",https://www.saint-gobain-northamerica.com/sites/default/files/2025-03/Siding_Claremont_NC_02-17-2025.pdf?utm_source=openai
+SAINT-GOBAIN,"1 Sealants Park, Granville, NY 12832",https://www.saint-gobain-northamerica.com/node/2391?utm_source=openai
+SAINT-GOBAIN,"1365 Johnston Road, Ottawa, ON K1G 3N2",https://www.saint-gobain-northamerica.com/node/8901?utm_source=openai
+SAINT-GOBAIN,"323 Main Street North, Acton, ON L7J 1W8",https://www.saint-gobain-northamerica.com/node/8956?utm_source=openai
+SAINT-GOBAIN,"636 Bronte Road, Ajax, ON L6L 6R8",https://www.saint-gobain-northamerica.ca/sites/default/files/2026-03/GCP_SBM_Ajax_ON_02-03-2026.pdf?utm_source=openai
+SAINT-GOBAIN,"700 1re Avenue, Sainte-Catherine, QC J5C 1C5",https://www.saint-gobain-northamerica.ca/node/8881
+SAINT-GOBAIN,"2900 Bird Street, North Charleston, SC 29405",https://www.saint-gobain-northamerica.com/sites/default/files/2024-10/CertainTeedRoofing_Charleston_SC.pdf?utm_source=openai
+SAINT-GOBAIN,"2901 N Kaufman Street, Ennis, TX 75119",https://www.saint-gobain-northamerica.com/sites/default/files/2025-03/Roofing_Ennis_TX_02-17-2025.pdf?utm_source=openai
+SAINT-GOBAIN,"3303 4th Avenue East, Shakopee, MN 55379",https://www.saint-gobain-northamerica.com/sites/default/files/2024-10/CertainTeedRoofing_Shakopee_MN.pdf?utm_source=openai
+SAINT-GOBAIN,"2664 Gilchrist Road, Akron, OH 44305",https://www.saint-gobain-northamerica.com/sites/default/files/2024-10/Saint-GobainLifeSciences_Akron_OH.pdf?utm_source=openai
+TE CONNECTIVITY,"Building 5, No. 1528 Gumei Road, Shanghai 200233, China",https://www.te.com/de/about-te/our-company/impressum.html
+TE CONNECTIVITY,"3-5-8 Hisamoto, Takatsu-ku, Kawasaki, Kanagawa 213-8535, Japan",https://www.te.com/ja/about-te/our-company/te-japan/te-japan-location.html
+TE CONNECTIVITY,"4-2-13 Awajimachi, Chuo-ku, Osaka, Osaka 541-0047, Japan",https://www.te.com/ja/about-te/our-company/te-japan/te-japan-location.html
+TE CONNECTIVITY,"2-160 Kitamachi, Toyota-shi, Aichi 471-0027, Japan",https://www.te.com/ja/about-te/our-company/te-japan/te-japan-location.html
+TE CONNECTIVITY,"1-9-15 Higashishukugō, Utsunomiya, Tochigi 321-0953, Japan",https://www.te.com/ja/about-te/our-company/te-japan/te-japan-location.html
+TE CONNECTIVITY,"Parkmore Business Park West, Parkmore, Ballybrit, Galway, H91 VN2T, Ireland",https://www.te.com/en/customer-support/connect-with-us.html
+TE CONNECTIVITY,"680 East Swedesford Road, Suite 100, Wayne, PA 19087, United States",https://www.te.com/en/customer-support/connect-with-us.html
+TE CONNECTIVITY,"Ampèrestraße 12–14, 64625 Bensheim, Germany",https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+TE CONNECTIVITY,"Brabantlaan 2A, 5216 TV ’s-Hertogenbosch, The Netherlands",https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+TE CONNECTIVITY,"83 Clemenceau Avenue, #06-01 UE Square, Singapore 239920",https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+TE CONNECTIVITY,"Unit 1, Level 18, Tower 1, Kowloon Commerce Centre, 51 Kwai Cheong Road, Kwai Chung, New Territories, Hong Kong",https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+TE CONNECTIVITY,"Units 215–216, Saigon Trade Center, 37 Ton Duc Thang Street, Saigon Ward, Ho Chi Minh City, Vietnam",https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/statutory-financial-statements-2025.pdf
+TE CONNECTIVITY,"100 Shobugaike, Kakegawa-shi, Shizuoka-ken 436-0040, Japan",https://www.te.com/ja/about-te/our-company/te-japan/kakegawa-plant.html
+TE CONNECTIVITY,"7 Industrial Park Road, Medway, MA 02053, United States",https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-medway.html
+TE CONNECTIVITY,"5905 Trenton Lane North, Plymouth, MN 55442, United States",https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-plymouth-tl.html
+TE CONNECTIVITY,"5015 Cheshire Parkway North, Plymouth, MN 55446, United States",https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-plymouth-cp.html
+TE CONNECTIVITY,"10025 Southwest Freeman Drive, Wilsonville, OR 97070, United States",https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-usa-wilsonville.html
+TE CONNECTIVITY,"1000 Lucas Way, Hampton, VA 23666, United States",https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+TE CONNECTIVITY,"1396 Charlotte Highway, Fairview, NC 28730, United States",https://www.te.com/content/dam/te-com/documents/medical/global/Quality/Harrisburg%20-%2010301091-201023_2010.pdf
+TE CONNECTIVITY,"8000 Piedmont Triad Parkway, Greensboro, NC 27409, United States",https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+TE CONNECTIVITY,"8300 Triad Drive, Greensboro, NC 27409, United States",https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+TE CONNECTIVITY,"719 Pegg Road, Greensboro, NC 27409, United States",https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+TE CONNECTIVITY,"2800 Fulling Mill Road, Middletown, PA 17057, United States",https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+TE CONNECTIVITY,"2901 Fulling Mill Road, Middletown, PA 17057, United States",https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+TE CONNECTIVITY,"3101 Fulling Mill Road, Middletown, PA 17057, United States",https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+TE CONNECTIVITY,"10401 Winnetka Avenue North, Suite 100, Brooklyn Park, MN 55445, United States",https://www.te.com/en/utilities/management-system-certifications.html?iso=usa
+TE CONNECTIVITY,"Zona Franca Metropolitana, Edificio 3-C, Heredia 40104, Costa Rica",https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-costa-rica-heredia.html
+TE CONNECTIVITY,"Calle Potrerillos, Zona Franca Flexipark, Bodega G5, San Rafael, Costa Rica",https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-costa-rica-sr.html
+TE CONNECTIVITY,"No. 8 Chunhui Road, Suzhou Industrial Park, Jiangsu, China 215122",https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-china.html
+TE CONNECTIVITY,"#88, Sahasra Shree, 1st Floor, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-india.html
+TE CONNECTIVITY,"No. 69F, KIADB Bengaluru Aerospace Park, B.K. Halli Post, Bagalur, Bengaluru North, Karnataka 562149, India",https://careers.te.com/job/MANUFACTURING-TEAM-LEADER-II-%28IND%29/152658-en_US
+TE CONNECTIVITY,"Carretera Internacional KM 1969, Guadalajara–Nogales KM 2, CP 85340, Empalme, Sonora, Mexico",https://www.te.com/en/industries/medical-technologies/our-manufacturing-facilities/manufacturing-site-mexico.html
+TE CONNECTIVITY,"Calle Latitud Sur No. 74, Hermosillo, Sonora 83175, Mexico",https://www.te.com/en/about-te/news-center/production-facility-in-hermosillo.html
+TE CONNECTIVITY,"Plot No. 522, Lorong Perusahaan Baru 3, Prai Industrial Estate, Prai, Penang 13600, Malaysia",https://www.te.com/en/utilities/management-system-certifications.html?iso=mys
+TE CONNECTIVITY,"Rua Ampère, 304 – Campo da Penha, Bragança Paulista, São Paulo 12929-570, Brazil",https://www.te.com/en/utilities/management-system-certifications.html?iso=bra
+TE CONNECTIVITY,"Calle Santiago Troncoso No. 460, Fraccionamiento Lote Bravo, C.P. 32599, Ciudad Juárez, Chihuahua, Mexico",https://www.te.com/es/utilities/management-system-certifications.html
+TE CONNECTIVITY,"Av. Producción No. 20, Parque Industrial Internacional, Tijuana, Baja California 22424, Mexico",https://www.te.com/es/utilities/management-system-certifications.html
+TE CONNECTIVITY,"1 rue Ampère, 95300 Pontoise, France",https://www.te.com/fr/utilities/management-system-certifications.html
+TE CONNECTIVITY,"26 rue des Dames, Zone Industrielle, BP 59, 78340 Les Clayes-sous-Bois, France",https://www.te.com/fr/utilities/management-system-certifications.html
+TE CONNECTIVITY,"1 rue du Port, 38120 Saint-Égrève, France",https://www.te.com/fr/utilities/management-system-certifications.html
+TE CONNECTIVITY,"4 rue Gaye-Marie, 31300 Toulouse, France",https://supplier.te.com/documents/40044/0/Global%2Bone/bce02ffb-5482-439f-9932-c4547a0b1ad6
+TE CONNECTIVITY,"Ampère-Straße 11, 91550 Dinkelsbühl, Germany",https://www.te.com/de/utilities/management-system-certifications.html
+TE CONNECTIVITY,"Mobilstraße 2, 76744 Wörth am Rhein, Germany",https://www.te.com/de/utilities/management-system-certifications.html
+TE CONNECTIVITY,"Siemensstraße 13, 67346 Speyer, Germany",https://www.te.com/de/utilities/management-system-certifications.html
+TE CONNECTIVITY,"Baross Gábor utca 2–6, 2534 Tát, Hungary",https://www.te.com/en/utilities/management-system-certifications.html?iso=hun
+TE CONNECTIVITY,"Komenského 821, 541 01 Trutnov, Czech Republic",https://www.te.com/en/utilities/management-system-certifications.html?iso=cze
+TE CONNECTIVITY,"ul. Kablowa 1, 70-895 Szczecin, Poland",https://www.te.com/en/utilities/management-system-certifications.html?iso=pol
+TE CONNECTIVITY,"Rua Circular Intermédia nº 22, Parque Industrial e Tecnológico de Évora, 7005-513 Évora, Portugal",https://www.te.com/en/utilities/management-system-certifications.html?iso=prt
+TE CONNECTIVITY,"Corso Fratelli Cervi 15, 10093 Collegno, Torino, Italy",https://www.te.com/en/utilities/management-system-certifications.html?iso=ita
+TE CONNECTIVITY,"Avenida Diagonal 123, 11th floor, Barcelona, 08005, Spain",https://www.te.com/en/utilities/management-system-certifications.html?iso=esp
+TE CONNECTIVITY,"Güemes 676, Piso 1, Vicente López, Buenos Aires, Argentina",https://www.te.com/en/utilities/management-system-certifications.html?iso=arg
+TE CONNECTIVITY,"304 Sinwon-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16675, South Korea",https://www.te.com/en/utilities/management-system-certifications.html?iso=kor
+TE CONNECTIVITY,"Shiyan Street, Bao’an District, Shenzhen City, Guangdong 518108, China",https://www.te.com/en/utilities/management-system-certifications.html?iso=chn
+YAGEO,"3F, No. 233-1, Baoqiao Rd., Xindian District, New Taipei City 231028, Taiwan",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"No. 16, West 3rd St., Nanzih District, Kaohsiung City 811626, Taiwan",https://yageogroup.com/content/Resource%2520Library/Certification/ISO9001_Nantze-Dafa_20270205.pdf?utm_source=openai
+YAGEO,"No. 51, Jing 6th Road, Nanzih District, Kaohsiung City 811649, Taiwan",https://yageogroup.com/content/Resource%2520Library/Certification/ISO9001_Nantze-Dafa_20270205.pdf?utm_source=openai
+YAGEO,"No. 291, Zhongzheng Rd., Dashe District, Kaohsiung City 81545, Taiwan",https://yageogroup.com/content/Resource%20Library/Certification/IATF16949_Dashe_20270417.pdf?utm_source=openai
+YAGEO,"No. 350, Zhongzheng Rd., Dashe District, Kaohsiung City 81545, Taiwan",https://yageogroup.com/content/Resource%20Library/Certification/ISO9001_Dashe_20270423.pdf?utm_source=openai
+YAGEO,"No. 101-2, Qinan Rd., Dashe District, Kaohsiung City 815005, Taiwan",https://yageogroup.com/content/Resource%20Library/Certification/ISO9001_Nantze-Dafa_20270205.pdf?utm_source=openai
+YAGEO,"No. 7, Daye St., Daliao District, Kaohsiung City 83162, Taiwan",https://yageogroup.com/content/Resource%20Library/Certification/IATF16949_Nantze-Dafa_20270117.pdf?utm_source=openai
+YAGEO,"No. 10, Zhu Yuan Road, Suzhou New District, Suzhou, Jiangsu 215011, China",https://www.yageogroup.com/content/Resource%20Library/Certification/YAGEO_ISO14001_SZ_20280803_en.pdf?utm_source=openai
+YAGEO,"No. 179, Chang Jiang Road, Suzhou New District, Suzhou 215011, China",https://yageogroup.com/content/Resource%20Library/Certification/ISO17025_Suzhou%28China%29_20270804.pdf?utm_source=openai
+YAGEO,"No. 55, Gaoli 1st Rd., Gaoli Industrial Zone, Tangxia Town, Dongguan City, Guangdong 523726, China",https://yageogroup.com/content/Resource%20Library/Certification/ISO9001_DG.pdf?utm_source=openai
+YAGEO,"Renaissance Times Square, No. 4068 Yitian Road, Futian District, Shenzhen 518054, China",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"Room 2803–2807, Grand Gateway Tower 1, No. 1 Hongqiao Road, Shanghai 200030, China",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"2451 Stone Meyers Parkway, Suite 400, Grapevine, TX 76051, United States",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"1 East Broward Boulevard, 5th Floor, Fort Lauderdale, FL 33301, United States",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"15255 Innovation Drive, Suite 100, San Diego, CA 92128, United States",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"880 N. McCarthy Blvd., Suite 210, Milpitas, CA 95035, United States",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"2835 KEMET Way, Simpsonville, SC 29681, United States",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"Süskindstr. 4, 81829 Munich, Germany",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"Grafenbergerstrasse 37, 3730 Eggenburg, Austria",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"Sumitomo Seimei Shin-Osaka-Kita Bldg., 1-14 Miyahara 4-chome, Yodogawa-ku, Osaka 532-0003, Japan",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"8F, 26 Hwangsaeul-ro 200beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do 13595, South Korea",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"150 Kampong Ampat, KA Centre, #07-02, Singapore 368324",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"Lot 1-02-28, e-Gate, Lebuh Tunku Kudin 2, 11700 Gelugor, Penang, Malaysia",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"6/F, Prestige Meridian 1, No. 29–30 M.G. Road, Bangalore, Karnataka 560001, India",https://yageogroup.com/sales?utm_source=openai
+YAGEO,"Avenida Eloy Cavazos 7908 Ote., Col. Rancho Viejo, Guadalupe, Nuevo León 67192, Mexico",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iatf-16949-guadalupe.pdf?utm_source=openai
+YAGEO,"Antiguo Camino al Mezquital No. 100, Colonia Lagrange, C.P. 66490, San Nicolás de los Garza, Nuevo León, Mexico",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iatf-16949-san-nicolas.pdf?utm_source=openai
+YAGEO,"Av. Carlos Salazar y Blvd. Manuel Cavazos Lerma No. 15, H. Matamoros, Tamaulipas C.P. 87380, Mexico",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iso-9001-kemet-corporate.pdf?utm_source=openai
+YAGEO,"Ave. Las Americas 780 Ote., Col. Mexico, Cd. Victoria, Tamaulipas C.P. 87020, Mexico",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iatf-16949-victoria.pdf?utm_source=openai
+YAGEO,"Lots 325 and 336, Batamindo Industrial Park, Muka Kuning, Batam, Riau Islands 29433, Indonesia",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/film-paper-and-electrolytic/iatf-16949-batam.pdf?utm_source=openai
+YAGEO,"Rua Werner von Siemens 1, 7005-639 Évora, Portugal",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/film-paper-and-electrolytic/iatf-16949-evora.pdf?utm_source=openai
+YAGEO,"267 Tsar Osvoboditel Str., 2500 Kyustendil, Bulgaria",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/motor-caps-eu-cqc-certs/plastic-film-cqc/c-87-8-cqc.pdf?utm_source=openai
+YAGEO,"Siikarannantie 3, FI-89600 Suomussalmi, Finland",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/emicaps-cqc-ktl-certs-iec-60384-14/plastic-film-dielectrics/r53-cqc-suomussalmi.pdf?utm_source=openai
+YAGEO,"Via Sagittario 1/3, 40037 Sasso Marconi (BO), Italy",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/motor-caps-eu-cqc-certs/plastic-film-eu/c-87-1-and-c-87-8-vde.pdf?utm_source=openai
+YAGEO,"Technological Industrial Development Zone Skopje 1, NN, 1041 Ilinden, North Macedonia",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/emicaps-cqc-ktl-certs-iec-60384-14/plastic-film-dielectrics/R58-CQC-Macedonia.pdf?utm_source=openai
+YAGEO,"55 Taifeng Road, Anting Town, Jiading District, Shanghai 201814, China",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/emicaps-cqc-ktl-certs-iec-60384-14/plastic-film-dielectrics/r46-cqc-anting.pdf?utm_source=openai
+YAGEO,"No. 99 Yang Pu Road, Suzhou Industrial Park, Suzhou, Jiangsu 215024, China",https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iatf-16949-suzhou.pdf?utm_source=openai
+YAGEO,"No. 9 Ri-Xin Road, Xing-Lin, Jimei, Xiamen, Fujian 361022, China",https://www.yageogroup.com/content/Resource%20Library/Certification/iatf-16949-xiamen.pdf?utm_source=openai
+YAGEO,"Lot A5 & A6, Long Binh Techno Park, Long Binh Ward, Bien Hoa City, Dong Nai Province 76100, Vietnam",https://yageogroup.com/content/Resource%20Library/Certification/iatf-16949-bien-hoa-city.pdf?utm_source=openai
+YAGEO,"Shiroishi, Japan",https://www.yageogroup.com/content/Resource%2520Library/Compliance%20Report/2024-KEMET-Corporate-Sustainability-Report.pdf?utm_source=openai
+YAGEO,"Nyuzen, Japan",https://www.yageogroup.com/content/Resource%2520Library/Compliance%20Report/2024-KEMET-Corporate-Sustainability-Report.pdf?utm_source=openai
+YAGEO,"18110 SE 34th St., Building 2, Suite 250, Vancouver, WA 98683, United States",https://www.pulseelectronics.com/wp-content/uploads/2024/05/ISO9001-2015-EN-Wireless-Vancouver-until-5.15.2027.pdf?utm_source=openai
+YAGEO,"No. 1 Industrial District, Chang An Town, Dongguan City, Guangdong 523840, China",https://www.pulseelectronics.com/wp-content/uploads/2024/03/ISO9001-2015-EN-CPO-until-4.18.2027.pdf?utm_source=openai
+YAGEO,"A–B Block, Comprehensive Bonded Zone, High-Tech Industrial Development Zone, Mianyang, Sichuan 621000, China",https://www.pulseelectronics.com/wp-content/uploads/2023/12/DNV_Certificate_IATF-20231218-20231218142312.pdf?utm_source=openai
+YAGEO,"Buildings 1, 8 and 9, Qifeng Industrial Park, No. 711 Middle Ring Avenue, Economic and Technological Development Zone, Suining, Sichuan 629000, China",https://www.pulseelectronics.com/wp-content/uploads/2024/10/IATF16949-2016-Letter-of-Conformance-CN-EN-SPO-until-5.26.2025.pdf?utm_source=openai
+YAGEO,"Buildings B and D, Area B, Weidian Park, Dequan Road, Economic and Technological Development Zone, Suining, Sichuan 629000, China",https://www.pulseelectronics.com/wp-content/uploads/2024/10/IATF16949-2016-Letter-of-Conformance-CN-EN-SPO-until-5.26.2025.pdf?utm_source=openai
+YAGEO,"1F, No. 111 Xiyuan Road, Zhongli District, Taoyuan City 32057, Taiwan",https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/PE-63385NL?utm_source=openai
+YAGEO,"Reinhard-Heraeus-Ring 23, 63801 Kleinostheim, Germany",https://yageo-nexensos.com/content/dam/nexensos/documents/certificates/en/ISO_9001_EN.pdf?utm_source=openai
+YAGEO,"No. 21, Jalan I-Park 1/2, Kawasan Perindustrian i-Park, 81000 Kulai, Johor, Malaysia",https://www.yageo-nexensos.com/content/dam/nexensos/documents/certificates/en/ISO_9001_EN.pdf?utm_source=openai
+YAGEO,"75 Mody Road, South Seas Centre, Tsim Sha Tsui East, Kowloon, Hong Kong",https://2024.hotenda.com/supplier-item/Yageo.html?utm_source=openai
+YAGEO,"2550 N. 1st Street, Suite 480, San Jose, CA 95131, United States",https://www.linkedin.com/company/yageo-america?utm_source=openai
+YAGEO,"4150 Old Airways Blvd., Southaven, MS 38671, United States",https://www.seair.co.in/us-importers/yageo-americac-o-future-electronics.aspx?utm_source=openai
+YAGEO,"15530 Wood Red Road NE, Suite B100, Woodinville, WA 98072-6991, United States",https://www.bbb.org/us/wa/woodinville/profile/electronic-equipment-dealers/yageo-usa-1296-22605060?utm_source=openai

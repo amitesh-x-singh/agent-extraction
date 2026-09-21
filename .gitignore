@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets -- never commit. Use .env.example as the template.
+.env
+
+# Local editor/agent state
+.claude/
+
+# Note: results/ and the *.jsonl run logs ARE tracked. They are the record of what each
+# experiment produced and cost, and comparisons are run against them.

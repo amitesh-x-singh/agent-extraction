@@ -1,0 +1,3 @@
+file,n_candidates,candidates_matched,candidates_matched_pct,n_gt,gt_covered,gt_covered_pct
+fs_sample_research,627,195,31.1,1535,179,11.7
+combined_10_effort_high,472,130,27.5,1535,121,7.9

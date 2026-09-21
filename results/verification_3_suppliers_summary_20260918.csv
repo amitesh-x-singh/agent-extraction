@@ -1,0 +1,7 @@
+﻿supplier,system,rows_audited,a_exact,a_partial,a_city_only,a_not_found,a_wrong,b_supplier_entity,b_affiliate_brand,b_third_party,b_unrelated,b_former,strict_precision_pct,lenient_precision_pct,blank_street_rows,blank_country_rows
+BOSCH,agent,84,71,1,12,0,0,48,35,0,0,1,42.9,84.5,12,0
+BOSCH,synapse,15,10,0,1,4,0,14,1,0,0,0,60.0,66.7,0,0
+AVX,agent,39,38,1,0,0,0,38,0,0,0,1,97.4,97.4,0,0
+AVX,synapse,11,11,0,0,0,0,1,0,10,0,0,9.1,100.0,0,4
+GEHR PLASTICS INC,agent,16,13,1,1,1,0,9,0,7,0,0,50.0,87.5,1,0
+GEHR PLASTICS INC,synapse,1,1,0,0,0,0,1,0,0,0,0,100.0,100.0,0,0

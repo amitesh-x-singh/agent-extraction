@@ -1,0 +1,491 @@
+Researching site locations for: YAGEO
+
+Collected 52 distinct candidate address(es), 52 verification(s).
+
+=== Ranked candidates for YAGEO ===
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 3F, No. 233-1, Baoqiao Rd., Xindian District, New Taipei City 231028, Taiwan
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   YAGEO headquarters: 3F, No. 233-1, Baoqiao Rd., Xindian District, New Taipei City 231028, Taiwan.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 16, West 3rd St., Nanzih District, Kaohsiung City 811626, Taiwan
+    source:  https://yageogroup.com/content/Resource%2520Library/Certification/ISO9001_Nantze-Dafa_20270205.pdf?utm_source=openai
+    quote:   No. 16, West 3rd St., Nanzih District, Kaohsiung City (N.T.I.P.) 811626, Taiwan.
+    verifier: The same current YAGEO ISO certificate identifies this as YP W6 distribution and warehousing; no contradictory address was located.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 51, Jing 6th Road, Nanzih District, Kaohsiung City 811649, Taiwan
+    source:  https://yageogroup.com/content/Resource%2520Library/Certification/ISO9001_Nantze-Dafa_20270205.pdf?utm_source=openai
+    quote:   YAGEO warehouse/distribution site (YP W6): No. 51, Jing 6th Road, Nanzih District, Kaohsiung City 811649.
+    verifier: The same current YAGEO ISO certificate identifies this as YP W6 distribution and warehousing; no contradictory address was located.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 291, Zhongzheng Rd., Dashe District, Kaohsiung City 81545, Taiwan
+    source:  https://yageogroup.com/content/Resource%20Library/Certification/IATF16949_Dashe_20270417.pdf?utm_source=openai
+    quote:   Yageo Corporation, No. 291, Zhongzheng Rd., Dashe Dist., Kaohsiung City 81545, Taiwan.
+    verifier: The official YAGEO IATF certificate identifies this Dashe manufacturing address and is shown as valid through April 2027.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 350, Zhongzheng Rd., Dashe District, Kaohsiung City 81545, Taiwan
+    source:  https://yageogroup.com/content/Resource%20Library/Certification/ISO9001_Dashe_20270423.pdf?utm_source=openai
+    quote:   No. 350, Zhongzheng Rd., Dashe Dist., Kaohsiung City 81545, Taiwan. Scope: Design and Manufacture of Chip Resistors.
+    verifier: YAGEO's official ISO 9001 certificate gives the address and manufacturing scope; no newer conflicting address was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 101-2, Qinan Rd., Dashe District, Kaohsiung City 815005, Taiwan
+    source:  https://yageogroup.com/content/Resource%20Library/Certification/ISO9001_Nantze-Dafa_20270205.pdf?utm_source=openai
+    quote:   Address: No. 101-2, Qinan Rd., Dashe Dist., Kaohsiung City 815005, Taiwan; Scope: Logistics and Packaging Activities.
+    verifier: The official certificate explicitly classifies this as a logistics and packaging site; no closure or relocation notice was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 7, Daye St., Daliao District, Kaohsiung City 83162, Taiwan
+    source:  https://yageogroup.com/content/Resource%20Library/Certification/IATF16949_Nantze-Dafa_20270117.pdf?utm_source=openai
+    quote:   YAGEO Corporation – DaFa Branch (YF), No. 7, Daye St., Daliao District, Kaohsiung City 83162, Taiwan.
+    verifier: The official IATF certificate identifies the YAGEO DaFa Branch; no conflicting current address was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 10, Zhu Yuan Road, Suzhou New District, Suzhou, Jiangsu 215011, China
+    source:  https://www.yageogroup.com/content/Resource%20Library/Certification/YAGEO_ISO14001_SZ_20280803_en.pdf?utm_source=openai
+    quote:   No. 10, Zhu Yuan Road (竹园路10号), Suzhou New District / Suzhou High-Tech Zone, Suzhou, Jiangsu 215011, China.
+    verifier: YAGEO's official ISO 14001 material identifies this as a Suzhou production site and shows certification extending through 2028.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 179, Chang Jiang Road, Suzhou New District, Suzhou 215011, China
+    source:  https://yageogroup.com/content/Resource%20Library/Certification/ISO17025_Suzhou%28China%29_20270804.pdf?utm_source=openai
+    quote:   Yageo Electronics (China) Co., Ltd., No. 179, Chang Jiang Road, Suzhou New District, Suzhou 215011, P.R. China.
+    verifier: The official YAGEO Electronics China certification identifies this physical Suzhou site; no contradictory location was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 55, Gaoli 1st Rd., Gaoli Industrial Zone, Tangxia Town, Dongguan City, Guangdong 523726, China
+    source:  https://yageogroup.com/content/Resource%20Library/Certification/ISO9001_DG.pdf?utm_source=openai
+    quote:   No. 55, Gaoli 1st Road, Gaoli Industrial Zone, Tangxia Town, Dongguan City, Guangdong, P.R. China.
+    verifier: The official YAGEO Dongguan certification and current sales listing agree on No. 55 Gaoli 1st Road. Older documents use No. 7-1, but the newer official records support No. 55.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Renaissance Times Square, No. 4068 Yitian Road, Futian District, Shenzhen 518054, China
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   Renaissance Times Square, No. 4068, Yitian Road, Futian District, Shenzhen, 518054, China.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Room 2803–2807, Grand Gateway Tower 1, No. 1 Hongqiao Road, Shanghai 200030, China
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   Room 2803–2807, Grand Gateway Tower 1, No. 1 Hongqiao Road, Shanghai 200030, China.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2451 Stone Meyers Parkway, Suite 400, Grapevine, TX 76051, United States
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   YAGEO Dallas Sales Office, 2451 Stone Meyers Parkway, Suite 400, Grapevine, TX 76051.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1 East Broward Boulevard, 5th Floor, Fort Lauderdale, FL 33301, United States
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   Fort Lauderdale Sales Office, 1 East Broward Boulevard, 5th Floor, Fort Lauderdale, FL 33301.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 15255 Innovation Drive, Suite 100, San Diego, CA 92128, United States
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   YAGEO San Diego Sales Office, 15255 Innovation Drive, Suite 100, San Diego, CA 92128.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 880 N. McCarthy Blvd., Suite 210, Milpitas, CA 95035, United States
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   YAGEO San Jose Sales Office, 880 N. McCarthy Blvd., Suite 210, Milpitas, CA 95035, USA.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 2835 KEMET Way, Simpsonville, SC 29681, United States
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   Simpsonville Sales Office, 2835 KEMET Way, Simpsonville, SC 29681, USA.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Süskindstr. 4, 81829 Munich, Germany
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   Munich Sales Office, Süskindstr. 4, 81829 Munich, Germany.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Grafenbergerstrasse 37, 3730 Eggenburg, Austria
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   PULSE Egston Sales Office in Eggenburg: Grafenbergerstrasse 37, 3730 Eggenburg, Austria.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Sumitomo Seimei Shin-Osaka-Kita Bldg., 1-14 Miyahara 4-chome, Yodogawa-ku, Osaka 532-0003, Japan
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   Sumitomo Seimei Shin-Osaka-Kita Bldg, 1-14 Miyahara 4-chome, Yodogawa-ku, Osaka 532-0003, Japan.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 8F, 26 Hwangsaeul-ro 200beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do 13595, South Korea
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   8F, 26 Hwangsaeul-ro 200beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do 13595, Republic of Korea.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 150 Kampong Ampat, KA Centre, #07-02, Singapore 368324
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   YAGEO Singapore address: 150 Kampong Ampat, KA Centre, #07-02, Singapore 368324.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Lot 1-02-28, e-Gate, Lebuh Tunku Kudin 2, 11700 Gelugor, Penang, Malaysia
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   Lot 1-02-28, e-Gate Lebuh Tunku Kudin 2, 11700 Gelugor, Penang, Malaysia.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 6/F, Prestige Meridian 1, No. 29–30 M.G. Road, Bangalore, Karnataka 560001, India
+    source:  https://yageogroup.com/sales?utm_source=openai
+    quote:   6/F, Prestige Meridian 1, No. 29–30, M.G. Road, Bangalore, Karnataka 560001, India.
+    verifier: Listed in the current official YAGEO sales-office directory; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Avenida Eloy Cavazos 7908 Ote., Col. Rancho Viejo, Guadalupe, Nuevo León 67192, Mexico
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iatf-16949-guadalupe.pdf?utm_source=openai
+    quote:   Avenida Eloy Cavazos 7908 Ote., Col. Rancho Viejo, Guadalupe, Nuevo León 67192, Mexico.
+    verifier: KEMET's IATF certificate identifies the Monterrey/Guadalupe plant and is shown as valid through 2027; KEMET is a wholly owned YAGEO subsidiary.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Antiguo Camino al Mezquital No. 100, Colonia Lagrange, C.P. 66490, San Nicolás de los Garza, Nuevo León, Mexico
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iatf-16949-san-nicolas.pdf?utm_source=openai
+    quote:   Antiguo Camino al Mezquital No. 100, Colonia Lagrange, C.P. 66490, San Nicolás de los Garza, Nuevo León, Mexico.
+    verifier: The official KEMET IATF certificate identifies this Monterrey Plant 3 address; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Av. Carlos Salazar y Blvd. Manuel Cavazos Lerma No. 15, H. Matamoros, Tamaulipas C.P. 87380, Mexico
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iso-9001-kemet-corporate.pdf?utm_source=openai
+    quote:   Av. Carlos Salazar y Blvd. Manuel Cavazos Lerma No. 15, H. Matamoros, Tamaulipas C.P. 87380, Mexico.
+    verifier: KEMET's official ISO annex identifies the Matamoros plant; no newer conflicting address was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Ave. Las Americas 780 Ote., Col. Mexico, Cd. Victoria, Tamaulipas C.P. 87020, Mexico
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iatf-16949-victoria.pdf?utm_source=openai
+    quote:   Ave. Las Americas 780 Ote., Col. Mexico, Cd. Victoria, Tamaulipas C.P. 87020, Mexico.
+    verifier: The official KEMET IATF certificate confirms the Victoria plant and is shown as valid through April 2027.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Lots 325 and 336, Batamindo Industrial Park, Muka Kuning, Batam, Riau Islands 29433, Indonesia
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/film-paper-and-electrolytic/iatf-16949-batam.pdf?utm_source=openai
+    quote:   PT KEMET Electronics Indonesia, Lots 325 & 336, Batamindo Industrial Park, Muka Kuning, Batam, Indonesia 29433.
+    verifier: KEMET's official IATF certificate identifies this Indonesian manufacturing site; no conflicting current site was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Rua Werner von Siemens 1, 7005-639 Évora, Portugal
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/film-paper-and-electrolytic/iatf-16949-evora.pdf?utm_source=openai
+    quote:   KEMET Electronics Portugal, S.A., Rua Werner von Siemens, 1, 7005-639 Évora, Portugal.
+    verifier: The official KEMET IATF certificate identifies the Évora plant; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 267 Tsar Osvoboditel Str., 2500 Kyustendil, Bulgaria
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/motor-caps-eu-cqc-certs/plastic-film-cqc/c-87-8-cqc.pdf?utm_source=openai
+    quote:   KEMET Electronics Bulgaria EAD, 267 Tsar Osvoboditel Str., 2500 Kyustendil, Bulgaria.
+    verifier: KEMET product certification identifies this Kyustendil manufacturing location; no contradictory current address was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Siikarannantie 3, FI-89600 Suomussalmi, Finland
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/emicaps-cqc-ktl-certs-iec-60384-14/plastic-film-dielectrics/r53-cqc-suomussalmi.pdf?utm_source=openai
+    quote:   KEMET Electronics Oy, Siikarannantie 3, FI-89600 Suomussalmi, Finland.
+    verifier: KEMET's official certificate identifies the Suomussalmi facility; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Via Sagittario 1/3, 40037 Sasso Marconi (BO), Italy
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/motor-caps-eu-cqc-certs/plastic-film-eu/c-87-1-and-c-87-8-vde.pdf?utm_source=openai
+    quote:   Via Sagittario 1/3, 40037 Sasso Marconi (BO), Italy.
+    verifier: KEMET's official VDE certificate identifies the Pontecchio/Sasso Marconi facility; no contradictory current address was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Technological Industrial Development Zone Skopje 1, NN, 1041 Ilinden, North Macedonia
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/emicaps-cqc-ktl-certs-iec-60384-14/plastic-film-dielectrics/R58-CQC-Macedonia.pdf?utm_source=openai
+    quote:   KEMET Electronics Macedonia DOOEL Skopje, Technological Industrial Development Zone Skopje 1, NN, 1041 Ilinden, Republic of North Macedonia.
+    verifier: KEMET's official product certificate identifies the Skopje/Ilinden facility; no closure or relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 55 Taifeng Road, Anting Town, Jiading District, Shanghai 201814, China
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/emicaps-cqc-ktl-certs-iec-60384-14/plastic-film-dielectrics/r46-cqc-anting.pdf?utm_source=openai
+    quote:   Shanghai Arcotronics Components & Machineries Co., Ltd., 55 Taifeng Road, Anting Town, Jiading District, Shanghai, China.
+    verifier: Multiple KEMET certificates identify the same Anting manufacturing address; no newer conflicting address was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 99 Yang Pu Road, Suzhou Industrial Park, Suzhou, Jiangsu 215024, China
+    source:  https://www.kemet.com/content/dam/kemet/lightning/documents/quality-certifications/ceramic-tantalum-and-aluminum-products/iatf-16949-suzhou.pdf?utm_source=openai
+    quote:   KEMET Electronics (Suzhou) Co., Ltd., No. 99 Yang Pu Road, Suzhou Industrial Park, Suzhou, Jiangsu 215024, China.
+    verifier: The official KEMET IATF certificate identifies the Suzhou facility; no relocation evidence was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 9 Ri-Xin Road, Xing-Lin, Jimei, Xiamen, Fujian 361022, China
+    source:  https://www.yageogroup.com/content/Resource%20Library/Certification/iatf-16949-xiamen.pdf?utm_source=openai
+    quote:   TOKIN ELECTRONICS (XIAMEN) CORPORATION, No. 9 Ri-Xin Road, Xing-Lin, Jimei, 361022, Xiamen, Fujian, China.
+    verifier: The YAGEO-hosted IATF certificate identifies TOKIN Electronics Xiamen, a YAGEO-group operating company; no contradictory address was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Lot A5 & A6, Long Binh Techno Park, Long Binh Ward, Bien Hoa City, Dong Nai Province 76100, Vietnam
+    source:  https://yageogroup.com/content/Resource%20Library/Certification/iatf-16949-bien-hoa-city.pdf?utm_source=openai
+    quote:   Lot A5 & A6, Long Binh Techno Park, Long Binh Ward, Bien Hoa City, 76100, Dong Nai Province, Vietnam.
+    verifier: The YAGEO-hosted IATF certificate identifies the Bien Hoa manufacturing site and gives a current certificate validity date; no conflicting address was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Shiroishi, Japan
+    source:  https://www.yageogroup.com/content/Resource%2520Library/Compliance%20Report/2024-KEMET-Corporate-Sustainability-Report.pdf?utm_source=openai
+    quote:   R&D Innovation Centers: Shiroishi, Japan; Simpsonville, South Carolina; Nyuzen, Japan; Évora, Portugal; and Pontecchio, Italy.
+    verifier: YAGEO/KEMET's 2024 sustainability report identifies Nyuzen as an R&D innovation center. The report does not provide a street address.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Nyuzen, Japan
+    source:  https://www.yageogroup.com/content/Resource%2520Library/Compliance%20Report/2024-KEMET-Corporate-Sustainability-Report.pdf?utm_source=openai
+    quote:   R&D Innovation Centers: Shiroishi, Japan; Simpsonville, South Carolina; Nyuzen, Japan; Évora, Portugal; and Pontecchio, Italy.
+    verifier: YAGEO/KEMET's 2024 sustainability report identifies Nyuzen as an R&D innovation center. The report does not provide a street address.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 18110 SE 34th St., Building 2, Suite 250, Vancouver, WA 98683, United States
+    source:  https://www.pulseelectronics.com/wp-content/uploads/2024/05/ISO9001-2015-EN-Wireless-Vancouver-until-5.15.2027.pdf?utm_source=openai
+    quote:   Pulse Electronics, Inc., 18110 SE 34th St., Building 2, Suite 250, Vancouver, WA 98683, USA.
+    verifier: Pulse's official ISO 9001 certificate identifies this Vancouver facility and is shown as valid through May 2027.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 1 Industrial District, Chang An Town, Dongguan City, Guangdong 523840, China
+    source:  https://www.pulseelectronics.com/wp-content/uploads/2024/03/ISO9001-2015-EN-CPO-until-4.18.2027.pdf?utm_source=openai
+    quote:   Pulse Electronics Co., Ltd., No. 1 Industrial District, Chang An Town, Dongguan City, Guangdong, P.R. China 523840.
+    verifier: Pulse's official 2024 ISO certificate identifies this Dongguan manufacturing site and is shown as valid through April 2027.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: A–B Block, Comprehensive Bonded Zone, High-Tech Industrial Development Zone, Mianyang, Sichuan 621000, China
+    source:  https://www.pulseelectronics.com/wp-content/uploads/2023/12/DNV_Certificate_IATF-20231218-20231218142312.pdf?utm_source=openai
+    quote:   Comprehensive Bonded Zone, High-Tech Industrial Development Zone, Mianyang City, Sichuan Province, 621000, P.R. China.
+    verifier: Pulse's IATF certificate identifies the Mianyang production site and is shown as valid through December 2026.
+
+- [D] score=0.05 verdict=uncertain  address_city_matched=no   address_country_matched=no
+    address: Buildings 1, 8 and 9, Qifeng Industrial Park, No. 711 Middle Ring Avenue, Economic and Technological Development Zone, Suining, Sichuan 629000, China
+    source:  https://www.pulseelectronics.com/wp-content/uploads/2024/10/IATF16949-2016-Letter-of-Conformance-CN-EN-SPO-until-5.26.2025.pdf?utm_source=openai
+    quote:   Sui Ning Pulse Electronics Co., Ltd., Building 1, 8 and 9, Qifeng Industrial Park, No. 711 Middle Ring Avenue, Suining, Sichuan 629000, China.
+    verifier: The official letter describes this as an extended manufacturing location, but the displayed certification expired in May 2025 and no newer confirmation was found.
+
+- [D] score=0.05 verdict=uncertain  address_city_matched=no   address_country_matched=no
+    address: Buildings B and D, Area B, Weidian Park, Dequan Road, Economic and Technological Development Zone, Suining, Sichuan 629000, China
+    source:  https://www.pulseelectronics.com/wp-content/uploads/2024/10/IATF16949-2016-Letter-of-Conformance-CN-EN-SPO-until-5.26.2025.pdf?utm_source=openai
+    quote:   The Weidian Park site is retained as an extended manufacturing location.
+    verifier: The official letter describes this as an extended manufacturing location, but the displayed certification expired in May 2025 and no newer confirmation was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: 1F, No. 111 Xiyuan Road, Zhongli District, Taoyuan City 32057, Taiwan
+    source:  https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/PE-63385NL?utm_source=openai
+    quote:   Pulse North Asia address: 1F, No. 111 Xiyuan Road, Zhongli District, Taoyuan City 32057, Taiwan (R.O.C.).
+    verifier: Pulse's official product document identifies this as the Pulse North Asia address; no contradictory current address was found.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: Reinhard-Heraeus-Ring 23, 63801 Kleinostheim, Germany
+    source:  https://yageo-nexensos.com/content/dam/nexensos/documents/certificates/en/ISO_9001_EN.pdf?utm_source=openai
+    quote:   YAGEO Nexensos GmbH, Reinhard-Heraeus-Ring 23, 63801 Kleinostheim, Germany.
+    verifier: YAGEO Nexensos's official ISO 9001 certificate identifies the German design, production, and sales site.
+
+- [D] score=0.05 verdict=confirmed  address_city_matched=no   address_country_matched=no
+    address: No. 21, Jalan I-Park 1/2, Kawasan Perindustrian i-Park, 81000 Kulai, Johor, Malaysia
+    source:  https://www.yageo-nexensos.com/content/dam/nexensos/documents/certificates/en/ISO_9001_EN.pdf?utm_source=openai
+    quote:   Yageo Nexensos Malaysia Sdn. Bhd., No. 21, Jalan I-Park 1/2, Kawasan Perindustrian i-Park, 81000 Kulai, Johor, Malaysia.
+    verifier: YAGEO Nexensos's official ISO 9001 certificate identifies the Kulai sensor-assembly site; no contradictory current address was found.
+
+- [D] score=0.05 verdict=uncertain  address_city_matched=no   address_country_matched=no
+    address: 75 Mody Road, South Seas Centre, Tsim Sha Tsui East, Kowloon, Hong Kong
+    source:  https://2024.hotenda.com/supplier-item/Yageo.html?utm_source=openai
+    quote:   75 Mody Road, South Seas Centre, Tsimshatsui East, Kowloon, Hong Kong.
+    verifier: A supplier directory associates YAGEO with this address, but YAGEO's current official sales-office directory does not list a Hong Kong office. A current company-directory result supports the Kowloon association but does not establish that the office remains active.
+
+- [B] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 2550 N. 1st Street, Suite 480, San Jose, CA 95131, United States
+    source:  https://www.linkedin.com/company/yageo-america?utm_source=openai
+    quote:   YAGEO America: 2550 N. 1st Street, Suite 480, San Jose, CA 95131.
+    verifier: This older LinkedIn address conflicts with YAGEO's current official directory, which lists the San Jose-area office at 880 N. McCarthy Blvd., Milpitas. A municipal occupancy record describes the move from San Jose to Milpitas.
+
+- [D] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 4150 Old Airways Blvd., Southaven, MS 38671, United States
+    source:  https://www.seair.co.in/us-importers/yageo-americac-o-future-electronics.aspx?utm_source=openai
+    quote:   YAGEO America c/o Future Electronics, 4150 Old Airways Blvd., Southaven, MS 38671, United States.
+    verifier: The address is a Future Electronics distribution center in current certification/business records; the YAGEO association is only a trade/shipping “c/o” reference, not evidence of a YAGEO-operated site.
+
+- [D] score=0.00 verdict=refuted    address_city_matched=no   address_country_matched=no
+    address: 15530 Wood Red Road NE, Suite B100, Woodinville, WA 98072-6991, United States
+    source:  https://www.bbb.org/us/wa/woodinville/profile/electronic-equipment-dealers/yageo-usa-1296-22605060?utm_source=openai
+    quote:   YAGEO USA, 15530 Wood Red Road NE, Suite B100, Woodinville, WA 98072-6991, USA.
+    verifier: The BBB result explicitly describes this as YAGEO USA's closed/out-of-business location; it is not a current site.
+
+Ground-truth address row(s) available for 'YAGEO': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\YAGEO__effort-high__websearch-only.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 13 calls, 397818 in / 22775 out tokens
+TOTAL web_search: 157 calls, 2126609 in / 65467 out tokens
+TOTAL tool calls attempted: 157 (no cap -- none blocked)
+TOTAL estimated cost: $2.1808 (rough estimate, see config.py)
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         13 calls, 397818 in / 22775 out tokens
+
+--- Queries issued (157) ---
+[site_extractor] web_search: YAGEO official locations offices manufacturing plants address site:yageo.com
+[site_extractor] web_search: site:yageo.com YAGEO locations China factory address
+[site_extractor] web_search: site:yageo.com YAGEO contact address headquarters Taiwan
+[site_extractor] web_search: site:yageo.com YAGEO locations Europe office address
+[site_extractor] web_search: YAGEO annual report 2024 headquarters address manufacturing facilities
+[site_extractor] web_search: YAGEO ISO certificate address plant
+[site_extractor] web_search: YAGEO distribution center address
+[site_extractor] web_search: YAGEO factory plant warehouse address
+[site_extractor] web_search: YAGEO LinkedIn locations address offices
+[site_extractor] web_search: YAGEO subsidiaries address OpenCorporates
+[site_extractor] web_search: YAGEO investor relations address Taiwan
+[site_extractor] web_search: YAGEO SEC 20-F registered office address
+[site_extractor] web_search: YAGEO site:yageo.com "No." address
+[site_extractor] web_search: YAGEO site:yageo.com "Road" "Taiwan"
+[site_extractor] web_search: YAGEO site:yageo.com "China" "Tel" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "Taiwan" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "Japan" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "Korea" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "Germany" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "Sales Office" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "Singapore" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "United States" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "Hong Kong" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "India" address
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "Europe" "Address"
+[site_extractor] web_search: site:yageogroup.com/sales YAGEO "China" "Address"
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification YAGEO ISO14001 address
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification YAGEO IATF16949 address
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification YAGEO "No."
+[site_extractor] web_search: site:yageogroup.com "production bases" YAGEO address
+[site_extractor] web_search: "YAGEO Sales Office" address -linkedin -optochip
+[site_extractor] web_search: site:yageogroup.com/sales "Milpitas" OR "Grapevine" OR "Simpsonville"
+[site_extractor] web_search: site:yageogroup.com/sales "KEMET Way"
+[site_extractor] web_search: site:yageogroup.com/sales "Netherlands" OR "United Kingdom" OR "Switzerland"
+[site_extractor] web_search: site:yageogroup.com/sales "Shenzhen" OR "Shanghai" OR "Beijing" OR "Dongguan"
+[site_extractor] web_search: site:yageogroup.com/sales "France" OR "Italy" OR "Spain" OR "Austria"
+[site_extractor] web_search: site:yageogroup.com/sales "Sales Office" "United States" YAGEO KEMET
+[site_extractor] web_search: site:yageogroup.com/sales "Malaysia" OR "Thailand" OR "Vietnam" OR "Philippines"
+[site_extractor] web_search: site:yageogroup.com/sales "Taipei" OR "Hsinchu" OR "Kaohsiung"
+[site_extractor] web_search: site:yageogroup.com/sales "Brazil" OR "Mexico" OR "Canada"
+[site_extractor] web_search: YAGEO manufacturing sites Taiwan Kaohsiung Hsinchu address official
+[site_extractor] web_search: YAGEO manufacturing site Portugal address official
+[site_extractor] web_search: YAGEO Nexensos manufacturing sites address YAGEO official
+[site_extractor] web_search: YAGEO KEMET manufacturing plant addresses official
+[site_extractor] web_search: YAGEO Pulse Electronics manufacturing sites addresses official
+[site_extractor] web_search: site:yageogroup.com/sales "Fort Lauderdale" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "San Diego" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "Dallas" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "San Jose" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "Grapevine" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "Penang" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "Osaka" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "Seongnam" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "Eggenburg" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "Süskindstr" YAGEO
+[site_extractor] web_search: site:yageogroup.com/sales "Shenzhen" YAGEO "District"
+[site_extractor] web_search: site:yageogroup.com/sales "Mody Road" YAGEO
+[site_extractor] web_search: site:yageogroup.com/sales "Dongguan" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "Shanghai" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/sales "Chengdu" YAGEO address
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/ISO9001_Nantze-Dafa_20270205.pdf "YAGEO Corporation" address
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/ISO9001_Nantze-Dafa_20270205.pdf "No. 51"
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/ISO9001_Nantze-Dafa_20270205.pdf "No. 101-2"
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/ISO9001_Dashe_20270423.pdf "No. 350"
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/ISO9001_Dashe_20270423.pdf "No. 291"
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/IATF16949_Nantze-Dafa_20270117.pdf address YAGEO
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/IATF16949_Dashe_20270417.pdf address YAGEO
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/IATF16949_SZ_20270918.pdf "No. 10"
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification YAGEO Suzhou "No. 8" address
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification YAGEO China factory address "No."
+[site_extractor] web_search: YAGEO Taiwan plant address Nanzih Dafa Dashe certification
+[site_extractor] web_search: YAGEO Nanzih facility "Jing 6th Road"
+[site_extractor] web_search: YAGEO Dashe facility "Qinan Road"
+[site_extractor] web_search: YAGEO Dongguan "Gaoli 1st Road" factory
+[site_extractor] web_search: YAGEO Suzhou "Zhu Yuan Road" factory
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Monterrey" address certificate
+[site_extractor] web_search: site:kemet.com/en/us/about/sustainability/key-facts.html KEMET "Plant" address
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Matamoros" address certificate
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Victoria" address certificate KEMET
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Pontecchio" address certificate
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Skopje" address certificate
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Anting" address certificate
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Xiamen" address KEMET certificate
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Dong Nai" address KEMET certificate
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Bulgaria" "267 Tsar"
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Batamindo Industrial Park"
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Suining" address KEMET certificate
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Suomussalmi" "Siikarannantie"
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Rua Werner von Siemens"
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Monterrey" "KEMET Electronics"
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Av. Carlos Salazar"
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Aluminum electrolytic" "Évora" address
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Ave. Las Americas 780"
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "267 Tsar Osvoboditel"
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "Via Sagittario 1/3"
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "1041 Ilinden" KEMET address
+[site_extractor] web_search: site:kemet.com/content/dam/kemet "55 Taifeng Road"
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/iatf-16949-xiamen.pdf address
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Certification/iatf-16949-bien-hoa-city.pdf address
+[site_extractor] web_search: site:yageogroup.com/content/Resource%20Library/Compliance%20Report/2024-KEMET-Corporate-Sustainability-Report.pdf manufacturing locations
+[site_extractor] web_search: site:kemet.com "Xiamen" "address" KEMET Electronics
+[site_extractor] web_search: site:kemet.com "KEMET Electronics Vietnam" address
+[site_extractor] web_search: site:kemet.com "Suining" KEMET Electronics address
+[site_extractor] web_search: site:kemet.com "Skopje" KEMET Electronics address
+[site_extractor] web_search: site:kemet.com "San Nicolás de los Garza" KEMET address
+[site_extractor] web_search: site:yageo-nexensos.com locations address manufacturing
+[site_extractor] web_search: site:yageo-nexensos.com "Malaysia" address
+[site_extractor] web_search: site:yageo-nexensos.com "Kleinostheim" address
+[site_extractor] web_search: site:yageo-nexensos.com "China" address facility
+[site_extractor] web_search: site:yageo-nexensos.com "Portugal" OR "Germany" locations
+[site_extractor] web_search: YAGEO Nexensos ISO 9001 manufacturing address Malaysia
+[site_extractor] web_search: YAGEO Nexensos manufacturing site address Germany official
+[site_extractor] web_search: site:yageo-nexensos.com/contact address
+[site_extractor] web_search: site:yageogroup.com Nexensos locations addresses
+[site_extractor] web_search: site:yageogroup.com "YAGEO Nexensos" address
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads "Qifeng Industrial Park"
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads "Pulse Electronics, Inc." manufacturing address ISO9001
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads "Mian Yang" address
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads "179 Chang Jiang Road"
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads "Dongguan" "No. 1 Industrial District"
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads "Weidian Park" Suining
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads "99 Huoju Road" Suzhou
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads "Vancouver" "ISO9001" Pulse address
+[site_extractor] web_search: site:pulseelectronics.com manufacturing locations addresses China Mexico Taiwan
+[site_extractor] web_search: Pulse Electronics YAGEO manufacturing facilities address official
+[site_extractor] web_search: site:pulseelectronics.com "Address" "Pulse Electronics" facility
+[site_extractor] web_search: site:pulseelectronics.com "Mianyang" OR "Suining" Pulse Electronics address
+[site_extractor] web_search: "Pulse Electronics" "Vancouver" "ISO9001-2015-EN-Wireless-Vancouver" address
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads/2024/05/ISO9001-2015-EN-Wireless-Vancouver-until-5.15.2027.pdf "BC"
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads/2023/12/DNV_Certificate_IATF-20231218-20231218142312.pdf "Mianyang"
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads/2023/12/DNV_Certificate_IATF-20231218-20231218142312.pdf "No. 1" Dongguan
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads/2021/02/ISO9001-2015-EN-CPO.pdf address
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads/2024/10/IATF16949-2016-Letter-of-Conformance-CN-EN-SPO-until-5.26.2025.pdf "Buildings B"
+[site_extractor] web_search: site:pulseelectronics.com/wp-content/uploads/2024/05/ISO14001-2015-CN-EN-SPO_Smart-Power-until-4.16.2027.pdf address
+[site_extractor] web_search: site:pulseelectronics.com "Pulse North Asia" address
+[site_extractor] web_search: site:pulseelectronics.com "Taoyuan" address Pulse Electronics
+[site_extractor] web_search: site:pulseelectronics.com "Kaohsiung" address Pulse Electronics
+[site_extractor] web_search: site:pulseelectronics.com "Dongguan Pulse Electronics" address
+[site_extractor] web_search: site:pulseelectronics.com "Mian Yang Pulse Electronics" address
+[site_extractor] web_search: site:pulseelectronics.com "Sui Ning Pulse Electronics" address
+[site_extractor] web_search: "ISO9001-2015-EN-Wireless-Vancouver-until-5.15.2027.pdf" "Pulse Electronics" address
+[site_extractor] web_search: "Pulse Electronics" "Vancouver, WA 98683" address
+[site_extractor] web_search: "Pulse Electronics" Vancouver Washington street address
+[site_extractor] web_search: site:pulseelectronics.com Vancouver WA 98683 Pulse Electronics
+[site_extractor] web_search: site:pulseelectronics.com "A-B Block" Mianyang
+[site_extractor] web_search: site:pulseelectronics.com "Building #1" "Qifeng"
+[site_extractor] web_search: site:pulseelectronics.com "Weidian Park" "Dequan Road"
+[site_extractor] web_search: YAGEO America 2550 N 1st Street moved Milpitas 880 McCarthy Blvd
+[site_extractor] web_search: "YAGEO America" "2550 N. 1st Street" current
+[site_extractor] web_search: "YAGEO America" "880 N. McCarthy"
+[site_extractor] web_search: YAGEO "4150 Old Airways Blvd" Southaven current
+[site_extractor] web_search: "YAGEO America c/o Future Electronics" "4150 Old Airways"
+[site_extractor] web_search: YAGEO Hong Kong office current address 75 Mody Road
+[site_extractor] web_search: site:yageogroup.com "75 Mody Road" YAGEO
+[site_extractor] web_search: YAGEO sales office permanently closed address
+[site_extractor] web_search: YAGEO company relocation San Jose Milpitas address official
+[site_extractor] web_search: YAGEO offices current 2025 address sales office
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl

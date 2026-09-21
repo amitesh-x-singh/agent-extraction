@@ -1,0 +1,287 @@
+Researching site locations for: ELLSWORTH
+
+Collected 34 distinct candidate address(es).
+
+=== Ranked candidates for ELLSWORTH ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: W129 N10825 Washington Drive, Germantown, Wisconsin, 53022, United States
+    site_type: Headquarters, Office
+    source:  https://www.ellsworth.com/contact-us/global-locator/
+    quote:   W129 N10825 Washington Drive Germantown, WI 53022
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 2A Langlands Avenue, Kelvin South Business Park, East Kilbride, Scotland, G75 0YG, United Kingdom
+    site_type: Headquarters, Office, Distribution Center
+    source:  https://find-and-update.company-information.service.gov.uk/company/SC122624
+    quote:   Registered office address 2a Langlands Avenue, Kelvin South Business Park, East Kilbride, Glasgow, G75 0YG
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 95 Distribution Drive, Sparks, Nevada, 89441, United States
+    site_type: Warehouse, Distribution Center
+    source:  https://www.ellsworth.com/contentassets/23aec8a5c4a94e80a3b95b420e3d3ae9/ellsworth_adhesive_as9120b_and_iso_9001_2015.pdf
+    quote:   Sparks, USA: 95 Distribution Drive, Sparks, NV 89441
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1625 Crescent Circle, Suite 220, Carrollton, Texas, 75006, United States
+    site_type: Office, Distribution Center
+    source:  https://www.ellsworth.com/contentassets/23aec8a5c4a94e80a3b95b420e3d3ae9/ellsworth_adhesive_as9120b_and_iso_9001_2015.pdf
+    quote:   Carrollton, USA: 1625 Crescent Circle, Suite 220, Carrollton, TX 75006
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 25 Hubble, Irvine, California, 92618, United States
+    site_type: Warehouse, Distribution Center
+    source:  https://www.ellsworth.com/resources/news/2012/ellsworth-adhesives-expands-to-larger-facilities-in-california/
+    quote:   Western Region Distribution Center ... 25 Hubble, Irvine, CA 92618
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: N109 W13300 Ellsworth Drive, Germantown, Wisconsin, 53022-9700, United States
+    site_type: Manufacturing Plant, Custom Formulation, R&D
+    source:  https://www.resinlab.com/wp-content/uploads/2018/06/ResinLab-ISO-Certification.pdf
+    quote:   Ellsworth ResinLab facility address: N109 W13300 Ellsworth Drive, Germantown, WI 53022-9700
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 560 Arvin Avenue, Suite 5, Stoney Creek, Ontario, L8E 5P1, Canada
+    site_type: Office, Distribution Center
+    source:  https://www.ellsworthadhesives.ca/contact-us/
+    quote:   560 Arvin Avenue, Suite 5, Stoney Creek, Ontario L8E 5P1
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 31 Athena Avenue, Elgin Industrial Estate, Swindon, England, SN2 8EJ, United Kingdom
+    site_type: Packaging, Production, Office
+    source:  https://www.ellsworthadhesives.co.uk/wp-content/uploads/2023/02/Ellsworth-Adhesives-Ltd-14001-ISO-Cert-2023.pdf
+    quote:   Swindon, United Kingdom: 31 Athena Avenue, Elgin Industrial Estate, Swindon, SN2 8EJ
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Warwick House, Houghton Hall Park, Houghton Regis, Dunstable, Bedfordshire, England, LU5 5ZX, United Kingdom
+    site_type: Office, Distribution Center
+    source:  https://ellsworthadhesives.co.uk/wp-content/uploads/2025/01/Ellsworth-Adhesives-Ltd-9001-Jan-2025.pdf
+    quote:   Warwick House, Houghton Hall Park, Houghton Regis, Dunstable, Bedfordshire LU5 5ZX
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Västberga Allé 36B, Hägersten, Stockholm, 126 30, Sweden
+    site_type: Office, Distribution Center
+    source:  https://www.ellsworthadhesives.co.uk/wp-content/uploads/2023/02/Ellsworth-Adhesives-Ltd-14001-ISO-Cert-2023.pdf
+    quote:   Hägersten, Sweden: Västberga Allé 36B, Hägersten, 126 30
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Unit B1B, Fota Point Enterprise Park, Carrigtwohill, County Cork, T45 W974, Ireland
+    site_type: Office, Distribution Center
+    source:  https://ellsworthadhesives.co.uk/wp-content/uploads/2025/01/Ellsworth-Adhesives-Ltd-9001-Jan-2025.pdf
+    quote:   Ellsworth Adhesives Ireland Ltd, Unit B1B, Fotapoint Enterprise Park, Carrigtwohill, Co. Cork, T45 W974, Ireland
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: ul. Morgowa 4, lok. 47, Łódź, 91-223, Poland
+    site_type: Office, Distribution Center, Packaging/Production
+    source:  https://www.fisnar.com/contact-us-europe/
+    quote:   Ellsworth Adhesives Poland — ul. Morgowa 4, lok. 47, 91-223 Łódź, Poland
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Ny Østergade 11, Roskilde, 4000, Denmark
+    site_type: Office, Distribution Center
+    source:  https://www.fisnar.com/contact-us-europe/
+    quote:   Denmark ... Ny Østergade 11, 4-5 Roskilde, Denmark, DK-4000
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 9 Chaussée Jules César, Bâtiment 406, Osny, Île-de-France, 95520, France
+    site_type: Office, Distribution Center
+    source:  https://www.fisnar.com/contact-us-europe/
+    quote:   Ellsworth Adhesives France, 9 Chaussée Jules César, Bâtiment 406, 95520 Osny, France
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Maybachstrasse 4, Neu-Ulm/Burlafingen, Bavaria, 89233, Germany
+    site_type: Office, Distribution Center
+    source:  https://www.fisnar.com/contact-us-europe/
+    quote:   Ellsworth Adhesives Germany, Maybachstrasse 4, Neu-Ulm/Burlafingen, 89233 Deutschland
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Unit 2505-2506, 25th Floor, Prosperity Center, 25 Chong Yip Street, Kwun Tong, Kowloon, Hong Kong
+    site_type: Headquarters, Office, Distribution Center
+    source:  https://www.ellsworth.com.hk/company/contact.html
+    quote:   Unit 2505-6, 25th Floor, Prosperity Center, 25 Chong Yip Street, Kwun Tong, Kowloon, Hong Kong
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Unit D-G, 27th Floor, International Trade Commercial Building, No. 3005 Nanhu Road, Shenzhen, Guangdong, 518005, China
+    site_type: Office, Distribution Center
+    source:  https://www.ellsworth.com.cn/company/contact.html
+    quote:   Shenzhen, China: 深圳市罗湖区南湖路3005号国贸商业大厦27楼D-G单元
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Unit 412, No. 30, Lane 2419, Hunan Road, Shanghai, Pudong New District, 201204, China
+    site_type: Office, Distribution Center
+    source:  https://www.fisnar.com/contact-us/
+    quote:   Ellsworth Trading (Shanghai) Ltd., Unit 412, No. 30, Lane 2419, Hunan Road, Pudong New District, Shanghai, 201204
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 光谷时代广场A座2710室, 关山大道111号, Wuhan, Hubei, China
+    site_type: Office, Distribution Center
+    source:  https://www.ellsworth.com.cn/company/contact.html
+    quote:   Wuhan, China: 湖北省武汉市洪山区关山大道111号光谷时代广场A座2710室
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 唯新路63号5幢601室, Suzhou, Jiangsu, China
+    site_type: Office, Distribution Center
+    source:  https://www.ellsworth.com.cn/company/contact.html
+    quote:   Suzhou, China: 苏州市工业园区唯新路63号5幢601室
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Room C, 14F, No. 77, Sec. 1, Xintai 5th Road, Xizhi District, New Taipei City, 221, Taiwan
+    site_type: Office, Distribution Center
+    source:  https://www.ellsworth.com.tw/Company/Contact.html
+    quote:   Rm. C, 14F., No.77, Sec. 1, Xintai 5th Rd., Xizhi Dist., New Taipei City 221, Taiwan
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 9 Raffles Place, #19-21, Republic Plaza Tower 2, Singapore, 048619, Singapore
+    site_type: Office, Distribution Center
+    source:  https://www.ellsworth.com.sg/company/contact.html
+    quote:   9 Raffles Place, #19–21, Republic Plaza Tower 2, Singapore 048619
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Unit No. 1102, 11th Floor, Gopal Heights, Netaji Subhash Place, Pitampura, New Delhi, Delhi, 110034, India
+    site_type: Headquarters, Office, Distribution Center
+    source:  https://www.ellsworth.in/Company/Contact.html
+    quote:   Unit No. 1102, 11th Floor, Gopal Heights, Netaji Subhash Place, Pitampura, New Delhi 110034, India
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Godown Building No. C-7, Parasnath Complex, Valpada, Tal-Bhiwandi, Thane, Maharashtra, 421302, India
+    site_type: Warehouse, Distribution Center
+    source:  https://www.fisnar.com/contact-us-europe/
+    quote:   Godown Bldg. No. C-7, Parasnath Complex, Valpada, Tal-Bhiwandi, Thane – Mumbai – 421302, India
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Pimpri, Pune, Maharashtra, 411018, India
+    site_type: Office
+    source:  https://www.ellsworth.in/Company/Contact.html
+    quote:   Pune: Pimpri, Pune, Maharashtra 411018
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: JP Nagar, Bangalore, Karnataka, 560078, India
+    site_type: Office
+    source:  https://www.ellsworth.in/Company/Contact.html
+    quote:   Bangalore: JP Nagar, Bangalore, Karnataka 560078
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Jalan Aman Tiara 3, Telok Panglima Garang, Selangor, 42500, Malaysia
+    site_type: Office, Distribution Center
+    source:  https://www.ellsworth.com.my/company/contact.html
+    quote:   Jalan Aman ... 42500 Telok Panglima Garang, Selangor, Malaysia
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Beltway Office Park Tower B, 5th Floor, Jl. TB Simatupang No. 41, Jakarta, 12550, Indonesia
+    site_type: Office, Distribution Center
+    source:  https://www.fisnar.com/contact-us/
+    quote:   Ellsworth Adhesives Specialty Chemical Distribution Inc., Beltway Office Park Tower B 5th Floor, Jl. TB Simatupang No. 41, Jakarta – 12550
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 184/215, 31st Floor, Forum Tower, Rachadaphisek Road, Huaykwang, Bangkok, 10310, Thailand
+    site_type: Office, Distribution Center
+    source:  https://www.fisnar.com/contact-us/
+    quote:   Ellsworth Adhesives (Thailand) Ltd., 184/215, 31St Floor, Forum Tower, Rachadaphisek Rd., Huaykwang, Bangkok, Thailand 10310
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 1st Floor, Central Park Building, 208 Nguyen Trai Street, District 1, Ho Chi Minh City, Vietnam
+    site_type: Office, Distribution Center
+    source:  https://www.fisnar.com/contact-us/
+    quote:   Ellsworth Adhesives Vietnam Ltd., 1st Floor Central Park Building, 208 Nguyen Trai Street, District 1, Ho Chi Minh City
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Fracc. Juan De Ugarte #17501-F, Garita De Otay, Tijuana, Baja California, 22509, Mexico
+    site_type: Office, Distribution Center
+    source:  https://www.fisnar.com/contact-us/
+    quote:   Ellsworth Adhesives S de RL de CV, Fracc. Juan De Ugarte #17501-F, Garita De Otay, Tijuana, B.C., Mexico 22509
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 35548 Mound Road, Sterling Heights, Michigan, 48310, United States
+    site_type: Office, Distribution Center
+    source:  https://www.thepartsdirect.com/ellsworthadhesives/products
+    quote:   Ellsworth Adhesives’ Michigan office ... 35548 Mound Road, Sterling Heights, MI 48310
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Unit 3, 65 Moore Road, Reynella, South Australia, 5161, Australia
+    site_type: Office, Distribution Center
+    source:  https://www.whitepages.com.au/ellsworth-adhesives-australia-pty-ltd-11211685/reynella-sa-11211678B
+    quote:   Unit 3, 65 Moore Road, Reynella SA 5161, Australia
+
+Ground-truth address row(s) available for 'ELLSWORTH': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\ELLSWORTH__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 165398 in / 8168 out tokens
+TOTAL web_search: 60 calls, 785493 in / 23512 out tokens
+TOTAL tool calls attempted: 67 (no cap -- none blocked)
+TOTAL estimated cost: $0.8282 (rough estimate, see config.py)
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 165398 in / 8168 out tokens
+
+--- Queries issued (67) ---
+[site_extractor] web_search: ELLSWORTH Adhesives official locations headquarters manufacturing warehouse address
+[site_extractor] web_search: Ellsworth Adhesives ISO certificate address manufacturing facility
+[site_extractor] web_search: site:ellsworth.com locations offices Ellsworth Adhesives address
+[site_extractor] web_search: Ellsworth Adhesives subsidiaries locations Europe Asia address
+[site_extractor] web_search: Ellsworth Adhesives headquarters address Wisconsin
+[site_extractor] web_search: Ellsworth Adhesives warehouse distribution center address
+[site_extractor] web_search: Ellsworth Adhesives Google Maps address office
+[site_extractor] web_search: Ellsworth Adhesives Manta D&B ZoomInfo locations address
+[site_extractor] web_search: Ellsworth Adhesives LinkedIn locations address
+[site_extractor] web_search: Ellsworth Adhesives plant factory manufacturing address
+[site_extractor] web_search: Ellsworth Adhesives China Singapore India address
+[site_extractor] web_search: Ellsworth Adhesives UK address facility
+[site_extractor] web_search: Ellsworth Adhesives Germany France Netherlands address
+[site_extractor] web_search: Ellsworth Adhesives Canada Australia address
+[site_extractor] fetch_page: https://www.ellsworth.in/Company/Contact.html
+[site_extractor] fetch_page: https://www.fisnar.com/contact-us-europe/
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/SC122624
+[site_extractor] fetch_page: https://www.ellsworth.com/contentassets/23aec8a5c4a94e80a3b95b420e3d3ae9/ellsworth_adhesive_as9120b_and_iso_9001_2015.pdf
+[site_extractor] fetch_page: https://www.ellsworthadhesives.ca/contact-us/
+[site_extractor] fetch_page: https://www.ellsworth.com.sg/company/contact.html
+[site_extractor] fetch_page: https://www.ellsworth.com/contact-us/global-locator/
+[site_extractor] fetch_page: https://www.ellsworth.com.cn/company/contact.html
+[site_extractor] fetch_page: https://www.ellsworthadhesives.co.uk/wp-content/uploads/2023/02/Ellsworth-Adhesives-Ltd-14001-ISO-Cert-2023.pdf
+[site_extractor] web_search: Ellsworth Adhesives office California address
+[site_extractor] web_search: Google Maps Ellsworth Adhesives Germantown Sparks Carrollton
+[site_extractor] web_search: site:ellsworth.com "Carrollton" "1605 Crescent"
+[site_extractor] web_search: Ellsworth Adhesives branch location Yellow Pages
+[site_extractor] web_search: Ellsworth Adhesives address Manta California Michigan Nevada Texas
+[site_extractor] web_search: Ellsworth Adhesives office Illinois address
+[site_extractor] web_search: Ellsworth Adhesives New Zealand Japan Korea Taiwan office address
+[site_extractor] web_search: site:ellsworth.com "Sparks" "95 Distribution"
+[site_extractor] web_search: Ellsworth Adhesives office Michigan address
+[site_extractor] web_search: site:ellsworth.com.hk contact address Ellsworth Adhesives Asia
+[site_extractor] web_search: site:ellsworth.com "locations" "Texas" Ellsworth Adhesives
+[site_extractor] web_search: site:ellsworthadhesives.co.uk contact locations address Ellsworth
+[site_extractor] web_search: site:ellsworthadhesives.ie contact address Ellsworth
+[site_extractor] web_search: site:ellsworth.com "manufacturing" "Germantown" Ellsworth
+[site_extractor] web_search: Ellsworth ResinLab Germantown N109 W13300 address facility
+[site_extractor] web_search: Ellsworth Adhesives Poland Spain facility address ISO
+[site_extractor] web_search: Ellsworth Adhesives Malaysia 47 Jalan Tamborin address official
+[site_extractor] web_search: Ellsworth Adhesives Spain address ISO facility
+[site_extractor] web_search: Ellsworth Adhesives Ireland Unit B1B Fota Point address
+[site_extractor] web_search: Ellsworth Adhesives Indonesia Jakarta address official
+[site_extractor] web_search: Ellsworth Adhesives Denmark Ny Ostergade address
+[site_extractor] web_search: Ellsworth Adhesives Poland Łódź address ISO certificate
+[site_extractor] web_search: Ellsworth Adhesives Taiwan New Taipei contact official
+[site_extractor] web_search: Ellsworth Adhesives Mexico Tijuana address official
+[site_extractor] web_search: Ellsworth Adhesives China Wuhan Suzhou contact address official
+[site_extractor] web_search: Ellsworth Adhesives India Mumbai Pune Bangalore addresses official
+[site_extractor] web_search: Ellsworth Adhesives Australia current office address
+[site_extractor] web_search: Ellsworth Adhesives Singapore 9 Raffles Place official
+[site_extractor] web_search: Ellsworth Adhesives acquired KitPackers facility address
+[site_extractor] web_search: Ellsworth Adhesives RMA repair center address
+[site_extractor] web_search: Ellsworth Corporation legal entity subsidiaries ResinLab KitPackers Heartland Adhesives
+[site_extractor] web_search: Ellsworth Adhesives facilities annual report locations
+[site_extractor] fetch_page: https://www.fisnar.com/contact-us/
+[site_extractor] web_search: site:ellsworth.com.hk/company/contact.html "Prosperity"
+[site_extractor] web_search: Ellsworth Adhesives Spain "ISO 9001" address
+[site_extractor] web_search: site:ellsworth.in/Company/Contact.html "Mumbai" "Pune" "Bangalore"
+[site_extractor] web_search: Ellsworth Adhesives Dunstable Warwick House address
+[site_extractor] web_search: Ellsworth Adhesives Sweden Västberga Allé 36B
+[site_extractor] web_search: Ellsworth Adhesives France 9 Chaussée Jules César official contact
+[site_extractor] web_search: Ellsworth Adhesives Germany Maybachstrasse 4 official
+[site_extractor] web_search: site:ellsworth.com.my/company/contact.html "Jalan Aman"
+[site_extractor] web_search: site:ellsworth.mx/contactenos "Tijuana" "22509"
+[site_extractor] web_search: site:ellsworth.com.cn/company/contact.html "Wuhan" "Suzhou" "Shenzhen"
+[site_extractor] web_search: site:ellsworth.com.my/company/contact.html "Jalan Aman Tiara 3"
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl

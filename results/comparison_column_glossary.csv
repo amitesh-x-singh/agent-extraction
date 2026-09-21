@@ -1,0 +1,23 @@
+﻿Column,What it means
+Company,Supplier name as it appears in the ground truth file.
+Ground truth sites,"Distinct (country, city) sites the ground truth holds for this supplier. This is the denominator for both recall figures."
+Ground truth rows,Raw ground-truth rows. Higher than the site count because several rows can describe the same city.
+Ground truth rows dropped as invalid,Rows the ground truth itself marks Validity=Invalid; excluded from every number.
+Agent sites / Synapse sites,"Distinct (country, city) sites the system returned for this supplier."
+Agent rows returned / Synapse rows returned,"Raw rows in the system's output file, before collapsing to distinct sites."
+Agent sites in ground truth / Synapse sites in ground truth,How many of those sites also appear in the ground truth.
+Agent recall % / Synapse recall %,Sites in ground truth divided by ground truth sites: the share of known sites the system found.
+Agent recall % (countries it covered),"Same, but the denominator is only ground-truth sites in countries the system returned at least one site for, so a system is not charged for geographies it never entered."
+Agent sites confirmed by ground truth % / Synapse ...,"Sites in ground truth divided by the system's own sites: how much of its output the ground truth corroborates. Not the same as precision - the ground truth is incomplete, so unconfirmed sites are not necessarily wrong."
+Agent addresses matched at street level / Synapse ...,"Stricter check, counted over distinct street addresses rather than cities: the system's street line shares a house number, or half its significant words, with a ground-truth address in the same city."
+Agent addresses matched at street level % / Synapse ...,The above as a share of the system's distinct street addresses.
+Agent cost USD,"Estimated model and web-search spend for this supplier, from the last run logged in usage_log.jsonl."
+Synapse cost USD,Left blank - no cost figure for the Synapse/Databricks run exists in this repo.
+Sites found by both,Sites both systems returned.
+Overlap % of everything either found,"Sites found by both, divided by the union of both systems' sites."
+% of Synapse sites the agent also found,"Sites found by both, divided by Synapse's sites: how much of Synapse the agent reproduces."
+Sites found only by agent / only by Synapse,"In this supplier's output, present in one system and absent from the other."
+Sites found only by agent and in ground truth,"Of those agent-only sites, how many the ground truth confirms. This is the incremental gain over Synapse."
+Sites found only by Synapse and in ground truth,The same figure for Synapse: what the agent missed and Synapse caught.
+Net confirmed sites gained by agent,Confirmed agent-only sites minus confirmed Synapse-only sites.
+Both systems returned sites,"'no' means one system produced nothing for this supplier, so the head-to-head columns are not meaningful for it."

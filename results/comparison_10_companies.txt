@@ -1,0 +1,12 @@
+supplier            model          effort            tools       tool_calls  addr_count  gt_overlap  gt_count  
+---------------------------------------------------------------------------------------------------------------
+INTEL               gpt-5.6-luna   medium (default)  web_search  66          46          10          66        
+CORNING             gpt-5.6-luna   medium (default)  web_search  56          55          8           77        
+TE CONNECTIVITY     gpt-5.6-luna   medium (default)  web_search  58          39          14          585       
+SAINT-GOBAIN        gpt-5.6-luna   medium (default)  web_search  54          91          13          178       
+PANASONIC           gpt-5.6-luna   medium (default)  web_search  64          29          8           444       
+BOEING              gpt-5.6-luna   medium (default)  web_search  65          35          8           197       
+MICRON TECHNOLOGY   gpt-5.6-luna   medium (default)  web_search  86          39          5           69        
+ELLSWORTH           gpt-5.6-luna   medium (default)  web_search  66          27          4           47        
+ELRING KLINGER      gpt-5.6-luna   medium (default)  web_search  57          45          9           23        
+YAGEO               gpt-5.6-luna   medium (default)  web_search  89          32          8           119       
