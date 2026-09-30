@@ -1,0 +1,223 @@
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "KYNDRYL official website"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter[fulltext]=Kyndryl&page[size]=50"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/sitemap.xml"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=Kyndryl"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl locations offices global locations official"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=Kyndryl"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kyndryl&type=10-K"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/au/en/about-us/locations"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/in/en/compliance/certifications"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_pero_iso_22237_2024_05_oct_2028_a.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.sec.gov/Archives/edgar/data/1867072/000155837025008282/kd-20250331x10k.htm"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_pero_iso_22237_2024_05_oct_2028_a.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Midwest Illinois Ohio Michigan Minnesota directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Northeast USA Pennsylvania Massachusetts Connecticut directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Texas Oklahoma Louisiana Arkansas directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address California Washington Oregon directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Kyndryl New York New Jersey office address"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Florida Georgia North Carolina Virginia directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Tennessee Kentucky Alabama Mississippi directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address New Mexico Nevada Arizona directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Missouri Kansas Nebraska Wisconsin directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl Google Business Profile office address Colorado Utah Arizona Nevada"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Maryland Delaware District Columbia directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Pennsylvania New Jersey New York directory branch"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Hawaii Alaska Puerto Rico Guam directory"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "Kyndryl office address Ohio Michigan Illinois Wisconsin directory branch"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "web_search", "query": "\"Kyndryl\" \"ISO 9001\" OR \"IATF 16949\" OR \"ISO 14001\" OR \"AS9100\" certificate"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso20000/kyndryl_global_iso_20000_08_dec_2022.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://webapps1.chicago.gov/vcsearch/city/vendors/105475737E"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://s3-us-west-2.amazonaws.com/naspovaluepoint/1710447623_NASPO%20Cloud%20Solutions%20-%20Kyndryl%20Inc.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_broadridge_iso_27001_06_mar_2027.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/corporate/lca/KBGFJG371620-2_Network_Architect_1620-2_Richmond_and_Henrico_Virginia.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_roma_iso_22237_2024_26_jun_2028_a.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_settimo_milanese_iso_2237_2024_29_nov_2028.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/corporate/lca/KBGFJG371620-2_Network_Architect_1620-2_Richmond_and_Henrico_Virginia.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_roma_iso_22237_2024_26_jun_2028_a.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_broadridge_iso_27001_06_mar_2027.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_settimo_milanese_iso_2237_2024_29_nov_2028.pdf"}
+{"timestamp": 1790325908.263261, "company": "KYNDRYL", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://s3-us-west-2.amazonaws.com/naspovaluepoint/1710447623_NASPO%20Cloud%20Solutions%20-%20Kyndryl%20Inc.pdf"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "FINE WILL INDUSTRIAL LIMITED official website"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industries Ltd\" official"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"FINE WILL INDUSTRIAL LIMITED\" Hong Kong"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter[fulltext]=FINE%20WILL%20INDUSTRIAL%20LIMITED&page[size]=50"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=FINE%20WILL%20INDUSTRIAL%20LIMITED"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=FINE%20WILL%20INDUSTRIAL%20LIMITED"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://finewill.net"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://finewill.net/sitemap.xml"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://panjiva.com/Fine-Will-Industries-Ltd/26104103"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"FINE WILL INDUSTRIAL LIMITED\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will\" Hong Kong factory OR warehouse OR office address"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industries\" Hong Kong address manufacturing"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://finewill.net/sitemap.xml"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://finewill.net"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.finewill.net"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "http://finewill.net"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://finewill.net/contact"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://keychain.finewill.net"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://keychain.finewill.net/contact"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.importgenius.cn/suppliers/fine-will-industrial-ltd"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://keychain.finewill.net"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://keychain.finewill.net/contact"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industries\" Hong Kong Google Business Profile OR office address"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industrial\" Kowloon office address yellowpages OR directory"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industrial\" \"Hong Kong Island\" office address OR directory"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industrial\" \"New Territories\" address OR directory"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.gld.gov.hk/egazette/tc_chi/gazette/file.php?extra=0&no=30&number=4948&type=0&vol=7&year=2003"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industrial Ltd\" \"Guardforce Centre\""}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industrial Ltd\" \"Unit 8\" \"Hok Yuen\""}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"FINE WILL INDUSTRIAL LIMITED\" \"503249\""}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.seair.co.in/us-importers/ideation.aspx"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.seair.co.in/us-importers/ideation.aspx?utm_source=openai"}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industries Ltd\" \"Unit G\" \"Kaiser Estate\""}
+{"timestamp": 1790326296.455366, "company": "FINE WILL INDUSTRIAL LIMITED", "agent": "site_extractor", "tool": "web_search", "query": "\"Fine Will Industrial Ltd\" Hong Kong \"37-39 Ma Tau Wai Road\""}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "CAFE DE MI TIERRA SA official website"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cafedemitierra.com.co/"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=CAFE%20DE%20MI%20TIERRA%20SA&page%5Bsize%5D=50"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cafedemitierra.com.co/sitemap.xml"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=CAFE%20DE%20MI%20TIERRA%20SA"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=CAFE%20DE%20MI%20TIERRA%20SA"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cafedemitierra.com.co/sitemap_agentic_discovery.xml"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cafedemitierra.com.co/pages/contacto"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cafedemitierra.com.co/pages/contact"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cafedemitierra.com.co/pages/nosotros"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cafedemitierra.com.co/policies/legal-notice"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"CAFE DE MI TIERRA SA\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"CAFE DE MI TIERRA\" Colombia empresa direcci\u00f3n"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"CAFE DE MI TIERRA SA\" Colombia direcci\u00f3n sede"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "site:cafedemitierra.com.co ubicaci\u00f3n OR direcci\u00f3n OR finca OR tienda"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"Cafe de Mi Tierra\" \"Santa Catarina Pinula\""}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"Cafe De Mi Tierra S.A.\" Guatemala direcci\u00f3n planta finca"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"Cafe de Mi Tierra\" Guatemala coffee producer exporter"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"Cafe de Mi Tierra, S.A.\" Guatemala address"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.dnb.com/business-directory/company-profiles.cafe_de_mi_tierra_sociedad_anonima.d03fe7b98578340a99d57311f2232c1f.html"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.globalcoffeeplatform.org/members/current-gcp-members/"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.importinfo.com/cafe-de-mi-tierra-s-a"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://panjiva.com/Cafe-De-Mi-Tierra-S-A/48020057"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.kiwa.com/cr/es-cr/noticias/cafe-de-mi-tierra-cuando-los-valores-se-convierten-en-calidad/"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.dnb.com/business-directory/company-profiles.cafe_de_mi_tierra_sociedad_anonima.d03fe7b98578340a99d57311f2232c1f.html"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Cafe de Mi Tierra Guatemala City Santa Catarina Pinula office address"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "Cafe de Mi Tierra coffee plant Quetzaltenango address directory"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "Cafe de Mi Tierra Guatemala Alta Verapaz Coban address Google Business Profile"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "Cafe de Mi Tierra office Huehuetenango address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"Caf\u00e9 de Mi Tierra, S.A.\" Guatemala organic certification address"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"CAFE DE MI TIERRA, S.A.\" \"Registro Mercantil\" Guatemala"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"CAFE DE MI TIERRA, S.A.\" \"Km 21.5\" Guatemala"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"Cafe de Mi Tierra\" Guatemala \"Lote 142\""}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"Cafe de Mi Tierra\" Guatemala farm Huehuetenango finca address"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "web_search", "query": "\"CAFE DE MI TIERRA\" Guatemala \"Aldea Puerta Parada\""}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.importgenius.com/suppliers/cafe-de-mi-tierra-s-a"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.maff.go.jp/j/jas/jas_kikaku/pdf/kouji_0909.pdf"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/company/12712872/persons-significant-control"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://es.scribd.com/document/1036311551/Listado-de-Agentes-de-Retencion-Del-Iva-Al-01-04-2026"}
+{"timestamp": 1790326517.0783594, "company": "CAFE DE MI TIERRA SA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.maff.go.jp/j/jas/jas_kikaku/pdf/kouji_0909.pdf"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"NICCHIO SOBRINHO\" company address"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "NICCHIO SOBRINHO official website"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"NICCHIO SOBRINHO\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://site.nscafe.com/sitemap.xml"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NICCHIO%20SOBRINHO&page%5Bsize%5D=50"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://site.nscafe.com/index.html"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=NICCHIO%20SOBRINHO"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://nscafe.com.br/"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=NICCHIO%20SOBRINHO"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://site.nscafe.com/blog.html"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://site.nscafe.com/armazens.html"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://site.nscafe.com/contato.html"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://site.nscafe.com/codigo.html"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://site.nscafe.com/produtos.html"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"Nicchio Sobrinho\" Vit\u00f3ria ES endere\u00e7o OR escrit\u00f3rio OR filial"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"Nicchio Sobrinho\" Manhua\u00e7u MG endere\u00e7o armaz\u00e9m"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"Nicchio Sobrinho\" Colatina ES endere\u00e7o armaz\u00e9m"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps NICCHIO SOBRINHO Esp\u00edrito Santo escrit\u00f3rio armaz\u00e9m endere\u00e7o"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.waze.com/live-map/directions/nicchio-sobrinho-cafe-r.-candido-cerqueira-40-manhuacu?to=place.w.208406078.2083864167.23654002"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cirtrox.com.br/consulta-empresas/empresa/27487131000282-nicchio-sobrinho-cafe"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://cnpj.biz/27487131000100"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://mediador.trabalho.gov.br/sistemas/mediador/Resumo/ResumoVisualizar?NrSolicitacao=MR006121%2F2026"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://cnpj.biz/27487131000100"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"27.487.131/0010-92\" endere\u00e7o"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"27.487.131/0012-54\" endere\u00e7o"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"27.487.131/0014-16\" endere\u00e7o Nicchio"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"27.487.131/0018-40\" endere\u00e7o"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.econodata.com.br/consulta-empresa/27487131001254-nicchio-sobrinho-cafe-sa"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "web_search", "query": "\"27.487.131/0004-44\" endere\u00e7o Nicchio Sobrinho"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.econodata.com.br/consulta-empresa/27487131001092-nicchio-sobrinho-cafe-sa"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://casadosdados.com.br/solucao/cnpj/nicchio-sobrinho-cafe-sa-27487131001416"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://cnpj.biz/27487131001840"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://cnpj.biz/27487131001840"}
+{"timestamp": 1790326832.3082926, "company": "NICCHIO SOBRINHO", "agent": "site_extractor", "tool": "fetch_page", "query": "https://casadosdados.com.br/solucao/cnpj/nicchio-sobrinho-cafe-sa-27487131000444"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "COLLOIDS company official website"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=COLLOIDS&page%5Bsize%5D=50"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/sitemap.xml"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=COLLOIDS"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=COLLOIDS"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd subsidiaries brands manufacturing sites"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/page-sitemap.xml"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "\"Colloids Ltd\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/post-sitemap.xml"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd acquired brands subsidiaries"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/cn/colloids-plastic-suzhou-co-ltd-acquires-a-new-site-and-expands-capacity/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/about-us/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/contact/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/wp-content/uploads/2024/03/TS-734327-001.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/about-us/quality/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.tosaf.com/plant/colloids-limited/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/wp-content/uploads/2019/10/Colloids-Corporate-Brochure-A5-16pp-English.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.tosaf.com/plant/colloids-inc-usa/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://colloids.com/wp-content/uploads/2019/10/Colloids-Corporate-Brochure-A5-16pp-English.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://colloids.com/wp-content/uploads/2024/03/TS-734327-001.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Colloids Ltd North West England office address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Colloids Ltd London South East office address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd East Midlands office address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Colloids Ltd East Midlands office address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd West Midlands office address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Colloids Ltd West Midlands office address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd office North West England address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Colloids Ltd Yorkshire office address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd London South East office address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd Yorkshire office address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Colloids Ltd Scotland office address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd Scotland office address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Colloids Ltd Wales office address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd Wales office address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/resources-and-press/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Performance Masterbatches Ltd address site PMB Rushden"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Douglas Baker Plastics Ltd manufacturing address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Plastic Suzhou Ltd Changshu manufacturing site address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids controlled P.W. Hall Ltd manufacturing address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/wp-content/uploads/2026/01/Graphanced-Brochure-200-x-297mm.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd Rushden 24 Norris Way current manufacturing site"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd Baytown Texas manufacturing facility address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://colloids.com/wp-content/uploads/2026/01/Graphanced-Brochure-200-x-297mm.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "site:colloids.com \"Norris Way\""}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd sustainability report sites facilities"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "\"Douglas Baker Plastics\" address manufacturing"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://pwhall.co.uk/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd planned new facility expansion site"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/company/01172715"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/company/SC170917"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "\"Performance Masterbatches Ltd\" official website address"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Ltd facilities plant warehouse R&D UK China USA"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/cn/company"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/company/15091098/persons-with-significant-control"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://pmb.co.uk/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Tosaf Colloids Plastic Suzhou ownership subsidiary"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/company/SC170917/persons-with-significant-control"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Tosaf Colloids Inc USA Baytown ownership legal entity"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Limited global locations Rushden Baytown Changshu"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://pmb.co.uk/"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Performance Masterbatches became part of Colloids January 2022"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/wp-content/uploads/2022/10/Sustainable-Black-Brochure-DIGITAL.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://colloids.com/wp-content/uploads/2022/10/Black-Standard-Grades-6pp-Booklet-200-x-297mm.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "web_search", "query": "Colloids Limited PMB acquisition Blaenavon Brynmawr"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://colloids.com/wp-content/uploads/2022/10/Sustainable-Black-Brochure-DIGITAL.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://colloids.com/wp-content/uploads/2022/10/Black-Standard-Grades-6pp-Booklet-200-x-297mm.pdf"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.pmb.co.uk/about"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/company/01145445"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.pmb.co.uk/contact"}
+{"timestamp": 1790327135.7677996, "company": "COLLOIDS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/company/01145445/persons-with-significant-control"}

@@ -25,10 +25,12 @@ from langchain_core.callbacks.base import BaseCallbackHandler
 from langchain_core.outputs import LLMResult
 
 from .config import (
-    EST_INPUT_COST_PER_1M_TOKENS,
-    EST_OUTPUT_COST_PER_1M_TOKENS,
-    EST_SCRAPINGBEE_COST_PER_CREDIT,
-    EST_WEB_SEARCH_COST_PER_CALL,
+    CACHE_WRITE_COST_PER_1M_TOKENS,
+    CACHED_INPUT_COST_PER_1M_TOKENS,
+    INPUT_COST_PER_1M_TOKENS,
+    OUTPUT_COST_PER_1M_TOKENS,
+    SCRAPINGBEE_COST_PER_CREDIT,
+    WEB_SEARCH_COST_PER_CALL,
     QUERIES_LOG_PATH,
     SCRAPINGBEE_LOG_PATH,
     USAGE_LOG_PATH,
@@ -59,10 +61,15 @@ def _empty_agent_bucket() -> dict[str, int]:
     return {
         "chat_calls": 0,
         "chat_input_tokens": 0,
+        "chat_cached_input_tokens": 0,
+        "chat_cache_write_tokens": 0,
         "chat_output_tokens": 0,
+        "chat_reasoning_tokens": 0,
         "chat_total_tokens": 0,
         "web_search_calls": 0,
         "web_search_input_tokens": 0,
+        "web_search_cached_input_tokens": 0,
+        "web_search_cache_write_tokens": 0,
         "web_search_output_tokens": 0,
         "scrapingbee_calls": 0,
         "scrapingbee_credits": 0,
@@ -78,18 +85,42 @@ class UsageTracker:
 
     chat_calls: int = 0
     chat_input_tokens: int = 0
+    # Subsets of chat_input_tokens, not additions to it: the API reports the whole prompt in
+    # input_tokens and then says how much of it was a cache read and how much was a cache write.
+    # Each third is billed at a different rate, which is what makes an exact cost possible.
+    chat_cached_input_tokens: int = 0
+    chat_cache_write_tokens: int = 0
     chat_output_tokens: int = 0
+    chat_reasoning_tokens: int = 0  # subset of chat_output_tokens, billed at the output rate
     chat_total_tokens: int = 0
     web_search_calls: int = 0
     web_search_input_tokens: int = 0
+    web_search_cached_input_tokens: int = 0
+    web_search_cache_write_tokens: int = 0
     web_search_output_tokens: int = 0
     scrapingbee_calls: int = 0
     scrapingbee_credits: int = 0
     scrapingbee_failures: int = 0
     scrapingbee_skipped_no_key: int = 0
+    pdfs_extracted_locally: int = 0
     tool_calls_attempted: int = 0
     tool_calls_blocked_by_budget: int = 0
     web_searches_redirected_to_fetch: int = 0
+    web_searches_redirected_to_doc_link: int = 0
+    web_searches_refused_duplicate: int = 0
+    web_searches_refused_no_certificates: int = 0
+    # Certificate gate state: how many certificate searches ran, and whether any evidence that
+    # this supplier publishes certificates has been seen (a cert-looking search hit or doc link).
+    cert_searches: int = 0
+    cert_evidence_seen: bool = False
+    # Document/certificate links fetch_page has shown the agent: URL -> anchor label. Read by
+    # web_search's known-document guard; never serialised (it is state, not a usage figure).
+    doc_links_seen: dict[str, str] = field(default_factory=dict)
+    # Every domain the agent has legitimately SEEN: the input URL, search-result URLs, and domains
+    # linked or mentioned on fetched pages. fetch_page refuses any other domain -- the agent must
+    # never guess one (a guessed redmancorp.com was a placeholder that ate 7 paid retrievals).
+    known_hosts: set[str] = field(default_factory=set)
+    web_fetches_refused_unknown_domain: int = 0
     per_model: dict[str, dict[str, int]] = field(default_factory=dict)
     per_agent: dict[str, dict[str, int]] = field(default_factory=dict)
     queries: list[dict[str, str]] = field(default_factory=list)
@@ -134,11 +165,87 @@ class UsageTracker:
         with self._lock:
             self.web_searches_redirected_to_fetch += 1
 
-    def record_chat_usage(self, agent: str, model: str, input_tokens: int, output_tokens: int, total_tokens: int) -> None:
+    def record_search_redirected_to_doc_link(self) -> None:
+        """A web_search refused because a document link already shown to the agent (typically a
+        per-plant certificate PDF) names the place it was searching for -- costs nothing."""
+        with self._lock:
+            self.web_searches_redirected_to_doc_link += 1
+
+    def reserve_call(self, agent: str, tool: str, query: str, budget: int) -> int | None:
+        """Atomically check a budget and record the call: returns the count INCLUDING this call,
+        or None if the budget is already spent. Parallel tool calls in one agent turn run on
+        separate threads, so a separate read-then-record let 12 paid fetches through a budget
+        of 10 in one measured AVX run."""
+        with self._lock:
+            used = self.tool_call_counts.get(tool, 0)
+            if used >= budget:
+                return None
+            self.queries.append({"agent": agent, "tool": tool, "query": query})
+            self.tool_call_counts[tool] = used + 1
+            return used + 1
+
+    def record_search_refused(self, reason: str) -> None:
+        """A web_search refused for free by a guard: 'duplicate' or 'no_certificates'."""
+        with self._lock:
+            if reason == "duplicate":
+                self.web_searches_refused_duplicate += 1
+            else:
+                self.web_searches_refused_no_certificates += 1
+
+    def record_cert_search(self, found_evidence: bool) -> None:
+        with self._lock:
+            self.cert_searches += 1
+            self.cert_evidence_seen = self.cert_evidence_seen or found_evidence
+
+    def record_cert_evidence(self) -> None:
+        with self._lock:
+            self.cert_evidence_seen = True
+
+    def record_doc_links(self, links: list[tuple[str, str]]) -> None:
+        """Remember (label, url) document links shown to the agent, first label wins."""
+        with self._lock:
+            for label, url in links:
+                self.doc_links_seen.setdefault(url, label)
+
+    def doc_links(self) -> dict[str, str]:
+        with self._lock:
+            return dict(self.doc_links_seen)
+
+    def record_hosts(self, hosts) -> None:
+        """Domains the agent has seen (already normalized: lower-case, no port, no 'www.')."""
+        with self._lock:
+            self.known_hosts.update(h for h in hosts if h)
+
+    def hosts(self) -> set[str]:
+        with self._lock:
+            return set(self.known_hosts)
+
+    def record_fetch_refused_unknown_domain(self) -> None:
+        with self._lock:
+            self.web_fetches_refused_unknown_domain += 1
+
+    def record_chat_usage(
+        self,
+        agent: str,
+        model: str,
+        input_tokens: int,
+        output_tokens: int,
+        total_tokens: int,
+        *,
+        cached_input_tokens: int = 0,
+        cache_write_tokens: int = 0,
+        reasoning_tokens: int = 0,
+    ) -> None:
+        """`cached_input_tokens` and `cache_write_tokens` are parts OF `input_tokens`, and
+        `reasoning_tokens` is part OF `output_tokens` -- the API reports them that way, and
+        cost_usd() subtracts rather than adds them."""
         with self._lock:
             self.chat_calls += 1
             self.chat_input_tokens += input_tokens
+            self.chat_cached_input_tokens += cached_input_tokens
+            self.chat_cache_write_tokens += cache_write_tokens
             self.chat_output_tokens += output_tokens
+            self.chat_reasoning_tokens += reasoning_tokens
             self.chat_total_tokens += total_tokens
 
             model_bucket = self.per_model.setdefault(
@@ -152,18 +259,36 @@ class UsageTracker:
             agent_bucket = self.per_agent.setdefault(agent, _empty_agent_bucket())
             agent_bucket["chat_calls"] += 1
             agent_bucket["chat_input_tokens"] += input_tokens
+            agent_bucket["chat_cached_input_tokens"] += cached_input_tokens
+            agent_bucket["chat_cache_write_tokens"] += cache_write_tokens
             agent_bucket["chat_output_tokens"] += output_tokens
+            agent_bucket["chat_reasoning_tokens"] += reasoning_tokens
             agent_bucket["chat_total_tokens"] += total_tokens
 
-    def record_web_search_usage(self, agent: str, input_tokens: int, output_tokens: int) -> None:
+    def record_web_search_usage(
+        self,
+        agent: str,
+        input_tokens: int,
+        output_tokens: int,
+        *,
+        cached_input_tokens: int = 0,
+        cache_write_tokens: int = 0,
+    ) -> None:
+        """Search content tokens -- what the hosted tool retrieves and feeds the model -- are
+        billed at the model's own token rates on top of the per-call fee, and they cache like
+        any other prefix, so they carry the same three-way split as a chat call."""
         with self._lock:
             self.web_search_calls += 1
             self.web_search_input_tokens += input_tokens
+            self.web_search_cached_input_tokens += cached_input_tokens
+            self.web_search_cache_write_tokens += cache_write_tokens
             self.web_search_output_tokens += output_tokens
 
             agent_bucket = self.per_agent.setdefault(agent, _empty_agent_bucket())
             agent_bucket["web_search_calls"] += 1
             agent_bucket["web_search_input_tokens"] += input_tokens
+            agent_bucket["web_search_cached_input_tokens"] += cached_input_tokens
+            agent_bucket["web_search_cache_write_tokens"] += cache_write_tokens
             agent_bucket["web_search_output_tokens"] += output_tokens
 
     def record_scrapingbee_usage(
@@ -214,6 +339,14 @@ class UsageTracker:
             agent_bucket["scrapingbee_calls"] += 1
             agent_bucket["scrapingbee_credits"] += credits
 
+    def record_pdf_extracted(self) -> None:
+        """A PDF whose text layer was extracted locally in fetch_page's FREE tier. Run-global
+        (like web_searches_redirected_to_fetch) and the direct measure of what that path
+        displaces: before it existed every one of these was a ~$0.01 hosted retrieval, and 194
+        of 412 logged paid retrievals were PDFs."""
+        with self._lock:
+            self.pdfs_extracted_locally += 1
+
     def record_scrapingbee_unavailable(self) -> None:
         """A fetch that WOULD have used the ScrapingBee tier but went straight to the paid
         search fallback because SCRAPINGBEE_API_KEY isn't set. Run-global (like
@@ -237,46 +370,93 @@ class UsageTracker:
                 self.tool_calls_blocked_by_budget += 1
                 agent_bucket["tool_calls_blocked_by_budget"] += 1
 
-    def estimated_cost_usd(self) -> float:
-        chat_in_cost = (self.chat_input_tokens / 1_000_000) * EST_INPUT_COST_PER_1M_TOKENS
-        chat_out_cost = (self.chat_output_tokens / 1_000_000) * EST_OUTPUT_COST_PER_1M_TOKENS
-        search_token_in_cost = (self.web_search_input_tokens / 1_000_000) * EST_INPUT_COST_PER_1M_TOKENS
-        search_token_out_cost = (self.web_search_output_tokens / 1_000_000) * EST_OUTPUT_COST_PER_1M_TOKENS
-        search_call_cost = self.web_search_calls * EST_WEB_SEARCH_COST_PER_CALL
-        # Credits x price, not calls x price: ScrapingBee's mode=auto charges anywhere from 1 to
-        # 75 credits depending on which tier got the page, so only the reported credits are real.
-        scrapingbee_cost = self.scrapingbee_credits * EST_SCRAPINGBEE_COST_PER_CREDIT
-        return (
-            chat_in_cost
-            + chat_out_cost
-            + search_token_in_cost
-            + search_token_out_cost
-            + search_call_cost
-            + scrapingbee_cost
+    def _token_cost(
+        self, input_tokens: int, cached: int, cache_write: int, output_tokens: int
+    ) -> dict[str, float]:
+        """Price one bucket of token usage at the three input rates plus the output rate.
+
+        `cached` and `cache_write` are parts of `input_tokens`, so the uncached remainder is
+        what is left after subtracting them. It is clamped at zero rather than trusted: the
+        three counts come from the provider and an unexpected extra detail field (a new token
+        category) must not silently produce a negative charge."""
+        uncached = max(input_tokens - cached - cache_write, 0)
+        return {
+            "uncached_input": uncached / 1_000_000 * INPUT_COST_PER_1M_TOKENS,
+            "cached_input": cached / 1_000_000 * CACHED_INPUT_COST_PER_1M_TOKENS,
+            "cache_write": cache_write / 1_000_000 * CACHE_WRITE_COST_PER_1M_TOKENS,
+            "output": output_tokens / 1_000_000 * OUTPUT_COST_PER_1M_TOKENS,
+        }
+
+    def cost_breakdown_usd(self) -> dict[str, float]:
+        """Every line of this run's bill, from counts the providers themselves reported.
+
+        Nothing here is approximated: token counts and their cached/cache-write split come back
+        on each API response, the web_search fee is a counted integer times a published per-call
+        price, and ScrapingBee credits are what ScrapingBee said it charged. The only external
+        inputs are the rates in config.py."""
+        chat = self._token_cost(
+            self.chat_input_tokens,
+            self.chat_cached_input_tokens,
+            self.chat_cache_write_tokens,
+            self.chat_output_tokens,
         )
+        search = self._token_cost(
+            self.web_search_input_tokens,
+            self.web_search_cached_input_tokens,
+            self.web_search_cache_write_tokens,
+            self.web_search_output_tokens,
+        )
+        lines = {
+            "chat_uncached_input": chat["uncached_input"],
+            "chat_cached_input": chat["cached_input"],
+            "chat_cache_write": chat["cache_write"],
+            "chat_output": chat["output"],
+            "web_search_uncached_input": search["uncached_input"],
+            "web_search_cached_input": search["cached_input"],
+            "web_search_cache_write": search["cache_write"],
+            "web_search_output": search["output"],
+            "web_search_call_fee": self.web_search_calls * WEB_SEARCH_COST_PER_CALL,
+            "scrapingbee": self.scrapingbee_credits * SCRAPINGBEE_COST_PER_CREDIT,
+        }
+        lines["total"] = sum(lines.values())
+        return {k: round(v, 6) for k, v in lines.items()}
+
+    def cost_usd(self) -> float:
+        return self.cost_breakdown_usd()["total"]
 
     def to_dict(self) -> dict[str, Any]:
         return {
             "chat_calls": self.chat_calls,
             "chat_input_tokens": self.chat_input_tokens,
+            "chat_cached_input_tokens": self.chat_cached_input_tokens,
+            "chat_cache_write_tokens": self.chat_cache_write_tokens,
             "chat_output_tokens": self.chat_output_tokens,
+            "chat_reasoning_tokens": self.chat_reasoning_tokens,
             "chat_total_tokens": self.chat_total_tokens,
             "web_search_calls": self.web_search_calls,
             "web_search_input_tokens": self.web_search_input_tokens,
+            "web_search_cached_input_tokens": self.web_search_cached_input_tokens,
+            "web_search_cache_write_tokens": self.web_search_cache_write_tokens,
             "web_search_output_tokens": self.web_search_output_tokens,
             "scrapingbee_calls": self.scrapingbee_calls,
             "scrapingbee_credits": self.scrapingbee_credits,
             "scrapingbee_failures": self.scrapingbee_failures,
             "scrapingbee_skipped_no_key": self.scrapingbee_skipped_no_key,
+            "pdfs_extracted_locally": self.pdfs_extracted_locally,
             "tool_calls_attempted": self.tool_calls_attempted,
             "tool_calls_blocked_by_budget": self.tool_calls_blocked_by_budget,
             "web_searches_redirected_to_fetch": self.web_searches_redirected_to_fetch,
+            "web_searches_redirected_to_doc_link": self.web_searches_redirected_to_doc_link,
+            "web_searches_refused_duplicate": self.web_searches_refused_duplicate,
+            "web_searches_refused_no_certificates": self.web_searches_refused_no_certificates,
+            "web_fetches_refused_unknown_domain": self.web_fetches_refused_unknown_domain,
             "tool_call_counts": self.tool_call_counts,
             "per_model": self.per_model,
             "per_agent": self.per_agent,
             "queries": self.queries,
             "scrapingbee_details": self.scrapingbee_details,
-            "estimated_cost_usd": round(self.estimated_cost_usd(), 4),
+            "cost_usd": round(self.cost_usd(), 4),
+            "cost_breakdown_usd": self.cost_breakdown_usd(),
         }
 
 
@@ -308,12 +488,21 @@ class TokenUsageCallbackHandler(BaseCallbackHandler):
                     or response_metadata.get("model")
                     or "unknown"
                 )
+                # LangChain normalises OpenAI's prompt_tokens_details.cached_tokens /
+                # .cache_write_tokens to these two names; a provider or version that omits
+                # them leaves the counts at zero, which prices that call as fully uncached --
+                # the conservative direction, and visible as a zero in the logged breakdown.
+                input_details = usage.get("input_token_details") or {}
+                output_details = usage.get("output_token_details") or {}
                 self.tracker.record_chat_usage(
                     agent=agent,
                     model=model,
                     input_tokens=usage.get("input_tokens", 0) or 0,
                     output_tokens=usage.get("output_tokens", 0) or 0,
                     total_tokens=usage.get("total_tokens", 0) or 0,
+                    cached_input_tokens=input_details.get("cache_read", 0) or 0,
+                    cache_write_tokens=input_details.get("cache_creation", 0) or 0,
+                    reasoning_tokens=output_details.get("reasoning", 0) or 0,
                 )
 
 

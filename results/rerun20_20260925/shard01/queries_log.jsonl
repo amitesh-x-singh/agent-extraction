@@ -1,0 +1,248 @@
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "web_search", "query": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA official website"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/company/company-2/"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/sitemap.xml"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter[fulltext]=PT%20Energi%20Sejahtera%20Mas&page[size]=50"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=PT%20Energi%20Sejahtera%20Mas"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=PT%20Energi%20Sejahtera%20Mas"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-sitemap-posts-page-1.xml"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-sitemap-posts-company-1.xml"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/contact-us/"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/group-companies/"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/certificates/"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/sustainability-report/"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "web_search", "query": "\"PT Energi Sejahtera Mas\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/2024/05/2327A_ENERGY-SEJAHTERA-MAS-_45K_CERT.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/2024/05/2435B_ENERGI-SEJAHTERA-MAS_14K_CERT_UKAS.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/2023/08/Laboratory-Certificate.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/08/RSPO-certificate-to-ESM.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/02/3057_ENERGI-SEJAHTERA-MAS_22K_UKAS_CERT_R1.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/01/Sertifikat-CPPOB-ESM..pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/01/2024-ESM-certiificate-ISO-9001-2015.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/03/2024-ESM-certiificate-EFfCI-Cosmetic-Ingredient.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/01/2024-ESM-certiificate-ISO-9001-2015.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/08/RSPO-certificate-to-ESM.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/03/2024-ESM-certiificate-EFfCI-Cosmetic-Ingredient.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/02/3057_ENERGI-SEJAHTERA-MAS_22K_UKAS_CERT_R1.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://sinarmascepsa.com/wp-content/uploads/2024/05/2327A_ENERGY-SEJAHTERA-MAS-_45K_CERT.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/01/Sertifikat-CPPOB-ESM..pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://sinarmascepsa.com/wp-content/uploads/2024/05/2435B_ENERGI-SEJAHTERA-MAS_14K_CERT_UKAS.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_pdf_ocr", "query": "https://sinarmascepsa.com/wp-content/uploads/2023/08/Laboratory-Certificate.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "web_search", "query": "\"PT Energi Sejahtera Mas\" Dumai address directory"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "web_search", "query": "\"PT Energi Sejahtera Mas\" office Riau address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps PT Energi Sejahtera Mas Riau Indonesia"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "web_search", "query": "\"PT Energi Sejahtera Mas\" Sumatra office address"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "web_search", "query": "\"PT Energi Sejahtera Mas\" Jakarta office address Google Business Profile"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "web_search", "query": "\"PT Energi Sejahtera Mas\" Indonesia locations branch office"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/sustainability-report/2024%20Annual%20Sustainability%20Report.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.semuabis.com/sinarmas-cepsa-pt-energi-sejahtera-mas-021-50529999"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://companyhouse.id/energi-sejahtera-mas"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/about-us/"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.semuabis.com/pt-energi-sejahtera-mas-0765-7151000"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/05/Halal-Certificate-PT-Energi-Sejahtera-Mas-BPJPH.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://sinarmascepsa.com/wp-content/uploads/sustainability-report/2024%20Annual%20Sustainability%20Report.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://sinarmascepsa.com/wp-content/uploads/2025/05/Halal-Certificate-PT-Energi-Sejahtera-Mas-BPJPH.pdf"}
+{"timestamp": 1790325878.8300548, "company": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.semuabis.com/sinarmas-cepsa-pt-energi-sejahtera-mas-021-50529999"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "GRUPO LAPPI official website"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter[fulltext]=GRUPO%20LAPPI&page[size]=50"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/sitemap.xml"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=GRUPO%20LAPPI"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.grupolappi.com/sitemap.xml"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/en/contact/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/en/company/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/en/csr-and-sustainability/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=GRUPO%20LAPPI"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GRUPO%20LAPPI&type=10-K"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "\"GRUPO LAPPI\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/wp-content/uploads/2025/07/SGS_ISO-9001_2015_ESSEV_210936_ES.pdf"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/wp-content/uploads/2025/07/SGS_ISO-14001_2015_ESSEV_210937_ES.pdf"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/wp-content/uploads/2025/02/FSC-2030.pdf"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://alempack.pt/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://alempack.pt/contactos/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.grupolappi.com/wp-content/uploads/2025/02/FSC-2030.pdf"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.grupolappi.com/wp-content/uploads/2025/07/SGS_ISO-9001_2015_ESSEV_210936_ES.pdf"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.grupolappi.com/wp-content/uploads/2025/07/SGS_ISO-14001_2015_ESSEV_210937_ES.pdf"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Grupo Lappi Andaluc\u00eda office address"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Grupo Lappi office Madrid address directory"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Grupo Lappi Madrid office address"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Grupo Lappi office Catalu\u00f1a address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Grupo Lappi Catalu\u00f1a office address"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Grupo Lappi Valencia office address"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Grupo Lappi office Andaluc\u00eda address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Grupo Lappi office Valencia address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Grupo Lappi Basque Country office address"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Grupo Lappi office Pa\u00eds Vasco address directory"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Grupo Lappi Galicia office address"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Grupo Lappi office Galicia address directory"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Grupo Lappi Castilla y Le\u00f3n office address"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Grupo Lappi office Arag\u00f3n Murcia Castilla La Mancha address directory"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "Grupo Lapp\u00ed subsidiaries Lapp\u00ed Industrias Gr\u00e1ficas Graficas Martorell Calipolense Penta CPM Internacional Alempack ownership"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "\"Alempack\" \"Grupo Lapp\u00ed\" acquisition"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "\"Lapp\u00ed\" \"Penta - Adhesiv\" ownership"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "\"Lapp\u00ed\" \"Llopart\" Sant Sadurn\u00ed address current"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "\"Grupo Lapp\u00ed\" \"CPM Internacional\" \"Lapp\u00ed Penta\""}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "web_search", "query": "site:grupolappi.com Grupo Lapp\u00ed acquisition Alempack 2026 Elvas"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://dianacapital.com/es/grupo-lappi-participada-de-diana-capital-adquiere-el-100-de-cpm-penta-group-y-consolida-su-liderazgo-en-el-sector-de-etiquetado-en-la-peninsula-iberica/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://dianacapital.com/es/diana-capital-refuerza-el-liderazgo-iberico-de-lappi-con-la-compra-de-alempack-y-duplica-su-negocio-de-embalaje-flexible/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/es/contacto/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.grupolappi.com/es/empresa/"}
+{"timestamp": 1790326006.891527, "company": "GRUPO LAPPI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://alempack.pt/certificacao-brc-packaging/"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "EXPORTADORA DE CAFE CALIFORNIA official website"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter[fulltext]=EXPORTADORA%20DE%20CAFE%20CALIFORNIA&page[size]=50"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/sitemap.xml"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=Exportadora%20de%20Cafe%20California"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://eccshop.com.mx/"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://ecc.com.mx/"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://ecc.com.mx/sitemap.xml"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "site:ecc.com.mx Exportadora de Caf\u00e9 California ubicaciones oficinas planta contacto"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/es/contacto"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/es/ubicaciones"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/es/nosotros"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/es/empresa"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/robots.txt"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://directoriodecafe.mx/empresas/exportadora-de-cafe-california-ecc"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" subsidiary OR subsidiary company OR NKG"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" \"centros de compra\" beneficios"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" brands companies Veracruz Emiliano Zapata"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.nkg.net/group-companies/"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/es/contact.html"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/es/brands.html"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/es/company.html"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://ecc.com.mx/es/"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.gob.mx/cms/uploads/attachment/file/950337/DIRECTORIO_DE_ESTABLECIMIENTOS_DE_CAFE_10-10-2024.pdf"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Google Maps Veracruz address"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Veracruz oficina direcci\u00f3n directorio"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Veracruz yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Chiapas oficina direcci\u00f3n directorio"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Chiapas Google Business Profile"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Puebla oficina direcci\u00f3n directorio"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Oaxaca oficina direcci\u00f3n directorio"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Fort\u00edn de las Flores direcci\u00f3n"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Jaltenango direcci\u00f3n tel\u00e9fono"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Huixtla direcci\u00f3n tel\u00e9fono"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Tapachula direcci\u00f3n oficina bodega"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Tuxtla Guti\u00e9rrez direcci\u00f3n"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" Yajal\u00f3n direcci\u00f3n"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" M\u00e9xico sucursales centros compra beneficios direcci\u00f3n"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.allbiz.mx/exportadora-de-cafe-california-s-a_1e"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.allbiz.mx/exportadora-de-cafe-california-huixtla-964-642-0159"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.allbiz.mx/exportadora-de-cafe-california-s-a-de-c_6q-992-655-0368"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.allbiz.mx/exportadora-de-cafe-california-s-a-de-c_7p-272-742-4395"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.seccionamarilla.com.mx/informacion/exportadora-de-cafe-california/cafe-en-grano-depositos-exportadores-y-compra-venta/chiapas/tuxtla-gutierrez/plan-de-ayala/1003844001"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://mexicoo.mx/exportadora-de-cafe-california-6298574"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.allbiz.mx/exportadora-de-cafe-california-s-a_1e"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.allbiz.mx/exportadora-de-cafe-california-huixtla-964-642-0159"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.guiatel.com.mx/empresas/exportadora-de-cafe-california-huixtla-chiapas"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://mx.eldirectorio.co/empresas/fortin-de-las-flores/establecimiento/exportadora-de-cafe-california-sa-de-cv-137855"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://amp.mexicoo.mx/exportadora-de-cafe-california-6379363"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.dateas.com/es/explore/empresas-mexicanas-nayarit/exportadora-de-cafe-california-sa-de-cv-6141"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://eccmexico.com/contacto"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://eccmexico.com/"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://eccmexico.com/contacto"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://eccmexico.com/"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" \"Chicomuselo\" direcci\u00f3n"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" \"Frontera Comalapa\""}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://eccmexico.com/sitemap.xml"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "web_search", "query": "\"Exportadora de Caf\u00e9 California\" NKG ownership 1993 subsidiary"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://eccmexico.com/locations"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://eccmexico.com/ubicaciones"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://mexicoo.mx/exportadora-de-cafe-california-6298577"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.seccionamarilla.com.mx/resultados/cafe-en-grano-exportadores-compra-venta/chiapas/1"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.expocafe.mx/wp-content/uploads/2025/09/EXPOCAFE2025_DIRECTORIO_12092025_PC.pdf"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page", "query": "https://fec-chiapas.com.mx/sistema/biblioteca_digital/07plan-rector-de-la-cafeticultura-ultima-version.pdf"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://fec-chiapas.com.mx/sistema/biblioteca_digital/07plan-rector-de-la-cafeticultura-ultima-version.pdf"}
+{"timestamp": 1790326657.6627557, "company": "EXPORTADORA DE CAFE CALIFORNIA", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.expocafe.mx/wp-content/uploads/2025/09/EXPOCAFE2025_DIRECTORIO_12092025_PC.pdf"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK ADDITIVES official website"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=BYK%20Additives&page%5Bsize%5D=50"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/sitemap.xml"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=BYK%20Additives"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=BYK%20Additives"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/en/sitemap.xml"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/en/company/locations-distributors"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/en/sustainability/certificates"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/en/company/company-information"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/en/contact"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/en/sitemap.xml?sitemap=pages&cHash=d151ca5618427c33cc8b307ca60cc3e9"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/en/imprint"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.byk.com/en/company-news/locations-distributors"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/en/locations/usa"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/en/locations/netherlands"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/en/locations/germany"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/en/locations/china"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/sitemap.xml"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/en/locations/great-britain"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/sitemap.xml?L=en"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/sitemap.xml?sitemap=pages&cHash=36311154323252dd48e70317d1ba3b9b"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/usa/wallingford"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/germany/wesel"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/usa/earth-city"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/germany/kempen"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/usa/louisville"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/usa/gonzales"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/usa/chester"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/tongling"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/great-britain/widnes"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/netherlands/nijverdal"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/netherlands/deventer"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/netherlands/denekamp"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/germany/moosburg"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/germany/geretsried"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/china/shanghai"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/germany/schkopau"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "fetch_page", "query": "https://local.byk.com/locations/germany/wesel-emmelsum"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Lower Saxony Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps BYK Germany North Rhine-Westphalia office address"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Bavaria Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Saxony-Anhalt Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Baden-W\u00fcrttemberg Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Hesse Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Rhineland-Palatinate Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Thuringia Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Brandenburg Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK Google Business Profile Germany office branch address"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK Germany warehouse distribution center address directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Schleswig-Holstein Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK Germany R&D center office address directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "BYK office address Mecklenburg-Vorpommern Germany directory"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "site:byk.com \"BYK\" \"Spain\" address office"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "site:byk.com \"BYK Japan KK\" address"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "site:byk.com \"BYK India Private Limited\" address"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "site:byk.com \"BYK Asia Pacific\" address office"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "site:byk.com \"BYK\" \"Italy\" address office"}
+{"timestamp": 1790326803.34566, "company": "BYK ADDITIVES", "agent": "site_extractor", "tool": "web_search", "query": "site:byk.com \"BYK Additives\" \"France\" address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "CPH CHEMICALS B V official website"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cphchemicals.com"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=CPH%20CHEMICALS%20B%20V&page%5Bsize%5D=50"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cphchemicals.com/sitemap.xml"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=CPH%20CHEMICALS%20B%20V"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "site:cphchemicals.com CPH Chemicals contact locations offices"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cphchemicals.com/contact"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cphchemicals.com/contact-us"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" subsidiaries offices UK India Indonesia Hungary Romania Poland"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cphchemicals.com/locations"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=CPH%20CHEMICALS%20B%20V"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://cphchemicals.nl/contact"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CPH%20CHEMICALS%20B%20V&type=10-K"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.cphchemicals.com/_files/ugd/fa85ad_982e9d7467f24368bb373f8f7b827a2a.pdf?utm_source=openai"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://cphchemicals.nl"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps CPH Chemicals Netherlands region office address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals B.V.\" Netherlands address branch warehouse"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" Amstelveen OR Amsterdam OR Rotterdam OR Utrecht address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" office Netherlands address directory"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" India office address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" Indonesia office address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" United Kingdom office address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" Hungary Romania Poland office address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" Hungary address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" Romania address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" Poland address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" India Pvt Ltd address"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "web_search", "query": "\"CPH Chemicals\" Indonesia address office warehouse"}
+{"timestamp": 1790326888.9455562, "company": "CPH CHEMICALS B V", "agent": "site_extractor", "tool": "fetch_page", "query": "https://cphchemicals.com/wp-content/uploads/2026/05/CPH_Sale_Purchase_ClauseIX.pdf"}

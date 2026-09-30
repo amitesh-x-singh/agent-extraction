@@ -39,6 +39,20 @@ class CandidateAddress(BaseModel):
     status_as_of: str | None = Field(default=None, description="Date the operational_status was last confirmed by a source.")
     source_url: str = Field(description="URL of the page/document that supports this address.")
     evidence_quote: str = Field(description="Short verbatim snippet from the source supporting this address.")
+    other_source_urls: list[str] = Field(
+        default_factory=list,
+        description="Every OTHER page or document you saw this same address on (locations page, "
+        "certificate PDF, filing, directory...). source_url stays the single best one.",
+    )
+
+    def all_sources(self) -> list[str]:
+        """source_url first, then every other source, each URL once."""
+        seen: list[str] = []
+        for url in [self.source_url, *self.other_source_urls]:
+            url = (url or "").strip()
+            if url and url not in seen:
+                seen.append(url)
+        return seen
 
     def full_address(self) -> str:
         """Every address component joined into one string, for token-based matching/dedupe --

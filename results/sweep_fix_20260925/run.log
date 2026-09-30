@@ -1,0 +1,791 @@
+Batch: 2 companies from results\sweep_fix_20260925\suppliers.csv
+KANTAR, ACXIOM
+
+
+==============================================================================
+[1/2] KANTAR
+==============================================================================
+Researching site locations for: KANTAR
+
+Collected 74 distinct candidate address(es).
+
+Company domains treated as first-party: kantar.com
+
+=== Ranked candidates for KANTAR ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Vivo Building, 30 Stamford Street, London, SE1 9LQ, United Kingdom
+    site_type: Headquarters, Office
+    source:  https://www.kantar.com/contact
+    quote:   London - Vivo Office Vivo Building, 30 Stamford St, London SE1 9LQ
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Three World Trade Center, 175 Greenwich St, 30th Floor, New York, New York, 10007, United States
+    site_type: Office
+    source:  https://www.kantar.com/locations/united-states-of-america
+    quote:   Three World Trade Center 175 Greenwich St 30th Floor New York NY 10007
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 3rd Floor, The ORB, JW Marriott, IA Project Road, Andheri (E), Mumbai, Maharashtra, 400099, India
+    site_type: Office
+    source:  https://www.kantar.com/locations/india
+    quote:   3rd Floor,The ORB, JW Marriott, IA Project Road, Andheri (E) Mumbai 400099
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 10 avenue Aristide Briand, Bagneux, Île-de-France, 92220, France
+    site_type: Office
+    source:  https://www.kantar.com/locations/france
+    quote:   10 avenue Aristide Briand Bagneux Paris 92220
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Landsberger Straße 346, München, Bavaria, 80687, Germany
+    site_type: Headquarters, Office
+    source:  https://www.kantar.com/de/Contact
+    quote:   München - Landsberger Straße Landsberger Straße 346, München 80687
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Darmstädter Landstraße 112, Frankfurt am Main, Hesse, 60598, Germany
+    site_type: Office, Research Facility
+    source:  https://www.kantar.com/de/Contact
+    quote:   Darmstädter Landstraße 112, 60598 Frankfurt am Main
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Thumenberger Weg 27, Nürnberg, Bavaria, 90491, Germany
+    site_type: Office, Research Facility
+    source:  https://www.kantar.com/de/Contact
+    quote:   Thumenberger Weg 27, 90491 Nürnberg
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Darling Park, Tower 3, Level 8, 201 Sussex St, Sydney, New South Wales, 2000, Australia
+    site_type: Office
+    source:  https://www.kantar.com/locations/australia
+    quote:   Darling Park Tower 3 Level 8 201 Sussex St Sydney NSW 2000
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 155 Queen’s Quay E., Toronto, Ontario, M5A 0W4, Canada
+    site_type: Office
+    source:  https://www.kantar.com/locations/canada
+    quote:   155 Queen’s Quay E. Toronto ON M5A 0W4
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 12, 15, 16F, WPP Campus, 399 Hengfeng Road, Jing’an District, Shanghai, 200070, China
+    site_type: Office
+    source:  https://www.kantar.com/locations/china
+    quote:   12, 15, 16F, WPP Campus, 399 Hengfeng Road, Jing’an District 上海 200070
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Av. Francisco Matarazzo, 1350 - Barra Funda, São Paulo, São Paulo, 01419-002, Brazil
+    site_type: Head Office, Office
+    source:  https://www.kantar.com/locations/brazil
+    quote:   Av. Francisco Matarazzo, 1350 - Barra Funda São Paulo SP, 01419-002
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: La Matriz, Ríos Rosas, 26, 1ª planta, Madrid, Madrid, 28003, Spain
+    site_type: Office
+    source:  https://www.kantar.com/locations/spain
+    quote:   La Matriz, Ríos Rosas, 26, 1ª planta. Madrid 28003
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Camí de Can Calders, 4, Sant Cugat del Vallès, Catalonia, 08173, Spain
+    site_type: Office
+    source:  https://www.kantar.com/latin-america/contacto-latam
+    quote:   Camí de Can Calders, 4, Sant Cugat del Vallès Barcelona 08173
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Viale Monza 338, Milano, Lombardy, 20128, Italy
+    site_type: Office
+    source:  https://www.kantar.com/locations/italy
+    quote:   Viale Monza 338 Milano 20128
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Amsteldijk 166, Amsterdam, North Holland, 1079 LH, Netherlands
+    site_type: Office
+    source:  https://www.kantar.com/locations/the-netherlands
+    quote:   Amsteldijk 166, Amsterdam 1079 LH
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 5 Temasek Boulevard, #14-01/02, Suntec Tower 5, Singapore, 038985, Singapore
+    site_type: Office
+    source:  https://www.kantar.com/locations/singapore
+    quote:   5 Temasek Boulevard, #14-01/02, Suntec Tower 5 Singapore 038985
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: The Base, 3012A Winnie Mandela Drive, Bryanston, Johannesburg, Gauteng, 2191, South Africa
+    site_type: Office
+    source:  https://www.kantar.com/locations/south-africa
+    quote:   The Base, 3012A Winnie Mandela Drive, Johannesburg, Bryanston 2191
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Av. Insurgentes Sur #863, Piso 13, Col. Nápoles, Mexico City, Mexico City, 03810, Mexico
+    site_type: Office
+    source:  https://www.kantar.com/locations/mexico
+    quote:   Av.Insurgentes Sur # 863, Piso 13, Col. Nápoles, Mexico City DF 03810
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Shinjuku Maynds Tower 6F, F2-1-1 Yoyogi, Shibuya-ku, Tokyo, Tokyo, 151-0053, Japan
+    site_type: Office
+    source:  https://www.kantar.com/locations/japan
+    quote:   Shinjuku Maynds Tower 6F, F2-1-1 Yoyogi, Shibuya-ku, Tokyo 151-0053
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Av. 24 de Julho, 62 – 2º Piso, Lisbon, Lisbon, 1200-869, Portugal
+    site_type: Office
+    source:  https://www.kantar.com/locations/portugal
+    quote:   Av. 24 de Julho, 62 – 2º Piso 1200-869 Lisbon
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avenida Santa Fe 1970 Piso 2, Buenos Aires, Buenos Aires, 1123, Argentina
+    site_type: Head Office, Office
+    source:  https://www.kantar.com/locations/argentina
+    quote:   Avenida Santa Fe 1970 Piso 2 Buenos Aires 1123
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Kaiserstrasse 55, Vienna, Vienna, 1070, Austria
+    site_type: Office
+    source:  https://www.kantar.com/locations/austria
+    quote:   Kaiserstrasse 55, Vienna 1070
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 10th Floor, South Breeze Center, House 5, Road No. 11, Block G, Banani, Dhaka, 1213, Bangladesh
+    site_type: Office
+    source:  https://www.kantar.com/locations/bangladesh
+    quote:   10th Floor, South Breeze Center House 5 Road No. 11 Block G Banani Dhaka 1213
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Sint-Lazaruslaan 4-10, Brussels, Brussels-Capital Region, 1210, Belgium
+    site_type: Office
+    source:  https://www.kantar.com/locations/belgium
+    quote:   Sint-Lazaruslaan 4-10 Brussels 1210
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 20 de Octubre Avenue, Mediterraneo Building No. 2651 PB, La Paz, La Paz, Bolivia
+    site_type: Office
+    source:  https://www.kantar.com/locations/bolivia
+    quote:   20 de Octubre Avenue, Mediterraneo Building No. 2651 PB, La Paz
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Almirante Pastene 244 - Oficina 201, Santiago, Santiago Metropolitan Region, Chile
+    site_type: Office
+    source:  https://www.kantar.com/locations/chile
+    quote:   Almirante Pastene 244 - Oficina 201 Santiago
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Edificio Insignia, Calle 97 No. 11B-17, Bogotá, Bogotá D.C., Colombia
+    site_type: Head Office, Office
+    source:  https://www.kantar.com/locations/colombia
+    quote:   Edificio Insignia, Calle 97 No. 11B -17 Bogotá
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Barrio Tournón, Oficentro Torres del Campo, Torre 2, Piso 4, San José, Costa Rica
+    site_type: Office
+    source:  https://www.kantar.com/locations/costa-rica
+    quote:   Barrio Tournón Oficentro Torres del Campo Torre 2, Piso 4 San Jose
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Strossmayerovo náměstí 1477/6, Prague, Prague, 17000, Czech Republic
+    site_type: Office
+    source:  https://www.kantar.com/locations/czech-republic
+    quote:   Strossmayerovo náměstí 1477/6, Prague 17000 Praha 7
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Rådhuspladsen 45, Copenhagen, Capital Region, 1550, Denmark
+    site_type: Office
+    source:  https://www.kantar.com/locations/denmark
+    quote:   Rådhuspladsen 45 1550 København V Denmark
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Mariano Aguilera E7-311 at Diego de Almagro, Quito, Pichincha, 170517, Ecuador
+    site_type: Office
+    source:  https://www.kantar.com/locations/ecuador
+    quote:   Mariano Aguilera E7-311 at Diego de Almagro Quito 170517
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: S1B, 90 Street, 2nd floor, 5th Settlement Downtown, New Cairo, Cairo Governorate, Egypt
+    site_type: Office
+    source:  https://www.kantar.com/locations/egypt
+    quote:   S1B, 90 Street, 2nd floor, 5th Settlement Downtown New Cairo Cairo
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Col. Escalón, 3ra Calle Poniente, Pasaje Stahl, #147, San Salvador, El Salvador
+    site_type: Office
+    source:  https://www.kantar.com/locations/el-salvador
+    quote:   Col. Escalón, 3ra Calle Poniente, Pasaje Stahl, #147, San Salvador
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Maakri 21, Tallinn, 10145, Estonia
+    site_type: Office
+    source:  https://www.kantar.com/locations/estonia
+    quote:   Maakri 21, Estonia Tallin 10145
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Aleksanterinkatu 30-34, Helsinki, 00100, Finland
+    site_type: Office
+    source:  https://www.kantar.com/locations/finland
+    quote:   Aleksanterinkatu 30-34 Helsinki 00100
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: C24/14 Blohum Street, Opposite Fidelity Bank Dzorwulu, Accra, Ghana
+    site_type: Office
+    source:  https://www.kantar.com/locations/ghana
+    quote:   C24/14 Blohum Street Opposite Fidelity Bank Dzorwulu, Accra, Ghana
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 23 Sinopis St. & 139 Michalakopoulou St., Athens, Attica, 11527, Greece
+    site_type: Office
+    source:  https://www.kantar.com/locations/greece
+    quote:   23 Sinopis St. & 139 Michalakopoulou St., Athens 11527
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Edificio Géminis 10, Torre Sur, #1702, Guatemala City, Guatemala
+    site_type: Office
+    source:  https://www.kantar.com/locations/guatemala
+    quote:   Edificio Géminis 10, Torre Sur, #1702, Guatemala City
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Blvd. Los Próceres, #238, San Pedro Sula, Cortés, Honduras
+    site_type: Office
+    source:  https://www.kantar.com/locations/honduras
+    quote:   Blvd. Los Próceres, #238, San Pedro Sula
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 30/F, Lee & Man Commercial Center, 169 Electric Road, North Point, Hong Kong, Hong Kong
+    site_type: Office
+    source:  https://www.kantar.com/locations/hong-kong
+    quote:   30/F, Lee & Man Commercial Center, 169 Electric Road, North Point Hong Kong
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Andrássy út 100, Budapest, Budapest, H-1062, Hungary
+    site_type: Office
+    source:  https://www.kantar.com/locations/hungary
+    quote:   Kantar Hungary Kft Andrássy út 100 Budapest H-1062
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: The RDTX PLACE 33rd floor, Jl. Prof. DR. Satrio Kav. 3, Karet Kuningan, Setiabudi, Jakarta, Jakarta, 12940, Indonesia
+    site_type: Office
+    source:  https://www.kantar.com/locations/indonesia
+    quote:   The RDTX PLACE 33rd floor, Jl. Prof. DR. Satrio Kav. 3 Karet Kuningan, Setiabudi Jakarta 12940
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 4 Ariel Sharon St., Givatayim, Tel Aviv District, 5320048, Israel
+    site_type: Office
+    source:  https://www.kantar.com/locations/israel
+    quote:   Kantar Insight Israel is registered in Israel as “Taylor Nelson Sofres Teleseker Ltd” ... 4 Ariel Sharon St. Givatayim 5320048
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: The Templeton, 4th Floor, Matundu Lane, Westlands, Nairobi, 0020, Kenya
+    site_type: Office
+    source:  https://www.kantar.com/locations/kenya
+    quote:   The Templeton, 4th Floor, Matundu Lane, Westlands P.O. Box 72951-0020 Nairobi
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Suite 16.02, 16.03 & 16.05 (Level 16), Centrepoint North, The Boulevard, Mid Valley City, Lingkaran Syed Putra, Kuala Lumpur, Kuala Lumpur, 59200, Malaysia
+    site_type: Office
+    source:  https://www.kantar.com/locations/malaysia
+    quote:   Centrepoint North, The Boulevard, Mid Valley City, Lingkaran Syed Putra, Kuala Lumpur 59200
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: #601, 6th floor, City Plaza, Seoul Street, Sukhbaatar District 1, Ulaanbaatar, Ulaanbaatar, 14251, Mongolia
+    site_type: Office
+    source:  https://www.kantar.com/locations/mongolia
+    quote:   #601, 6th floor, City Plaza, Seoul Street, Sukhbaatar District 1 Ulaanbaatar 14251
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 42, Bd. Abdelmoumen, 5ème étage Numéro 37, Casablanca, Casablanca-Settat, Morocco
+    site_type: Office, Consumer Panel Facility
+    source:  https://www.kantar.com/locations/morocco
+    quote:   42, Bd. Abdelmoumen 5ème étage Numéro 37 Casablanca Casablanca
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Level 1, 46 Sale Street, Auckland, Auckland, 1010, New Zealand
+    site_type: Office
+    source:  https://www.kantar.com/locations/new-zealand
+    quote:   Level 1, 46 Sale Street Auckland 1010
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 376 Ikorodu Road, Maryland, Lagos, Lagos, Nigeria
+    site_type: Office
+    source:  https://www.kantar.com/locations/nigeria
+    quote:   376 Ikorodu Road, Maryland, Lagos
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Lakkegata 23, Oslo, Oslo, 0133, Norway
+    site_type: Office
+    source:  https://www.kantar.com/locations/norway
+    quote:   Lakkegata 23 P.O. Box 9116 Grønland Oslo 0133
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Suite 1401, 14th floor, Vital Foakh Towers, Plot number 2, Modern Cooperative Housing Society, Main Sharah e Faisal, Karachi, Sindh, Pakistan
+    site_type: Office
+    source:  https://www.kantar.com/locations/pakistan
+    quote:   Suite 1401, 14th floor, Vital Foakh Towers, Plot number 2, Modern Cooperative Housing Society, Main Sharah e Faisal, Karachi
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Aquilino De La Guardia, Torre Banco General, Oficina 2201, Panama City, Panama, Panama
+    site_type: Office
+    source:  https://www.kantar.com/locations/panama
+    quote:   Aquilino De La Guardia, Torre Banco General, Oficina 2201 Panamá
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Artigas 3671, Asunción, Central, Paraguay
+    site_type: Office
+    source:  https://www.kantar.com/locations/paraguay
+    quote:   Artigas 3671 - Asunción / Paraguay
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Edificio Leuro, Av. Paseo de la República 5895, Piso 2, Miraflores, Lima, Lima, 15047, Peru
+    site_type: Head Office, Office
+    source:  https://www.kantar.com/locations/peru
+    quote:   Edificio Leuro Av. Paseo de la República 5895, Piso 2 Miraflores 15047 Lima 15047
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 23/F The Podium West Tower, ADB Avenue corner Julia Vargas Avenue, Ortigas Center, Mandaluyong City, Metro Manila, 1550, Philippines
+    site_type: Office
+    source:  https://www.kantar.com/locations/philippines
+    quote:   23/F The Podium West Tower, ADB Avenue corner Julia Vargas Avenue, Ortigas Center Mandaluyong City 1550
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Plac Konesera 9, Warsaw, Masovian Voivodeship, 03-736, Poland
+    site_type: Office
+    source:  https://www.kantar.com/locations/poland
+    quote:   Plac Konesera 9, Warsaw 03-736
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 9360 Al Madinah Al Munawarah Branch Rd - Al Andalus District, Alamoudi Tower, Unit No. 303, Jeddah, Makkah Province, 23326-4150, Saudi Arabia
+    site_type: Office
+    source:  https://www.kantar.com/locations/saudi-arabia
+    quote:   9360 Al Madinah Al Munawarah Branch Rd - Al Andalus District, Alamoudi Tower, Unit No. 303, Jeddah 23326 – 4150
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Ngor Almadies, Rue NG 80, Angle Banque, CBAO, Dakar, Dakar, Senegal
+    site_type: Office
+    source:  https://www.kantar.com/locations/senegal
+    quote:   Ngor Almadies, Rue NG 80, Angle Banque, CBAO, Dakar
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Tresnjinog cveta 1g, Belgrade, Belgrade, 11070, Serbia
+    site_type: Office
+    source:  https://www.kantar.com/locations/serbia
+    quote:   Tresnjinog cveta 1g Belgrade 11070
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Sky Park Offices, Bottova 2A, Bratislava, Bratislava Region, 811 09, Slovakia
+    site_type: Office
+    source:  https://www.kantar.com/locations/slovakia
+    quote:   Sky Park Offices Bottova 2A Bratislava 811 09
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 52 Gukjegeumyung-ro, Yeoido-dong, 10th Floor, SIMPAC Bldg., Yeongdeungpo-gu, Seoul, Seoul, 07330, South Korea
+    site_type: Office
+    source:  https://www.kantar.com/locations/south-korea
+    quote:   52 Gukjegeumyung-ro Yeoido-dong, 10th Floor, SIMPAC Bldg., Yeongdeungpo-gu, Seoul 07330
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 2nd & 4th Floors, 228, Galle Road, Colombo 4, Colombo, Western Province, Sri Lanka
+    site_type: Office
+    source:  https://www.kantar.com/locations/sri-lanka
+    quote:   2nd & 4th Floors, 228, Galle Road, Colombo 4
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Vasagatan 11, 1st Floor, Stockholm, Stockholm County, 111 20, Sweden
+    site_type: Office
+    source:  https://www.kantar.com/locations/sweden
+    quote:   Vasagatan 11, 1st Floor, Stockholm 111 20
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Worbstrasse 140, Gümligen, Bern, 3073, Switzerland
+    site_type: Office, TV Audience Measurement Facility
+    source:  https://www.kantar.com/locations/switzerland
+    quote:   Worbstrasse 140 CH 3073 Gümligen
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 3rd Floor, #34 Bade Road, Section 3, Songshan District, Taipei, Taipei City, 10559, Taiwan
+    site_type: Office
+    source:  https://www.kantar.com/locations/taiwan
+    quote:   3rd Floor, # 34 Bade Road, Section 3, Songshan District, Taipei 10559
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 14-15th floor Rajanakarn Building, 3 South Sathorn Road, Yannawa, Sathorn, Bangkok, Bangkok, 10120, Thailand
+    site_type: Office
+    source:  https://www.kantar.com/locations/thailand
+    quote:   14-15th floor Rajanakarn Building, 3 South Sathorn Road, Yannawa, Sathorn, Bangkok 10120
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Astoria Alışveriş Merkezi, Büyükdere Cad. No.127, Kat 3, Esentepe Mah, Şişli, Istanbul, Istanbul, 34394, Türkiye
+    site_type: Office
+    source:  https://www.kantar.com/locations/turkiye
+    quote:   Astoria Alışveriş Merkezi Büyükdere Cad. No.127, Kat 3, Esentepe Mah, Şişli Istanbul 34394
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 52 Simi Prakhovykh Street, Office 9, Kyiv, Kyiv City, 01033, Ukraine
+    site_type: Office
+    source:  https://www.kantar.com/locations/ukraine
+    quote:   52 Simi Prakhovykh Street, Office 9 Kyiv 01033
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: One JLT, 13th Floor, Jumeirah Lakes Towers, Dubai, Dubai, United Arab Emirates
+    site_type: Office
+    source:  https://www.kantar.com/locations/united-arab-emirates
+    quote:   One JLT, 13th Floor, Jumeirah Lakes Towers, Dubai
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Juncal 1305, 2nd Floor, Montevideo, Montevideo, Uruguay
+    site_type: Office, Media Measurement Facility
+    source:  https://www.kantar.com/locations/uruguay
+    quote:   Juncal 1305, 2nd Floor, Montevideo
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 32 Kh. Sulaymanov Street, Tashkent, Tashkent, 100015, Uzbekistan
+    site_type: Office
+    source:  https://www.kantar.com/locations/uzbekistan
+    quote:   32, Kh.Sulaymanov St Tashkent 100015
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Agrex Building, 58 Vo Van Tan Street, District 3, Ho Chi Minh City, Ho Chi Minh City, Vietnam
+    site_type: Office
+    source:  https://www.kantar.com/locations/vietnam
+    quote:   Agrex Building, 58 Vo Van Tan Street, District 3, Ho Chi Minh City
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Ludwigsluster Straße 29, Parchim, Mecklenburg-Vorpommern, 19370, Germany
+    site_type: Telephone Data Collection, Research Facility
+    source:  https://www.kantar.com/de/ueber-uns/-/media/8ea4fb28bac544d09ed8a6903f653927.ashx
+    quote:   3. telquest GmbH Ludwigsluster Straße 29 19370 Parchim Germany Telephone data collection
+
+- [C] score=0.25 address_city_matched=YES  address_country_matched=YES
+    address: Rua Dom João I, 627, Matosinhos, Porto, 4450-166, Portugal
+    site_type: Office, Business Services Center, R&D, Technology and Innovation Hub
+    source:  https://www.dnb.com/business-directory/company-profiles.kantar_business_services_unipessoal_lda.7b1d6c492ecdf667d68a0dc441e840a4.html
+    quote:   Kantar Porto office Rua Dom João I, 627 4450-166 Matosinhos Porto, Portugal
+
+Ground-truth address row(s) available for 'KANTAR': 62
+
+Results written to: results\sweep_fix_20260925\KANTAR__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 343508 in / 14332 out tokens
+TOTAL web_search: 18 calls, 250508 in / 7717 out tokens
+TOTAL scrapingbee: 0 calls, 0 credits (~$0.0000), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 112 (issued: web_search 18/45, fetch_page 92 (uncapped), of which 2 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 2; certificate searches refused: 0)
+TOTAL cost: $0.2680  (chat $0.0428, search tokens $0.0452, search call fee $0.1800, scrapingbee $0.0000)
+  input tokens priced as: 171651 uncached, 340943 cached read, 81422 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 343508 in / 14332 out tokens
+
+--- Queries issued (112) ---
+[site_extractor] web_search: KANTAR official website
+[site_extractor] fetch_page: https://www.kantar.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=KANTAR&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://www.kantar.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=KANTAR
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=KANTAR
+[site_extractor] fetch_page: https://www.kantar.com/about
+[site_extractor] fetch_page: https://www.kantar.com/press-center/kantar-expands-commitment-to-porto-with-new-global-technology-and-innovation-hub
+[site_extractor] fetch_page: https://www.kantar.com/locations/united-states-of-america
+[site_extractor] fetch_page: https://www.kantar.com/locations/india
+[site_extractor] fetch_page: https://www.kantar.com/locations/united-kingdom
+[site_extractor] fetch_page: https://www.kantar.com/locations/france
+[site_extractor] fetch_page: https://www.kantar.com/locations
+[site_extractor] fetch_page: https://www.kantar.com/locations/germany
+[site_extractor] fetch_page: https://www.kantar.com/locations/australia
+[site_extractor] fetch_page: https://www.kantar.com/locations/china
+[site_extractor] fetch_page: https://www.kantar.com/locations/canada
+[site_extractor] fetch_page: https://www.kantar.com/locations/brazil
+[site_extractor] fetch_page: https://www.kantar.com/locations/spain
+[site_extractor] fetch_page: https://www.kantar.com/locations/italy
+[site_extractor] fetch_page: https://www.kantar.com/locations/the-netherlands
+[site_extractor] fetch_page: https://www.kantar.com/locations/singapore
+[site_extractor] fetch_page: https://www.kantar.com/locations/south-africa
+[site_extractor] fetch_page: https://www.kantar.com/locations/mexico
+[site_extractor] fetch_page: https://www.kantar.com/locations/japan
+[site_extractor] fetch_page: https://www.kantar.com/locations/portugal
+[site_extractor] fetch_page: https://www.kantar.com/locations/belgium
+[site_extractor] fetch_page: https://www.kantar.com/locations/argentina
+[site_extractor] fetch_page: https://www.kantar.com/locations/austria
+[site_extractor] fetch_page: https://www.kantar.com/locations/bangladesh
+[site_extractor] fetch_page: https://www.kantar.com/locations/bolivia
+[site_extractor] fetch_page: https://www.kantar.com/locations/costa-rica
+[site_extractor] fetch_page: https://www.kantar.com/locations/czech-republic
+[site_extractor] fetch_page: https://www.kantar.com/locations/colombia
+[site_extractor] fetch_page: https://www.kantar.com/locations/bulgaria
+[site_extractor] fetch_page: https://www.kantar.com/locations/chile
+[site_extractor] fetch_page: https://www.kantar.com/locations/denmark
+[site_extractor] fetch_page: https://www.kantar.com/locations/ecuador
+[site_extractor] fetch_page: https://www.kantar.com/locations/egypt
+[site_extractor] fetch_page: https://www.kantar.com/locations/el-salvador
+[site_extractor] fetch_page: https://www.kantar.com/locations/estonia
+[site_extractor] fetch_page: https://www.kantar.com/locations/finland
+[site_extractor] fetch_page: https://www.kantar.com/locations/ghana
+[site_extractor] fetch_page: https://www.kantar.com/locations/greece
+[site_extractor] fetch_page: https://www.kantar.com/locations/guatemala
+[site_extractor] fetch_page: https://www.kantar.com/locations/honduras
+[site_extractor] fetch_page: https://www.kantar.com/locations/hong-kong
+[site_extractor] fetch_page: https://www.kantar.com/locations/hungary
+[site_extractor] fetch_page: https://www.kantar.com/locations/indonesia
+[site_extractor] fetch_page: https://www.kantar.com/locations/israel
+[site_extractor] fetch_page: https://www.kantar.com/locations/ivory-coast
+[site_extractor] fetch_page: https://www.kantar.com/locations/kenya
+[site_extractor] fetch_page: https://www.kantar.com/locations/malaysia
+[site_extractor] fetch_page: https://www.kantar.com/locations/mongolia
+[site_extractor] fetch_page: https://www.kantar.com/locations/morocco
+[site_extractor] fetch_page: https://www.kantar.com/locations/new-zealand
+[site_extractor] fetch_page: https://www.kantar.com/locations/nigeria
+[site_extractor] fetch_page: https://www.kantar.com/locations/norway
+[site_extractor] fetch_page: https://www.kantar.com/locations/pakistan
+[site_extractor] fetch_page: https://www.kantar.com/locations/panama
+[site_extractor] fetch_page: https://www.kantar.com/locations/paraguay
+[site_extractor] fetch_page: https://www.kantar.com/locations/peru
+[site_extractor] fetch_page: https://www.kantar.com/locations/philippines
+[site_extractor] fetch_page: https://www.kantar.com/locations/poland
+[site_extractor] fetch_page: https://www.kantar.com/locations/romania
+[site_extractor] fetch_page: https://www.kantar.com/locations/saudi-arabia
+[site_extractor] fetch_page: https://www.kantar.com/locations/senegal
+[site_extractor] fetch_page: https://www.kantar.com/locations/serbia
+[site_extractor] fetch_page: https://www.kantar.com/locations/slovakia
+[site_extractor] fetch_page: https://www.kantar.com/locations/south-korea
+[site_extractor] fetch_page: https://www.kantar.com/locations/sri-lanka
+[site_extractor] fetch_page: https://www.kantar.com/locations/sweden
+[site_extractor] fetch_page: https://www.kantar.com/locations/switzerland
+[site_extractor] fetch_page: https://www.kantar.com/locations/taiwan
+[site_extractor] fetch_page: https://www.kantar.com/locations/thailand
+[site_extractor] fetch_page: https://www.kantar.com/locations/turkiye
+[site_extractor] fetch_page: https://www.kantar.com/locations/ukraine
+[site_extractor] fetch_page: https://www.kantar.com/locations/united-arab-emirates
+[site_extractor] fetch_page: https://www.kantar.com/locations/uruguay
+[site_extractor] fetch_page: https://www.kantar.com/locations/uzbekistan
+[site_extractor] fetch_page: https://www.kantar.com/locations/vietnam
+[site_extractor] web_search: "Kantar" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: Kantar subsidiaries acquired brands official
+[site_extractor] web_search: Kantar UK office locations address
+[site_extractor] web_search: Google Maps Kantar London South East England
+[site_extractor] web_search: Kantar office North West England address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Kantar office West Midlands address directory
+[site_extractor] web_search: Kantar office Yorkshire address directory
+[site_extractor] web_search: Kantar office Scotland address Google Business Profile
+[site_extractor] web_search: Kantar office Wales address directory
+[site_extractor] web_search: Kantar office Northern Ireland address directory
+[site_extractor] web_search: Kantar office East of England address directory
+[site_extractor] web_search: Kantar office South West England address directory
+[site_extractor] web_search: Kantar office East Midlands address directory
+[site_extractor] fetch_page: https://www.kantar.com/campaigns/investor-relations
+[site_extractor] fetch_page: https://www.kantar.com/de/ueber-uns/-/media/8ea4fb28bac544d09ed8a6903f653927.ashx
+[site_extractor] fetch_page: https://www.kantar.com/contact
+[site_extractor] fetch_page: https://www.kantar.com/Locations/United-Kingdom
+[site_extractor] web_search: Kantar Nuremberg office address Germany
+[site_extractor] web_search: Kantar Barcelona office address Spain
+[site_extractor] web_search: Kantar Frankfurt office address Germany
+[site_extractor] web_search: Kantar Porto office address Portugal
+[site_extractor] fetch_page: https://www.kantar.com/investor-relations/financial-announcement/-/media/7f7cd09d83b6409a8c1ac92d846812a7.ashx
+[site_extractor] fetch_page: https://www.kantar.com/de/ueber-uns/zertifizierungen
+[site_extractor] fetch_page_pdf_local: https://www.kantar.com/de/ueber-uns/-/media/8ea4fb28bac544d09ed8a6903f653927.ashx
+[site_extractor] fetch_page_pdf_local: https://www.kantar.com/investor-relations/financial-announcement/-/media/7f7cd09d83b6409a8c1ac92d846812a7.ashx
+[site_extractor] fetch_page: https://www.kantar.com/locations/ireland
+[site_extractor] fetch_page: https://www.kantar.com/de/Contact
+[site_extractor] fetch_page: https://www.kantar.com/locations/ghana
+[site_extractor] fetch_page: https://upg-cd-ne.kantar.com/locations/portugal
+[site_extractor] fetch_page: https://www.kantar.com/latin-america/contacto-latam
+[site_extractor] fetch_page: https://www.kantar.com/locations/romania
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+
+Combined CSV now holds 1 companies: results\sweep_fix_20260925\combined_2.csv
+
+==============================================================================
+[2/2] ACXIOM
+==============================================================================
+Researching site locations for: ACXIOM
+
+Collected 19 distinct candidate address(es).
+
+Company domains treated as first-party: acxiom.com, acxiom.co.uk, acxiom.de, acxiom.com.cn, acxiom.com.mx
+
+=== Ranked candidates for ACXIOM ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 301 E Dave Ward Dr., Conway, Arkansas, 72032-7114, United States
+    site_type: Headquarters, Office
+    source:  https://www.acxiom.com/contact-us/
+    quote:   Acxiom Headquarters 301 E Dave Ward Dr. Conway, AR 72032-7114
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 100 W. 33rd St., 9th Floor, New York, New York, 10001, United States
+    site_type: Office
+    source:  https://www.acxiom.com/contact-us/
+    quote:   New York, New York 100 W. 33rd St. 9th Floor New York, NY 10001
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 4F, No. 399 Bao Tun Road, Shanghai, Shanghai, 200011, China
+    site_type: Office, Regional Headquarters
+    source:  https://www.acxiom.com.cn/contact-us/
+    quote:   中国总部：安客诚信息服务（上海）有限公司 地址：中国上海市黄浦区保屯路399号4楼
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: No 120-1 Zilang Road, Nantong, Jiangsu, 226004, China
+    site_type: Office
+    source:  https://www.acxiom.co.uk/about-us/locations/
+    quote:   Nantong, China Nantong No 120-1 Zilang Road Chongchuan District Nantong, China 226004
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Bankside 3, 90-100 Southwark St, London, England, SE1 0SW, United Kingdom
+    site_type: Office, Regional Headquarters
+    source:  https://www.acxiom.co.uk/about-us/locations/
+    quote:   London, United Kingdom Bankside 3 90-100 Southwark St London United Kingdom SE1 0SW
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Speicherstraße 57-59, Frankfurt am Main, Hesse, 60327, Germany
+    site_type: Office, Regional Headquarters
+    source:  https://www.acxiom.de/impressum/
+    quote:   Firmensitz Acxiom Deutschland GmbH Speicherstraße 57-59 60327 Frankfurt am Main
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Al. Grunwaldzka 472B, Olivia Business Center, Olivia Four, Gdańsk, Pomeranian Voivodeship, 80-309, Poland
+    site_type: Office
+    source:  https://www.acxiom.co.uk/about-us/locations/
+    quote:   Gdańsk, Poland Gdańsk Polska AI. Grunwaldzka 472B 80-309 Gdańsk Olivia Business Center Olivia Four
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Palo Santo No. 22, Lomas Altas, Mexico City, Mexico City, 11950, Mexico
+    site_type: Office
+    source:  https://www.acxiom.co.uk/about-us/locations/
+    quote:   Mexico City, Mexico Palo Santo No. 22 Lomas Altas, Miguel Hidalgo México, CIUDAD DE MEXICO, 11950
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: MCN Hive, 6th Floor, Barsha Heights, Dubai, Dubai, United Arab Emirates
+    site_type: Office, Regional Office
+    source:  https://www.acxiom.co.uk/about-us/locations/
+    quote:   Dubai, UAE MCN Hive, 6th Floor, Barsha Heights, PO Box 6834, Dubai, UAE
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 501 N El Camino Real #221, San Clemente, California, 92672-4789, United States
+    site_type: Office
+    source:  https://labormarketinfo.edd.ca.gov/aspdotnet/databrowsing/empDetails.aspx?empid=571152156&geogArea=0604000059&menuChoice=emp
+    quote:   Acxiom, 501 N El Camino Real #221, San Clemente, CA 92672-4789
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 10 Kearney Road, Suite 152, Needham Heights, Massachusetts, 02494, United States
+    site_type: Office
+    source:  https://www.linkedin.com/company/acxiomsalesforcepractice
+    quote:   Acxiom Salesforce Practice 10 Kearney Road, Suite 152 Needham Heights, MA 02494 United States
+
+- [C] score=0.25 address_city_matched=no   address_country_matched=no
+    address: 3811 Turtle Creek Blvd, Dallas, Texas, 75219, United States
+    site_type: Office
+    source:  https://www.yellowpages.com/dallas-tx/mip/acxiom-corp-4449563
+    quote:   Acxiom Corp - Dallas, TX 75219 ... 3811 Turtle Creek Blvd, Dallas, TX 75219
+
+- [C] score=0.25 address_city_matched=no   address_country_matched=no
+    address: 1 Park Plaza, Irvine, California, 92614, United States
+    site_type: Office
+    source:  https://www.yellowpages.com/irvine-business-complex-ca/data-processing-service
+    quote:   Acxiom, 1 Park Plaza, Irvine, CA 92614
+
+- [C] score=0.25 address_city_matched=no   address_country_matched=no
+    address: 2520 Meridian Pkwy, Suite 480, Durham, North Carolina, 27713, United States
+    site_type: Office
+    source:  https://www.yellowpages.com/carrboro-nc/data-processing-service
+    quote:   Acxiom, 2520 Meridian Pkwy Ste 480, Durham, NC 27713
+
+- [C] score=0.25 address_city_matched=no   address_country_matched=no
+    address: 475 Park Avenue, New York, New York, 10022, United States
+    site_type: Office
+    source:  https://www.yellowpages.com/new-york-ny/mip/acxiom-corporation-491126164
+    quote:   YellowPages lists Acxiom at 475 Park Avenue, New York, NY 10022
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 1901 Butterfield Road, Suite 900, Downers Grove, Illinois, 60515, United States
+    site_type: Office
+    source:  https://reviews.birdeye.com/acxiom-149447310577867
+    quote:   Acxiom 1901 Butterfield Road, Suite 900 Downers Grove, IL 60515
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 1105 Lakewood Parkway, Suite 100, Alpharetta, Georgia, 30009, United States
+    site_type: Office
+    source:  https://citeseerx.ist.psu.edu/document?doi=da250201105ec5c5e8bebcc34ce7749b2cbbbc4a&repid=rep1&type=pdf
+    quote:   Acxiom Corporation 1105 Lakewood Parkway, Suite 100 Alpharetta, GA 30009
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 2503 Del Prado Blvd S, Suite 502, Cape Coral, Florida, 33904, United States
+    site_type: Office
+    source:  https://reviews.birdeye.com/acxiom-149447902247337
+    quote:   Acxiom Corp. 2503 Del Prado Blvd S, Suite 502 Cape Coral, FL 33904
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 12303 Airport Way, Broomfield, Colorado, 80021, United States
+    site_type: Office
+    source:  https://www.allbiz.com/business/acxiom-corporation_547P-303-785-3900
+    quote:   Acxiom Corporation 12303 Airport Way Broomfield, CO 80021
+
+Ground-truth address row(s) available for 'ACXIOM': 0
+
+Results written to: results\sweep_fix_20260925\ACXIOM__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 9 calls, 226945 in / 5579 out tokens
+TOTAL web_search: 20 calls, 333152 in / 9468 out tokens
+TOTAL scrapingbee: 2 calls, 2 credits (~$0.0004), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 42 (issued: web_search 20/45, fetch_page 22 (uncapped), of which 0 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.2816  (chat $0.0189, search tokens $0.0623, search call fee $0.2000, scrapingbee $0.0004)
+  input tokens priced as: 245466 uncached, 281111 cached read, 33520 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          9 calls, 226945 in / 5579 out tokens
+
+--- Queries issued (42) ---
+[site_extractor] web_search: ACXIOM official website
+[site_extractor] fetch_page: https://www.acxiom.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ACXIOM&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://www.acxiom.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=ACXIOM
+[site_extractor] web_search: site:acxiom.com Acxiom locations offices contact
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=ACXIOM
+[site_extractor] web_search: "Acxiom" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: Acxiom subsidiaries brands parent company IPG Acxiom LLC entities
+[site_extractor] fetch_page: https://www.acxiom.co.uk/about-us/locations/
+[site_extractor] web_search: Acxiom legal entities subsidiaries Acxiom LLC Acxiom Limited
+[site_extractor] fetch_page: https://www.acxiom.co.uk/about-us/
+[site_extractor] fetch_page: https://www.acxiom.co.uk/about-us/contact-us/
+[site_extractor] fetch_page: https://www.acxiom.com/page-sitemap.xml
+[site_extractor] web_search: Acxiom office locations addresses United States UK Germany Poland China Mexico Dubai
+[site_extractor] fetch_page: https://www.acxiom.com/contact-us/
+[site_extractor] fetch_page: https://www.acxiom.com/about/
+[site_extractor] fetch_page: https://www.acxiom.de/kontakt/
+[site_extractor] fetch_page: https://www.acxiom.de/
+[site_extractor] fetch_page: https://www.acxiom.com.cn/
+[site_extractor] fetch_page: https://www.acxiom.com.mx/
+[site_extractor] fetch_page: https://www.sec.gov/Archives/edgar/data/29989/000002998926000006/a2025q4exhibit21.htm
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/01182318
+[site_extractor] web_search: Google Maps Acxiom Arkansas office address
+[site_extractor] web_search: Acxiom office Texas address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Acxiom New York office address
+[site_extractor] web_search: Acxiom office California address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Acxiom Illinois office address
+[site_extractor] web_search: Acxiom office Georgia address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Acxiom office Ohio address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Acxiom North Carolina office address
+[site_extractor] web_search: Google Maps Acxiom Florida office address
+[site_extractor] web_search: Acxiom office Pennsylvania address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Acxiom Washington office address
+[site_extractor] web_search: Acxiom office Massachusetts address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Acxiom Colorado office address
+[site_extractor] web_search: Acxiom office New Jersey address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] fetch_page: https://www.acxiom.com.mx/contacto/
+[site_extractor] fetch_page: https://www.acxiom.com.cn/%e8%81%94%e7%b3%bb%e6%88%91%e4%bb%ac/
+[site_extractor] fetch_page: https://www.acxiom.co.uk/about-us/locations/
+[site_extractor] fetch_page: https://www.acxiom.de/impressum/
+[site_extractor] fetch_page: https://www.acxiom.com.cn/contact-us/
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\scrapingbee_log.jsonl
+
+Combined CSV now holds 2 companies: results\sweep_fix_20260925\combined_2.csv
+
+
+==============================================================================
+BATCH SUMMARY
+==============================================================================
+company               rows  search  fetch  paid_fb   bee  credits     cost
+KANTAR                  74      18     92        0     0        0    0.268
+ACXIOM                  19      20     22        0     2        2    0.282
+TOTAL                   93      38    114        0     2        2    0.550
+
+Combined results: results\sweep_fix_20260925\combined_2.csv

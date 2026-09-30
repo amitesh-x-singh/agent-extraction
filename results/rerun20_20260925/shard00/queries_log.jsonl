@@ -1,0 +1,311 @@
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "HERBERT HAENCHEN GMBH official website"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/impressum/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/sitemap.xml"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HERBERT%20HAENCHEN%20GMBH&page%5Bsize%5D=50"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=Herbert%20Haenchen%20GmbH"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/kontakt/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=HERBERT%20HAENCHEN%20GMBH"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/unternehmen/bewerbung-kontakt/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/robots/sitemap/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "\"Herbert H\u00e4nchen GmbH\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/media/pdf/de/de_zertifikat_iso9001.pdf"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://haenchen.cn/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/service/download/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/unternehmen/unternehmen/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://haenchen-hydraulique.fr/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.haenchen.de/media/pdf/de/de_zertifikat_iso9001.pdf"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://haenchen.cn/contact/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://haenchen-hydraulique.fr/contact/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://haenchen.cn/impressum/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/media/pdf/en/en_certificate_iso9001.pdf"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://haenchen-hydraulique.fr/mentions-legales/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.haenchen.de/media/pdf/en/en_certificate_iso9001.pdf"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "Herbert H\u00e4nchen GmbH Bavaria Bayern branch office address directory"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Herbert H\u00e4nchen Bayern Oettingen office address"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Herbert H\u00e4nchen Germany Baden-W\u00fcrttemberg office address"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "Herbert H\u00e4nchen GmbH Baden-W\u00fcrttemberg Niederlassung B\u00fcro Adresse yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "\"Herbert H\u00e4nchen\" Standort Werk Niederlassung Produktionsstandort Deutschland"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "\"Herbert H\u00e4nchen GmbH\" Taura Verkaufsb\u00fcro current address"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "\"Herbert H\u00e4nchen GmbH\" Oettingen F\u00fcrf\u00e4llm\u00fchlweg 8 plant production"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "\"Haenchen (Shanghai) Hydraulic Equipments Co., Ltd\" \"Qixin Road\""}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "web_search", "query": "\"Haenchen Hydraulique S.A.R.L.\" \"6 rue des Saules\""}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.fr/mentions-legales.html"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/unternehmen/arbeitgeber/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/unternehmen/unternehmen/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen-hydraulic.com/contact/"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.de/media/pdf/de/de_haenchen-programm-kontakt.pdf"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.haenchen.fr/contact.html"}
+{"timestamp": 1790325750.8953562, "company": "HERBERT HAENCHEN GMBH", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.haenchen.de/media/pdf/de/de_haenchen-programm-kontakt.pdf"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "HOSHIZAKI official website"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki.com/en"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HOSHIZAKI&page%5Bsize%5D=50"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki.com/sitemap.xml"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=HOSHIZAKI"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "HOSHIZAKI global locations subsidiaries brands official"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki.com/en/brands"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki.com/en/story/company-directory"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki.co.jp/en/company/network/list.html"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki.com/en/story/profile"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki.com/en/global-reach"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "\"HOSHIZAKI\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.hoshizaki.com/en/brands"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.hoshizaki.com/en/global-reach"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://jacksonwws.com"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://lancerworldwide.com"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki.com/en/sustainability/environment/management"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki.co.jp/en/company/profile.html"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizakiamerica.com/wp-content/uploads/2025/06/ISO-9001-Certificate.pdf"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizakiamerica.com"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://structuralconcepts.com"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://fogel-group.com"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://oztiryakiler.com.tr"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://bremagroup.it"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://westernequipments.com"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://hoshizakimacom.com.br"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.hoshizaki.co.jp/en/company/profile.html"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://hoshizakimacom.com.br"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.hoshizakiamerica.com/wp-content/uploads/2025/06/ISO-9001-Certificate.pdf"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Hoshizaki Hokuriku Hokushinetsu Kanazawa office address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Hoshizaki office Tohoku Miyagi yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Hoshizaki Hokkaido Tohoku Hokkaido office address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Hoshizaki office Niigata Nagano Ishikawa directory address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Hoshizaki office Aichi Gifu Mie Shizuoka directory address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Hoshizaki Tokai Nagoya Shizuoka office address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Hoshizaki office Chiba Ibaraki Tochigi Gunma address directory"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Hoshizaki Keihan Hanshin Osaka Kyoto office address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Hoshizaki Tohoku Miyagi office address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Hoshizaki office Hokkaido yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Hoshizaki Kanto Tokyo Saitama Kanagawa office address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Hoshizaki office Kansai Osaka Kyoto Hyogo directory address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Hoshizaki Chugoku Shikoku Hiroshima Okayama Takamatsu office address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Hoshizaki Kyushu Okinawa Fukuoka Kagoshima Naha office address"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-hokkaido.co.jp/office/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://hoshizaki-tohoku.co.jp/company/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://hoshizaki-tokai.co.jp/offices/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://hoshizaki-hokushinetsu.co.jp/office/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-kanto.co.jp/business_office/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://hoshizaki-hanshin.co.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-kitakanto.co.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-chugoku.co.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-shikoku.co.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-kitakyu.co.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-nankyu.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://hoshizaki-keihan.co.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-okinawa.co.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-shonan.co.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-tokyo.co.jp/location/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "site:hoshizaki-shikoku.co.jp \u55b6\u696d\u6240\u4e00\u89a7 \u4f4f\u6240"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "site:hoshizaki-kitakyu.co.jp \u55b6\u696d\u6240\u4e00\u89a7 \u4f4f\u6240"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "site:hoshizaki-nankyu.jp \u55b6\u696d\u6240\u4e00\u89a7 \u4f4f\u6240"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "site:hoshizaki-okinawa.co.jp \u55b6\u696d\u6240\u4e00\u89a7 \u4f4f\u6240"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "web_search", "query": "site:hoshizaki-shonan.co.jp \u55b6\u696d\u6240\u4e00\u89a7 \u4f4f\u6240"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://hoshizaki-shikoku.co.jp/branch.html"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-kitakyu.co.jp/map"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://hoshizaki-nankyu.jp/about/%E5%96%B6%E6%A5%AD%E6%89%80%E3%81%A8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%8B%A0%E7%82%B9%E4%B8%80%E8%A6%A7"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.hoshizaki-okinawa.co.jp/relays/download/48/1053/576//?file=%2Ffiles%2Flibs%2F3027%2F%2F202412191304192218.pdf"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page", "query": "https://hoshizaki-shonan.co.jp/list-of-business-offices/"}
+{"timestamp": 1790325989.7651238, "company": "HOSHIZAKI", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.hoshizaki-okinawa.co.jp/relays/download/48/1053/576//?file=%2Ffiles%2Flibs%2F3027%2F%2F202412191304192218.pdf"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WEYLCHEM PERFORMANCE PRODUCTS official website"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=WEYLCHEM%20PERFORMANCE%20PRODUCTS&page%5Bsize%5D=50"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/sitemap.xml"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=WEYLCHEM%20PERFORMANCE%20PRODUCTS"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=WEYLCHEM%20PERFORMANCE%20PRODUCTS"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "site:weylchem.com WeylChem locations companies sites"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/page-sitemap.xml"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/post-sitemap.xml"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem subsidiaries acquired brands companies facilities"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem Performance Products plant factory manufacturing address"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "\"WeylChem Performance Products\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/contact-us/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/imprint/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/custom-manufacturing/capabilities/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/companies/allessa-gmbh/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/companies/weylchem-bilbao-s-l-u/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/companies/weylchem-intermediates-gmbh/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/group/companies/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/companies/weylchem-lamotte-s-a-s/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/companies/weylchem-organica/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/companies/weylchem-us-inc/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/companies/potasse-et-produits-chimiques-sas/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/about-us/ownership/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/about-us/about-weylchem/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/companies/vasant-chemicals/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://weylchem.com/companies/weylchem-wesseling/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://vasantchemicals.com/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://vasantchemicals.com/contact-us"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "\"WeylChem Performance Products GmbH\" address"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://echa.europa.eu/documents/10162/e4776639-9b7e-7f9c-a0be-cf667fe4cb7e"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://echa.europa.eu/documents/10162/e4776639-9b7e-7f9c-a0be-cf667fe4cb7e"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps WeylChem Germany Bavaria office address"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem office North Rhine-Westphalia address yellowpages OR dnb OR zoominfo"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem Hesse office address Google Business Profile"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem Saxony-Anhalt office address Google Maps"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem Rhineland-Palatinate office address directory"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem Baden-W\u00fcrttemberg office address directory"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem Potasse et Produits Chimiques SAS address Thann"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "Vasant Chemicals Hyderabad Visakhapatnam manufacturing facility address"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem Performance Products Wiesbaden former site current status"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem France Potasse Thann factory address official"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.vasantchemicals.com/certificates/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.weylchem-organica.com/en/contact/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.vasantchemicals.com/commercial-manufacturing/"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.georisques.gouv.fr/risques/installations/donnees/details/0006700433"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.catexel.com/backend/wp-content/uploads/2024/08/Sustainability-Report-2023-Catexel.pdf"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.companyhouse.de/Catexel-Production-GmbH-Wiesbaden"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "Potasse et Produits Chimiques SAS WeylChem 95 rue du G\u00e9n\u00e9ral de Gaulle 68800 Thann"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "web_search", "query": "WeylChem Vasant Chemicals ownership subsidiary ICIG"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.companyhouse.de/Catexel-Production-GmbH-Wiesbaden"}
+{"timestamp": 1790326262.062542, "company": "WEYLCHEM PERFORMANCE PRODUCTS", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.catexel.com/backend/wp-content/uploads/2024/08/Sustainability-Report-2023-Catexel.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MITRASTAR TECHNOLOGY official website"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.mitrastar.com/"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=MitraStar%20Technology&page%5Bsize%5D=50"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.mitrastar.com/sitemap.xml"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=MitraStar%20Technology"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=MitraStar%20Technology"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "site:mitrastar.com MitraStar Technology \u71df\u904b\u64da\u9ede locations address"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "\"MitraStar Technology\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar Technology subsidiaries brands annual report facilities"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar Technology headquarters address Taiwan manufacturing plant"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar Technology Corporation address locations"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.zyxelgroup.com/about%26lang%3Den"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.mitrastar.com/images_2022/MitraStar_ISO_9001_TAF_Chn_cert_ch.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.mitrastar.com/about_list.php?ctwo=awtsetwetw34ewtwrw&lang=eng"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.mitrastar.com/images_2022/2021_MitraStar_Sustainability_Report.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.mitrastar.com/images_2022/2023_Mitrastar_ISO14001_certificate.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.zyxelgroup.com/ESG/documents%26lang%3Den"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.mitrastar.com/images_2022/MitraStar_ISO_9001_TAF_Chn_cert_ch.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.mitrastar.com/images_2022/2023_Mitrastar_ISO14001_certificate.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.mitrastar.com/images_2022/2021_MitraStar_Sustainability_Report.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps MitraStar Taiwan Taipei New Taipei office"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Taoyuan Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar Hsinchu office address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Miaoli Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Taichung Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Changhua Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Yilan Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Pingtung Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Kaohsiung Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Yunlin Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Tainan Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Chiayi Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Taitung Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar office Hualien Taiwan address directory"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.irpro.co/3704/annual/2024/EN/20250529160948-1.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.zyxelgroup.com/images/esg/Wuxi_Mitrastar_Technology_SA8000_certificate_20250212161724.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.zyxelgroup.com/images/esg/QC080000_HSPM_Wuxi_2025_20250625135152.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.zyxelgroup.com/images/esg/ISO45001_2025_Wuxi_20250625135115.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.zyxelgroup.com/images/esg/ISO14001_2025_Wuxi_20250625135027.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://findbiz.nat.gov.tw/fts/company/28113027"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.zyxelgroup.com/images/esg/QC080000_HSPM_Wuxi_2025_20250625135152.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.zyxelgroup.com/images/esg/Wuxi_Mitrastar_Technology_SA8000_certificate_20250212161724.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://findbiz.nat.gov.tw/fts/company/28113027"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.zyxelgroup.com/images/esg/ISO45001_2025_Wuxi_20250625135115.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.zyxelgroup.com/images/esg/ISO14001_2025_Wuxi_20250625135027.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.irpro.co/3704/annual/2024/EN/20250529160948-1.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar Shanghai Monetics Telecommunications Co ownership subsidiary address"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar Technology 2025 sustainability report operation sites New Taipei Wuxi Shanghai"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar Technology New Taipei Branch Office address"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "web_search", "query": "MitraStar Wuxi MitraStar Technology Co Ltd subsidiary ownership Wuxi Genezys Technology"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.irpro.co/3704/financial/293/EN/20240530170749-2.pdf"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.findcompany.com.tw/%E7%9B%9F%E5%89%B5%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%96%B0%E5%8C%97%E5%88%86%E5%85%AC%E5%8F%B8"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.mitrastar.com/about_detail.php?cthr=dsxyderyrtrtrer5eyv&lang=eng"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://www.findcompany.com.tw/%E7%9B%9F%E5%89%B5%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%96%B0%E5%8C%97%E5%88%86%E5%85%AC%E5%8F%B8"}
+{"timestamp": 1790326479.7875466, "company": "MITRASTAR TECHNOLOGY", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.irpro.co/3704/financial/293/EN/20240530170749-2.pdf"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "HEIDELBERG official website company"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Heidelberg%20Druckmaschinen&page%5Bsize%5D=50"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/sitemap.xml"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://find-and-update.company-information.service.gov.uk/search/companies?q=Heidelberg%20Druckmaschinen"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://en.wikipedia.org/wiki/Special:Search?search=Heidelberger%20Druckmaschinen"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "\"Heidelberger Druckmaschinen AG\" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/en/about_heidelberg/company/sustainability/environmental/iso_14001_certification.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_14001_304925_UM15_2023-11-09_english_logo.pdf"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/media/en/global_media/company___about_us/construction_sites/pdf_19/Certificate-IATF-16949-2016.pdf"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_14001_304925_UM15_2023-11-09_english_logo.pdf"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.heidelberg.com/global/media/en/global_media/company___about_us/construction_sites/pdf_19/Certificate-IATF-16949-2016.pdf"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "site:heidelberg.com HEIDELBERG locations worldwide offices locations"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/en/about_heidelberg/contact_heidelberg.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/en/about_heidelberg/company/branch_offices/branch_office_list.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/media/en/global_media/investor_relations/ir_reports_and_presentations/2023_24/240611_cfs_2324_report.pdf"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page_pdf_local", "query": "https://www.heidelberg.com/global/media/en/global_media/investor_relations/ir_reports_and_presentations/2023_24/240611_cfs_2324_report.pdf"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberger Druckmaschinen AG subsidiaries brands Gallus Amperfied Heidelberg Technology official"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/en/about_heidelberg/press_relations/press_release/press_release_details/press_release_251073.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/en/global_content/subsidiaries.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/en/technologies/technology/technology.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://amperfied.de/"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page_search_fallback", "query": "https://amperfied.de/"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/uk/en/about_heidelberg/contact_heidelberg.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/cn/zh/about_heidelberg/contact_heidelberg.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/de/de/about_heidelberg/contact_heidelberg.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/ch/de/about_heidelberg/contact_heidelberg.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/us/en/about_heidelberg/contact_heidelberg.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/in/en/about_heidelberg/contact_heidelberg.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office North Rhine-Westphalia address directory"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberg Druckmaschinen Bavaria office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberg Druckmaschinen North Rhine-Westphalia office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberg Druckmaschinen Baden-W\u00fcrttemberg office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office Bavaria address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office Baden-W\u00fcrttemberg address yellowpages OR dnb OR zoominfo OR manta"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/germany/heidelberg/germany___heidelberg.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.gelbeseiten.de/gsbiz/0eb0c5ad-1240-4672-8a29-91a304e62195"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/niederlassung_nordwest/niederlassung_nordwest.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.branchenbuchdeutschland.de/branchenbuch/eintrag/heidelberger-druckmaschinen-vertrieb-deutschland-gmbh-servicestandort-muenchen-muenchen-103273675.html"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/de/de/ueber_uns/about_us_overview.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/kontakt_aufnehmen.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberg Druckmaschinen Hesse office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberg Druckmaschinen Saxony-Anhalt Brandenburg office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office Saxony address directory"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office Hesse address directory"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office Schleswig-Holstein address directory"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberg Druckmaschinen Lower Saxony office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberg Druckmaschinen Rhineland-Palatinate office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office Thuringia address directory"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberger Druckmaschinen Saarland office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office Saarland address directory"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office Mecklenburg-Vorpommern address directory"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberger Druckmaschinen Mecklenburg-Vorpommern office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen office Hamburg Bremen address directory"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Google Maps Heidelberger Druckmaschinen Hamburg Bremen office address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/niederlassung_suedwest/niederlassung_suedwest_.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.oeffnungszeitenbuch.de/filiale/Hamburg-Heidelberger%2520Druckmaschinen%2520Vertrieb%2520Deutschland%2520GmbH%2520Region%2520Nord-2860775S.html"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/zentrales_servicecenter/zentrales_servicecenter.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/germany/brandenburg/brandenburg.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/our_sites.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "HD Advanced Technologies GmbH Heidelberg official address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen manufacturing sites United States Baumfolder official"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Baumfolder official website address Sidney Ohio Heidelberger Druckmaschinen subsidiary"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen annual report properties sites addresses 2024"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen sales service office China India Japan official address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Gallus Group official locations address St Gallen Herisau Heidelberg subsidiary"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/jp/ja/company/about_us/branch_offices_1/branch_offices_jp.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/sidney_usa/usa___sidney__ohio_.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.gallus-group.com/en/about-gallus/about-the-gallus-group/"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/in/en/about_us/contact_us/contact.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/en/about_heidelberg/company/production_sites/germany/wiesloch_walldorf/germany___wiesloch_walldorf.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/us/en/about_heidelberg/about_us/company_profile/company_profile.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.baumfolder.com/contact/"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/cn/zh/company_1/contact_info/contactinfo.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact Poland address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact Spain address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact France address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact Australia address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact United Kingdom address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact Canada address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact Netherlands address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact Italy address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact Brazil address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "web_search", "query": "Heidelberg Druckmaschinen official contact Singapore address"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/it/it/services_and_consumables/assistenza/contatti/contatti.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/global/en/about_heidelberg/company/branch_offices/branch_office_details_705.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/bnl/nl/about_us_1/company.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/es/es/company/company_1/branch_offices_1/Oficinas_Heidelberg_Spain.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/gb/en/about_us/contact_us_1/contact_us/contact_us.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/pl/pl/company/about_us_1/contact/contact.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/au/en/about_us/conacts_us/contact_us.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/ca/en/company/company.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/br/pt/company/about_us/headquarter_1/head_quarter.jsp"}
+{"timestamp": 1790326726.1879647, "company": "HEIDELBERG", "agent": "site_extractor", "tool": "fetch_page", "query": "https://www.heidelberg.com/sg/en/company_news/about_us/contact_numbers/contact_numbers.jsp"}

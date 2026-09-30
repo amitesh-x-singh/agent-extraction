@@ -1,0 +1,297 @@
+<title>Supplier Site Discovery Benchmark</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#f3f5f6; --surface:#ffffff; --surface-2:#fafbfb;
+  --ink:#14181b; --ink-2:#4d585f; --ink-3:#77838a;
+  --line:#dde3e6; --line-2:#eaeff1;
+  --accent:#0b6e6a;
+  --good:#2c7a43; --warn:#9a6600; --bad:#a7302a;
+  --shadow:0 1px 2px rgba(20,24,27,.06),0 8px 24px -16px rgba(20,24,27,.25);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#0e1113; --surface:#161a1d; --surface-2:#1b2023;
+    --ink:#e8edef; --ink-2:#a3aeb4; --ink-3:#7d888e;
+    --line:#252b2f; --line-2:#1f2428;
+    --accent:#49bdb4;
+    --good:#63b97c; --warn:#d09a3c; --bad:#e0796f;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0e1113; --surface:#161a1d; --surface-2:#1b2023;
+  --ink:#e8edef; --ink-2:#a3aeb4; --ink-3:#7d888e;
+  --line:#252b2f; --line-2:#1f2428;
+  --accent:#49bdb4;
+  --good:#63b97c; --warn:#d09a3c; --bad:#e0796f;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+body{
+  background:var(--ground); color:var(--ink);
+  font-family:"Source Sans 3",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:15px; line-height:1.55; margin:0;
+}
+.wrap{max-width:1180px; margin:0 auto; padding-inline:16px; padding-block:0 64px}
+h1,h2,h3{font-family:Archivo,"Source Sans 3",sans-serif; text-wrap:balance; margin:0}
+h1{font-size:clamp(26px,4.4vw,38px); font-weight:700; letter-spacing:-.018em; line-height:1.12}
+h2{font-size:19px; font-weight:600; letter-spacing:-.008em}
+.eyebrow{
+  font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11px; font-weight:500;
+  letter-spacing:.14em; text-transform:uppercase; color:var(--accent);
+}
+
+/* ---------- masthead ---------- */
+header.top{border-bottom:1px solid var(--line); background:var(--surface)}
+header.top .wrap{display:flex; flex-direction:column; gap:14px; padding-block:34px 28px}
+.sub{color:var(--ink-2); max-width:68ch; margin:0}
+.meta{display:flex; flex-wrap:wrap; gap:6px 20px; font-size:13px; color:var(--ink-3)}
+.meta b{color:var(--ink-2); font-weight:600}
+
+/* ---------- summary strip ---------- */
+.tiles{display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:1px;
+  background:var(--line); border:1px solid var(--line); border-radius:10px; overflow:hidden;
+  margin-block:26px}
+.tile{background:var(--surface); padding:16px 18px; display:flex; flex-direction:column; gap:3px}
+.tile .k{font-size:12px; color:var(--ink-3); letter-spacing:.02em}
+.tile .v{font-family:Archivo,sans-serif; font-size:26px; font-weight:600; letter-spacing:-.02em;
+  font-variant-numeric:tabular-nums; line-height:1.15}
+.tile .note{font-size:12px; color:var(--ink-3)}
+.tile.accent .v{color:var(--accent)}
+
+/* ---------- controls ---------- */
+h2.tablehead{margin:30px 0 10px}
+.controls{display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:0 0 12px}
+input[type=search]{
+  font:inherit; font-size:14px; padding:7px 11px; border:1px solid var(--line);
+  border-radius:7px; background:var(--surface); color:var(--ink); min-width:210px; flex:1 1 210px}
+input[type=search]:focus-visible{outline:2px solid var(--accent); outline-offset:1px}
+.count{font-size:13px; color:var(--ink-3); margin-left:auto}
+
+/* ---------- table ---------- */
+.tablewrap{overflow-x:auto; border:1px solid var(--line); border-radius:10px;
+  background:var(--surface); box-shadow:var(--shadow)}
+table{border-collapse:collapse; width:100%; min-width:760px; font-size:14px}
+thead th{
+  position:sticky; top:env(safe-area-inset-top,0px); z-index:2;
+  background:var(--surface-2); border-bottom:1px solid var(--line);
+  font-family:"IBM Plex Mono",monospace; font-size:10.5px; font-weight:500;
+  letter-spacing:.09em; text-transform:uppercase; color:var(--ink-3);
+  padding:10px 12px; text-align:right; white-space:nowrap; cursor:pointer; user-select:none}
+thead th:first-child{text-align:left}
+thead th:hover{color:var(--ink)}
+thead th[aria-sort]{color:var(--accent)}
+thead th .arr{opacity:.55; font-size:9px; margin-left:3px}
+tbody td{padding:9px 12px; border-bottom:1px solid var(--line-2); text-align:right;
+  font-variant-numeric:tabular-nums; white-space:nowrap}
+tbody td:first-child{text-align:left; white-space:normal; min-width:200px;
+  font-weight:600; letter-spacing:-.005em}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover td{background:var(--surface-2)}
+td.mono{font-family:"IBM Plex Mono",monospace; font-size:13px}
+.rec{display:inline-flex; align-items:center; gap:8px; justify-content:flex-end; width:100%}
+.bar{width:44px; height:5px; border-radius:3px; background:var(--line); overflow:hidden; flex:none}
+.bar i{display:block; height:100%; border-radius:3px}
+.v-good i{background:var(--good)} .v-warn i{background:var(--warn)} .v-bad i{background:var(--bad)}
+.v-good .pc{color:var(--good)} .v-warn .pc{color:var(--warn)} .v-bad .pc{color:var(--bad)}
+.pc{font-family:"IBM Plex Mono",monospace; font-size:13px; font-weight:500; min-width:38px}
+tfoot td{padding:11px 12px; text-align:right; font-weight:600; border-top:1px solid var(--line);
+  background:var(--surface-2); font-variant-numeric:tabular-nums;
+  font-family:"IBM Plex Mono",monospace; font-size:13px}
+tfoot td:first-child{text-align:left; font-family:Archivo,sans-serif; font-size:13px}
+
+/* ---------- notes ---------- */
+section.method{margin-top:40px; display:grid; gap:18px}
+.card{background:var(--surface); border:1px solid var(--line); border-radius:10px; padding:18px 20px}
+.card p{margin:8px 0 0; font-size:14px; color:var(--ink-2); max-width:78ch}
+.card ul{margin:10px 0 0; padding-left:18px; font-size:14px; color:var(--ink-2); max-width:78ch}
+.card li{margin:6px 0}
+code{font-family:"IBM Plex Mono",monospace; font-size:12.5px;
+  background:var(--surface-2); border:1px solid var(--line-2); border-radius:4px; padding:1px 4px}
+.ledger{margin-top:14px; display:grid; gap:1px; background:var(--line);
+  border:1px solid var(--line); border-radius:8px; overflow:hidden}
+.led{background:var(--surface); display:grid;
+  grid-template-columns:1fr auto auto; gap:6px 14px; align-items:baseline; padding:9px 14px}
+.led .n{font-family:"IBM Plex Mono",monospace; font-size:12.5px; color:var(--ink-3);
+  font-variant-numeric:tabular-nums; text-align:right; white-space:nowrap}
+.led .amt{font-family:"IBM Plex Mono",monospace; font-size:13.5px; font-weight:500;
+  font-variant-numeric:tabular-nums; text-align:right; min-width:104px; white-space:nowrap}
+.led.head{background:var(--surface-2); font-family:"IBM Plex Mono",monospace; font-size:10.5px;
+  letter-spacing:.09em; text-transform:uppercase; color:var(--ink-3)}
+.led.sum{background:var(--surface-2); font-weight:600}
+.led.unknown .amt{color:var(--warn)}
+.led.unknown{border-left:3px solid var(--warn)}
+@media (max-width:560px){
+  .led{grid-template-columns:1fr auto}
+  .led .n{grid-column:1/-1; text-align:left}
+}
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <div class="eyebrow">Benchmark result &middot; 23 September 2026</div>
+    <h1>Supplier Site Discovery Benchmark</h1>
+    <p class="sub" id="sub"></p>
+    <div class="meta" id="meta"></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="tiles" id="tiles"></div>
+
+  <h2 class="tablehead">Per-supplier detail</h2>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Filter suppliers" aria-label="Filter suppliers">
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tablewrap">
+    <table>
+      <thead><tr id="hrow"></tr></thead>
+      <tbody id="tbody"></tbody>
+      <tfoot id="tfoot"></tfoot>
+    </table>
+  </div>
+
+  <section class="method">
+    <div class="card">
+      <h2>How a site counts as found</h2>
+      <p>Both levels require the same country, then:</p>
+      <ul>
+        <li><strong>City</strong> &mdash; the agent reported a site in the same city or postal
+          code. Several ground-truth sites in one city can be satisfied by a single agent row.</li>
+        <li><strong>Full street</strong> &mdash; the street address matches too, compared as
+          normalised token sets so spelling and accents do not block a match. Matching is
+          one-to-one, so each agent row can satisfy only one ground-truth site.</li>
+        <li><strong>New sites</strong> &mdash; agent rows matching no ground-truth site. Counted,
+          not judged: confirming them is a separate exercise.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>What the cost column is</h2>
+      <p id="costnote"></p>
+      <div class="ledger" id="ledger"></div>
+    </div>
+  </section>
+</div>
+
+<script>
+const D = {"summary": {"suppliers": 122, "suppliers_total": 238, "gt_sites": 1456, "agent_sites": 2515, "new_sites": 1613, "matched_city": 1075, "matched_street": 902, "recall_city_micro": 0.7383241758241759, "recall_street_micro": 0.6195054945054945, "recall_city_macro": 0.8903590163934426, "recall_street_macro": 0.8008352459016393}, "rows": [{"s": "AASHIRVAD INTERNATIONAL", "g": 2, "a": 11, "n": 9, "rc": 1.0, "rs": 1.0, "c": 0.6156}, {"s": "ADAFRUIT", "g": 1, "a": 2, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.3676}, {"s": "ADFIL", "g": 2, "a": 2, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.6978}, {"s": "ADITYA BIRLA INSULATORS", "g": 1, "a": 5, "n": 4, "rc": 1.0, "rs": 1.0, "c": 0.483}, {"s": "ADPO GROUP", "g": 1, "a": 6, "n": 5, "rc": 1.0, "rs": 1.0, "c": 0.4771}, {"s": "AGREXPORT JOINT STOCK", "g": 1, "a": 2, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.7085}, {"s": "AGRICOLA VALMAR SA", "g": 1, "a": 6, "n": 5, "rc": 1.0, "rs": 1.0, "c": 0.6087}, {"s": "AK CHEMTECH", "g": 1, "a": 22, "n": 21, "rc": 1.0, "rs": 1.0, "c": 0.6192}, {"s": "ALCATEL SUBMARINE NETWORKS", "g": 3, "a": 22, "n": 19, "rc": 1.0, "rs": 1.0, "c": 0.5729}, {"s": "AMASS INTERNATIONAL", "g": 1, "a": 62, "n": 62, "rc": 1.0, "rs": 0.0, "c": 0.4103}, {"s": "AOA SPA", "g": 1, "a": 3, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.7133}, {"s": "ART AROMATIC", "g": 1, "a": 2, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.4811}, {"s": "ATLANTIC COMMODITIES VIETNAM LTD", "g": 1, "a": 14, "n": 13, "rc": 1.0, "rs": 1.0, "c": 0.4779}, {"s": "AUGUST POHLI", "g": 2, "a": 2, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.3482}, {"s": "AUSERPOLIMERI", "g": 2, "a": 5, "n": 3, "rc": 1.0, "rs": 1.0, "c": 0.3688}, {"s": "BACARDI", "g": 35, "a": 68, "n": 39, "rc": 0.9429, "rs": 0.8286, "c": 0.512}, {"s": "BAOLONG ZIPPER COMPANY", "g": 1, "a": 2, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.722}, {"s": "BENEFICIO SANTA ROSA SA", "g": 1, "a": 2, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.4824}, {"s": "BLUEPRINT PRODUCTS", "g": 1, "a": 2, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.6171}, {"s": "BLUESUN SOLAR CO LTD", "g": 7, "a": 15, "n": 8, "rc": 1.0, "rs": 1.0, "c": 0.4931}, {"s": "BON CAFE HONDURAS", "g": 1, "a": 4, "n": 3, "rc": 1.0, "rs": 1.0, "c": 0.6862}, {"s": "BRIGHTLOOK OPTICAL", "g": 1, "a": 3, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.3724}, {"s": "BYK ADDITIVES", "g": 39, "a": 30, "n": 3, "rc": 0.7692, "rs": 0.6923, "c": 0.6518}, {"s": "CAFE DE MI TIERRA SA", "g": 1, "a": 2, "n": 2, "rc": 0.0, "rs": 0.0, "c": 0.5899}, {"s": "CAFE ORGANICO MARCALA", "g": 1, "a": 8, "n": 7, "rc": 1.0, "rs": 1.0, "c": 0.4016}, {"s": "CAFES FINOS DE EXPORTACION S DE R L COL JUAN LINDO", "g": 1, "a": 2, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.3972}, {"s": "CAFETALERA AMAZONICA SAC", "g": 1, "a": 26, "n": 26, "rc": 1.0, "rs": 0.0, "c": 0.4356}, {"s": "CASALE SPA", "g": 1, "a": 3, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.5629}, {"s": "CENFROCAFE", "g": 1, "a": 11, "n": 10, "rc": 1.0, "rs": 1.0, "c": 0.3395}, {"s": "CEPA CENTROAMERICA SA", "g": 1, "a": 1, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.5967}, {"s": "CFG CIRCLE FULFILLMENT", "g": 1, "a": 4, "n": 3, "rc": 1.0, "rs": 1.0, "c": 0.5691}, {"s": "CHANGHAN PRECISION MACHINE", "g": 1, "a": 3, "n": 3, "rc": 1.0, "rs": 0.0, "c": 0.6081}, {"s": "CHINITY BASE LTD", "g": 1, "a": 5, "n": 4, "rc": 1.0, "rs": 1.0, "c": 0.4354}, {"s": "COELNER BENZIN RAFFINERIE KARL A KROSEBERG", "g": 1, "a": 2, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.6036}, {"s": "COLLOIDS", "g": 3, "a": 7, "n": 4, "rc": 1.0, "rs": 1.0, "c": 0.6137}, {"s": "COMERCIAL INTERNATIONAL EXPORTADORA SA", "g": 1, "a": 11, "n": 11, "rc": 1.0, "rs": 0.0, "c": 0.7188}, {"s": "COMPANHIA SIDERURGICA NACIONAL", "g": 15, "a": 48, "n": 35, "rc": 0.8667, "rs": 0.8667, "c": 0.5566}, {"s": "COSTACURTA SPA VICO", "g": 3, "a": 5, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.7907}, {"s": "CPH CHEMICALS B V", "g": 1, "a": 1, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.6583}, {"s": "CREATIVE PROMOTIONAL PRODUCTS", "g": 1, "a": 3, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.3933}, {"s": "DANGOTE", "g": 1, "a": 37, "n": 36, "rc": 1.0, "rs": 1.0, "c": 0.6781}, {"s": "DELON LABORATORIES", "g": 1, "a": 3, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.5406}, {"s": "DNP GROUP", "g": 55, "a": 144, "n": 108, "rc": 0.9091, "rs": 0.6545, "c": 0.3514}, {"s": "DONGGUAN BEST GIFTS", "g": 1, "a": 4, "n": 3, "rc": 1.0, "rs": 1.0, "c": 0.5945}, {"s": "DYCKERHOFF", "g": 9, "a": 151, "n": 142, "rc": 1.0, "rs": 1.0, "c": 0.6263}, {"s": "ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA", "g": 1, "a": 2, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.2986}, {"s": "EXPOCAFE", "g": 1, "a": 1, "n": 1, "rc": 0.0, "rs": 0.0, "c": 0.3196}, {"s": "EXPORTADORA CAPRICORNIO COFFEES LTDA", "g": 1, "a": 4, "n": 3, "rc": 1.0, "rs": 1.0, "c": 0.4545}, {"s": "EXPORTADORA DE CAFE CALIFORNIA", "g": 1, "a": 13, "n": 13, "rc": 1.0, "rs": 0.0, "c": 0.683}, {"s": "FINE WILL INDUSTRIAL LIMITED", "g": 1, "a": 3, "n": 3, "rc": 0.0, "rs": 0.0, "c": 0.6259}, {"s": "FULLING MOTOR", "g": 1, "a": 3, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.355}, {"s": "GALLUS GROUP", "g": 3, "a": 5, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.4681}, {"s": "GEM GROUP SHENZHEN CO LTD", "g": 1, "a": 31, "n": 30, "rc": 1.0, "rs": 1.0, "c": 0.5961}, {"s": "GLUNZ & JENSEN", "g": 3, "a": 12, "n": 9, "rc": 1.0, "rs": 1.0, "c": 0.6432}, {"s": "GOLDEN PROSPERITY INDUSTRY", "g": 1, "a": 16, "n": 15, "rc": 1.0, "rs": 1.0, "c": 0.6071}, {"s": "GROUPE CHIMIQUE TUNISIEN", "g": 1, "a": 12, "n": 11, "rc": 1.0, "rs": 1.0, "c": 0.8945}, {"s": "GRUPO LAPPI", "g": 3, "a": 6, "n": 3, "rc": 1.0, "rs": 1.0, "c": 0.6072}, {"s": "GUANGZHOU FIVE SIX TECHNOLOGY", "g": 1, "a": 2, "n": 2, "rc": 1.0, "rs": 0.0, "c": 0.5793}, {"s": "HDI GLOBAL", "g": 52, "a": 60, "n": 19, "rc": 0.8654, "rs": 0.7885, "c": 0.5749}, {"s": "HEIDELBERG", "g": 13, "a": 33, "n": 22, "rc": 0.9231, "rs": 0.8462, "c": 0.6388}, {"s": "HERBERT HAENCHEN GMBH", "g": 2, "a": 6, "n": 4, "rc": 1.0, "rs": 1.0, "c": 0.3072}, {"s": "HERCHIN", "g": 1, "a": 1, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.5321}, {"s": "HICRI ERCILI DENIZ NAKLIYAT KIMYEVI", "g": 11, "a": 19, "n": 9, "rc": 0.9091, "rs": 0.9091, "c": 0.4693}, {"s": "HOSHIZAKI", "g": 50, "a": 71, "n": 40, "rc": 0.66, "rs": 0.62, "c": 0.7524}, {"s": "HULTEC", "g": 2, "a": 12, "n": 10, "rc": 1.0, "rs": 1.0, "c": 0.5741}, {"s": "HUSKY INJECTION MOLDING SYSTEM", "g": 24, "a": 47, "n": 26, "rc": 0.9167, "rs": 0.875, "c": 0.6948}, {"s": "IBERO STAHL", "g": 4, "a": 6, "n": 3, "rc": 1.0, "rs": 0.75, "c": 0.3454}, {"s": "IGP INDUSTRIES", "g": 2, "a": 2, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.3313}, {"s": "INFOSYS", "g": 169, "a": 185, "n": 60, "rc": 0.8639, "rs": 0.7396, "c": 0.4813}, {"s": "INTEGRATED PACKAGING PTY LTD", "g": 9, "a": 8, "n": 2, "rc": 0.8889, "rs": 0.6667, "c": 0.6583}, {"s": "IRPLAST", "g": 2, "a": 4, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.3938}, {"s": "ITC INFOTECH", "g": 30, "a": 49, "n": 22, "rc": 1.0, "rs": 0.9, "c": 0.5364}, {"s": "ITO GRAPHITE", "g": 2, "a": 2, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.5413}, {"s": "KANTAR", "g": 62, "a": 55, "n": 9, "rc": 0.7419, "rs": 0.7419, "c": 0.5299}, {"s": "KIM DUC", "g": 5, "a": 10, "n": 6, "rc": 0.8, "rs": 0.8, "c": 0.4228}, {"s": "KISAN OLEOCHEM AND DERIVATIVES PVT", "g": 3, "a": 3, "n": 2, "rc": 0.3333, "rs": 0.3333, "c": 0.4943}, {"s": "KIWIRAIL", "g": 2, "a": 29, "n": 27, "rc": 1.0, "rs": 1.0, "c": 0.495}, {"s": "KNOEDLER MANUFACTURERS", "g": 2, "a": 3, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.4004}, {"s": "KOCH FERTILIZER", "g": 28, "a": 28, "n": 25, "rc": 0.1786, "rs": 0.1071, "c": 0.6153}, {"s": "KOTANI FURUYA CORPORATION", "g": 3, "a": 5, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.6195}, {"s": "KPMG", "g": 215, "a": 100, "n": 33, "rc": 0.3767, "rs": 0.3116, "c": 0.3418}, {"s": "KRONES", "g": 7, "a": 104, "n": 99, "rc": 0.8571, "rs": 0.7143, "c": 0.6238}, {"s": "KUPPER GROUP", "g": 2, "a": 7, "n": 7, "rc": 0.0, "rs": 0.0, "c": 0.4935}, {"s": "KWANG DONG GIMHAE", "g": 2, "a": 1, "n": 1, "rc": 0.5, "rs": 0.0, "c": 0.553}, {"s": "KYNDRYL", "g": 86, "a": 110, "n": 38, "rc": 0.8953, "rs": 0.8372, "c": 0.3808}, {"s": "LABELMAKERS", "g": 6, "a": 13, "n": 7, "rc": 1.0, "rs": 1.0, "c": 0.3793}, {"s": "LANGDON COFFEE MERCHANTS", "g": 4, "a": 6, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.4628}, {"s": "LASNEK", "g": 2, "a": 2, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.4367}, {"s": "LEIPZIGER LOGISTIK UND LAGERHAUS", "g": 3, "a": 9, "n": 6, "rc": 1.0, "rs": 1.0, "c": 0.6449}, {"s": "LIANYUNGANG ORIENT TIMBER", "g": 2, "a": 3, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.5614}, {"s": "LOGO TAPE", "g": 5, "a": 9, "n": 5, "rc": 0.8, "rs": 0.8, "c": 0.6232}, {"s": "MARTINUS RAIL", "g": 12, "a": 17, "n": 10, "rc": 0.6667, "rs": 0.5833, "c": 0.4986}, {"s": "MASTERWORK MACHINERY CO LTD", "g": 5, "a": 18, "n": 13, "rc": 1.0, "rs": 1.0, "c": 0.5829}, {"s": "MICROFILTER CO LTD", "g": 2, "a": 3, "n": 1, "rc": 1.0, "rs": 1.0, "c": 0.4726}, {"s": "MITRASTAR TECHNOLOGY", "g": 4, "a": 5, "n": 2, "rc": 0.75, "rs": 0.75, "c": 0.5093}, {"s": "NATIONAL OILWELL VARCO", "g": 199, "a": 123, "n": 79, "rc": 0.5628, "rs": 0.2211, "c": 0.815}, {"s": "NEUMANN GRUPPE GMBH", "g": 20, "a": 44, "n": 28, "rc": 0.9, "rs": 0.8, "c": 0.4568}, {"s": "NICCHIO SOBRINHO", "g": 3, "a": 14, "n": 12, "rc": 1.0, "rs": 0.6667, "c": 0.6953}, {"s": "OFI GROUP", "g": 4, "a": 37, "n": 34, "rc": 0.75, "rs": 0.75, "c": 0.59}, {"s": "ORIENTAL PRESS", "g": 4, "a": 7, "n": 4, "rc": 1.0, "rs": 0.75, "c": 0.5699}, {"s": "OVAKO", "g": 13, "a": 25, "n": 15, "rc": 1.0, "rs": 0.7692, "c": 0.424}, {"s": "PALAMIDES GMBH", "g": 3, "a": 3, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.3784}, {"s": "PENGUIN RAMDOM HOUSE", "g": 29, "a": 38, "n": 25, "rc": 0.6552, "rs": 0.4483, "c": 0.7377}, {"s": "PLASSER & THEURER", "g": 33, "a": 52, "n": 20, "rc": 1.0, "rs": 0.9697, "c": 0.5088}, {"s": "POLAR MOHR", "g": 2, "a": 4, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.4368}, {"s": "REDMAN CORPORATION", "g": 5, "a": 11, "n": 6, "rc": 1.0, "rs": 1.0, "c": 0.7637}, {"s": "RICHARDSON OILSEED", "g": 5, "a": 5, "n": 2, "rc": 0.6, "rs": 0.6, "c": 0.5819}, {"s": "RKW", "g": 17, "a": 16, "n": 1, "rc": 0.9412, "rs": 0.8824, "c": 0.6411}, {"s": "RUTGERS NOVARES", "g": 2, "a": 2, "n": 0, "rc": 1.0, "rs": 1.0, "c": 0.3649}, {"s": "SCM GROUP", "g": 14, "a": 43, "n": 30, "rc": 1.0, "rs": 0.9286, "c": 0.6911}, {"s": "SICHUAN Y & J INDUSTRIES", "g": 2, "a": 14, "n": 12, "rc": 1.0, "rs": 1.0, "c": 0.7097}, {"s": "SUNWODA ELECTRONIC", "g": 3, "a": 29, "n": 26, "rc": 1.0, "rs": 1.0, "c": 0.8162}, {"s": "TARA TPS CO LTD", "g": 3, "a": 15, "n": 13, "rc": 1.0, "rs": 0.6667, "c": 0.5868}, {"s": "TIEN YUEN MACHINERY", "g": 3, "a": 5, "n": 2, "rc": 1.0, "rs": 1.0, "c": 0.5667}, {"s": "TOPPAN LEEFUNG PRINTING", "g": 6, "a": 12, "n": 7, "rc": 1.0, "rs": 0.8333, "c": 0.7413}, {"s": "TUOPU GROUP", "g": 2, "a": 54, "n": 52, "rc": 1.0, "rs": 1.0, "c": 0.9324}, {"s": "UVA LIDKOPING", "g": 5, "a": 6, "n": 2, "rc": 0.8, "rs": 0.8, "c": 0.6493}, {"s": "VITORIA STONE", "g": 3, "a": 7, "n": 4, "rc": 1.0, "rs": 1.0, "c": 0.3888}, {"s": "WEYLCHEM PERFORMANCE PRODUCTS", "g": 7, "a": 7, "n": 7, "rc": 0.0, "rs": 0.0, "c": 0.5285}, {"s": "WUXI DRIVESHAFT", "g": 2, "a": 2, "n": 1, "rc": 0.5, "rs": 0.5, "c": 0.4011}, {"s": "YJK INDUSTRIAL GROUP CO LTD", "g": 2, "a": 6, "n": 5, "rc": 0.5, "rs": 0.5, "c": 0.5176}, {"s": "ZHEJIANG JIALI TECHNOLOGY", "g": 2, "a": 6, "n": 5, "rc": 1.0, "rs": 0.5, "c": 0.7234}], "cost": {"runs": 123, "suppliers": 122, "start": "13:38", "end": "14:35", "date": "23 September 2026", "output_tokens": 3278971, "output_cost": 3.935, "search_calls": 4440, "search_fee": 44.4, "credits": 1869, "bee_cost": 0.374, "exact_subtotal": 48.71, "input_tokens": 93341224, "chat_input_tokens": 21253308, "search_input_tokens": 72087916, "search_low": 14.42, "search_high": 18.02, "chat_low": 0.43, "chat_high": 5.31, "low": 63.55, "high": 72.04, "naive_low": 50.58, "logged": 67.38}};
+const S = D.summary, C = D.cost;
+const pct = v => (v*100).toFixed(0) + '%';
+const usd = v => v == null ? '—' : '$' + v.toFixed(2);
+const n = v => v.toLocaleString();
+const band = v => v >= 0.75 ? 'v-good' : v >= 0.45 ? 'v-warn' : 'v-bad';
+
+document.getElementById('sub').innerHTML =
+  'How completely an automated research agent rediscovers a supplier’s physical sites from ' +
+  'public sources, and what that costs per supplier. Measured against ground truth over ' +
+  S.suppliers + ' suppliers and their ' + n(S.gt_sites) + ' known sites.';
+
+document.getElementById('meta').innerHTML = [
+  ['Scope', S.suppliers + ' of ' + S.suppliers_total + ' suppliers'],
+  ['Ground-truth sites', n(S.gt_sites)],
+  ['Run time', '57 minutes, 8 workers in parallel'],
+  ['Model', 'gpt-5.6-luna'],
+].map(([k,v]) => '<span><b>' + k + '</b> ' + v + '</span>').join('');
+
+document.getElementById('tiles').innerHTML = [
+  {k:'Found to the street address', v:pct(S.recall_street_micro),
+   note:n(S.matched_street) + ' of ' + n(S.gt_sites) + ' known sites', accent:true},
+  {k:'Found to the right city', v:pct(S.recall_city_micro),
+   note:n(S.matched_city) + ' of ' + n(S.gt_sites) + ' known sites', accent:true},
+  {k:'Sites returned', v:n(S.agent_sites),
+   note:n(S.new_sites) + ' of them not in the ground truth'},
+  {k:'Run cost', v:'$' + C.low.toFixed(0) + '–' + C.high.toFixed(0),
+   note:S.suppliers + ' suppliers, about $0.55 each'},
+].map(t => '<div class="tile' + (t.accent ? ' accent' : '') + '"><span class="k">' + t.k +
+  '</span><span class="v">' + t.v + '</span><span class="note">' + t.note + '</span></div>').join('');
+
+const COLS = [
+  {id:'s',  label:'Supplier name'},
+  {id:'g',  label:'GT sites'},
+  {id:'a',  label:'Total sites found by agent'},
+  {id:'n',  label:'New sites found by agent'},
+  {id:'rc', label:'Recall — city'},
+  {id:'rs', label:'Recall — street'},
+  {id:'c',  label:'Agent cost USD'},
+];
+let sortKey = 'rs', sortDir = 1;
+
+document.getElementById('hrow').innerHTML = COLS.map(c =>
+  '<th data-k="' + c.id + '" scope="col">' + c.label + '<span class="arr"></span></th>').join('');
+
+function render() {
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const rows = D.rows.filter(r => !q || r.s.toLowerCase().includes(q))
+    .sort((a,b) => {
+      const x = a[sortKey], y = b[sortKey];
+      if (typeof x === 'string') return sortDir * x.localeCompare(y);
+      return sortDir * ((x ?? -1) - (y ?? -1));
+    });
+  document.getElementById('tbody').innerHTML = rows.map(r => {
+    const rec = (v) => '<td><span class="rec ' + band(v) + '"><span class="bar"><i style="width:' +
+      (v*100).toFixed(0) + '%"></i></span><span class="pc">' + pct(v) + '</span></span></td>';
+    return '<tr><td>' + r.s + '</td>' +
+      '<td class="mono">' + r.g + '</td>' +
+      '<td class="mono">' + r.a + '</td>' +
+      '<td class="mono">' + r.n + '</td>' +
+      rec(r.rc) + rec(r.rs) +
+      '<td class="mono">' + usd(r.c) + '</td></tr>';
+  }).join('');
+  const sum = (f) => rows.reduce((t,r) => t + (f(r) ?? 0), 0);
+  const g = sum(r => r.g);
+  document.getElementById('tfoot').innerHTML = rows.length ? '<tr><td>' + rows.length +
+    ' suppliers</td><td>' + g + '</td><td>' + sum(r => r.a) + '</td><td>' + sum(r => r.n) +
+    '</td><td>' + pct(g ? rows.reduce((t,r) => t + r.rc*r.g, 0)/g : 0) +
+    '</td><td>' + pct(g ? rows.reduce((t,r) => t + r.rs*r.g, 0)/g : 0) +
+    '</td><td>' + usd(sum(r => r.c)) + '</td></tr>' : '';
+  document.getElementById('count').textContent = rows.length + ' of ' + D.rows.length + ' suppliers';
+  document.querySelectorAll('thead th').forEach(th => {
+    const on = th.dataset.k === sortKey;
+    if (on) th.setAttribute('aria-sort', sortDir > 0 ? 'ascending' : 'descending');
+    else th.removeAttribute('aria-sort');
+    th.querySelector('.arr').textContent = on ? (sortDir > 0 ? '▲' : '▼') : '';
+  });
+}
+
+document.querySelectorAll('thead th').forEach(th => th.addEventListener('click', () => {
+  const k = th.dataset.k;
+  if (k === sortKey) sortDir = -sortDir;
+  else { sortKey = k; sortDir = k === 's' ? 1 : -1; }
+  render();
+}));
+document.getElementById('q').addEventListener('input', render);
+
+document.getElementById('costnote').innerHTML =
+  'The first three lines are exact &mdash; a count the provider reported, times a published ' +
+  'rate &mdash; and they are ' +
+  (100 * C.exact_subtotal / ((C.low + C.high) / 2)).toFixed(0) + '% of the bill. Input tokens ' +
+  'are bracketed: they are billed at three prices depending on whether each token was cached, ' +
+  'a cache write or uncached, and this run predates that split being recorded. It is recorded ' +
+  'now, so later runs report one exact figure. The per-supplier column above prices all input ' +
+  'at the uncached rate, a position inside the bracket.';
+
+document.getElementById('ledger').innerHTML = [
+  '<div class="led head"><span>Line</span><span class="n">Count</span><span class="amt">USD</span></div>',
+  '<div class="led"><span>Output tokens</span><span class="n">' + n(C.output_tokens) +
+    '</span><span class="amt">$' + C.output_cost.toFixed(2) + '</span></div>',
+  '<div class="led"><span>Search call fee</span><span class="n">' + n(C.search_calls) +
+    ' calls</span><span class="amt">$' + C.search_fee.toFixed(2) + '</span></div>',
+  '<div class="led"><span>Page fetching</span><span class="n">' + n(C.credits) +
+    ' credits</span><span class="amt">$' + C.bee_cost.toFixed(2) + '</span></div>',
+  '<div class="led sum"><span>Exact subtotal</span><span class="n"></span><span class="amt">$' +
+    C.exact_subtotal.toFixed(2) + '</span></div>',
+  '<div class="led unknown"><span>Input tokens</span><span class="n">' + n(C.input_tokens) +
+    '</span><span class="amt">$' + (C.low - C.exact_subtotal).toFixed(2) + '–$' +
+    (C.high - C.exact_subtotal).toFixed(2) + '</span></div>',
+  '<div class="led sum"><span>Run total</span><span class="n">' + C.runs + ' runs, ' +
+    C.start + '–' + C.end + '</span><span class="amt">$' + C.low.toFixed(2) + '–$' +
+    C.high.toFixed(2) + '</span></div>',
+].join('');
+
+render();
+</script>

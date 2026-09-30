@@ -1,0 +1,1406 @@
+Batch: 5 companies from results\sites_sample5_noguess_20260925\suppliers.csv
+SCM GROUP, KANTAR, HUSKY INJECTION MOLDING SYSTEM, TOPPAN LEEFUNG PRINTING, COSTACURTA SPA VICO
+
+
+==============================================================================
+[1/5] SCM GROUP
+==============================================================================
+Researching site locations for: SCM GROUP
+
+Collected 43 distinct candidate address(es).
+
+Company domains treated as first-party: scmgroup.com, cms.it, hiteco.net, elettronicasammarinese.sm, scmfonderie.it, mecal.com, tecno-logica.com, tecnest.it, hg-grimme.de
+
+=== Ranked candidates for SCM GROUP ===
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Via Emilia 77, Rimini, Emilia-Romagna, 47921, Italy
+    site_type: Headquarters, Technology Center, Office
+    source:  https://www.scmgroup.com/en/contacts/request-info
+    quote:   Scm Group Headquarter Via Emilia 77, 47921, Rimini (RN) - Italy
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Via Raffaello Sanzio 9, Villasanta, Lombardy, 20852, Italy
+    site_type: Manufacturing Plant, Office
+    source:  https://www.scmgroup.com/it/superfici/contacts/superfici
+    quote:   Superfici Headquarters — Superfici | Scm Group — Via R. Sanzio, 9 — 20852 Villasanta (MB) — Italia
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 4590 Eastgate Parkway, Mississauga, Ontario, L4W 3W6, Canada
+    site_type: Regional Office, Sales Office, Service Center, Showroom
+    source:  https://www.scmgroup.com/en_CA/scmwood/contacts
+    quote:   SCM Canada - Toronto — 4590 Eastgate Parkway — Mississauga, ON — L4W 3W6
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Unit 1135 - 1579 Kingsway Ave., Port Coquitlam, British Columbia, V3C 1S2, Canada
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en_CA/scmwood/contacts
+    quote:   SCM Canada - Vancouver — Unit 1135 - 1579 Kingsway Ave., Port Coquitlam, BC V3C 1S2
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avda. Ragull 78-80, Sant Cugat del Vallès, Catalonia, 08190, Spain
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/es_ES/scmwood/contacts/contacts
+    quote:   SCM Group España — Avda. Ragull 78-80 — 08173 Sant Cugat del Vallès — Barcelona
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Blenheim House, Camberley Road, Bulwell, Nottingham, England, NG6 8UW, United Kingdom
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en_GB/scmwood/contacts/contacts
+    quote:   SCM UK — Blenheim House – Camberley Road — NG6 8UW Bulwell, Nottingham
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Via Antonio Locatelli 123, Zogno, Lombardy, 24019, Italy
+    site_type: Manufacturing Plant, Office, R&D/Engineering
+    source:  https://cms.it/en/contacts
+    quote:   CMS SpA - Offices and Production — via A. Locatelli 123, 24019 Zogno (BG)
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Via Marecchiese 720, Rimini, Emilia-Romagna, 47923, Italy
+    site_type: Manufacturing Plant, R&D/Engineering, Office, Service Center
+    source:  https://hiteco.net/en/contacts
+    quote:   ADDRESS Via Marecchiese, 720 47923 Rimini (RN), Italia
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Via Torre Beretti, s.n., Frascarolo, Lombardy, 27030, Italy
+    site_type: Manufacturing Plant, R&D/Engineering, Office, Technical Service
+    source:  https://mecal.com/en/contacts
+    quote:   Mecal Machinery S.R.L — Address — Via Torre Beretti. s.n — 27030 Frascarolo (PV), Pavia, Italia
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Osterweg 23, Wiedergeltingen, Bavaria, 86879, Germany
+    site_type: Manufacturing Plant, R&D/Engineering, Office, Service Center
+    source:  https://www.hg-grimme.de/en/imprint/
+    quote:   HG GRIMME SysTech GmbH — Osterweg 23 — D-86879 Wiedergeltingen
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Valdicella 7, Gualdicciolo, 47892, San Marino
+    site_type: Manufacturing Plant, Office
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM Industria SpA — Via Valdicella, 7 — 47892 Gualdicciolo, San Marino
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Casale 450, Villa Verucchio, Emilia-Romagna, 47826, Italy
+    site_type: Manufacturing Plant
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM (Villa Verucchio) — Via Casale 450 — 47826 Villa Verucchio — RN — Italy
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Strada Statale 258 Marecchia 57, Villa Verucchio, Emilia-Romagna, 47826, Italy
+    site_type: Manufacturing Plant
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM (Villa Verucchio) — Via Statale Marecchia, 57 — 47826 Villa Verucchio — RN — Italy
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via della Prata 169, Sinalunga, Tuscany, 53048, Italy
+    site_type: Manufacturing Plant
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM (Sinalunga) — Via della Prata 169 — 53048 Sinalunga — SI — Italy
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via del Lavoro 1/3, Thiene, Veneto, 36016, Italy
+    site_type: Manufacturing Plant
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM (Thiene) — Via del lavoro 1/3 — 36016 Thiene — VI — Italy
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via F. e G. Celaschi 25, Vigolzone, Emilia-Romagna, 29020, Italy
+    site_type: Manufacturing Plant
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM (Vigolzone) — Via F. e G. Celaschi 25 — 29020 Vigolzone — PC — Italy
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Rodovia SC 418, Bairro Dona Francisca 1477, São Bento do Sul, Santa Catarina, 89284-630, Brazil
+    site_type: Manufacturing Plant, Office
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM Tecmatic Máquinas e Equipamentos LTDA — Rodovia SC 418 Bairro Dona Francisca 1477 — 89.284-630 São Bento do Sul — Santa Catarina — Brazil
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Gmajna 13, Trzin, 1236, Slovenia
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM Adria — Gmajna 13 — 1236 Trzin — Slovenia
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Grünwallpark 1 - Top 7, Ansfelden, Upper Austria, 4052, Austria
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM Austria — Grünwallpark 1 - Top 7 — 4052 Ansfelden (Linz) — Austria
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 26 Peter Brock Drive, Eastern Creek, New South Wales, 2766, Australia
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   Scm Australia — 26 Peter Brock Drive — Eastern Creek NSW 2766 — Australia
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Station-Ost 7, Rothenburg, Lucerne, 6023, Switzerland
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   Scm Schweiz — Station-Ost 7 — 6023 Rothenburg/Luzern — Switzerland
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Room 10 C, No. 7 Building, Shuiwan 1979 Plaza, Taizi Road, Shekou, Shenzhen, Guangdong, 518067, China
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   Scm China — Add: Room 10 C, no. 7 building, Shuiwan 1979 plaza, Taizi Road — 518067 Shekou, Shenzhen — Guangdong — China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Seilerstraße 2, Nürtingen, Baden-Württemberg, 72622, Germany
+    site_type: Regional Office, Sales Office, Service Center, Showroom
+    source:  https://www.scmgroup.com/de_DE/scmwood/company/scm-deutschland
+    quote:   SCM Group Deutschland GmbH — Sitz der Gesellschaft: Seilerstraße 2 72622 Nürtingen
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Z.A. Les Plattes, 8 rue des Mûriers, Vourles, Auvergne-Rhône-Alpes, 69390, France
+    site_type: Regional Office, Sales Office, Service Center, Showroom
+    source:  https://www.scmgroup.com/fr_FR/scmwood/entreprise/scm-france
+    quote:   Z.A. Les Plattes - 8 rue des Mûriers - 69390 VOURLES - France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3rd Floor, A Unit, Esteem Mall, No. 127/128, Bangalore North, Karnataka, 560024, India
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM India Machinery Trade & Service Pvt. Ltd. — 3rd Floor, A Unit, Esteem Mall, No 127/128, 560024 Bangalore North — Karnataka — India
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 26 Hub Perindustrian Suntrack, Jalan Perindustrian, Off Jalan P1A, Seksyen 13, Bandar Baru Bangi, Selangor, 43650, Malaysia
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   Scm Asia — 26 Hub Perindustrian Suntrack, Jalan Perindustrian, Off Jalan P1A, Seksyen 13 — 43650 Bandar Baru Bangi — Selangor — Malaysia
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Office number FZJOA1801, Jafza One, Tower A, Jebel Ali Free Zone, Dubai, Dubai, United Arab Emirates
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM Middle East — Office number FZJOA1801 — Jafza One, Tower A, Jebel Ali free Zone — Dubai — United Arab Emirates
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Calle Industria Naviera 123, Parque Industrial El Colli, Zapopan, Jalisco, 45069, Mexico
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   Scm Mexico — Calle Industria Naviera 123, Parque Industrial El Colli — 45069 Zapopan — Jalisco — Mexico
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2475 Satellite Blvd, Duluth, Georgia, 30096, United States
+    site_type: Regional Headquarters, Sales Office, Service Center, Showroom
+    source:  https://www.scmgroup.com/en_US/scmwood/company/scm-north-america
+    quote:   SCM Group (North America Headquarters) 2475 Satellite Blvd Duluth, GA 30096
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 933 Sandhill Ave, Carson, California, 90746, United States
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en_US/scmwood/company/scm-north-america
+    quote:   SCM Group (West Coast) 933 Sandhill Ave Carson, CA 90746
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 160 International Drive, Suite A, Concord, North Carolina, 28027, United States
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   Superfici USA — 160 International Drive, Suite A — 28027 Concord — NC — United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Soldaatweg 2, Wormerveer, North Holland, 1521 RL, Netherlands
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   Scm Nederlands — Soldaatweg 2 — 1521 RL Wormerveer — Netherlands
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Ul. Obornicka 133, Suchy Las k/Poznania, Greater Poland, 62-002, Poland
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   Scm Poland — Ul. Obornicka 133 — 62-002 Suchy Las k/Poznania — Poland
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Barbaros Mah. Mor Sümbül Sok. | Varyap Meridian I Blok No:1, Ataşehir, Istanbul, Istanbul, 155, Türkiye
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.scmgroup.com/en/scmwood/company/company
+    quote:   SCM Türkiye — Barbaros Mah. Mor Sümbül Sok. | Varyap Meridian I Blok No:1 — 155 Ataşehir / İstanbul — Turkey
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Emilia 71, Rimini, Emilia-Romagna, 47921, Italy
+    site_type: Warehouse, Spare Parts Management
+    source:  https://www.scmgroup.com/qualita/ISO-9001-SCM_EN.pdf
+    quote:   SCM GROUP S.p.A. Via Emilia, 71 - 47921 Rimini (RN) - Italy ... Spare parts management.
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Giovanni Pascoli 42, Cerasolo Ausa, Emilia-Romagna, 47853, Italy
+    site_type: Manufacturing Plant, Sales Office
+    source:  https://www.scmgroup.com/qualita/ISO-9001-SCM_EN.pdf
+    quote:   SCM Group S.p.A. Via Giovanni Pascoli, 42 - 47853 Cerasolo Ausa (RN) - Italy
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Strada Statale 258 Marecchia 51, Verucchio, Emilia-Romagna, 47826, Italy
+    site_type: Training Center, Logistics Center, Shipping
+    source:  https://www.scmgroup.com/qualita/ISO-9001-SCM_EN.pdf
+    quote:   SCM GROUP S.p.A. Str. Statale 258 Marecchia, 51 - 47826 Verucchio (RN) - Italy — Training center, logistics and shipping
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Strada Statale 258 Marecchia 30, Verucchio, Emilia-Romagna, 47826, Italy
+    site_type: Office, Purchasing, Supplier Quality, Spare Parts Management
+    source:  https://www.scmgroup.com/qualita/ISO-9001-SCM_EN.pdf
+    quote:   SCM GROUP S.p.A. Str. Statale 258 Marecchia, 30 - 47826 Verucchio (RN) - Italy — Group purchasing, group suppliers quality, spare parts management.
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Piave 80, Sinalunga, Tuscany, 53048, Italy
+    site_type: Manufacturing Plant
+    source:  https://www.scmgroup.com/qualita/ISO-9001-SCM_EN.pdf
+    quote:   SCM GROUP S.p.A. Via Piave, 80 - 53048 Sinalunga (SI) - Italy — Manufacture of machines and systems for working wood and similar materials
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Strada degli Angariari 10, Falciano, San Marino
+    site_type: Manufacturing Plant, Electrical Equipment Design, Testing, Warehouse
+    source:  https://www.elettronicasammarinese.sm/it/contattaci/contatti
+    quote:   Elettronica Sammarinese — Strada degli Angariari, 10 — Falciano - REPUBBLICA SAN MARINO (RSM)
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via del Tesoro 141/145, Villa Verucchio, Emilia-Romagna, 47826, Italy
+    site_type: Manufacturing Plant, Foundry, Metal Processing, Testing/Quality
+    source:  https://www.scmgroup.com/qualita/ISO-9001-Fonderia_ITAEN.pdf
+    quote:   SCM FONDERIE S.r.l. Via del Tesoro, 141/145 - 47826 Villa Verrucchio (RN) - Italia
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Indipendenza 12, Spresiano, Veneto, 31027, Italy
+    site_type: Manufacturing/Integration Facility, R&D/Engineering, Office
+    source:  https://tecno-logica.com
+    quote:   Tecno Logica, a company of Scm Group ... Contacts — Via Indipendenza 12, 31027 Spresiano (TV), Italy
+
+Ground-truth address row(s) available for 'SCM GROUP': 14
+
+Results written to: results\sites_sample5_noguess_20260925\SCM_GROUP__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 12 calls, 503162 in / 11862 out tokens
+TOTAL web_search: 22 calls, 372451 in / 13506 out tokens
+TOTAL scrapingbee: 2 calls, 2 credits (~$0.0004), 1 failed -> escalated to paid search
+TOTAL tool calls attempted: 69 (issued: web_search 21/45, fetch_page 48 (uncapped), of which 6 were PDFs parsed locally for free (1 more read by local OCR) and 1/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.3362  (chat $0.0424, search tokens $0.0734, search call fee $0.2200, scrapingbee $0.0004)
+  input tokens priced as: 275853 uncached, 520743 cached read, 79017 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         12 calls, 503162 in / 11862 out tokens
+
+--- Queries issued (77) ---
+[site_extractor] web_search: SCM GROUP official website
+[site_extractor] fetch_page: https://www.scmgroup.com/en
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=SCM%20GROUP&page[size]=50
+[site_extractor] fetch_page: https://www.scmgroup.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=SCM%20GROUP
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=SCM%20GROUP
+[site_extractor] fetch_page: https://www.scmgroup.com/en/company
+[site_extractor] web_search: "SCM Group" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: site:scmgroup.com SCM Group locations contacts worldwide offices
+[site_extractor] fetch_page: https://www.scmgroup.com/en_US
+[site_extractor] fetch_page: https://www.scmgroup.com/en/contacts
+[site_extractor] fetch_page: https://www.scmgroup.com/en_US/contacts
+[site_extractor] fetch_page: https://www.scmgroup.com/en/company/quality
+[site_extractor] fetch_page: https://www.scmgroup.com/qualita/ISO-9001-SCM_EN.pdf
+[site_extractor] fetch_page: https://www.scmgroup.com/en/choose-your-country
+[site_extractor] fetch_page: https://www.scmgroup.com/en_US/scmwood/contacts
+[site_extractor] fetch_page: https://www.scmgroup.com/qualita/ISO-9001-CMS_EN.pdf
+[site_extractor] fetch_page: https://www.scmgroup.com/qualita/hiteco_feb25_EN.pdf
+[site_extractor] fetch_page: https://www.scmgroup.com/en/contacts/request-info
+[site_extractor] fetch_page: https://www.scmgroup.com/qualita/ISO-9001-ES_EN.pdf
+[site_extractor] fetch_page: https://www.scmgroup.com/en/scmfonderie/controllo-qualita/certificazioni
+[site_extractor] fetch_page: https://www.scmgroup.com/qualita/ISO-9001-Fonderia_ITAEN.pdf
+[site_extractor] fetch_page_pdf_local: https://www.scmgroup.com/qualita/ISO-9001-SCM_EN.pdf
+[site_extractor] fetch_page_pdf_local: https://www.scmgroup.com/qualita/ISO-9001-ES_EN.pdf
+[site_extractor] fetch_page_pdf_local: https://www.scmgroup.com/qualita/ISO-9001-Fonderia_ITAEN.pdf
+[site_extractor] fetch_page_pdf_local: https://www.scmgroup.com/qualita/hiteco_feb25_EN.pdf
+[site_extractor] fetch_page_pdf_local: https://www.scmgroup.com/qualita/ISO-9001-CMS_EN.pdf
+[site_extractor] fetch_page: https://www.scmgroup.com/qualita/ISO-9001-Grimme_EN.pdf
+[site_extractor] fetch_page: https://www.scmgroup.com/homepage/sector/fonderie/content/certificati/october-25/dichiarazione-ambientale-2025.pdf
+[site_extractor] fetch_page: https://cms.it
+[site_extractor] fetch_page: https://hiteco.net
+[site_extractor] fetch_page: https://hiteco.net/en/contacts
+[site_extractor] fetch_page: https://elettronicasammarinese.sm
+[site_extractor] fetch_page: https://cms.it/en/contacts
+[site_extractor] fetch_page: https://elettronicasammarinese.sm/contacts
+[site_extractor] fetch_page: https://scmfonderie.it
+[site_extractor] fetch_page: https://scmfonderie.it/contatti
+[site_extractor] fetch_page_pdf_local: https://www.scmgroup.com/homepage/sector/fonderie/content/certificati/october-25/dichiarazione-ambientale-2025.pdf
+[site_extractor] fetch_page_search_fallback: https://scmfonderie.it/contatti
+[site_extractor] fetch_page_pdf_ocr: https://www.scmgroup.com/qualita/ISO-9001-Grimme_EN.pdf
+[site_extractor] fetch_page: https://elettronicasammarinese.sm/en/contacts
+[site_extractor] fetch_page: https://tecno-logica.com/en/contacts
+[site_extractor] fetch_page: https://elettronicasammarinese.sm/it/contatti
+[site_extractor] fetch_page: https://tecno-logica.com
+[site_extractor] fetch_page: https://mecal.com
+[site_extractor] fetch_page: https://mecal.com/en/contacts
+[site_extractor] fetch_page: https://tecnest.it
+[site_extractor] fetch_page: https://tecnest.it/en/contacts
+[site_extractor] web_search: SCM Group subsidiaries brands manufacturing sites Italy addresses
+[site_extractor] web_search: SCM Group plant factory warehouse R&D address Italy
+[site_extractor] web_search: SCM Group subsidiaries official companies CMS Hiteco Superfici Morbidelli
+[site_extractor] web_search: SCM Group annual report facilities locations
+[site_extractor] web_search: SCM Group USA Canada locations branch office address
+[site_extractor] web_search: SCM Group Germany HG Grimme address
+[site_extractor] web_search: SCM Group France UK Spain subsidiary address
+[site_extractor] web_search: SCM Group office Emilia-Romagna address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps SCM Group Veneto office plant address
+[site_extractor] web_search: Google Maps SCM Group Emilia-Romagna office plant address
+[site_extractor] web_search: SCM Group office Veneto address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps SCM Group Tuscany office plant address
+[site_extractor] web_search: Google Maps SCM Group Marche office plant address
+[site_extractor] web_search: Google Maps SCM Group Lombardy office plant address
+[site_extractor] web_search: Google Maps SCM Group Friuli Venezia Giulia office plant address
+[site_extractor] web_search: Google Maps SCM Group Piedmont office plant address
+[site_extractor] web_search: Google Maps SCM Group Lazio office plant address
+[site_extractor] fetch_page: https://www.scmgroup.com/en/scmwood/company/company
+[site_extractor] fetch_page: https://www.scmgroup.com/en_US/scmwood/company/scm-north-america
+[site_extractor] fetch_page: https://www.scmgroup.com/it/superfici/contacts/superfici
+[site_extractor] fetch_page: https://www.scmgroup.com/fr_FR/scmwood/entreprise/scm-france
+[site_extractor] fetch_page: https://www.scmgroup.com/en_GB/scmwood/contacts/contacts
+[site_extractor] fetch_page: https://www.scmgroup.com/es_ES/scmwood/contacts/contacts
+[site_extractor] fetch_page: https://www.scmgroup.com/de_DE/scmwood/company/scm-deutschland
+[site_extractor] fetch_page: https://www.cms.it/it/contatti
+[site_extractor] fetch_page: https://www.hg-grimme.de/en/imprint/
+[site_extractor] fetch_page: https://www.scmgroup.com/en_CA/scmwood/contacts
+[site_extractor] web_search: site:elettronicasammarinese.sm Elettronica Sammarinese contatti address Strada degli Angariari
+[site_extractor] fetch_page: https://www.elettronicasammarinese.sm/it/contattaci/contatti
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\scrapingbee_log.jsonl
+
+Combined CSV now holds 1 companies: results\sites_sample5_noguess_20260925\combined_5.csv
+
+==============================================================================
+[2/5] KANTAR
+==============================================================================
+Researching site locations for: KANTAR
+
+Collected 58 distinct candidate address(es).
+
+Company domains treated as first-party: kantar.com, numerator.com, worldpanelbynumerator.com
+
+=== Ranked candidates for KANTAR ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Vivo Building, 30 Stamford Street, London, SE1 9LQ, United Kingdom
+    site_type: Headquarters, Office
+    source:  https://www.kantar.com/contact
+    quote:   London - Vivo Office Vivo Building, 30 Stamford St, London SE1 9LQ
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Three World Trade Center, 175 Greenwich St, 30th Floor, New York, New York, 10007, United States
+    site_type: Office
+    source:  https://www.kantar.com/locations/united-states-of-america
+    quote:   Three World Trade Center 175 Greenwich St 30th Floor New York NY 10007
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 155 Queen’s Quay E., Toronto, Ontario, M5A 0W4, Canada
+    site_type: Office
+    source:  https://www.kantar.com/locations/canada
+    quote:   Waterfront Innovation Center - Toronto, CA 155 Queen’s Quay E. Toronto ON M5A 0W4
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Darling Park, Tower 3, Level 8, 201 Sussex St, Sydney, New South Wales, 2000, Australia
+    site_type: Office
+    source:  https://www.kantar.com/locations/australia
+    quote:   Darling Park Tower 3 Level 8 201 Sussex St Sydney NSW 2000
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 12, 15, 16F, WPP Campus, 399 Hengfeng Road, Jing’an District, Shanghai, 200070, China
+    site_type: Office
+    source:  https://www.kantar.com/locations/china
+    quote:   12, 15, 16F, WPP Campus, 399 Hengfeng Road, Jing’an District 上海 200070
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 3rd Floor, The ORB, JW Marriott, IA Project Road, Andheri (E), Mumbai, Maharashtra, 400099, India
+    site_type: Office
+    source:  https://www.kantar.com/locations/india
+    quote:   3rd Floor,The ORB, JW Marriott, IA Project Road, Andheri (E) Mumbai 400099
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 5 Temasek Boulevard, #14-01/02, Suntec Tower 5, Singapore, 038985, Singapore
+    site_type: Office
+    source:  https://www.kantar.com/locations/singapore
+    quote:   5 Temasek Boulevard, #14-01/02, Suntec Tower 5 Singapore 038985
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 10 avenue Aristide Briand, Bagneux, Île-de-France, 92220, France
+    site_type: Office
+    source:  https://www.kantar.com/locations/france
+    quote:   10 avenue Aristide Briand Bagneux Paris 92220
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Landsberger Straße 346, Munich, Bavaria, 80687, Germany
+    site_type: Office
+    source:  https://www.kantar.com/locations/germany
+    quote:   München - Landsberger Straße Landsberger Straße 346, München 80687
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Viale Monza 338, Milan, Lombardy, 20128, Italy
+    site_type: Office
+    source:  https://www.kantar.com/locations/italy
+    quote:   Milano -Viale Monza Viale Monza 338 Milano 20128
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Ríos Rosas, 26, 1ª planta, Madrid, Community of Madrid, 28003, Spain
+    site_type: Office
+    source:  https://www.kantar.com/locations/spain
+    quote:   La Matriz, Ríos Rosas, 26, 1ª planta. Madrid 28003
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Worbstrasse 140, Gümligen, Bern, 3073, Switzerland
+    site_type: Office, TV Audience Measurement Facility
+    source:  https://www.kantar.com/locations/switzerland
+    quote:   Worbstrasse 140 CH 3073 Gümligen
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Vasagatan 11, 1st Floor, Stockholm, 111 20, Sweden
+    site_type: Office
+    source:  https://www.kantar.com/locations/sweden
+    quote:   Vasagatan 11, 1st Floor, Stockholm 111 20
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Lakkegata 23, Oslo, 0133, Norway
+    site_type: Office
+    source:  https://www.kantar.com/locations/norway
+    quote:   Lakkegata 23 P.O. Box 9116 Grønland Oslo 0133
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Rådhuspladsen 45, Copenhagen, Capital Region, 1550, Denmark
+    site_type: Office
+    source:  https://www.kantar.com/locations/denmark
+    quote:   Rådhuspladsen 45 1550 København V Denmark
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Aleksanterinkatu 30-34, Helsinki, 00100, Finland
+    site_type: Office
+    source:  https://www.kantar.com/locations/finland
+    quote:   Aleksanterinkatu 30-34 Helsinki 00100
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Plac Konesera 9, Warsaw, Masovian Voivodeship, 03-736, Poland
+    site_type: Office
+    source:  https://www.kantar.com/locations/poland
+    quote:   Plac Konesera 9, Warsaw 03-736
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Sint-Lazaruslaan 4-10, Brussels, Brussels-Capital Region, 1210, Belgium
+    site_type: Office
+    source:  https://www.kantar.com/locations/belgium
+    quote:   Sint-Lazaruslaan 4-10 Brussels 1210
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Kaiserstrasse 55, Vienna, 1070, Austria
+    site_type: Office
+    source:  https://www.kantar.com/locations/austria
+    quote:   Kaiserstrasse 55, Vienna 1070
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Av. 24 de Julho, 62 – 2º Piso, Lisbon, 1200-869, Portugal
+    site_type: Office
+    source:  https://www.kantar.com/locations/portugal
+    quote:   Av. 24 de Julho, 62 – 2º Piso 1200-869 Lisbon
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Shinjuku Maynds Tower 6F, F2-1-1 Yoyogi, Shibuya-ku, Tokyo, Tokyo, 151-0053, Japan
+    site_type: Office
+    source:  https://www.kantar.com/locations/japan
+    quote:   Shinjuku Maynds Tower 6F, F2-1-1 Yoyogi, Shibuya-ku, Tokyo 151-0053
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 30/F, Lee & Man Commercial Center, 169 Electric Road, North Point, Hong Kong, Hong Kong
+    site_type: Office
+    source:  https://www.kantar.com/locations/hong-kong
+    quote:   30/F, Lee & Man Commercial Center, 169 Electric Road, North Point Hong Kong
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 52 Gukjegeumyung-ro, 10th Floor, SIMPAC Bldg., Yeongdeungpo-gu, Seoul, 07330, South Korea
+    site_type: Office
+    source:  https://www.kantar.com/locations/south-korea
+    quote:   52 Gukjegeumyung-ro Yeoido-dong, 10th Floor, SIMPAC Bldg., Yeongdeungpo-gu, Seoul 07330
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 3rd Floor, No. 34 Bade Road, Section 3, Songshan District, Taipei, 10559, Taiwan
+    site_type: Office
+    source:  https://www.kantar.com/locations/taiwan
+    quote:   3rd Floor, # 34 Bade Road, Section 3, Songshan District, Taipei 10559
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Suite 16.02, 16.03 & 16.05, Level 16, Centrepoint North, The Boulevard, Mid Valley City, Lingkaran Syed Putra, Kuala Lumpur, 59200, Malaysia
+    site_type: Office
+    source:  https://www.kantar.com/locations/malaysia
+    quote:   Centrepoint North, The Boulevard, Mid Valley City, Lingkaran Syed Putra, Kuala Lumpur 59200
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 14-15th floor, Rajanakarn Building, 3 South Sathorn Road, Yannawa, Sathorn, Bangkok, 10120, Thailand
+    site_type: Office
+    source:  https://www.kantar.com/locations/thailand
+    quote:   14-15th floor Rajanakarn Building, 3 South Sathorn Road, Yannawa, Sathorn, Bangkok 10120
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: The RDTX PLACE, 33rd floor, Jl. Prof. Dr. Satrio Kav. 3, Karet Kuningan, Setiabudi, Jakarta, 12940, Indonesia
+    site_type: Office
+    source:  https://www.kantar.com/locations/indonesia
+    quote:   The RDTX PLACE 33rd floor, Jl. Prof. DR. Satrio Kav. 3 Karet Kuningan, Setiabudi Jakarta 12940
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Agrex Building, 58 Vo Van Tan Street, District 3, Ho Chi Minh City, Vietnam
+    site_type: Office
+    source:  https://www.kantar.com/locations/vietnam
+    quote:   Agrex Building, 58 Vo Van Tan Street, District 3, Ho Chi Minh City
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Level 1, 46 Sale Street, Auckland, 1010, New Zealand
+    site_type: Office
+    source:  https://www.kantar.com/locations/new-zealand
+    quote:   Level 1, 46 Sale Street Auckland 1010
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 23/F The Podium West Tower, ADB Avenue corner Julia Vargas Avenue, Ortigas Center, Mandaluyong City, Metro Manila, 1550, Philippines
+    site_type: Office
+    source:  https://www.kantar.com/locations/philippines
+    quote:   23/F The Podium West Tower, ADB Avenue corner Julia Vargas Avenue, Ortigas Center Mandaluyong City 1550
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 3012A Winnie Mandela Drive, The Base, Johannesburg, Gauteng, 2191, South Africa
+    site_type: Office
+    source:  https://www.kantar.com/locations/south-africa
+    quote:   The Base, 3012A Winnie Mandela Drive, Johannesburg, Bryanston 2191
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 376 Ikorodu Road, Maryland, Lagos, Nigeria
+    site_type: Office
+    source:  https://www.kantar.com/locations/nigeria
+    quote:   376 Ikorodu Road, Maryland, Lagos
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: The Templeton, 4th Floor, Matundu Lane, Westlands, Nairobi, Kenya
+    site_type: Office
+    source:  https://www.kantar.com/locations/kenya
+    quote:   The Templeton, 4th Floor, Matundu Lane, Westlands P.O. Box 72951-0020 Nairobi
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: C24/14 Blohum Street, opposite Fidelity Bank Dzorwulu, Accra, Ghana
+    site_type: Office
+    source:  https://www.kantar.com/locations/ghana
+    quote:   C24/14 Blohum Street Opposite Fidelity Bank Dzorwulu, Accra, Ghana
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: S1B, 90 Street, 2nd floor, 5th Settlement Downtown, New Cairo, Cairo Governorate, Egypt
+    site_type: Office
+    source:  https://www.kantar.com/locations/egypt
+    quote:   S1B, 90 Street, 2nd floor, 5th Settlement Downtown New Cairo Cairo
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Av. Francisco Matarazzo, 1350 – Barra Funda, São Paulo, São Paulo, 01419-002, Brazil
+    site_type: Office, Headquarters
+    source:  https://www.kantar.com/locations/brazil
+    quote:   Av. Francisco Matarazzo, 1350 - Barra Funda São Paulo SP, 01419-002
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Av. Insurgentes Sur #863, Piso 13, Col. Nápoles, Mexico City, Mexico City, 03810, Mexico
+    site_type: Office
+    source:  https://www.kantar.com/locations/mexico
+    quote:   Av.Insurgentes Sur # 863, Piso 13, Col. Nápoles, Mexico City DF 03810
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avenida Santa Fe 1970, Piso 2, Buenos Aires, 1123, Argentina
+    site_type: Office, Headquarters
+    source:  https://www.kantar.com/locations/argentina
+    quote:   Avenida Santa Fe 1970 Piso 2 Buenos Aires 1123
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Almirante Pastene 244, Oficina 201, Santiago, Santiago Metropolitan Region, Chile
+    site_type: Office
+    source:  https://www.kantar.com/locations/chile
+    quote:   Almirante Pastene 244 - Oficina 201 Santiago
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Edificio Insignia, Calle 97 No. 11B -17, Bogotá, Bogotá Capital District, Colombia
+    site_type: Office, Headquarters
+    source:  https://www.kantar.com/locations/colombia
+    quote:   Edificio Insignia, Calle 97 No. 11B -17 Bogotá
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Edificio Leuro, Av. Paseo de la República 5895, Piso 2, Miraflores, Lima, Lima, 15047, Peru
+    site_type: Office, Headquarters
+    source:  https://www.kantar.com/locations/peru
+    quote:   Edificio Leuro Av. Paseo de la República 5895, Piso 2 Miraflores 15047 Lima 15047
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Mariano Aguilera E7-311 at Diego de Almagro, Quito, Pichincha, 170517, Ecuador
+    site_type: Office
+    source:  https://www.kantar.com/locations/ecuador
+    quote:   Mariano Aguilera E7-311 at Diego de Almagro Quito 170517
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Juncal 1305, 2nd Floor, Montevideo, Uruguay
+    site_type: Office
+    source:  https://www.kantar.com/locations/uruguay
+    quote:   Juncal 1305, 2nd Floor, Montevideo
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Oficentro Torres del Campo, Torre 2, Piso 4, Barrio Tournón, San José, Costa Rica
+    site_type: Office
+    source:  https://www.kantar.com/locations/costa-rica
+    quote:   Barrio Tournón Oficentro Torres del Campo Torre 2, Piso 4 San Jose
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Aquilino De La Guardia, Torre Banco General, Oficina 2201, Panama City, Panama
+    site_type: Office
+    source:  https://www.kantar.com/locations/panama
+    quote:   Aquilino De La Guardia, Torre Banco General, Oficina 2201 Panamá
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Edificio Géminis 10, Torre Sur, #1702, Guatemala City, Guatemala
+    site_type: Office
+    source:  https://www.kantar.com/locations/guatemala
+    quote:   Edificio Géminis 10, Torre Sur, #1702, Guatemala City
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Artigas 3671, Asunción, Paraguay
+    site_type: Office
+    source:  https://www.kantar.com/locations/paraguay
+    quote:   Artigas 3671 - Asunción / Paraguay
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 9360 Al Madinah Al Munawarah Branch Rd, Al Andalus District, Alamoudi Tower, Unit No. 303, Jeddah, Makkah Province, 23326-4150, Saudi Arabia
+    site_type: Office
+    source:  https://www.kantar.com/locations/saudi-arabia
+    quote:   9360 Al Madinah Al Munawarah Branch Rd - Al Andalus District, Alamoudi Tower, Unit No. 303, Jeddah 23326 – 4150
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: One JLT, 13th Floor, Jumeirah Lakes Towers, Dubai, Dubai, United Arab Emirates
+    site_type: Office
+    source:  https://www.kantar.com/locations/united-arab-emirates
+    quote:   One JLT, 13th Floor, Jumeirah Lakes Towers, Dubai
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 42 Bd. Abdelmoumen, 5ème étage, Numéro 37, Casablanca, Morocco
+    site_type: Office
+    source:  https://www.kantar.com/locations/morocco
+    quote:   42, Bd Abdelmoumen 5ème étage Numéro 37 Casablanca Casablanca
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 10th Floor, South Breeze Center, House 5, Road No. 11, Block G, Banani, Dhaka, 1213, Bangladesh
+    site_type: Office
+    source:  https://www.kantar.com/locations/bangladesh
+    quote:   10th Floor, South Breeze Center House 5 Road No. 11 Block G Banani Dhaka 1213
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Strossmayerovo náměstí 1477/6, Prague, Prague, 17000, Czech Republic
+    site_type: Office
+    source:  https://www.kantar.com/locations/czech-republic
+    quote:   Strossmayerovo náměstí 1477/6, Prague 17000 Praha 7
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Swan Lane, Wednesbury Industrial Estate, West Bromwich, West Midlands, B70 0NU, United Kingdom
+    site_type: Office
+    source:  https://www.kantar.com/Locations/United-Kingdom
+    quote:   Wednesbury Industrial Estate Swan Lane West Bromwich West Midlands, B70 0NU
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Olympus Avenue, Tachbrook Park, Warwick, Warwickshire, CV34 6RJ, United Kingdom
+    site_type: Office
+    source:  https://www.kantar.com/Locations/United-Kingdom
+    quote:   Olympus Avenue Tachbrook Park Warwick CV34 6RJ United Kingdom
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Darmstädter Landstraße 112, Frankfurt am Main, Hesse, 60598, Germany
+    site_type: Office
+    source:  https://www.kantar.com/de/ueber-uns/-/media/8ea4fb28bac544d09ed8a6903f653927.ashx
+    quote:   1. Kantar GmbH Darmstädter Landstraße 112 60598 Frankfurt am Main Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Thumenberger Weg 27, Nuremberg, Bavaria, 90494, Germany
+    site_type: Office
+    source:  https://www.kantar.com/de/ueber-uns/-/media/8ea4fb28bac544d09ed8a6903f653927.ashx
+    quote:   2. Kantar GmbH Thumenberger Weg 27 90494 Nürnberg Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Ludwigsluster Straße 29, Parchim, Mecklenburg-Vorpommern, 19370, Germany
+    site_type: Telephone Data Collection Facility
+    source:  https://www.kantar.com/de/ueber-uns/-/media/8ea4fb28bac544d09ed8a6903f653927.ashx
+    quote:   3. telquest GmbH Ludwigsluster Straße 29 19370 Parchim Germany Telephone data collection
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 6 Ely Place, Dublin, D02 E896, Ireland
+    site_type: Office
+    source:  https://www.kantarworldpanel.com/ie/About-us/Contact-Us
+    quote:   Kantar’s Dublin office address is: 6 Ely Place, Dublin 2, Ireland Postal code: D02 E896
+
+Ground-truth address row(s) available for 'KANTAR': 62
+
+Results written to: results\sites_sample5_noguess_20260925\KANTAR__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 12 calls, 531650 in / 11634 out tokens
+TOTAL web_search: 12 calls, 193927 in / 5630 out tokens
+TOTAL scrapingbee: 1 calls, 1 credits (~$0.0002), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 82 (issued: web_search 12/45, fetch_page 70 (uncapped), of which 2 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.1956  (chat $0.0393, search tokens $0.0361, search call fee $0.1200, scrapingbee $0.0002)
+  input tokens priced as: 141377 uncached, 520001 cached read, 64199 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         12 calls, 531650 in / 11634 out tokens
+
+--- Queries issued (84) ---
+[site_extractor] web_search: KANTAR official website
+[site_extractor] fetch_page: https://www.kantar.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=KANTAR&page[size]=50
+[site_extractor] fetch_page: https://www.kantar.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=KANTAR
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=KANTAR
+[site_extractor] fetch_page: https://www.kantar.com/locations
+[site_extractor] fetch_page: https://www.kantar.com/investor-relations
+[site_extractor] fetch_page: https://www.kantar.com/contact
+[site_extractor] web_search: "Kantar" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: Kantar subsidiaries acquired brands official
+[site_extractor] web_search: Kantar annual report subsidiaries offices locations PDF
+[site_extractor] fetch_page: https://www.kantar.com/investor-relations/financial-announcement/-/media/E8C198AFCA004736AEE16E8E060F2D56.ashx
+[site_extractor] fetch_page: https://www.kantar.com/locations/canada
+[site_extractor] fetch_page: https://www.kantar.com/locations/united-states-of-america
+[site_extractor] fetch_page: https://www.kantar.com/de/ueber-uns/-/media/8ea4fb28bac544d09ed8a6903f653927.ashx
+[site_extractor] fetch_page: https://www.kantar.com/locations/united-kingdom
+[site_extractor] fetch_page: https://www.kantar.com/locations/australia
+[site_extractor] fetch_page: https://www.kantar.com/campaigns/investor-relations
+[site_extractor] fetch_page: https://www.kantar.com/locations/china
+[site_extractor] fetch_page: https://www.kantar.com/locations/india
+[site_extractor] fetch_page: https://www.kantar.com/locations/singapore
+[site_extractor] fetch_page_pdf_local: https://www.kantar.com/de/ueber-uns/-/media/8ea4fb28bac544d09ed8a6903f653927.ashx
+[site_extractor] fetch_page_pdf_local: https://www.kantar.com/investor-relations/financial-announcement/-/media/E8C198AFCA004736AEE16E8E060F2D56.ashx
+[site_extractor] fetch_page: https://www.kantar.com/locations/france
+[site_extractor] fetch_page: https://www.kantar.com/locations/germany
+[site_extractor] fetch_page: https://www.kantar.com/locations/italy
+[site_extractor] fetch_page: https://www.kantar.com/locations/spain
+[site_extractor] fetch_page: https://www.kantar.com/locations/netherlands
+[site_extractor] fetch_page: https://www.kantar.com/locations/switzerland
+[site_extractor] fetch_page: https://www.kantar.com/locations/sweden
+[site_extractor] fetch_page: https://www.kantar.com/locations/norway
+[site_extractor] fetch_page: https://www.kantar.com/locations/denmark
+[site_extractor] fetch_page: https://www.kantar.com/locations/finland
+[site_extractor] fetch_page: https://www.kantar.com/locations/poland
+[site_extractor] fetch_page: https://www.kantar.com/locations/belgium
+[site_extractor] fetch_page: https://www.kantar.com/locations/austria
+[site_extractor] fetch_page: https://www.kantar.com/locations/ireland
+[site_extractor] fetch_page: https://www.kantar.com/locations/portugal
+[site_extractor] fetch_page: https://www.kantar.com/locations/japan
+[site_extractor] fetch_page: https://www.kantar.com/locations/hong-kong
+[site_extractor] fetch_page: https://www.kantar.com/locations/south-korea
+[site_extractor] fetch_page: https://www.kantar.com/locations/taiwan
+[site_extractor] fetch_page: https://www.kantar.com/locations/malaysia
+[site_extractor] fetch_page: https://www.kantar.com/locations/thailand
+[site_extractor] fetch_page: https://www.kantar.com/locations/indonesia
+[site_extractor] fetch_page: https://www.kantar.com/locations/vietnam
+[site_extractor] fetch_page: https://www.kantar.com/locations/new-zealand
+[site_extractor] fetch_page: https://www.kantar.com/locations/philippines
+[site_extractor] fetch_page: https://www.kantar.com/locations/south-africa
+[site_extractor] fetch_page: https://www.kantar.com/locations/nigeria
+[site_extractor] fetch_page: https://www.kantar.com/locations/kenya
+[site_extractor] fetch_page: https://www.kantar.com/locations/ghana
+[site_extractor] fetch_page: https://www.kantar.com/locations/egypt
+[site_extractor] fetch_page: https://www.kantar.com/locations/brazil
+[site_extractor] fetch_page: https://www.kantar.com/locations/mexico
+[site_extractor] fetch_page: https://www.kantar.com/locations/argentina
+[site_extractor] fetch_page: https://www.kantar.com/locations/chile
+[site_extractor] fetch_page: https://www.kantar.com/locations/colombia
+[site_extractor] fetch_page: https://www.kantar.com/locations/peru
+[site_extractor] fetch_page: https://www.kantar.com/locations/ecuador
+[site_extractor] fetch_page: https://www.kantar.com/locations/uruguay
+[site_extractor] fetch_page: https://www.kantar.com/locations/costa-rica
+[site_extractor] fetch_page: https://www.kantar.com/locations/panama
+[site_extractor] fetch_page: https://www.kantar.com/locations/guatemala
+[site_extractor] fetch_page: https://www.kantar.com/locations/paraguay
+[site_extractor] fetch_page: https://www.kantar.com/locations/saudi-arabia
+[site_extractor] fetch_page: https://www.kantar.com/locations/united-arab-emirates
+[site_extractor] fetch_page: https://www.kantar.com/locations/morocco
+[site_extractor] web_search: Google Maps Kantar London office address
+[site_extractor] web_search: Kantar office North West England address directory
+[site_extractor] web_search: Kantar office Midlands England address directory
+[site_extractor] web_search: Kantar office Scotland address directory
+[site_extractor] fetch_page: https://www.kantar.com/Locations/United-Kingdom
+[site_extractor] web_search: Kantar West Bromwich office address
+[site_extractor] web_search: Kantar Warwick office address
+[site_extractor] web_search: Kantar Ireland Dublin office address
+[site_extractor] web_search: Kantar offices Bangladesh Bulgaria Czech Republic Romania address
+[site_extractor] fetch_page: https://www.kantar.com/locations/bangladesh
+[site_extractor] fetch_page: https://www.kantar.com/locations/bulgaria
+[site_extractor] fetch_page: https://www.kantar.com/locations/czech-republic
+[site_extractor] fetch_page: https://www.kantar.com/locations/romania
+[site_extractor] fetch_page: https://www.kantarworldpanel.com/ie/About-us/Contact-Us
+[site_extractor] fetch_page: https://www.kantar.com/locations/ireland
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\scrapingbee_log.jsonl
+
+Combined CSV now holds 2 companies: results\sites_sample5_noguess_20260925\combined_5.csv
+
+==============================================================================
+[3/5] HUSKY INJECTION MOLDING SYSTEM
+==============================================================================
+Researching site locations for: HUSKY INJECTION MOLDING SYSTEM
+
+Collected 36 distinct candidate address(es).
+
+Company domains treated as first-party: husky.co, husky.ca, spareparts.husky.co
+
+=== Ranked candidates for HUSKY INJECTION MOLDING SYSTEM ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 500 Queen Street South, Bolton, Ontario, L7E 5S5, Canada
+    site_type: Headquarters, Manufacturing Plant, R&D, Engineering Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Bolton Husky Technologies TM 500 Queen Street South, Bolton, Ontario, Canada L7E 5S5
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 288 North Road, Milton, Vermont, 05468, United States
+    site_type: Manufacturing Plant, Hot Runner Manufacturing
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Milton Hot Runners 288 North Road Milton, VT, USA, 05468
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 351-B Salem Road, Jeffersonville, Indiana, 47130, United States
+    site_type: Service Center, Parts Distribution/Warehouse
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Jeffersonville Husky Technologies TM Service Center 351-B Salem Road Jeffersonville, IN 47130
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 420 South Lone Hill Ave., San Dimas, California, 91773, United States
+    site_type: Mold Manufacturing Plant, Engineering
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   San Dimas Magor Mold, LLC 420 South Lone Hill Ave. San Dimas, CA 91773, USA
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Rodovia Dom Gabriel Paulino Bueno Couto, Km 66.5, Jundiai, São Paulo, 13216-990, Brazil
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Brazil Husky Technologies TM Rodovia Dom Gabriel Paulino Bueno Couto, Km 66.5 13216-990 Jundiai, SP, Brasil
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Avenida Prolongación Paseo de la Reforma #1236, Piso 1, Colonia Santa Fe, Cuajimalpa, Mexico City, Mexico City, 05348, Mexico
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Mexico Avenida Prolongación Paseo de la Reforma #1236 Piso 1 Colonia Santa Fe, Cuajimalpa CDMX CP 05348
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Zone d’activité économique Wolser H, 170, Dudelange, 3451, Luxembourg
+    site_type: Manufacturing Plant, Technical Center, Sales Office
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Luxembourg Zone d’activité économique Wolser H, 170 3451 Dudelange Luxembourg
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Industrie Grossholz, Diessenhofen, Thurgau, 8253, Switzerland
+    site_type: Mold Manufacturing Plant, R&D, Technical Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Switzerland Schöttli AG CH-8253 Diessenhofen Industrie Grossholz
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Kuskovskaya ul., 20A, Block A, 5th floor, of. 511, Moscow, 111141, Russia
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Russia Husky Technologies TM Kuskovskaya ul., 20A Block A, 5th floor, of. 511 111141 Moscow, Russia
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Barbaros Mah. Halk cd., Palladium Residence (A blok), No: 8A, İç kapı no: 3, Istanbul, 34746, Türkiye
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Türkiye Barbaros Mah. Halk cd. Palladium Residence (A blok) No : 8A İç kapı no: 3 34746 Ataşehir Istanbul Türkiye
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Haeshel St. 7, Zone 2, Caesarea Industrial Park, Caesarea, 38900, Israel
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Israel P.O.B. 3593 Haeshel St. 7, Zone 2 Caesarea Industrial Park, 38900
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Parade on Kloof Office Park, No. 1 The Parade Street, Bedfordview, Gauteng, 2007, South Africa
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   South Africa Parade on Kloof office Park No.1 the Parade Street Bedfordview 2007 South Africa
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 2W306 Dubai Airport Free Zone, Dubai, 54430, United Arab Emirates
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   United Arab Emirates 2W306 Dubai Airport Free Zone PO Box 54430, Dubai, UAE
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Suite A40B, Level 5, 24 Lexington Drive, Norwest Business Park, Bella Vista, New South Wales, 2153, Australia
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Australia Suite A40B, Level 5 24 Lexington Drive Norwest Business Park Bella Vista NSW 2153 Australia
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Unit 605, 6F, Tower C, Beijing Yintai Center Office Tower, No. 2 Jian Guo Men Wai Avenue, Chao Yang District, Beijing, 100020, China
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Beijing Unit 605, 6F, Tower C, Beijing Yintai Center Office Tower No. 2 Jian Guo Men Wai Avenue, Chao Yang District Beijing, 100020
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Hong Kong, Hong Kong
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Hong Kong Hong Kong Branch Tel (852) 2168-5700
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 101 Ba Sheng Road, Waigaoqiao Free Trade Zone, Shanghai, 200131, China
+    site_type: Manufacturing Plant, Technical Center, Sales Office
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Shanghai 101 Ba Sheng Road Waigaoqiao Free Trade Zone Shanghai 200131
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Room 2507, HuiJu Innovation Park, XinAn Community, BaoAn District, Shenzhen, Guangdong, China
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Shenzhen Room 2507 HuiJu Innovation Park, XinAn Community, BaoAn District, Shenzhen City Guandong Province P.R.China
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 421, 4th Floor, Time Tower, Mehrauli Gurgaon Road, Gurgaon, Haryana, 122002, India
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Delhi 421, 4th Floor Time Tower Mehrauli Gurgaon Road Gurgaon 122002 Haryana
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: P-47, 8th Avenue, Domestic Tariff Area, Mahindra World City, Anjur Post, Chengalpattu, Tamil Nadu, 603004, India
+    site_type: Manufacturing Plant, Parts Distribution/Warehouse, Service Center, R&D
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Chennai P-47, 8th Avenue, Domestic Tariff Area, Mahindra World City, Anjur Post, Chengalpattu, Kancheepuram District PIN 603004 Tamil Nadu, India
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: No. 28, 6th Floor, Olympia Teknos, South Phase, Dr. Ambedkar Nagar, SIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu, 600032, India
+    site_type: Engineering Center, R&D, Office
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   DST & Dev Engg - Chennai City Office No. 28, 6th Floor, Olympia Teknos, South Phase, Dr. Ambedkar Nagar, SIDCO Industrial Estate, Guindy, Chennai – 600 032, Tamil Nadu, India
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Menara DEA, 15th Floor, Suite 1502, Kawasan Mega Kuningan, JL. Mega Kuningan Barat Kav. E.4.3 No. 1, Jakarta, 12950, Indonesia
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Indonesia Representative Office Menara DEA, 15th Floor Suite 1502 Kawasan Mega Kuningan JL. Mega Kuningan Barat Kav. E. 4.3 No. 1 Jakarta 12950, Indonesia
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 5-10-1 Minami Machida, Machida, Tokyo, 194-0005, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Tokyo 5-10-1 Minami Machida Machida-shi Tokyo, 194-0005 Japan
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 16th Floor, 1601 Robinsons Summit Center, 6783 Ayala Avenue, Makati City, Metro Manila, Philippines
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Philippines 16th Floor 1601 Robinsons Summit Center 6783 Ayala Avenue, Makati City, Philippines
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 1 Paya Lebar Link, #04-01, Paya Lebar Quarter, Singapore, 408533, Singapore
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Singapore 1 Paya Lebar Link, #04-01 Paya Lebar Quarter Singapore 408533
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Rm.1110 Ace Twin Tower 1, 285 Digital-ro, Guro-gu, Seoul, 08381, South Korea
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   South Korea Rm.1110 Ace Twin Tower 1, 285 Digital-ro, Guro-gu, Seoul, Republic of Korea, 08381
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: 252/100 (Unit B), Muang Thai-Phatra Complex Building, 20th Floor, Tower B, Rachadapisek Road, Huaykwang, Bangkok, 10310, Thailand
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Thailand 252/100 (Unit B), Muang Thai - Phatra Complex Building, 20th Floor, Tower B, Rachadapisek Road, Huaykwang, Bangkok 10310 Thailand
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 10th Floor, IDD Building, 111 Ly Chinh Thang, Ward 7, District 3, Ho Chi Minh City, Vietnam
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Vietnam 10th Floor, IDD Building, 111 Ly Chinh Thang, Ward 7, District 3, Ho Chi Minh City, Vietnam
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Argentina
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Argentina Husky Technologies TM Tel (54) 11 6841-4400
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Colombia
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Colombia Husky Technologies TM Tel (57) 1 746-5626
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Denmark
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Denmark Husky Technologies TM Tel (45) 3248-6200
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Italy
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Italy Husky Technologies TM Tel (39) 334-389-6857
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Spain
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Spain Husky Technologies TM Tel (34) 690 693 748
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: United Kingdom
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   United Kingdom Husky Technologies TM Tel (352) 52 1151
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Ukraine
+    site_type: Sales Office, Service Center
+    source:  https://www.husky.co/en/about-us/worldwide-locations/
+    quote:   Ukraine Tel (38) 44 391-5948 Fax (38) 44 390-5900
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 560 Queen Street South, Bolton, Ontario, L7E 3G6, Canada
+    site_type: Manufacturing Plant, Warehouse/Shipping Facility
+    source:  https://www.husky.ca/siteassets/documents/husky-global-supplier-quality-manual-released.pdf
+    quote:   Husky Injection Molding Systems Ltd. Machines 560 Queen Street South Bolton, ON L7E 3G6 CANADA
+
+Ground-truth address row(s) available for 'HUSKY INJECTION MOLDING SYSTEM': 24
+
+Results written to: results\sites_sample5_noguess_20260925\HUSKY_INJECTION_MOLDING_SYSTEM__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 259020 in / 10200 out tokens
+TOTAL web_search: 15 calls, 286669 in / 8894 out tokens
+TOTAL scrapingbee: 2 calls, 2 credits (~$0.0004), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 38 (issued: web_search 14/45, fetch_page 24 (uncapped), of which 1 were PDFs parsed locally for free (0 more read by local OCR) and 1/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.2381  (chat $0.0315, search tokens $0.0562, search call fee $0.1500, scrapingbee $0.0004)
+  input tokens priced as: 220714 uncached, 263471 cached read, 61504 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 259020 in / 10200 out tokens
+
+--- Queries issued (40) ---
+[site_extractor] web_search: HUSKY INJECTION MOLDING SYSTEM official website
+[site_extractor] fetch_page: https://www.husky.co/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=HUSKY%20INJECTION%20MOLDING%20SYSTEMS&page[size]=50
+[site_extractor] fetch_page: https://www.husky.co/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=HUSKY%20INJECTION%20MOLDING%20SYSTEMS
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=Husky%20Injection%20Molding%20Systems
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/worldwide-locations/
+[site_extractor] fetch_page: https://www.husky.co/en/contact/
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/regions-served/north-america/
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/regions-served/europe/
+[site_extractor] web_search: "Husky Injection Molding Systems" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/regions-served/latin-america/
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/regions-served/asia-pacific/
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/regions-served/india/
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/regions-served/southeast-asia/
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/regions-served/middle-east/
+[site_extractor] fetch_page: https://www.husky.co/contentassets/bc6f4046e4a645d381503a87fd617e80/2023-esg-report.pdf
+[site_extractor] fetch_page_search_fallback: https://www.husky.co/contentassets/bc6f4046e4a645d381503a87fd617e80/2023-esg-report.pdf
+[site_extractor] web_search: Google Maps Husky Technologies Quebec Canada
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/regions-served/north-asia/
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/regions-served/africa/
+[site_extractor] web_search: Husky Technologies office Ontario address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Husky Technologies Ontario Canada
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/news/New-ServiceCenter-Jeffersonville/
+[site_extractor] fetch_page: https://www.husky.co/en/about-us/news/Husky-Expands-In-India/
+[site_extractor] web_search: Husky Injection Molding Systems Canada office address directory
+[site_extractor] web_search: Husky Technologies Milton Vermont facility address directory
+[site_extractor] web_search: Husky Technologies Canada plant factory warehouse address
+[site_extractor] web_search: Husky Technologies manufacturing facilities plants Bolton Milton Luxembourg Diessenhofen India China
+[site_extractor] web_search: Husky Technologies Magor Mold San Dimas ownership subsidiary address
+[site_extractor] web_search: Husky Technologies Schöttli AG Diessenhofen subsidiary ownership address
+[site_extractor] web_search: Husky Injection Molding Systems warehouse distribution center service center address
+[site_extractor] web_search: Husky Technologies facility address China Shanghai manufacturing plant
+[site_extractor] web_search: Husky Technologies facility address Luxembourg Dudelange manufacturing technical center
+[site_extractor] fetch_page: https://www.uid.admin.ch/Detail.aspx?uid_id=CHE109432464
+[site_extractor] fetch_page: https://www.sec.gov/Archives/edgar/data/1823144/000162828026017266/exhibit9912025huskytechnol.htm
+[site_extractor] fetch_page: https://www.husky.ca/siteassets/documents/husky-global-supplier-quality-manual-released.pdf
+[site_extractor] fetch_page: https://www.sec.gov/Archives/edgar/data/1823144/000162828026017266/exhibit21-listofsubsidiari.htm
+[site_extractor] fetch_page_pdf_local: https://www.husky.ca/siteassets/documents/husky-global-supplier-quality-manual-released.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\scrapingbee_log.jsonl
+
+Combined CSV now holds 3 companies: results\sites_sample5_noguess_20260925\combined_5.csv
+
+==============================================================================
+[4/5] TOPPAN LEEFUNG PRINTING
+==============================================================================
+Researching site locations for: TOPPAN LEEFUNG PRINTING
+
+Collected 14 distinct candidate address(es).
+
+Company domains treated as first-party: toppanleefung.com, toppanleefunglabel.com, toppannext.com
+
+=== Ranked candidates for TOPPAN LEEFUNG PRINTING ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Unit A, 20/F, Lee & Man Commercial Centre, 169 Electric Road, North Point, Hong Kong
+    site_type: Headquarters, Office, Sales Office
+    source:  https://toppanleefunglabel.com/en/contact-us-en/
+    quote:   Hong Kong Office — TOPPAN Leefung Label Printing Limited — Address: Unit A, 20th Floor, Lee & Man Commercial Center, 169 Electric Road, North Point, Hong Kong
+
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Room 101, Block 1, 61 Yong Sheng Road, Dongkeng, Dongguan, Guangdong, 523455, China
+    site_type: Manufacturing Plant, Label Printing, Packaging
+    source:  https://toppanleefunglabel.com/en/contact-us-en/
+    quote:   Dongguan Plant — TOPPAN Leefung Label Printing (Dongguan) Co., Ltd. — Address: Room 101, Block 1, 61 Yong Sheng Road, Dongkeng, Dongguan, Guangdong, China Postal Code:523455
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: No. 670, Dalingshan Section, Shida Road, Dalingshan Town, Dongguan, Guangdong, 523825, China
+    site_type: Manufacturing Plant, Book Printing
+    source:  https://www.toppanleefung.com/
+    quote:   DONGGUAN TOPPAN literary & art books | Dongguan, China | No.670, Dalingshan Section, Shida Road, Dalingshan Town, Dongguan City
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: No. 3, Technology 3rd Road, Zhupingsha Village, Wangniudun Town, Dongguan, Guangdong, China
+    site_type: Manufacturing Plant, Specialty Printing, Book Printing
+    source:  https://www.toppannext.com/say-hello/
+    quote:   Specialty Printing — No.3, Technology 3rd Road, Zhupingsha Village, Wangniudun Town, Dongguan, Guangdong
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Block 3, No. 3, Kechuang East 2nd Street, Tongzhou District, Beijing, Beijing, 101111, China
+    site_type: Manufacturing Plant, Educational Book Printing
+    source:  https://www.toppanleefung.com/
+    quote:   BEIJING TOPPAN educational books | Beijing, China | Block 3, No.3, Kechuang East 2nd Street, Tong Zhou District, Beijing, P.R.C.
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: 2300 Shengang Road, Songjiang Industrial District (East), Shanghai, Shanghai, 201612, China
+    site_type: Manufacturing Plant, Flexible Packaging, Medical Packaging, Cleanroom, Testing/Quality Facility
+    source:  https://www.toppanleefung.com/packaging/
+    quote:   230,000 sqm manufacturing facility in Shanghai is fully equipped to produce various packaging solutions
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1325 Avenue of the Americas, Suite 3300, New York, New York, 10019, United States
+    site_type: Sales Office, Regional Office
+    source:  https://www.toppannext.com/news-views/toppan-excel-at-the-bologna-childrens-book-fair/
+    quote:   New York — 1325 Avenue of the Americas, Suite 3300, New York, NY 10019, USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2nd Floor, 3 St Helen’s Place, London, England, EC3A 6AB, United Kingdom
+    site_type: Sales Office, Regional Office
+    source:  https://www.toppannext.com/news-views/toppan-excel-at-the-bologna-childrens-book-fair/
+    quote:   London — 2nd Floor, 3 St Helen’s Pl, City of London, London EC3A 6AB, United Kingdom
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 21 Rue Le Peletier, Paris, Île-de-France, 75009, France
+    site_type: Sales Office, Regional Office
+    source:  https://www.toppannext.com/news-views/toppan-excel-at-the-bologna-childrens-book-fair/
+    quote:   Paris — 21, rue Le Peletier, Paris, France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1 Kim Seng Promenade, #18-01 Great World City, East Lobby, Singapore, 237994, Singapore
+    site_type: Headquarters, Regional Office, Office
+    source:  https://www.toppannext.com/say-hello/
+    quote:   TOPPAN NEXT — Singapore — 1 Kim Seng Promenade, #18-01 Great World City East Lobby, Singapore 237994
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 41 Joo Koon Circle, Singapore, 629065, Singapore
+    site_type: Manufacturing/Production Facility, Security Printing, Office
+    source:  https://www.toppannext.com/say-hello/
+    quote:   TOPPAN Next Tech Pte. Ltd. — 41 Joo Koon Circle — Singapore 629065
+
+- [C] score=0.25 address_city_matched=YES  address_country_matched=YES
+    address: No. 106 Qingda Road, Pudong New Area, Shanghai, Shanghai, 201201, China
+    site_type: Manufacturing Plant, Printing
+    source:  https://www.dnb.com/business-directory/company-profiles.toppan_leefung_printing_%28shanghai%29_co_ltd.cc83086fdbbc02ce6e163a4f680e9278.html
+    quote:   Toppan Leefung Printing (Shanghai) Co., Ltd. | Shanghai, China | No.106, Qingda Road, Pudong New Area Shanghai, Shanghai, 201201 China
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 1 Fuk Wang Street, Yuen Long Industrial Estate, Yuen Long, New Territories, Hong Kong
+    site_type: Manufacturing Plant, Printing, Distribution/Export Facility
+    source:  https://panjiva.com/Toppan-Leefung-Printing-Ltd/28377731
+    quote:   Address TOPPAN PRINTING CTR 1 FUK WANG ST YUEN LONG IND EST YUEN LONG HK CN
+
+Ground-truth address row(s) available for 'TOPPAN LEEFUNG PRINTING': 6
+
+Results written to: results\sites_sample5_noguess_20260925\TOPPAN_LEEFUNG_PRINTING__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 12 calls, 201455 in / 8270 out tokens
+TOTAL web_search: 42 calls, 697432 in / 26869 out tokens
+TOTAL scrapingbee: 9 calls, 4 credits (~$0.0008), 5 failed -> escalated to paid search
+TOTAL tool calls attempted: 60 (issued: web_search 37/45, fetch_page 23 (uncapped), of which 0 were PDFs parsed locally for free (0 more read by local OCR) and 5/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.5802  (chat $0.0207, search tokens $0.1388, search call fee $0.4200, scrapingbee $0.0008)
+  input tokens priced as: 512347 uncached, 355798 cached read, 30742 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         12 calls, 201455 in / 8270 out tokens
+
+--- Queries issued (65) ---
+[site_extractor] web_search: TOPPAN LEEFUNG PRINTING official website
+[site_extractor] fetch_page: https://www.toppanleefung.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=TOPPAN%20LEEFUNG%20PRINTING&page[size]=50
+[site_extractor] fetch_page: https://www.toppanleefung.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=TOPPAN%20LEEFUNG%20PRINTING
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=TOPPAN%20LEEFUNG%20PRINTING
+[site_extractor] fetch_page_search_fallback: https://www.toppanleefung.com/sitemap.xml
+[site_extractor] fetch_page_search_fallback: https://www.toppanleefung.com/
+[site_extractor] web_search: "TOPPAN LEEFUNG PRINTING" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: site:toppanleefung.com locations offices plants TOPPAN Leefung Printing
+[site_extractor] web_search: TOPPAN Leefung Printing subsidiaries regional entities brands locations
+[site_extractor] web_search: TOPPAN Leefung Printing annual report facilities Hong Kong China Singapore
+[site_extractor] web_search: TOPPAN Leefung Printing factory plant address
+[site_extractor] fetch_page: https://toppanleefunglabel.com/en/contact-us-en/
+[site_extractor] fetch_page: https://www.holdings.toppan.com/assets/en/pdf/sustainability/2025/csr2025_en.pdf
+[site_extractor] fetch_page: https://www.toppanleefung.com/print-solutions
+[site_extractor] fetch_page: https://www.toppanleefung.com/packaging/
+[site_extractor] fetch_page: https://www.toppanleefung.com/contact
+[site_extractor] fetch_page: https://www.toppanleefung.com/about
+[site_extractor] fetch_page: https://www.toppanleefung.com/locations
+[site_extractor] fetch_page_search_fallback: https://www.holdings.toppan.com/assets/en/pdf/sustainability/2025/csr2025_en.pdf
+[site_extractor] web_search: TOPPAN Leefung Printing (Beijing) Co Ltd address
+[site_extractor] web_search: TOPPAN Leefung Printing (Dongguan) Co Ltd address
+[site_extractor] web_search: TOPPAN Leefung facilities Hong Kong office Shanghai Beijing Dongguan
+[site_extractor] fetch_page: https://toppanleefunglabel.com/en/certificates-and-qualification-en/
+[site_extractor] web_search: TOPPAN Leefung Printing Limited Hong Kong address official
+[site_extractor] web_search: TOPPAN Leefung Printing (Shanghai) Co Ltd address
+[site_extractor] web_search: TOPPAN Leefung Printing Singapore address TOPPAN Next Tech
+[site_extractor] web_search: TOPPAN Leefung office Southern District Hong Kong address Google Business Profile
+[site_extractor] web_search: Google Maps TOPPAN Leefung Hong Kong Central and Western district
+[site_extractor] web_search: TOPPAN Leefung office Central and Western Hong Kong address yellowpages OR dnb OR zoominfo
+[site_extractor] web_search: Google Maps TOPPAN Leefung Eastern District Hong Kong
+[site_extractor] web_search: TOPPAN Leefung office Wan Chai Hong Kong address directory
+[site_extractor] web_search: TOPPAN Leefung office Kowloon City Hong Kong address yellowpages OR dnb OR zoominfo
+[site_extractor] web_search: Google Maps TOPPAN Leefung Kowloon City Hong Kong
+[site_extractor] web_search: TOPPAN Leefung office Kwun Tong Hong Kong address directory
+[site_extractor] web_search: Google Maps TOPPAN Leefung Sha Tin Hong Kong
+[site_extractor] web_search: Google Maps TOPPAN Leefung Kwun Tong Hong Kong
+[site_extractor] web_search: Google Maps TOPPAN Leefung Tsuen Wan Hong Kong
+[site_extractor] web_search: TOPPAN Leefung office Yuen Long Hong Kong address directory
+[site_extractor] web_search: Google Maps TOPPAN Leefung Tuen Mun Hong Kong
+[site_extractor] web_search: TOPPAN Leefung office Tai Po Hong Kong address yellowpages OR dnb
+[site_extractor] fetch_page: https://sourcing.hktdc.com/en/Supplier-Store-Directory/Toppan-Leefung-Printing-Limited/1X05Z1DK
+[site_extractor] fetch_page: https://sourcing.hktdc.com/en/Supplier-Store-Directory/Toppan-Leefung-Hong-Kong-Limited/1X0AVZIL
+[site_extractor] fetch_page: https://estage.hk/index.php/hk/component/tags/tag/printing
+[site_extractor] fetch_page: https://panjiva.com/Toppan-Leefung-Printing-Ltd/28377731
+[site_extractor] fetch_page: https://www.toppannext.com/say-hello/
+[site_extractor] fetch_page: https://www.toppannext.com/our-companies/toppan-next-tech/
+[site_extractor] fetch_page: https://www.toppanleefung.com/print-solutions/educational-books
+[site_extractor] fetch_page_search_fallback: https://estage.hk/index.php/hk/component/tags/tag/printing
+[site_extractor] web_search: TOPPAN Leefung Printing London office address official
+[site_extractor] web_search: site:toppanleefung.com "Paris" "TOPPAN LEEFUNG PRINTING" address
+[site_extractor] web_search: TOPPAN Leefung Printing Paris office address official
+[site_extractor] web_search: TOPPAN Leefung Printing Shanghai No. 106 Qingda Road official
+[site_extractor] web_search: site:toppanleefung.com "London" "TOPPAN LEEFUNG PRINTING" address
+[site_extractor] web_search: TOPPAN Leefung Printing Dongguan Wangniudun Technology 3rd Road official
+[site_extractor] web_search: TOPPAN Leefung Printing Hong Kong Yuen Long Toppan Printing Centre official
+[site_extractor] fetch_page: https://www.toppannext.com/news-views/toppan-excel-at-the-bologna-childrens-book-fair/
+[site_extractor] fetch_page: https://entreprises.lefigaro.fr/toppan-leefung-international-printing-pte-ltd-00/entreprise-478531841
+[site_extractor] web_search: TOPPAN Leefung Printing Beijing Dongguan Shanghai legal entity subsidiaries address 2025
+[site_extractor] web_search: TOPPAN Leefung Printing New York 1325 Avenue Americas official
+[site_extractor] web_search: TOPPAN Leefung Printing Beijing Block 3 Kechuang East 2nd Street official company
+[site_extractor] web_search: TOPPAN Leefung Packaging Shanghai 2300 Shengang Road official facilities
+[site_extractor] fetch_page: https://www.dnb.com/business-directory/company-profiles.toppan_leefung_printing_%28shanghai%29_co_ltd.cc83086fdbbc02ce6e163a4f680e9278.html
+[site_extractor] fetch_page_search_fallback: https://www.dnb.com/business-directory/company-profiles.toppan_leefung_printing_%28shanghai%29_co_ltd.cc83086fdbbc02ce6e163a4f680e9278.html
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\scrapingbee_log.jsonl
+
+Combined CSV now holds 4 companies: results\sites_sample5_noguess_20260925\combined_5.csv
+
+==============================================================================
+[5/5] COSTACURTA SPA VICO
+==============================================================================
+Researching site locations for: COSTACURTA SPA VICO
+
+Collected 5 distinct candidate address(es).
+
+Company domains treated as first-party: costacurta.it, costacurta.com, costacurta.fr
+
+=== Ranked candidates for COSTACURTA SPA VICO ===
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Don Bartolomeo Grazioli, 30, Milan, Lombardy, 20161, Italy
+    site_type: Headquarters, Administrative Office, Sales Office
+    source:  https://www.costacurta.com/wp-content/uploads/2025/05/9001_FM-825286-001.pdf
+    quote:   Costacurta S.p.A.-VICO, Via Don Bartolomeo Grazioli, 30, Milano, Milan, 20161, Italy; Design, market development and sales.
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Valmolina Inferiore, 130, Garlate, Lombardy (Province of Lecco), 23852, Italy
+    site_type: Manufacturing Plant, Product & Process Development, Warehouse
+    source:  https://www.costacurta.com/wp-content/uploads/2025/05/9001_FM-825286-001.pdf
+    quote:   Costacurta S.p.A.-VICO, Via Valmolina Inferiore, 130, Garlate, Lecco, 23852, Italy; Design, Product & Process Development, Manufacturing of wedge wire screens.
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Adda, 20, Olginate, Lombardy (Province of Lecco), 23854, Italy
+    site_type: Manufacturing Plant, Product & Process Development, Warehouse
+    source:  https://www.costacurta.com/wp-content/uploads/2025/05/9001_FM-825286-001.pdf
+    quote:   Costacurta S.p.A.-VICO, Via Adda, 20, Olginate, Lecco, 23854, Italy; Design, Product & Process Development and Manufacturing of conveyor belts.
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Via Per Airuno, 19, Brivio, Lombardy (Province of Lecco), 23882, Italy
+    site_type: Manufacturing Site
+    source:  https://www.costacurta.com/wp-content/uploads/2025/07/14001_Ecertificate-EMS-825280.pdf
+    quote:   Costacurta S.p.A.-VICO, Via Per Airuno, 19, Brivio (LC), 23882, Italy; Produzione di: nastri trasportatori in filo metallico, filo piatto, piastra e mediante tessitura.
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: A. Hofmanweg, Haarlem, North Holland, 2031 BH, Netherlands
+    site_type: Registered Office, Financial Holding Office
+    source:  https://drimble.nl/bedrijf/haarlem/000018460046/costacurta-bv.html
+    quote:   De onderneming is gevestigd op A. Hofmanweg te Haarlem... Postcode 2031BH... Op 29-9-2023 is Costacurta B.V. ontbonden.
+
+Ground-truth address row(s) available for 'COSTACURTA SPA VICO': 3
+
+Results written to: results\sites_sample5_noguess_20260925\COSTACURTA_SPA_VICO__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 9 calls, 193783 in / 4096 out tokens
+TOTAL web_search: 8 calls, 153468 in / 5244 out tokens
+TOTAL scrapingbee: 1 calls, 1 credits (~$0.0002), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 30 (issued: web_search 8/45, fetch_page 22 (uncapped), of which 4 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.1295  (chat $0.0186, search tokens $0.0307, search call fee $0.0800, scrapingbee $0.0002)
+  input tokens priced as: 118381 uncached, 186174 cached read, 42696 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          9 calls, 193783 in / 4096 out tokens
+
+--- Queries issued (34) ---
+[site_extractor] web_search: COSTACURTA SPA VICO official website
+[site_extractor] fetch_page: https://www.costacurta.it/
+[site_extractor] fetch_page: https://www.costacurta.it/contatti/
+[site_extractor] fetch_page: https://www.costacurta.it/sitemap.xml
+[site_extractor] fetch_page: https://www.costacurta.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=COSTACURTA%20SPA%20VICO&page[size]=50
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=COSTACURTA%20SPA%20VICO
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=COSTACURTA%20SPA%20VICO
+[site_extractor] fetch_page: https://www.costacurta.it/azienda/certificazioni/
+[site_extractor] fetch_page: https://www.costacurta.it/page-sitemap.xml
+[site_extractor] fetch_page: https://www.costacurta.fr/
+[site_extractor] fetch_page: https://www.costacurta.com/the-company/certifications/
+[site_extractor] web_search: "COSTACURTA SPA VICO" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://www.costacurta.com/wp-content/uploads/2025/05/9001_FM-825286-001.pdf
+[site_extractor] fetch_page: https://www.costacurta.com/wp-content/uploads/2025/07/14001_Ecertificate-EMS-825280.pdf
+[site_extractor] fetch_page: https://www.costacurta.com/wp-content/uploads/2025/07/45001_Ecertificate-OHS-825285.pdf
+[site_extractor] fetch_page: https://www.costacurta.com/contacts/
+[site_extractor] fetch_page: https://www.costacurta.fr/contacts/
+[site_extractor] fetch_page: https://www.costacurta.it/azienda/about/
+[site_extractor] fetch_page_pdf_local: https://www.costacurta.com/wp-content/uploads/2025/07/14001_Ecertificate-EMS-825280.pdf
+[site_extractor] fetch_page_pdf_local: https://www.costacurta.com/wp-content/uploads/2025/05/9001_FM-825286-001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.costacurta.com/wp-content/uploads/2025/07/45001_Ecertificate-OHS-825285.pdf
+[site_extractor] web_search: Costacurta office Lombardia address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Costacurta S.p.A.-VICO subsidiaries brands offices locations
+[site_extractor] web_search: Costacurta Lecco Como Varese Pavia office address directory
+[site_extractor] web_search: Costacurta Milano Monza Brianza Bergamo Brescia office address
+[site_extractor] web_search: Google Maps Costacurta Lombardia
+[site_extractor] web_search: Costacurta S.p.A.-VICO company registry ownership subsidiary
+[site_extractor] fetch_page: https://www.costacurta.it/azienda/storia/
+[site_extractor] fetch_page: https://www.costacurta.com/wp-content/uploads/2025/12/EN_Bilancio-di-Sostenibilita-2024.pdf
+[site_extractor] fetch_page: https://www.costacurta.com/the-company/about/
+[site_extractor] fetch_page: https://www.costacurta.com/the-company/history/
+[site_extractor] fetch_page_pdf_local: https://www.costacurta.com/wp-content/uploads/2025/12/EN_Bilancio-di-Sostenibilita-2024.pdf
+[site_extractor] fetch_page: https://drimble.nl/bedrijf/haarlem/000018460046/costacurta-bv.html
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\scrapingbee_log.jsonl
+
+Combined CSV now holds 5 companies: results\sites_sample5_noguess_20260925\combined_5.csv
+
+
+==============================================================================
+BATCH SUMMARY
+==============================================================================
+company               rows  search  fetch  paid_fb   bee  credits     cost
+SCM GROUP               42      22     48        1     2        2    0.336
+KANTAR                  58      12     70        0     1        1    0.196
+HUSKY INJECTION MOLDING SYSTEM    36      15     24        1     2        2    0.238
+TOPPAN LEEFUNG PRINTING    13      42     23        5     9        4    0.580
+COSTACURTA SPA VICO      5       8     22        0     1        1    0.130
+TOTAL                  154      99    187        7    15       10    1.480
+
+Combined results: results\sites_sample5_noguess_20260925\combined_5.csv

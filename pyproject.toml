@@ -14,7 +14,17 @@ dependencies = [
     "openai>=2.0",
     "pydantic>=2.0",
     "requests>=2.34",
+    # PDF text extraction in fetch_page's free tier. 194 of 412 paid fallbacks in
+    # queries_log.jsonl were PDFs, 71 of them ISO/IATF/AS9100 certificates -- the densest
+    # address source a company publishes (one measured 24-page ISO 14001 bundle carries ~20
+    # exact plant addresses). All of the sampled ones return HTTP 200 application/pdf on a plain
+    # GET and extract cleanly. pypdf, not pymupdf (AGPL-3.0) or pdfminer.six (pulls in
+    # cryptography/cffi): BSD-3, pure Python, no transitive deps, no system binaries.
+    "pypdf>=5.1",
     "python-dotenv>=1.0",
+    "cryptography>=50.0.1",
+    "pypdfium2>=5.13.0",
+    "rapidocr-onnxruntime>=1.4.4",
 ]
 
 [project.scripts]

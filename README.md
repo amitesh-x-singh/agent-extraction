@@ -33,9 +33,11 @@ except a business directory, and first-party fetching cannot substitute for it.
 - `web_search` — OpenAI's hosted web search. Billed per call, so it is the scarce resource.
   Budget: 45 calls. `site:`-with-a-path queries are refused and redirected to `fetch_page`.
 - `fetch_page` — three tiers, cheapest first. Budget: 40 calls.
-  1. Plain `requests.get` — free.
+  1. Plain `requests.get` — free. PDFs included: recognised by magic bytes and parsed
+     locally with pypdf, so a certificate PDF costs nothing.
   2. ScrapingBee headless browser — ~$0.001, for bot-blocked or JS-rendered pages.
-  3. Paid `web_search` retrieval — ~$0.01, last resort and the only path for PDFs.
+  3. Paid `web_search` retrieval — ~$0.01, last resort: bot-walled pages, non-PDF binaries,
+     and PDFs with no text layer (scans). This tier is the only one with a call budget.
 
 **Scoring** ([`scoring.py`](src/site_extraction_one_agent/scoring.py)) is pure Python — no LLM, no
 network. Each candidate's source URL gets a tier, and near-duplicate addresses collapse to the
@@ -183,12 +185,35 @@ Change them there to run a cost experiment.
 
 ```python
 WEB_SEARCH_CALL_BUDGET = 45
-FETCH_PAGE_CALL_BUDGET = 40
-DIRECTORY_SWEEP_RESERVE = 14   # of the search budget, held back for the directory sweep
+FETCH_PAGE_PAID_CALL_BUDGET = 10   # fetch_page's PAID tier only; its free tiers are uncapped
+DIRECTORY_SWEEP_RESERVE = 14       # of the search budget, held back for the directory sweep
 ```
 
-Cost figures in the summary are estimates from the rates in `config.py`, not billed amounts.
-Verify against current OpenAI and ScrapingBee pricing before relying on them.
+### The cost figure is computed, not estimated
+
+Every quantity in it is reported by the provider on the call that incurred it, so the only
+external inputs are the published rates in `config.py`:
+
+| Line | Where the number comes from |
+| --- | --- |
+| uncached input tokens | `prompt_tokens` minus the two cache counts below |
+| cached input tokens | `prompt_tokens_details.cached_tokens`, billed at 0.1x |
+| cache-write tokens | `prompt_tokens_details.cache_write_tokens`, billed at 1.25x |
+| output tokens | `completion_tokens`, reasoning tokens included |
+| web_search call fee | the issued-call count times the published per-call price |
+| ScrapingBee | the credits ScrapingBee reported charging, never an assumed per-call price |
+
+**Input tokens are not one price**, which is the trap this replaced. The agent re-sends a
+growing conversation on every turn, so most of its input after the first call is a cache read
+billed at a tenth of the standard rate. Pricing the whole `prompt_tokens` count at the uncached
+rate — what this project did until 2026-09-23 — overstated the model-token portion of a run
+roughly tenfold. Runs logged before that date carry an `estimated_cost_usd` field and are not
+comparable with the `cost_usd` written since.
+
+`usage_log.jsonl` records `cost_usd` alongside a `cost_breakdown_usd` with each line above, so
+a run can be reconciled against an invoice line by line. Re-verify the rates against current
+OpenAI and ScrapingBee pricing before relying on a figure for billing; the ScrapingBee
+per-credit price in particular depends on which plan the account is on.
 
 ## Tests
 

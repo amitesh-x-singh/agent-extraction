@@ -1,0 +1,39 @@
+﻿supplier,gt_site,verdict,note
+ACXIOM,Needham Heights MA - 10 Kearney Rd.,MISS,no MA row in agent output
+ACXIOM,"New York NY - 100 W. 33rd St., 9th Fl",HIT,exact
+ACXIOM,Norcross GA - 3000 Northwoods Pkwy,MISS,no GA row in agent output
+ACXIOM,Conway AR - 301 E Dave Ward Dr.,HIT,exact
+ACXIOM,Shanghai CN - 4F No. 399 Bao Tun Rd,HIT,exact
+ACXIOM,Portsmouth NH - 75 New Hampshire Ave.,MISS,no NH row in agent output
+ACXIOM,Gdansk PL - Aleja Grunwaldzka 472B,HIT,exact
+ACXIOM,"London UK - Bankside 3, 90-100 Southwark St",HIT,exact
+ACXIOM,"Dubai AE - MCN Hive, Barsha Heights",HIT,exact
+ACXIOM,Nantong CN - No 120-1 Zilang Rd,HIT,exact
+ACXIOM,Mexico City MX - Palo Santo No. 22,HIT,exact
+ACXIOM,Frankfurt DE - Speicherstrasse 57-59,HIT,"agent has 57-59, GT 59"
+ADIENT LTD,Chachoengsao TH - 1 Moo 2 Nongchok,HIT,exact
+ADIENT LTD,Yokohama JP - 1-2-7 Sachiura,HIT,exact
+ADIENT LTD,Busan KR - 1518 Songjeong-dong,MISS,agent has Ansan + Asan KR only
+ADIENT LTD,Gqeberha ZA - 2 Newbolt St,MISS,agent has 1 ZA site (Silverton)
+ADIENT LTD,Miyako-gun JP - 3 Kokubu,HIT,exact
+ADIENT LTD,Tshwane ZA - 30 Helium Rd (Rosslyn),MISS,not found
+ADIENT LTD,Tshwane ZA - 328 Marks St (Waltloo),CITY-ONLY,"agent has 79 Waltloo Rd, Silverton - same locality, different street"
+ADIENT LTD,Chonburi TH - 369/35 Moo 6 Bowin,HIT,exact
+AIRGAS,Seattle WA - 4401 Airport Way S,MISS,"66 US branches returned, none in WA"
+ALCOA,Sao Luis BR - Av. Eng. Emiliano Macieira KM 18,HIT,exact
+AVX,Santa Clara CA - 2855 Kifer Rd,MISS,agent has San Diego CA only
+BOSCH,"Hanoi VN - 29 Lieu Giai, Capital Place",MISS,agent has Ho Chi Minh City VN only
+ESSENTRA PLC,Schaumburg IL - 10 N. Martingale Rd,HIT,exact
+FEDERAL MOGUL,Anyang KR - 121 Gwanak-daero,MISS,agent returned no South Korea rows
+FLEXTRONICS,Monroe OH - 1001 Logistics Way,HIT,exact
+GEHR PLASTICS INC,Addison TX - 14275 Midway Rd Ste 140,HIT,exact
+LEAR,Sriperumbudur IN - SIPCOT Irungattukottai,MISS,agent has 4 other IN sites
+MAGNA,Tokyo JP - Kyobashi Trust Tower,CITY-ONLY,"agent has Nihonbashi Plaza Bldg, Chuo-ku Tokyo - different building"
+MUBEA,Mississauga CA - 7300 Rapistan Ct,HIT,exact
+PARKER HANNIFIN,Ashley IN - 1 Parker Dr,MISS,no Ashley IN row among 126
+ROYAL DUTCH,Corunna ON - 130 St. Clair Pkwy,HIT,"agent has St. Clair Parkway, N0N 1G0, city given as Sarnia"
+Z-ADEPT SOLUTIONS LTD,Xiamen CN - 4F & 5F Guangyao Bldg,MISS,"agent resolved a different company (4 Harare, Zimbabwe sites)"
+Z-ADEPT SOLUTIONS LTD,Heredia CR - 150 Oeste del Cruce San Antonio Belen,MISS,same - wrong entity
+WORTHINGTON,Columbus OH - 1127 Dearborn Dr,HIT,exact
+WORTHINGTON,Apodaca MX - Andres Guajardo No 315,HIT,exact
+WORTHINGTON,Columbus OH - 200 Old Wilson Bridge Rd,HIT,agent has 200 W. Old Wilson Bridge Rd (GT row mislabels state as GA)

@@ -1,0 +1,484 @@
+Batch: 5 companies from suppliers.csv
+COELNER BENZIN RAFFINERIE KARL A KROSEBERG, KISAN OLEOCHEM AND DERIVATIVES PVT, GUANGZHOU FIVE SIX TECHNOLOGY, YJK INDUSTRIAL GROUP CO LTD, LEIPZIGER LOGISTIK UND LAGERHAUS
+
+
+==============================================================================
+[1/5] COELNER BENZIN RAFFINERIE KARL A KROSEBERG
+==============================================================================
+Researching site locations for: COELNER BENZIN RAFFINERIE KARL A KROSEBERG
+
+Collected 1 distinct candidate address(es).
+
+Company domains treated as first-party: cbr-online.de
+
+=== Ranked candidates for COELNER BENZIN RAFFINERIE KARL A KROSEBERG ===
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Eupener Straße 128-144, Köln, North Rhine-Westphalia, 50933, Germany
+    site_type: Manufacturing Plant, Mineral-oil Processing, Storage/Tank Farm, Filling and Handling, R&D/Laboratory, Administration, Rail Wagon Loading
+    source:  https://www.cbr-online.de/cbr/kontakt.php
+    quote:   Werk und Verwaltung: Eupener Straße 128-144, D-50933 Köln ... Station für Waggon: Köln-Bickendorf, Anschlussgleis
+
+Ground-truth address row(s) available for 'COELNER BENZIN RAFFINERIE KARL A KROSEBERG': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\COELNER_BENZIN_RAFFINERIE_KARL_A_KROSEBERG__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 181370 in / 3590 out tokens
+TOTAL web_search: 18 calls, 223734 in / 7412 out tokens
+TOTAL scrapingbee: 1 calls, 1 credits (~$0.0002), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 41 (issued: web_search 18/45, fetch_page 22 (uncapped), of which 4 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 1; certificate searches refused: 0)
+TOTAL cost: $0.2346  (chat $0.0149, search tokens $0.0395, search call fee $0.1800, scrapingbee $0.0002)
+  input tokens priced as: 144732 uncached, 229595 cached read, 30777 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 181370 in / 3590 out tokens
+
+--- Queries issued (44) ---
+[site_extractor] web_search: COELNER BENZIN RAFFINERIE KARL A KROSEBERG official website
+[site_extractor] fetch_page: https://www.cbr-online.de/
+[site_extractor] fetch_page: https://www.cbr-online.de/cbr/impressum.php
+[site_extractor] fetch_page: https://www.cbr-online.de/sitemap.xml
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=COELNER%20BENZIN%20RAFFINERIE%20KARL%20A%20KROSEBERG&page[size]=50
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=COELNER%20BENZIN%20RAFFINERIE%20KARL%20A%20KROSEBERG
+[site_extractor] fetch_page: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=COELNER%20BENZIN%20RAFFINERIE%20KARL%20A%20KROSEBERG&type=10-K
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=COELNER%20BENZIN%20RAFFINERIE%20KARL%20A%20KROSEBERG
+[site_extractor] web_search: "COELNER BENZIN RAFFINERIE KARL A KROSEBERG" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://www.cbr-online.de/cbr/kontakt.php
+[site_extractor] fetch_page: https://www.cbr-online.de/en/cbr/contact.php
+[site_extractor] fetch_page: https://www.cbr-online.de/en/certifications/index.php
+[site_extractor] fetch_page: https://www.cbr-online.de/zertifizierungen/
+[site_extractor] fetch_page: https://www.cbr-online.de/zertifizierungen/iso14001.php
+[site_extractor] fetch_page: https://www.cbr-online.de/zertifizierungen/iso9001.php
+[site_extractor] fetch_page: https://www.cbr-online.de/download/diverses/Zert_9001_Main_EN_20240506.pdf
+[site_extractor] fetch_page: https://www.cbr-online.de/en/certifications/iso9001.php
+[site_extractor] fetch_page: https://www.cbr-online.de/download/diverses/Zert_Main_EN_14001_20260601.pdf
+[site_extractor] fetch_page: https://www.cbr-online.de/en/certifications/iso14001.php
+[site_extractor] fetch_page_pdf_local: https://www.cbr-online.de/download/diverses/Zert_Main_EN_14001_20260601.pdf
+[site_extractor] fetch_page_pdf_local: https://www.cbr-online.de/download/diverses/Zert_9001_Main_EN_20240506.pdf
+[site_extractor] web_search: Google Maps Cölner Benzin Raffinerie Germany NRW
+[site_extractor] web_search: "Cölner Benzin Raffinerie" office Nordrhein-Westfalen address
+[site_extractor] web_search: "Cölner Benzin Raffinerie" NRW yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Business Profile "Cölner Benzin Raffinerie" Köln
+[site_extractor] web_search: "Cölner Benzin Raffinerie" Düsseldorf OR Bonn OR Aachen address
+[site_extractor] web_search: "Cölner Benzin Raffinerie" Hamburg address OR Standort
+[site_extractor] web_search: "Cölner Benzin Raffinerie" Bayern address OR Standort
+[site_extractor] web_search: "Cölner Benzin Raffinerie" Hessen address OR Standort
+[site_extractor] web_search: "Cölner Benzin Raffinerie" Baden-Württemberg address OR Standort
+[site_extractor] web_search: "Cölner Benzin Raffinerie" Niedersachsen address OR Standort
+[site_extractor] web_search: "Cölner Benzin Raffinerie" Berlin OR Brandenburg address
+[site_extractor] web_search: "Cölner Benzin Raffinerie" Sachsen OR Thüringen address
+[site_extractor] web_search: "Cölner Benzin Raffinerie" Rheinland-Pfalz OR Saarland address
+[site_extractor] fetch_page: https://www.cbr-online.de/download/diverses/anfahrt_coelner_benzin.pdf
+[site_extractor] fetch_page: https://www.cbr-online.de/cbr/informationen.php
+[site_extractor] fetch_page: https://www.cbr-online.de/cbr/team.php
+[site_extractor] web_search: "Cölner Benzin Raffinerie Vertriebs GmbH" subsidiary ownership
+[site_extractor] web_search: "Cölner Benzin Raffinerie" subsidiary OR Tochtergesellschaft OR group
+[site_extractor] web_search: "Karl A. Kroseberg GmbH & Co. KG" facilities plant warehouse address
+[site_extractor] fetch_page_pdf_local: https://www.cbr-online.de/download/diverses/anfahrt_coelner_benzin.pdf
+[site_extractor] fetch_page: https://www.stadt-koeln.de/mediaasset/content/pdf57/2019-07-30_umweltinspektionsbericht-c%C3%B6lner-benzin-raffinerie-karl-a.-kroseberg-gmbh-u.-co-kg.pdf
+[site_extractor] fetch_page: https://www.stadt-koeln.de/mediaasset/content/pdf57/2019-07-30_umweltinspektionsbericht_c%C3%B6lner_benzin_raffinerie_karl_a._kroseberg_gmbh_u._co_kg.pdf
+[site_extractor] fetch_page_pdf_local: https://www.stadt-koeln.de/mediaasset/content/pdf57/2019-07-30_umweltinspektionsbericht_c%C3%B6lner_benzin_raffinerie_karl_a._kroseberg_gmbh_u._co_kg.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\scrapingbee_log.jsonl
+
+Combined CSV now holds 1 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\combined.csv
+
+==============================================================================
+[2/5] KISAN OLEOCHEM AND DERIVATIVES PVT
+==============================================================================
+Researching site locations for: KISAN OLEOCHEM AND DERIVATIVES PVT
+
+Collected 4 distinct candidate address(es).
+
+Company domains treated as first-party: kisanagro.com
+
+=== Ranked candidates for KISAN OLEOCHEM AND DERIVATIVES PVT ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Near Umerdashi Bridge, Near A-One Green Hotel, Ahmedabad Highway, At Sherpura (Kanodar), Taluka Vadgam, Kanodar, Gujarat, 385520, India
+    site_type: Manufacturing Plant, Seed Crushing, Solvent Extraction, Refining, Castor Derivatives Manufacturing, Storage
+    source:  https://www.kisanagro.com/contact-us/
+    quote:   UNIT 1 KISAN OLEOCHEM & DERIVATIVES PVT LTD ... Nr.umardashi Bridge, Nr.a-one Green Hotel Ahmedabad Highway, at.sherpura(Kanodar) ... UNIT 2 KISAN PROTEINS PVT LTD: Adj. Kisan Oleochem & Derivatives Pvt Ltd
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Ahmedabad–Patan Highway Road, Lakshmipura, Nandasan, Gujarat, 382705, India
+    site_type: Manufacturing Plant, Seed Crushing, Solvent Extraction, Refining, Castor Derivatives Manufacturing, Storage
+    source:  https://kisanagro.com/contact-us.php
+    quote:   Factory 2 Ahmedabad-Patan Highway Rd Lakshmipura, Nandasan, Gujrat, India-382705.
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 949, Kisan Oil Mill Compound, Near Railway Crossing, Ahmedabad Highway, Palanpur, Gujarat, 385001, India
+    site_type: Registered Office, Manufacturing Plant, R&D, Seed Crushing, Solvent Extraction, Refining, Derivatives Manufacturing, Storage
+    source:  https://www.indiafilings.com/search/kisan-oleochem-and-derivatives-private-limited-cin-U15490GJ2009PTC058532
+    quote:   Registered Address 949,Kisan Oil Mill Compound, Nr. Railway Crossing, Ahmedabad Highway, Palanpur GJ 385001 IN ... Company Status (for e-filing) Active
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 188/2, Near Jain Temple, Jagana Ahmedabad Highway, Jagana, Palanpur, Gujarat, 385001, India
+    site_type: Business location; function not specified in source
+    source:  https://piceapp.com/gst-number-search/kisan-agro-product-industries-24aacfk3742k1ze/
+    quote:   KISAN AGRO PRODUCT INDUSTRIES | Palanpur, India | 188/2, NR JAIN TEMPLE, JAGANA AHMAEDABAD HIGHWAY, JAGANA, Palanpur, Banaskantha, Gujarat, 385001
+
+Ground-truth address row(s) available for 'KISAN OLEOCHEM AND DERIVATIVES PVT': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\KISAN_OLEOCHEM_AND_DERIVATIVES_PVT__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 10 calls, 164550 in / 4613 out tokens
+TOTAL web_search: 21 calls, 211342 in / 7288 out tokens
+TOTAL scrapingbee: 2 calls, 0 credits (~$0.0000), 2 failed -> escalated to paid search
+TOTAL tool calls attempted: 50 (issued: web_search 19/45, fetch_page 30 (uncapped), of which 0 were PDFs parsed locally for free (0 more read by local OCR) and 2/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 1; certificate searches refused: 0)
+TOTAL cost: $0.2590  (chat $0.0145, search tokens $0.0345, search call fee $0.2100, scrapingbee $0.0000)
+  input tokens priced as: 118897 uncached, 231572 cached read, 25423 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         10 calls, 164550 in / 4613 out tokens
+
+--- Queries issued (51) ---
+[site_extractor] web_search: KISAN OLEOCHEM AND DERIVATIVES PVT official website
+[site_extractor] fetch_page: https://www.kisanagro.com
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=KISAN%20OLEOCHEM%20AND%20DERIVATIVES%20PVT&page[size]=50
+[site_extractor] fetch_page: https://www.kisanagro.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=KISAN%20OLEOCHEM%20AND%20DERIVATIVES%20PVT
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=KISAN%20OLEOCHEM%20AND%20DERIVATIVES%20PVT
+[site_extractor] fetch_page: https://www.kisanagro.com/global-presence/
+[site_extractor] web_search: "Kisan Oleochem" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://www.kisanagro.com/contact-us/
+[site_extractor] fetch_page: https://www.kisanagro.com/about-us/
+[site_extractor] fetch_page: https://www.kisanagro.com/kisan-oleochem-derivatives-pvt-ltd/
+[site_extractor] fetch_page: https://kisanagro.com/certificate.php
+[site_extractor] fetch_page: https://www.kisanagro.com/certificate.php
+[site_extractor] web_search: Google Maps Kisan Agro Gujarat Palanpur Banaskantha
+[site_extractor] web_search: Kisan Agro office Gujarat address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Kisan Oleochem Gujarat address directory Kanodar
+[site_extractor] web_search: Kisan Proteins Gujarat address directory Kanodar
+[site_extractor] fetch_page: https://kisanagro.com/contact.php
+[site_extractor] web_search: "Kisan Oleochem & Derivatives Pvt Ltd" address
+[site_extractor] fetch_page: https://kisanagro.com/our-companies.php
+[site_extractor] fetch_page: https://kisanagro.com/about.php
+[site_extractor] fetch_page: https://kisanagro.com/kisan-oleochem-derivatives.php
+[site_extractor] web_search: "Kisan Oleochem" "Nandasan"
+[site_extractor] web_search: "Kisan Agro" "Nandasan" factory
+[site_extractor] web_search: "Kisan Agro Product Industries" factory Palanpur address
+[site_extractor] fetch_page: https://kisanagro.com/contact-us.php
+[site_extractor] fetch_page: https://kisanagro.com/about-us.php
+[site_extractor] fetch_page: https://kisanagro.com/our-companies.php
+[site_extractor] fetch_page: https://kisanagro.com/kisan-oleochem-derivatives.php
+[site_extractor] web_search: "Kisan Agro" Nandasan Gujarat address "Lakshmipura"
+[site_extractor] fetch_page: https://kisanagro.com/global-presence.php
+[site_extractor] web_search: "Kisan Oleochem & Derivatives" Kanodar 385520
+[site_extractor] web_search: site:kisanagro.com "Kisan Oleochem" "Factory"
+[site_extractor] web_search: site:kisanagro.com "Kisan Agro Industries" Palanpur
+[site_extractor] web_search: "Kisan Oleochem and Derivatives Private Limited" Gujarat MCA address
+[site_extractor] web_search: "Kisan Agro Product Industries" Gujarat factory
+[site_extractor] web_search: "Kisan Oleochem" company profile Gujarat
+[site_extractor] web_search: "Kisan Agro" "Kisan Proteins" "Kisan Oleochem"
+[site_extractor] web_search: site:kisanagro.com "Kisan Proteins" address
+[site_extractor] fetch_page: https://www.kisanagro.com/kisan-international.php
+[site_extractor] fetch_page: https://www.kisanagro.com/kisan-agro.php
+[site_extractor] fetch_page: https://www.kisanagro.com/certificate.php
+[site_extractor] fetch_page: https://www.kisanagro.com/welcome-to-kisan-agro/
+[site_extractor] fetch_page: https://www.kisanagro.com/kisan-proteins.php
+[site_extractor] fetch_page: https://www.kisanagro.com/our-companies.php
+[site_extractor] fetch_page: https://www.indiafilings.com/search/kisan-oleochem-and-derivatives-private-limited-cin-U15490GJ2009PTC058532
+[site_extractor] fetch_page: https://sustainablecastor.org/members-list/
+[site_extractor] fetch_page: https://piceapp.com/gst-number-search/kisan-agro-product-industries-24aacfk3742k1ze/
+[site_extractor] fetch_page: https://www.dnb.com/business-directory/company-profiles.kisan_agro_indusries.2a1130e7953b5e95c7dabb1793afb890.html
+[site_extractor] fetch_page_search_fallback: https://www.dnb.com/business-directory/company-profiles.kisan_agro_indusries.2a1130e7953b5e95c7dabb1793afb890.html
+[site_extractor] fetch_page_search_fallback: https://piceapp.com/gst-number-search/kisan-agro-product-industries-24aacfk3742k1ze/
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\scrapingbee_log.jsonl
+
+Combined CSV now holds 2 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\combined.csv
+
+==============================================================================
+[3/5] GUANGZHOU FIVE SIX TECHNOLOGY
+==============================================================================
+Researching site locations for: GUANGZHOU FIVE SIX TECHNOLOGY
+
+Collected 2 distinct candidate address(es).
+
+Company domains treated as first-party: (none reported)
+
+=== Ranked candidates for GUANGZHOU FIVE SIX TECHNOLOGY ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 2nd Floor, No. 109 Huangbian South Road, Helong Subdistrict, Guangzhou, Guangdong, China
+    site_type: Office
+    source:  https://sw.gz.gov.cn/ztzl/spjck/myfzxxpt/gjhydlqyba/content/post_5766183.html
+    quote:   广州五六科技有限公司 — 广州市白云区鹤龙街黄边南路109号2楼 — 内资企业-私营企业
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 138-12 Shicha Road, Guangzhou, Guangdong, 510430, China
+    site_type: Operational site, export/shipper site
+    source:  https://www.importgenius.com/suppliers/guangzhou-five-six-technology
+    quote:   Co.,Ltd Add: 138-12 Shicha Road,Baiyun District, Guangzhou 510430,China.
+
+Ground-truth address row(s) available for 'GUANGZHOU FIVE SIX TECHNOLOGY': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\GUANGZHOU_FIVE_SIX_TECHNOLOGY__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 6 calls, 155777 in / 2677 out tokens
+TOTAL web_search: 13 calls, 183486 in / 5398 out tokens
+TOTAL scrapingbee: 4 calls, 78 credits (~$0.0156), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 23 (issued: web_search 13/45, fetch_page 10 (uncapped), of which 2 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.1973  (chat $0.0187, search tokens $0.0330, search call fee $0.1300, scrapingbee $0.0156)
+  input tokens priced as: 126445 uncached, 158613 cached read, 54205 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          6 calls, 155777 in / 2677 out tokens
+
+--- Queries issued (25) ---
+[site_extractor] web_search: GUANGZHOU FIVE SIX TECHNOLOGY official website
+[site_extractor] fetch_page: https://sw.gz.gov.cn/ztzl/spjck/myfzxxpt/gjhydlqyba/content/post_5766183.html
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=GUANGZHOU%20FIVE%20SIX%20TECHNOLOGY
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=GUANGZHOU%20FIVE%20SIX%20TECHNOLOGY&page[size]=50
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=GUANGZHOU%20FIVE%20SIX%20TECHNOLOGY
+[site_extractor] web_search: "GUANGZHOU FIVE SIX TECHNOLOGY" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: "广州五六科技有限公司" 地址
+[site_extractor] web_search: "广州五六科技有限公司" 官网 子公司 品牌
+[site_extractor] web_search: "Guangzhou Five Six Technology Co., Ltd." company address contact
+[site_extractor] fetch_page: https://www.importgenius.com/suppliers/guangzhou-five-six-technology
+[site_extractor] fetch_page: https://freshdi.com/supplier/GUANGZHOU-FIVE-SIX-TECHNOLOGY-CO-L
+[site_extractor] fetch_page: https://gdstc.gd.gov.cn/attachment/0/472/472552/3625622.pdf
+[site_extractor] web_search: Google Maps 广州五六科技有限公司 广东 地址
+[site_extractor] web_search: "广州五六科技有限公司" 广州 office address directory
+[site_extractor] web_search: "广州五六科技有限公司" 白云区 黄边南路 OR 石槎路
+[site_extractor] web_search: "广州五六科技有限公司" 黄边南路109号 OR 石槎路138号
+[site_extractor] fetch_page: https://www.gz.gov.cn/attachment/7/7201/7201450/8693723.pdf
+[site_extractor] web_search: "GUANGZHOU FIVE SIX TECHNOLOGY" "Baiyun" address directory
+[site_extractor] fetch_page_pdf_local: https://gdstc.gd.gov.cn/attachment/0/472/472552/3625622.pdf
+[site_extractor] fetch_page_pdf_local: https://www.gz.gov.cn/attachment/7/7201/7201450/8693723.pdf
+[site_extractor] fetch_page: https://www.volza.com/company-profile/guangzhou-five-six-technology-co-38842891/
+[site_extractor] fetch_page: https://www.importinfo.com/guangzhou-five-six-technology-co-l
+[site_extractor] web_search: "91440111MA59DQGP26" address
+[site_extractor] web_search: "138-12 Shicha Road" "Guangzhou Five Six Technology"
+[site_extractor] web_search: "黄边南路109号2楼" "广州五六科技有限公司"
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\scrapingbee_log.jsonl
+
+Combined CSV now holds 3 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\combined.csv
+
+==============================================================================
+[4/5] YJK INDUSTRIAL GROUP CO LTD
+==============================================================================
+Researching site locations for: YJK INDUSTRIAL GROUP CO LTD
+
+Collected 5 distinct candidate address(es).
+
+Company domains treated as first-party: yjk-industrial.com
+
+=== Ranked candidates for YJK INDUSTRIAL GROUP CO LTD ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Flat A, 20/F, ZJ300, 300 Lockhart Road, Hong Kong, Wan Chai, Hong Kong
+    site_type: Headquarters, Office
+    source:  https://www.yjk-industrial.com/contact.html
+    quote:   YJK Industrial Group Co., Limited — FLAT A, 20/F, ZJ300, 300 LockHart Road, WanChai,Hong Kong
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Block 7, No. 327 Tianmushan Road, 5F, Room C, Hangzhou, Zhejiang, China
+    site_type: Office
+    source:  https://www.yjk-industrial.com/contact.html
+    quote:   Block 7 #327 Tianmushan Road 5F Room C, Xihu District, Hangzhou, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Room 19C, Lockhart Centre, 301–307 Lockhart Road, Hong Kong, Wan Chai, Hong Kong
+    site_type: Office
+    source:  https://www.yjk-industrial.com/Engine%20Parts.html
+    quote:   Rm. 19 C, Lockhart Ctr., 301-307 Lockhart Road Wan Chai HongKong
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: New York, New York, United States
+    site_type: Office
+    source:  https://www.yjk-industrial.com/company.html
+    quote:   YJK Industrial Group is a Hong Kong based trading company ... and have offices in New York, Hong Kong and Mainland China.
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 6/F, Manulife Place, 348 Kwun Tong Road, Hong Kong, Kowloon, Hong Kong
+    site_type: Office
+    source:  https://importkey.com/i/yjk-industrial-group-co-ltd
+    quote:   YJK INDUSTRIAL GROUP CO LTD — 6/F MANULIFE PLACE, 348 KWUN TONG R OAD KOWLOON
+
+Ground-truth address row(s) available for 'YJK INDUSTRIAL GROUP CO LTD': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\YJK_INDUSTRIAL_GROUP_CO_LTD__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 7 calls, 89596 in / 2857 out tokens
+TOTAL web_search: 12 calls, 164241 in / 5825 out tokens
+TOTAL scrapingbee: 2 calls, 2 credits (~$0.0004), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 28 (issued: web_search 12/45, fetch_page 16 (uncapped), of which 1 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.1632  (chat $0.0124, search tokens $0.0304, search call fee $0.1200, scrapingbee $0.0004)
+  input tokens priced as: 111608 uncached, 110923 cached read, 31306 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          7 calls, 89596 in / 2857 out tokens
+
+--- Queries issued (29) ---
+[site_extractor] web_search: YJK INDUSTRIAL GROUP CO LTD official website
+[site_extractor] fetch_page: https://www.yjk-industrial.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=YJK%20INDUSTRIAL%20GROUP%20CO%20LTD&page[size]=50
+[site_extractor] fetch_page: https://www.yjk-industrial.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=YJK%20INDUSTRIAL%20GROUP%20CO%20LTD
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=YJK%20INDUSTRIAL%20GROUP%20CO%20LTD
+[site_extractor] web_search: "YJK INDUSTRIAL GROUP" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://www.yjk-industrial.com/quality.html
+[site_extractor] fetch_page: https://www.yjk-industrial.com/contact.html
+[site_extractor] fetch_page: https://www.yjk-industrial.com/profile.html
+[site_extractor] web_search: "YJK Industrial Group" subsidiaries brands offices
+[site_extractor] web_search: "YJK Industrial Group" New York China office address
+[site_extractor] fetch_page: https://www.yjk-industrial.com/certification.html
+[site_extractor] web_search: "YJK Industrial Group" factory plant manufacturing address
+[site_extractor] web_search: Google Maps YJK Industrial Group Hong Kong
+[site_extractor] web_search: "YJK Industrial Group" office Hong Kong address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: "YJK Industrial Group" Kowloon address OR New Territories address
+[site_extractor] web_search: "YJK Industrial Group" Hong Kong business profile address
+[site_extractor] fetch_page: https://www.yjk-industrial.com/Engine%20Parts.html
+[site_extractor] fetch_page: https://www.cr.gov.hk/docs/wrpt/RNC063_2017.01.09-2017.01.15.pdf
+[site_extractor] fetch_page: https://panjiva.com/Yjk-Industrial-Group-Co-Ltd/139801217
+[site_extractor] fetch_page: https://importkey.com/i/yjk-industrial-group-co-ltd
+[site_extractor] fetch_page: https://www.importgenius.cn/importers/yjk-industrial-group-co-ltd
+[site_extractor] fetch_page: https://www.importinfo.com/yjk-industrial-group-co-ltd
+[site_extractor] web_search: "YJK Industrial Group" "Glen Cove"
+[site_extractor] fetch_page: https://www.yjk-industrial.com/company.html
+[site_extractor] web_search: "YJK Industrial Group" "New York" office address -yjk-industrial.com
+[site_extractor] web_search: "YJK Industrial Group" "Room 19C" OR "Lockhart Centre"
+[site_extractor] fetch_page_pdf_local: https://www.cr.gov.hk/docs/wrpt/RNC063_2017.01.09-2017.01.15.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\scrapingbee_log.jsonl
+
+Combined CSV now holds 4 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\combined.csv
+
+==============================================================================
+[5/5] LEIPZIGER LOGISTIK UND LAGERHAUS
+==============================================================================
+Researching site locations for: LEIPZIGER LOGISTIK UND LAGERHAUS
+
+Collected 4 distinct candidate address(es).
+
+Company domains treated as first-party: leipziger-logistik.com, leipziger-logistik.de
+
+=== Ranked candidates for LEIPZIGER LOGISTIK UND LAGERHAUS ===
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Beim Runden Plom 11, Ettlingen, Baden-Württemberg, 76275, Germany
+    site_type: Headquarters, Warehouse, Logistics Center, Transport Operations, Office
+    source:  https://leipziger-logistik.com/standorte/ettlingen
+    quote:   Seit der Eröffnung unseres Standorts in Ettlingen vor rund 25 Jahren ... 15.000 qm Lagerfläche
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Auwanne 23, Karlstein am Main, Bavaria, 63791, Germany
+    site_type: Warehouse, Logistics Center, Transport Operations
+    source:  https://leipziger-logistik.com/lieferservice-getraenke?utm_source=openai
+    quote:   LEIPZIGER Logistik & Lagerhaus GmbH — Auwanne 23 — 63791 Karlstein am Main — Deutschland
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Bösdorfer Ring 13–16, Leipzig, Saxony, 04249, Germany
+    site_type: Warehouse, Logistics Center, Transport Operations
+    source:  https://www.leipzig.ihk.de/infos-fuer-unternehmen/themen/wirtschaft-regionales/standort-ansiedlungsberatung/gewerbe-immobilien-service/gewerbe-hallenobjekt/leipzig-boesdorfer-ring-13-16-1/
+    quote:   Adresse: Bösdorfer Ring 13-16, 04249 Leipzig ... Angeboten von: Herr Thomas Gruschka Leipziger Logistik und Lagerhaus GmbH
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Wachsmuthstr. 10 A, Leipzig, Saxony, Germany
+    site_type: Office, Registered Address
+    source:  https://www.companyhouse.de/Leipziger-Logistik-und-Lagerhaus-GmbH-Leipzig
+    quote:   Leipziger Logistik und Lagerhaus GmbH | Leipzig, Germany | Wachsmuthstr. 10 A, Leipzig
+
+Ground-truth address row(s) available for 'LEIPZIGER LOGISTIK UND LAGERHAUS': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\LEIPZIGER_LOGISTIK_UND_LAGERHAUS__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 15 calls, 354908 in / 5702 out tokens
+TOTAL web_search: 24 calls, 322392 in / 9347 out tokens
+TOTAL scrapingbee: 3 calls, 0 credits (~$0.0000), 3 failed -> escalated to paid search
+TOTAL tool calls attempted: 54 (issued: web_search 21/45, fetch_page 32 (uncapped), of which 1 were PDFs parsed locally for free (0 more read by local OCR) and 3/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 1; certificate searches refused: 0)
+TOTAL cost: $0.3195  (chat $0.0227, search tokens $0.0569, search call fee $0.2400, scrapingbee $0.0000)
+  input tokens priced as: 216541 uncached, 421856 cached read, 38903 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         15 calls, 354908 in / 5702 out tokens
+
+--- Queries issued (57) ---
+[site_extractor] web_search: LEIPZIGER LOGISTIK UND LAGERHAUS official website
+[site_extractor] fetch_page: https://leipziger-logistik.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=LEIPZIGER%20LOGISTIK%20UND%20LAGERHAUS&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://leipziger-logistik.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=LEIPZIGER%20LOGISTIK%20UND%20LAGERHAUS
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=LEIPZIGER%20LOGISTIK%20UND%20LAGERHAUS
+[site_extractor] fetch_page: https://leipziger-logistik.com/kontakt/
+[site_extractor] fetch_page: https://leipziger-logistik.com/standort/
+[site_extractor] fetch_page: https://leipziger-logistik.com/standort-sitemap.xml
+[site_extractor] fetch_page: https://leipziger-logistik.com/page-sitemap.xml
+[site_extractor] fetch_page: https://leipziger-logistik.com/ueber-uns/
+[site_extractor] fetch_page: https://leipziger-logistik.com/standorte/ettlingen
+[site_extractor] fetch_page: https://leipziger-logistik.com/imprint
+[site_extractor] web_search: "LEIPZIGER LOGISTIK UND LAGERHAUS" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://leipziger-logistik.com/zertifikate
+[site_extractor] fetch_page: https://leipziger-logistik.com/leistungen/transportlogistik
+[site_extractor] fetch_page: https://leipziger-logistik.de/
+[site_extractor] web_search: "Leipziger Logistik und Lagerhaus GmbH" Bösdorfer Ring 13 16
+[site_extractor] web_search: "Leipziger Logistik" Leipzig Standort Lagerhaus Adresse
+[site_extractor] web_search: "Leipziger Logistik und Lagerhaus" Google Maps Sachsen OR Leipzig address office
+[site_extractor] web_search: "Leipziger Logistik und Lagerhaus" Büro Niederlassung Sachsen-Anhalt Thüringen
+[site_extractor] web_search: "Leipziger Logistik und Lagerhaus" Baden-Württemberg OR Ettlingen directory address
+[site_extractor] web_search: "Leipziger Logistik und Lagerhaus" Google Business Profile Germany Standort
+[site_extractor] fetch_page: https://leipziger-logistik.com/news/neustart-in-leipzig-neustart-in-leipzig-leipziger-logistik-lagerhaus-sudwest-gmbh-aus-ettlingen-ubernimmt-die-dachgesellschaft-leipziger-logistik-lagerhaus-gmbh-leipzig-und-rettet-arbeitsplatze
+[site_extractor] fetch_page: https://leipziger-logistik.com/news/neustart-in-leipzig-leipziger-logistik-lagerhaus-sudwest-gmbh-aus-ettlingen-ubernimmt-die-dachgesellschaft-leipziger-logistik-lagerhaus-gmbh-leipzig-und-rettet-arbeitsplatze
+[site_extractor] fetch_page: https://leipziger-logistik.com/lieferservice-getraenke
+[site_extractor] fetch_page: https://www.leipzig.ihk.de/infos-fuer-unternehmen/themen/wirtschaft-regionales/standort-ansiedlungsberatung/gewerbe-immobilien-service/gewerbe-hallenobjekt/leipzig-boesdorfer-ring-13-16-1/
+[site_extractor] fetch_page: https://leipziger-logistik.com/news-sitemap.xml
+[site_extractor] fetch_page: https://leipziger-logistik.com/news/zukunftsorientierte-umstrukturierung
+[site_extractor] web_search: site:leipziger-logistik.com "Lagertätigkeiten am Standort Leipzig"
+[site_extractor] web_search: "LEIPZIGER Logistik" "Bösdorfer Ring" Lagerhalle Betrieb
+[site_extractor] web_search: "Leipziger Logistik" "Beim Runden Plom 11" site:de
+[site_extractor] web_search: "Leipziger Logistik und Lagerhaus GmbH" Niederlassungen Standorte
+[site_extractor] web_search: site:leipziger-logistik.com "Diese drei Standorte"
+[site_extractor] fetch_page: https://leipziger-logistik.com/news/leipziger-logistik-lagerhaus-gmbh-spezialist-fuer-logistik-und-lagerei-strebt-neuaufstellung-im-insolvenzverfahren-an
+[site_extractor] fetch_page: https://leipziger-logistik.com/wp-content/uploads/Leipziger-Logistik-Lagerhaus-verkauft-Logistikgeschaft-DVZ-am-12.05.26.pdf
+[site_extractor] fetch_page: https://leipziger-logistik.com/news/ifs-zertifizierung
+[site_extractor] fetch_page: https://leipziger-logistik.com/news/leipziger-logistik-und-lagerhaus-suedwest-gmbh-fuer-top-bonitaet-zertifiziert
+[site_extractor] fetch_page_pdf_local: https://leipziger-logistik.com/wp-content/uploads/Leipziger-Logistik-Lagerhaus-verkauft-Logistikgeschaft-DVZ-am-12.05.26.pdf
+[site_extractor] web_search: "Leipziger Logistik" Karlstein am Main Adresse
+[site_extractor] web_search: "Leipziger Logistik und Lagerhaus" Karlstein
+[site_extractor] web_search: "Leipziger Logistik" Aschaffenburg Frankfurt Standort Adresse
+[site_extractor] web_search: "Leipziger Logistik und Lagerhaus GmbH" "Karlstein am Main"
+[site_extractor] fetch_page: https://leipziger-logistik.com/lieferservice-getraenke?utm_source=openai
+[site_extractor] fetch_page: https://www.kpb-inso.de/home/aktuell/zukunftsperspektive-mit-dem-insolvenzrecht-neuaufstellung-der-leipziger-logistik-lagerhaus-erfolgreich-abgeschlossen-85347/
+[site_extractor] fetch_page: https://www.companyhouse.de/Leipziger-Logistik-und-Lagerhaus-GmbH-Leipzig
+[site_extractor] fetch_page: https://www.lvz.de/lokales/leipzig-lk/zwenkau/leipziger-spedition-und-lagerhaus-uebersteht-insolvenz-glimpflich-GDUFXASXGNE5BH4TNAJ2PAVPLM.html
+[site_extractor] fetch_page_search_fallback: https://www.companyhouse.de/Leipziger-Logistik-und-Lagerhaus-GmbH-Leipzig
+[site_extractor] fetch_page_search_fallback: https://www.lvz.de/lokales/leipzig-lk/zwenkau/leipziger-spedition-und-lagerhaus-uebersteht-insolvenz-glimpflich-GDUFXASXGNE5BH4TNAJ2PAVPLM.html
+[site_extractor] web_search: "Leipziger Logistik und Lagerhaus GmbH" "Wachsmuthstr. 10A"
+[site_extractor] web_search: "Wachsmuthstr. 10 A" "Leipziger Logistik"
+[site_extractor] web_search: "Leipziger Logistik" "Wachsmuthstraße" Leipzig
+[site_extractor] web_search: "Leipziger Logistik" "Auwanne 23"
+[site_extractor] fetch_page: https://openregister.de/company/DE-HRB-U1308-1138
+[site_extractor] fetch_page: https://leipziger-logistik.com/mit-uns-arbeiten
+[site_extractor] fetch_page: https://www.dasoertliche.de/Themen/Logistikcenter/Karlstein-a-Main.html
+[site_extractor] fetch_page_search_fallback: https://openregister.de/company/DE-HRB-U1308-1138
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\scrapingbee_log.jsonl
+
+Combined CSV now holds 5 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\combined.csv
+
+
+==============================================================================
+BATCH SUMMARY
+==============================================================================
+company               rows  search  fetch  paid_fb   bee  credits     cost
+COELNER BENZIN RAFFINERIE KARL A KROSEBERG     1      18     22        0     1        1    0.235
+KISAN OLEOCHEM AND DERIVATIVES PVT     4      21     30        2     2        0    0.259
+GUANGZHOU FIVE SIX TECHNOLOGY     2      13     10        0     4       78    0.197
+YJK INDUSTRIAL GROUP CO LTD     5      12     16        0     2        2    0.163
+LEIPZIGER LOGISTIK UND LAGERHAUS     4      24     32        3     3        0    0.320
+TOTAL                   16      88    110        5    12       81    1.174
+
+Combined results: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard03\combined.csv

@@ -6,22 +6,30 @@ import os
 MODEL = "openai:gpt-5.6-luna"
 SEARCH_MODEL = "gpt-5.6-luna"  # model used inside the raw Responses API web_search call
 
-# Per-tool call budgets, enforced in search_tool.py (they were prose-only guidance in the system
-# prompt before, which the model routinely blew past: the median run in queries_log.jsonl issued
-# ~88 tool calls against a stated "25-40" budget, and the worst issued 804). The two tools get
-# separate budgets because they cost very differently: every web_search is billed per call
-# ($0.01) plus its tokens, while fetch_page starts with a free GET, escalates only a blocked or
-# JS-rendered page to a ~$0.001 ScrapingBee browser fetch, and reaches the paid search call only
-# when that also fails or the URL is a PDF. So searching is what needs to be scarce; fetching is
-# what we want the agent to do instead.
+# Call budgets, enforced in search_tool.py (they were prose-only guidance in the system prompt
+# before, which the model routinely blew past: the median run in queries_log.jsonl issued ~88
+# tool calls against a stated "25-40" budget, and the worst issued 804).
 #
-# Uncapping fetch_page was tried and reverted. The theory was that the cap starved the
-# ScrapingBee tier; measured on ELLSWORTH it did not -- uncapped, ScrapingBee got 1 call against
-# 2 capped, because that company's pages are static HTML a plain GET already handles. Coverage
-# did rise (33 -> 46 candidates) but so did cost (~1.5x) and, contrary to the intent, web_search
-# rose with it (26 -> 36 calls) as extra fetching produced extra leads to search on.
+# What is budgeted is what COSTS money, not what the agent does. Every web_search is billed per
+# call ($0.01) plus its tokens. fetch_page is not one cost at all but three: a free plain GET,
+# then a ~$0.001 ScrapingBee browser fetch for a blocked or JS-rendered page, and only then a
+# ~$0.01 paid search retrieval. So the first two tiers are UNCAPPED -- fetching is exactly the
+# behaviour we want more of, and a certificate library (one index page plus a dozen per-site PDFs,
+# all of them now parsed locally for free) would have burned a third of the old flat 40-call
+# budget for zero spend -- and only the paid tier is capped, below.
+#
+# An earlier experiment that uncapped fetch_page ENTIRELY was reverted: coverage rose on ELLSWORTH
+# (33 -> 46 candidates) but so did cost (~1.5x) and, contrary to the intent, web_search rose with
+# it (26 -> 36 calls) as extra fetching produced extra leads to search on. That loop is bounded
+# here at both ends -- web_search is still capped, and so is the paid fetch tier -- which is what
+# makes this split different from that experiment.
 WEB_SEARCH_CALL_BUDGET = 45
-FETCH_PAGE_CALL_BUDGET = 40
+# Cap on fetch_page's PAID tier only: the hosted-search retrieval reached when both free tiers
+# fail (a bot-walled page, or a PDF that is a scanned image with no text layer). Measured basis:
+# paid fallbacks per run in queries_log.jsonl are median 2, mean 3.9, max 30 -- and ~47% of them
+# (194 of 412) were PDFs, which are now read locally for free. 10 is generous headroom against
+# that median while still stopping the max-30 shape.
+FETCH_PAGE_PAID_CALL_BUDGET = 10
 # How much of WEB_SEARCH_CALL_BUDGET the prompt tells the agent to hold back for the mandatory
 # home-market maps/directory sweep. Small company-operated sites (branch sales offices, service
 # centers, satellite warehouses, locations inherited with an acquisition) are usually published
@@ -59,23 +67,45 @@ def search_user_agent() -> str:
 GROUND_TRUTH_ADDRESS_CSV = "groundtruth.csv"  # tab-delimited, structured street/city/state/postal/country
 RESULTS_DIR = "results"  # one tab-delimited CSV per company, results/<company>.csv
 
-# Real gpt-5.6-luna standard-tier billing rates (as of the July 30, 2026 OpenAI price update;
-# verify against https://openai.com/api/pricing/ before relying on these for exact invoicing --
-# rates change over time and vary by service tier: Batch/Flex 0.5x, Standard 1x, Fast mode 2x).
-EST_INPUT_COST_PER_1M_TOKENS = 0.20
-EST_OUTPUT_COST_PER_1M_TOKENS = 1.20
-EST_WEB_SEARCH_COST_PER_CALL = 0.01  # $10.00 / 1K calls
+# gpt-5.6-luna standard-tier billing rates, verified against OpenAI's published pricing on
+# 2026-09-23. These are the real rates, not placeholders: a run's reported cost is computed from
+# them and the token counts the API itself returns, so it is the billed amount rather than an
+# approximation of it. Re-verify against https://developers.openai.com/api/docs/pricing before
+# relying on a figure for invoicing -- rates change, and they vary by service tier (Batch/Flex
+# 0.5x, Standard 1x, Fast mode 2x).
+#
+# INPUT TOKENS ARE NOT ONE PRICE. Every prompt_tokens count the API returns splits three ways,
+# and pricing all of it at the uncached rate -- which this module used to do -- is wrong in both
+# directions at once. The split is reported per call as prompt_tokens_details.cached_tokens and
+# prompt_tokens_details.cache_write_tokens (LangChain surfaces the same two as
+# usage_metadata.input_token_details.cache_read / .cache_creation), so the exact figure is
+# available and there is no reason to approximate it:
+#   * cached read  -- a prefix served from the prompt cache, 10% of the uncached rate. This
+#     agent re-sends a growing conversation on every turn, so most of its input after the first
+#     call is cache reads, and charging them at full rate overstated the model cost ~10x.
+#   * cache write  -- the first send of a cacheable prefix, billed at 1.25x uncached.
+#   * uncached     -- everything else.
+INPUT_COST_PER_1M_TOKENS = 0.20
+CACHED_INPUT_COST_PER_1M_TOKENS = 0.02   # 0.1x uncached
+CACHE_WRITE_COST_PER_1M_TOKENS = 0.25    # 1.25x uncached
+OUTPUT_COST_PER_1M_TOKENS = 1.20         # reasoning tokens are part of the output count
+# The hosted web_search tool bills a flat fee per call ($10.00 / 1K calls) ON TOP OF the search
+# content tokens it feeds the model, which are billed separately at the rates above. Both are
+# counted here: the fee from the call count, the tokens from the Responses API usage object.
+WEB_SEARCH_COST_PER_CALL = 0.01
 
 # ScrapingBee bills in CREDITS, not calls, and the per-credit price depends on the plan:
 # $19/75k (Hobby) = $0.000253, $49/250k (Freelance) = $0.000196, $99/1M (Startup) = $0.000099.
 # This is set for Freelance, rounded up; verify against https://www.scrapingbee.com/#pricing.
+# It is the one rate here that depends on which plan the account is on, so it is the one to
+# check first if a reported cost has to reconcile exactly against an invoice.
 # A JS-rendered fetch costs 5 credits (~$0.001), roughly a TENTH of the web_search fallback it
 # displaces ($0.01 call fee plus 1-3k output tokens) -- that ratio is why the tier exists at all.
 # Their docs say failed requests aren't charged; measured, that is optimistic -- a zoominfo.com
 # fetch that came back non-200 still reported 25 credits spent. So cost is tracked from the
 # credits ScrapingBee reports on each response, never assumed per call, and failures are counted
 # separately (usage.scrapingbee_failures) precisely because they are not free.
-EST_SCRAPINGBEE_COST_PER_CREDIT = 0.0002
+SCRAPINGBEE_COST_PER_CREDIT = 0.0002
 
 # Append-only JSONL log of per-run token usage/cost, relative to repo root.
 USAGE_LOG_PATH = "usage_log.jsonl"

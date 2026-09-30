@@ -1,0 +1,1179 @@
+Batch: 5 companies from suppliers.csv
+KYNDRYL, FINE WILL INDUSTRIAL LIMITED, CAFE DE MI TIERRA SA, NICCHIO SOBRINHO, COLLOIDS
+
+
+==============================================================================
+[1/5] KYNDRYL
+==============================================================================
+Researching site locations for: KYNDRYL
+
+Collected 111 distinct candidate address(es).
+
+Company domains treated as first-party: kyndryl.com, investors.kyndryl.com
+
+=== Ranked candidates for KYNDRYL ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: One Vanderbilt Avenue, 15th Floor, New York, New York, 10017, United States
+    site_type: Headquarters, Office
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Global Headquarters 1 Vanderbilt Avenue 15th Floor New York, NY 10017
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Pte. Hipolito Yrigoyen 2149, Martínez / San Isidro, Buenos Aires, B1640, Argentina
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Argentina Pte. Hipolito Yrigoyen 2149. Martinez / San Isidro Buenos Aires B1640 Martínez
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Level 15, 259 George Street, Sydney, New South Wales, 2000, Australia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Australia Gadigal Land Level 15 , 259 George Street Sydney NSW 2000
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Obere Donaustrasse 95, Vienna, 1020, Austria
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Austria GmbH ... Sitz: Wien
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Hermeslaan 9, Diegem, 1831, Belgium
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Belgium Kyndryl Belgium Hermeslaan 9 1831 Diegem Belgium
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Rodovia Jornalista Francisco Aguirre Proença, KM 9, SP-101, Chácara Assay, Hortolândia, São Paulo, 13186-900, Brazil
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Brazil Rd J Fco Aguirre Proenca Km 9 Sp101. Chacara Assay Hortolandia SP, 131186-900
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Business Park Sofia 1, Building 5, Entrance A, 2nd Floor, Mladost 4, Sofia, 1766, Bulgaria
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   1, Business Park Sofia Str., building 5, entrance A, 2nd Floor, Mladost 4 quarter ... 1766 Sofia, Republic of Bulgaria
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 3381 Steeles Avenue East, Suite 110, Toronto, Ontario, M2H 3S7, Canada
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Canada Kyndryl Canada Limited 3381 Steeles Avenue East, Suite 110 Toronto, ON M2H 3S7
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avenida Providencia 655, Santiago, Región Metropolitana, 7500261, Chile
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Chile Av. Providencia 655, Postal code: 7500261 Santiago Región Metropolitana
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 9th Floor, Hang Seng Bank Tower, 1000 LuJiaZui Ring Road, Shanghai, China
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   9th Floor, Hang Seng Bank Tower, 1000 LuJiaZui Ring Road, Shanghai
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 601, Building B, Phase 2, Science and Technology Building, No. 1057 Nanhai Avenue, Shekou Nanhai Avenue, Yanshan Community, China Merchants Street, Nanshan District, Shenzhen, China
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   601, Building B, Phase 2, Science and Technology Building, No. 1057 Nanhai Avenue ... Nanshan District Shenzhen
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Carrera 53 No. 100-25, Bogotá, 11001000, Colombia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Colombia Carrera 53 Numero 100-25 Bogota CUN 11001000, CO
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Parque Zona Franca América, Calle La Rusia, Heredia, 40103, Costa Rica
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Costa Rica Parque Zona Franca America. Calle La Rusia Heredia H 00000-0000, CR
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Miramarska Cesta 23, Eurocenter building, Zagreb, 10000, Croatia
+    site_type: Office
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Croatia Miramarska Cesta 23, Eurocenter building 10000, Zagreb
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Labs Tower, 4 Foti Pitta, 8th Floor, Nicosia, 1065, Cyprus
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Labs Tower, 4 Foti Pitta, 8 th Floor, 1065, Nicosia, Cyprus
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: V Parku 2308/8, Chodov, Prague, 148 00, Czech Republic
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   V parku 2308/8, Chodov, 148 00 Prague 4
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Přízova 526/5, Trnitá, Brno, 602 00, Czech Republic
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Client Center, s.r.o. Adress: Brno, Trnitá, Přízova 526/5, Zip code: 602 00
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Langebrogade 3K, Copenhagen, 1411, Denmark
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Denmark Kyndryl Danmark ApS Langebrogade 3K 1411 København, Danmark
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Av. Diego de Almagro N32-48 y Whimper, Quito, 170518, Ecuador
+    site_type: Office
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Ecuador Av Diego De Almagro N 32-48 Y Whimper Quito postal code: 170518
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Smart Village, Cairo-Alexandria Road KM 28, Building B144, Cairo, Egypt
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Egypt Smart Village CAIRO-ALEXANDRIA ROAD KM 28 Building B144 Cairo
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Narva mnt 5, Tallinn, Harju County, 10117, Estonia
+    site_type: Office
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Estonia OÜ: Harju maakond, Tallinn, Kesklinna linnaosa, Narva mnt 5, 10117, Estonia
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Colisée Gardens, 8-14 Avenue de l'Arche, Courbevoie, Île-de-France, 92400, France
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl France Siège Social : Colisée Gardens, 8-14 Avenue de l'Arche, 92400 Courbevoie
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Friedrich-Ebert-Anlage 49, Frankfurt am Main, Hesse, 60308, Germany
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Frankfurt/a.M. (Headquarter) Friedrich-Ebert-Anlage 49 60308 Frankfurt
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Europaplatz 2, Berlin, Berlin, 10557, Germany
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Europaplatz 2 10557 Berlin
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Willy-Brandt-Strasse 23, Hamburg, Hamburg, 20457, Germany
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Willy-Brandt-Strasse 23 20457 Hamburg
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Rochlitzer Straße 19, Chemnitz, Saxony, 09111, Germany
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Rochlitzer Straße 19 09111 Chemnitz
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Speditionsstraße 2, Düsseldorf, North Rhine-Westphalia, 40221, Germany
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Speditionsstraße 2 40221 Düsseldorf
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Schockenriedstraße 6, Stuttgart, Baden-Württemberg, 70565, Germany
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Schockenriedstraße 6 70565 Stuttgart
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Taunusstraße 21, Munich, Bavaria, 80807, Germany
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Taunusstraße 21 80807 München
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Kifissias Avenue 284, Chalandri, Athens, Attica, 15232, Greece
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Hellas Single Member Société Anonyme Kifissias Ave. 284, Chalandri 15232, Athens, Greece
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Unit 3619-23, Level 36, PCCW Tower, Taikoo Place, 979 King's Road, Quarry Bay, Hong Kong
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Unit 3619-23, Level 36, PCCW Tower, Taikoo Place, 979 King's Road, Quarry Bay, Hong Kong
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Kamilla utca 19, Székesfehérvár, 8000, Hungary
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Head Quarter: 8000 Székesfehérvár, Kamilla utca 19
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Balatoni út 2a, Budapest ONE, B tower, Budapest, 1112, Hungary
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Budapest Office: 1112 Budapest, Balatoni út 2a / Budapest ONE, B tower
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: RMZ Titanium, 135, 1st Floor, HAL Old Airport Road, Kodihalli, Vimanapura, Bengaluru, Karnataka, 560017, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   RMZ Titanium, 135,1st Floor, HAL Old Airport Road, Kodihalli, Vimanapura, Bangalore ... 560017
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Embassy Manyata Business Park, SEZ Parcel 2 (Acacia), Block M3, 13th to 16th Floor, Rachenahalli Village, K.R. Puram Hobli, Bengaluru, Karnataka, 560045, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Embassy Manyata Business Park ... Block M3, 13th to 16th Floor ... Bengaluru, Karnataka - 560045
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Tower 4, Plot No. 21, Sector-Techzone IV, Greater Noida, Uttar Pradesh, 201308, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   3rd and 4th Floor, Tower-4 ... Plot No.21, Sector-Techzone IV ... Greater Noida, UP - 201308
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: WeWork Galaxy Business Park, A-44 & 45, Sushil Marg, Block A, Sector 62, Industrial Area, Noida, Uttar Pradesh, 201301, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   WeWork Galaxy Business Park, A-44 & 45, Sushil Marg, Block A, Sector 62 ... Noida, UP - 201301
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Ground Floor, Tower A, Building 8, DLF Cyber City, Gurugram, Haryana, 122002, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Ground Floor, Tower A Building 8, DLF Cyber City Gurugram, Haryana - 122002
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Tower B, 3rd Floor, Plot 362-363, Udyog Vihar, Phase IV, Gurugram, Haryana, 122016, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   ASF Centre, Tower-B, Third floor, Plot No-362,363 Udyog Vihar, Phase-IV ... Gurugram, Haryana - 122016
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: WeWork, C-20, G Block Road, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra, 400051, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   13-14th Floor, WeWorks, C-20, G Block Road, G Block BKC, Bandra Kurla Complex ... Mumbai, Maharashtra - 400051
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Embassy Tech Zone, ETZ 1.1 Colorado, A-wing, Sector-30/A, Rajiv Gandhi InfoTech Park, Phase II, Plot No. 03, MIDC, Hinjewadi, Marunji Village, Pune, Maharashtra, 411057, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Embassy Tech Zone ... Plot no. 03, MIDC, Hinjewadi, Marunji Village Pune, Maharashtra - 411057
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Survey 66/1, Orion B6 and B7, Divyashree Tech Park Divyashree SEZ, Raidurgam, Hyderabad, Telangana, 500032, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Survey # 66/1, Orion B6 and B7, Divyashree Tech Park Divyashree SEZ, Raidurgam ... Hyderabad, Telangana - 500032
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: DLF IT Park, Tower 7, Mount Poonamalee Road, Nandambakkam Post, Ramapuram, Chennai, Tamil Nadu, 600089, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   DLF IT Park, 3rd and 4th floor, Tower 7 ... Mount Poonamalee Rd, Nandambakkam Post, Ramapuram ... Chennai, Tamil Nadu - 600089
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Kashi Kunj Building, Bistupur, Jamshedpur, Jharkhand, 831001, India
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   2nd Floor Kashi Kunj Building, Bistupur, Jamshedpur - 831001
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Millennium Centennial Center, 41st Floor, Jl. Jend. Sudirman Kav. 25, Jakarta, 12920, Indonesia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   PT Kyndryl Solutions Indonesia Millennium Centennial Center, 41 st Floor. Jl. Jend. Sudirman Kav. 25 Jakarta 12920, Indonesia
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Bankside, 13 Charlemont Street, Dublin, D02 VN88, Ireland
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Bankside 13 Charlemont Street D02 VN88 Dublin County Dublin Ireland
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 94 Derech Em Hamoshavot, Park Azorim, Petach Tikva, 49527, Israel
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   94 Derech Em Hamoshavot, Park Azorim Petach Tikva 49527 Petach Tikva
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Via Vittor Pisani 22, Milan, Lombardy, 20124, Italy
+    site_type: Office
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Sede legale: Via Vittor Pisani 22 20124 Milano - Italia
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Via Copernico 38, Milan, Lombardy, 20125, Italy
+    site_type: Office
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Italia Innovation Services S.r.l. ... Sede legale: Via Copernico 38 20125 Milano - Italia
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Roppongi Hills Mori Tower, 43rd Floor, 6-10-1 Roppongi, Minato-ku, Tokyo, Tokyo, 106-6143, Japan
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Roppongi Hills Mori Tower 43rd Floor, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6143 Japan
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 12F, Three International Finance Centre, 10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul, Seoul, 07326, South Korea
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   12F 3IFC, 10 Gukjegeumyung-ro, Yeongdeungpo-gu ... Seoul 07326
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Roberta Hirša iela 1, Riga, LV-1045, Latvia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Latvia SIA: Roberta Hirša iela 1, Rīga, LV-1045
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Gedimino Avenue 44A, Vilnius, 01110, Lithuania
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Lithuania UAB: Gedimino ave. 44A, Vilnius, 01110, the Republic of Lithuania
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 23-25 Rue du Puits Romain, z.a. Bourmicht, Bertrange, L-8070, Luxembourg
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   23-25, Rue Du Puits Romain, z.a. Bourmicht, L-8070 Bertrange, Luxembourg
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Room 21, Level 20, AIA Tower, 251A-301 Avenida Comercial de Macau, Macau, Macau
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Room 21, Level 20 AIA Tower, 251A-301 AVENIDA COMERCIAL DE MACAU Macau
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Level 8, Menara Shell, No. 211 Jalan Tun Sambanthan, Kuala Lumpur, 50470, Malaysia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Level 8, Menara Shell, No: 211 Jalan Tun Sambanthan, 50470 Kuala Lumpur
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Calzada Legaria 853, Colonia Irrigación, Mexico City, Mexico City, 11500, Mexico
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Calzada Legaria Nro. 853 Colonia Irrigación Postal Code: CP 11500 Ciudad de México, CDMX
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Mercuriusplein 1, Hoofddorp, North Holland, 2132 HA, Netherlands
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Nederland B.V. Mercuriusplein 1, 2132 HA, Hoofddorp
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 33 Rue de Sébastopol, Nouméa, 98845, New Caledonia
+    site_type: Office
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   33 Rue De Sébastopol Bp 564 Noumea 98845
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Level 3, 1 Albert Street, Auckland, 1010, New Zealand
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Level 3, 1 Albert Street, Auckland 1010, New Zealand
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Øvre Vollgate 13, Oslo, 0158, Norway
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Øvre Vollgate 13, 0158 Oslo, Norway
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Plot No. 44-A P.E.C.H.S. Block 6 S, 5-6 Floor, Nice Trade Orbit Building, Karachi, Pakistan
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Plot No. 44-A P.E.C.H.S. Block 6 S 5-6 Floor, Nice Trade Orbit Building Karachi
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Av. Prolongación Javier Prado Este 6230, La Molina, Lima, Peru
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Av. Prolongacion Javier Prado Este 6230. La Molina, Lima
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Unit 818, Ayala Triangle Gardens Tower 2, Paseo de Roxas corner Makati Avenue, Makati City, Metro Manila, 1226, Philippines
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Unit 818, Ayala Triangle Gardens Tower 2, Paseo de Roxas corner Makati Avenue, Makati City 1226
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: ul. Prosta 67, Warsaw, 00-838, Poland
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Poland Sp. z o.o. ul. Prosta 67, 00-838 Warszawa
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Muchoborska 8, Wrocław, 54-424, Poland
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Global Services Delivery Centre Polska Sp. z o.o. Muchoborska 8, 54-424 Wrocław
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Praça do Príncipe Perfeito nº 2, 4º Piso, Lisbon, 1990-278, Portugal
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Praça do Príncipe Perfeito nº 2, 4º Piso 1990-278 Lisboa
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Șoseaua Orhideelor nr. 15D, Clădirea A – The Bridge, Etaj 1, Bucharest, Sector 6, 060071, Romania
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Sos. Orhideelor nr. 15D Clădirea A – The Bridge, Etaj 1 București/Bucharest, Sector 6 – 060071
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Kingdom Centre, Building 2239, Al Urubah Road, Al Olaya District, 23rd Floor, Unit 24, Riyadh, PO Box 50705, Saudi Arabia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kingdom Centre, Bldg 2239, Al Urubah Rd, Al Olaya Dist, 23rd Floor, Unit 24 P.O Box 50705 Riyadh
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 7 Straits View, #19-04 Marina One East Tower, Singapore, 018936, Singapore
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   7 Straits View, #19-04 Marina One East Tower, Singapore 018936
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 10 Changi Business Park Central 2, #04-07 to #04-09, Hansapoint@CBP, Singapore, 486030, Singapore
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   10 Changi Business Park Central 2,#04-07 to #04-09, Hansapoint@CBP, Singapore 486030
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Krasovského 14, Bratislava, 851 01, Slovakia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Krasovského 14, 851 01 Bratislava - mestská časť Petržalka, Slovakia
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Ameriška ulica 8, Ljubljana, 1000, Slovenia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Ameriška ulica 8, 1000 Ljubljana
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: FutureSpace, 61 Katherine Street, Sandton, Gauteng, 2196, South Africa
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   FutureSpace 61 Katherine Street Sandton 2196 South Africa
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Calle de Albacete 5, Madrid, Community of Madrid, 28027, Spain
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl España, S.A.U. Calle de Albacete 5, 28027, Madrid
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Malmskillnadsgatan 44A, Stockholm, 111 57, Sweden
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Malmskillnadsgatan 44a, 111 57 Stockholm, Sweden
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Hardstrasse 201, Zürich, Zürich, 8005, Switzerland
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Hardstrasse 201 8005 Zürich
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Level 57-1, Taipei 101 Tower, No. 7, Section 5, Xinyi Road, Xinyi District, Taipei, 110, Taiwan
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Level 57-1, TAIPEI 101 Tower, No.7, Section 5, Xinyi Road, Xinyi District, Taipei, Taiwan, 110
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: SP Building, 388 Phaholyothin Road, Phayathai, Bangkok, 10400, Thailand
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   SP Building, 388 Phaholyothin Road, Phayathai Bangkok 10400 THAILAND
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Büyükdere Caddesi, Levent, Istanbul, Turkey
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Buyukdere Caddesi Levent Istanbul
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Level 103, Arenco Tower, Sheikh Zayed Road, Dubai Media City, Dubai, PO Box 32687, United Arab Emirates
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Level 103, Arenco Tower Sheikh Zayed Road, Dubai Media City PO Box 32687 Dubai, UAE
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Maidan Nezalezhnosti 2, Kyiv, 01012, Ukraine
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Kyndryl Ukraine LLC 01012, Kyiv, Maidan Nezalezhnosti, 2
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 2nd Floor, 100 Liverpool Street, London, EC2M 2AT, United Kingdom
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Registered office: 2nd Floor, 100 Liverpool Street, London, United Kingdom, EC2M 2AT
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: La Cumparsita 1475, Montevideo, 11200, Uruguay
+    site_type: Office
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   La Cumparsita 1475 Montevideo MO 11200
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Spaces Belvedere, 10th Floor, 28A Tran Hung Dao, Cua Nam, Hanoi, Vietnam
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/au/en/about-us/locations
+    quote:   Spaces Belvedere, 10th Floor 28A Tran Hung Dao, Cua Nam, Hanoi
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 33 W Monroe Street, Suite 1450, Chicago, Illinois, 60603, United States
+    site_type: Office
+    source:  https://webapps1.chicago.gov/vcsearch/city/vendors/105475737E
+    quote:   CITY - KYNDRYL, INC. Address: 33 W MONROE ST STE 1450 City: CHICAGO State: IL Zip: 60603
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 131 N. Piao Court, Dededo, Guam, 96929, Guam
+    site_type: Office, Service Delivery Center
+    source:  https://dlm.guam.gov/wp-dlm-content/uploads/2024/03/POST-CLTC-MEETING-PACKET-15FEB2024-5.pdf
+    quote:   Kyndryl, Inc. 131 N. Piao Court, Dededo, Guam 96929
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Cnr. Gear Avenue and Geelong Road, Ballarat, Victoria, 3350, Australia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf
+    quote:   CNR GEAR AVENUE AND GEELONG ROAD, BALLARAT, VIC 3350
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 17 Roberts Road, Eastern Creek, New South Wales, 2766, Australia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf
+    quote:   17 ROBERTS ROAD, EASTERN CREEK, NSW 2766
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Level 14, 530 Collins Street, Southbank, Victoria, 3006, Australia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf
+    quote:   LEVEL 14, 530 COLLINS STREET, SOUTHBANK, VIC 3006
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 82 Northbourne Avenue, Canberra, Australian Capital Territory, 2600, Australia
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf
+    quote:   82 NORTHBOURNE AVENUE, CANBERRA, ACT 2600
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 42 Business Parade South, East Tamaki, Auckland, 2013, New Zealand
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf
+    quote:   42 BUSINESS PARADE SOUTH, EAST TAMAKI, AUCKLAND, 2013
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Suite 5 & 6, 10 Waterloo Quay, Wellington, 6011, New Zealand
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf
+    quote:   SUITE 5 & 6, 10 WATERLOO QUAY, WELLINGTON, 6011
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3600 Steeles Avenue East, Markham, Ontario, L3R 9Z7, Canada
+    site_type: Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+    quote:   Kyndryl Delivery Services 3600 Steeles Ave East, Markham, Ontario L3R 9Z7 Canada
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Linnoitustie 9, Espoo, 02600, Finland
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+    quote:   Kyndryl Finland Oy Linnoitustie 9, Espoo, 02600 Finland
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Am Weiher 24, Kelsterbach, Hesse, 65451, Germany
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+    quote:   Kyndryl Deutschland Aviation Industry Services GmbH - Kyndryl GmbH - AIS Am Weiher 24 Kelsterbach, D-65451 Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Via Del Carroccio 6, Pero, Lombardy, 20016, Italy
+    site_type: Data Center, Testing/Quality Facility
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_pero_iso_22237_2024_05_oct_2028_a.pdf
+    quote:   Data Center Site: DATA CENTER PERO Via Del Carroccio, 6 – 20016 – PERO (MI) Italy
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Via Giacomo Peroni 292, Rome, Lazio, 00131, Italy
+    site_type: Data Center, Testing/Quality Facility
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_roma_iso_22237_2024_26_jun_2028_a.pdf
+    quote:   Data Center Site: Via Giacomo Peroni, 292 – 00131 ROMA (RM) - Italy
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Via Carlo Roberto Darwin 85, Settimo Milanese, Lombardy, 20019, Italy
+    site_type: Data Center, Testing/Quality Facility
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_settimo_milanese_iso_2237_2024_29_nov_2028.pdf
+    quote:   Data Center Sites: Via Carlo Roberto Darwin, 85 – 20019 – SETTIMO MILANESE (MI) – ITALY
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Avenida Andrés Aramburú 1115, San Isidro, Lima, Peru
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+    quote:   PERU (San Isidro) Andrés Aramburú Avenue, San Isidro Lima, 1115 Peru
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 25 Tampines Street 92, Singapore, 528877, Singapore
+    site_type: Data Center, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+    quote:   Kyndryl Singapore PTE LTD Keppel Data Hub, 25 Tampines Street 92 Singapore, 528877 Singapore
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 13 Sunview Way, Singapore, 627541, Singapore
+    site_type: Data Center, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+    quote:   Kyndryl Singapore PTE LTD Kingsland Data Centre, 13 Sunview Way, Singapore, 627541 Singapore
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Calle Mar Adriático 2, San Fernando de Henares, Community of Madrid, 28830, Spain
+    site_type: Technical Center, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+    quote:   Centro Tecnico Calle Mar Adriático, Número 2 San Fernando de Henares (Madrid), 28830 SPAIN
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 6300 Diagonal Highway, Boulder, Colorado, 80301, United States
+    site_type: Service Delivery Center, Office
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+    quote:   Kyndryl Delivery Services 6300 Diagonal Hwy, Boulder, Colorado 80301 United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4849 Alpha Road, Dallas, Texas, 75244, United States
+    site_type: Service Delivery Center, Office
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+    quote:   Kyndryl Services for Managed Applications 4849 Alpha Road Dallas, Texas 75244 United States
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4499 Fisher Road, Columbus, Ohio, 43228, United States
+    site_type: Service Delivery Center, Office
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_broadridge_iso_27001_06_mar_2027.pdf
+    quote:   Head Office 4499 Fisher Road Columbus, OH 43228 USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2455 South Road, Poughkeepsie, New York, 12601, United States
+    site_type: Service Delivery Center, Office
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_broadridge_iso_27001_06_mar_2027.pdf
+    quote:   Site 1 2455 South Road Poughkeepsie, NY 12601 USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2015 Staples Mill Road, Richmond, Virginia, United States
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/corporate/lca/KBGFJG371620-2_Network_Architect_1620-2_Richmond_and_Henrico_Virginia.pdf
+    quote:   Location of Employment (Street Address): 2015 Staples Mill Road; 8645 Aldershot Drive
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 8645 Aldershot Drive, Henrico, Virginia, United States
+    site_type: Office, Service Delivery Center
+    source:  https://www.kyndryl.com/content/dam/kyndrylprogram/corporate/lca/KBGFJG371620-2_Network_Architect_1620-2_Richmond_and_Henrico_Virginia.pdf
+    quote:   Location of Employment (Street Address): 2015 Staples Mill Road; 8645 Aldershot Drive
+
+- [C] score=0.25 address_city_matched=no   address_country_matched=no
+    address: 150 Kettletown Road, Southbury, Connecticut, 06488-2685, United States
+    site_type: Office, Service Delivery Center
+    source:  https://www.dnb.com/business-directory/company-profiles.kyndryl_inc.9dcdaef118a3960dad341c53d002a44b.html
+    quote:   Kyndryl, Inc. Company Profile | Southbury, Connecticut | 150 Kettletown Road, Southbury, CT 06488-2685
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 733 Bishop Street, Makai Tower, Suite 2340, Honolulu, Hawaii, 96813, United States
+    site_type: Office
+    source:  https://s3-us-west-2.amazonaws.com/naspovaluepoint/1710447623_NASPO%20Cloud%20Solutions%20-%20Kyndryl%20Inc.pdf
+    quote:   Name: Zubin Menon Address: 733 Bishop Street, Suite 2340, Honolulu, HI 96813
+
+Ground-truth address row(s) available for 'KYNDRYL': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\KYNDRYL__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 11 calls, 530217 in / 19523 out tokens
+TOTAL web_search: 17 calls, 490795 in / 12593 out tokens
+TOTAL scrapingbee: 3 calls, 3 credits (~$0.0006), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 37 (issued: web_search 17/45, fetch_page 19 (uncapped), of which 8 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 1; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.3241  (chat $0.0526, search tokens $0.1009, search call fee $0.1700, scrapingbee $0.0006)
+  input tokens priced as: 416274 uncached, 519360 cached read, 85378 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         11 calls, 530217 in / 19523 out tokens
+
+--- Queries issued (44) ---
+[site_extractor] web_search: KYNDRYL official website
+[site_extractor] fetch_page: https://www.kyndryl.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=Kyndryl&page[size]=50
+[site_extractor] fetch_page: https://www.kyndryl.com/sitemap.xml
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=Kyndryl
+[site_extractor] web_search: Kyndryl locations offices global locations official
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=Kyndryl
+[site_extractor] fetch_page: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kyndryl&type=10-K
+[site_extractor] fetch_page: https://www.kyndryl.com/au/en/about-us/locations
+[site_extractor] fetch_page: https://www.kyndryl.com/in/en/compliance/certifications
+[site_extractor] fetch_page: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_pero_iso_22237_2024_05_oct_2028_a.pdf
+[site_extractor] fetch_page: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+[site_extractor] fetch_page: https://www.sec.gov/Archives/edgar/data/1867072/000155837025008282/kd-20250331x10k.htm
+[site_extractor] fetch_page: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso9001/kyndryl_global_iso_9001_2015_30_may_2028_a.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_australia_iso_27001_2022_27_nov_2026_appendix_a.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_pero_iso_22237_2024_05_oct_2028_a.pdf
+[site_extractor] web_search: Kyndryl office address Midwest Illinois Ohio Michigan Minnesota directory
+[site_extractor] web_search: Kyndryl office address Northeast USA Pennsylvania Massachusetts Connecticut directory
+[site_extractor] web_search: Kyndryl office address Texas Oklahoma Louisiana Arkansas directory
+[site_extractor] web_search: Kyndryl office address California Washington Oregon directory
+[site_extractor] web_search: Google Maps Kyndryl New York New Jersey office address
+[site_extractor] web_search: Kyndryl office address Florida Georgia North Carolina Virginia directory
+[site_extractor] web_search: Kyndryl office address Tennessee Kentucky Alabama Mississippi directory
+[site_extractor] web_search: Kyndryl office address New Mexico Nevada Arizona directory
+[site_extractor] web_search: Kyndryl office address Missouri Kansas Nebraska Wisconsin directory
+[site_extractor] web_search: Kyndryl Google Business Profile office address Colorado Utah Arizona Nevada
+[site_extractor] web_search: Kyndryl office address Maryland Delaware District Columbia directory
+[site_extractor] web_search: Kyndryl office address Pennsylvania New Jersey New York directory branch
+[site_extractor] web_search: Kyndryl office address Hawaii Alaska Puerto Rico Guam directory
+[site_extractor] web_search: Kyndryl office address Ohio Michigan Illinois Wisconsin directory branch
+[site_extractor] web_search: "Kyndryl" "ISO 9001" OR "IATF 16949" OR "ISO 14001" OR "AS9100" certificate
+[site_extractor] fetch_page: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso20000/kyndryl_global_iso_20000_08_dec_2022.pdf
+[site_extractor] fetch_page: https://webapps1.chicago.gov/vcsearch/city/vendors/105475737E
+[site_extractor] fetch_page: https://s3-us-west-2.amazonaws.com/naspovaluepoint/1710447623_NASPO%20Cloud%20Solutions%20-%20Kyndryl%20Inc.pdf
+[site_extractor] fetch_page: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_broadridge_iso_27001_06_mar_2027.pdf
+[site_extractor] fetch_page: https://www.kyndryl.com/content/dam/kyndrylprogram/corporate/lca/KBGFJG371620-2_Network_Architect_1620-2_Richmond_and_Henrico_Virginia.pdf
+[site_extractor] fetch_page: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_roma_iso_22237_2024_26_jun_2028_a.pdf
+[site_extractor] fetch_page: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_settimo_milanese_iso_2237_2024_29_nov_2028.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyndryl.com/content/dam/kyndrylprogram/corporate/lca/KBGFJG371620-2_Network_Architect_1620-2_Richmond_and_Henrico_Virginia.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_roma_iso_22237_2024_26_jun_2028_a.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso27001/kyndryl_broadridge_iso_27001_06_mar_2027.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyndryl.com/content/dam/kyndrylprogram/certifications/iso22237/kyndryl_italy_spa_settimo_milanese_iso_2237_2024_29_nov_2028.pdf
+[site_extractor] fetch_page_pdf_local: https://s3-us-west-2.amazonaws.com/naspovaluepoint/1710447623_NASPO%20Cloud%20Solutions%20-%20Kyndryl%20Inc.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\scrapingbee_log.jsonl
+
+Combined CSV now holds 1 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\combined.csv
+
+==============================================================================
+[2/5] FINE WILL INDUSTRIAL LIMITED
+==============================================================================
+Researching site locations for: FINE WILL INDUSTRIAL LIMITED
+
+Collected 3 distinct candidate address(es).
+
+Company domains treated as first-party: finewill.net, keychain.finewill.net
+
+=== Ranked candidates for FINE WILL INDUSTRIAL LIMITED ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Unit G, 4/F, Kaiser Estate, 2nd Phase, No. 51 Man Yue Street, Hunghom, Kowloon, Hong Kong
+    site_type: Office, Trading Office
+    source:  https://keychain.finewill.net/contact
+    quote:   Fine Will Industries Ltd. | Hong Kong, China | Unit G, 4/F, Kaiser Estate, 2nd Phase, No. 51, Man Yue Street, Hunghom, Kowloon, Hong Kong
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Unit 10, 12/F, Tower B, Hunghom Commercial Centre, 37–39 Ma Tau Wai Road, Hunghom, Kowloon, Hong Kong
+    site_type: Office, Trading Office
+    source:  https://www.importgenius.cn/suppliers/fine-will-industrial-ltd
+    quote:   Unit 10, 12/f Towe B Hunghom Commer Cial Centre 37-39 Ma Tau Wai Road Hunghom Kowloon Hk
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Unit 8, 11/F, Guardforce Centre, No. 3 Hok Yuen Street East, Hunghom, Kowloon, Hong Kong
+    site_type: Office, Trading Office
+    source:  https://www.seair.co.in/us-importers/ideation.aspx
+    quote:   Manufacturer / Shipper FINE WILL INDUSTRIAL LTD — UNIT 8 11 F GUARDFORCE CENTRE NO 3 HOK YUEN STREET EAST HUNGHOM KOWLOON HONG KONG
+
+Ground-truth address row(s) available for 'FINE WILL INDUSTRIAL LIMITED': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\FINE_WILL_INDUSTRIAL_LIMITED__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 113022 in / 2589 out tokens
+TOTAL web_search: 19 calls, 314218 in / 10088 out tokens
+TOTAL scrapingbee: 10 calls, 4 credits (~$0.0008), 6 failed -> escalated to paid search
+TOTAL tool calls attempted: 31 (issued: web_search 15/45, fetch_page 15 (uncapped), of which 0 were PDFs parsed locally for free (0 more read by local OCR) and 4/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 1; certificate searches refused: 0)
+TOTAL cost: $0.2605  (chat $0.0097, search tokens $0.0600, search call fee $0.1900, scrapingbee $0.0008)
+  input tokens priced as: 230291 uncached, 177377 cached read, 19572 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 113022 in / 2589 out tokens
+
+--- Queries issued (34) ---
+[site_extractor] web_search: FINE WILL INDUSTRIAL LIMITED official website
+[site_extractor] web_search: "Fine Will Industries Ltd" official
+[site_extractor] web_search: "FINE WILL INDUSTRIAL LIMITED" Hong Kong
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=FINE%20WILL%20INDUSTRIAL%20LIMITED&page[size]=50
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=FINE%20WILL%20INDUSTRIAL%20LIMITED
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=FINE%20WILL%20INDUSTRIAL%20LIMITED
+[site_extractor] fetch_page: https://finewill.net
+[site_extractor] fetch_page: https://finewill.net/sitemap.xml
+[site_extractor] fetch_page: https://panjiva.com/Fine-Will-Industries-Ltd/26104103
+[site_extractor] web_search: "FINE WILL INDUSTRIAL LIMITED" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: "Fine Will" Hong Kong factory OR warehouse OR office address
+[site_extractor] web_search: "Fine Will Industries" Hong Kong address manufacturing
+[site_extractor] fetch_page_search_fallback: https://finewill.net/sitemap.xml
+[site_extractor] fetch_page_search_fallback: https://finewill.net
+[site_extractor] fetch_page: https://www.finewill.net
+[site_extractor] fetch_page: http://finewill.net
+[site_extractor] fetch_page: https://finewill.net/contact
+[site_extractor] fetch_page: https://keychain.finewill.net
+[site_extractor] fetch_page: https://keychain.finewill.net/contact
+[site_extractor] fetch_page: https://www.importgenius.cn/suppliers/fine-will-industrial-ltd
+[site_extractor] fetch_page_search_fallback: https://keychain.finewill.net
+[site_extractor] fetch_page_search_fallback: https://keychain.finewill.net/contact
+[site_extractor] web_search: "Fine Will Industries" Hong Kong Google Business Profile OR office address
+[site_extractor] web_search: "Fine Will Industrial" Kowloon office address yellowpages OR directory
+[site_extractor] web_search: "Fine Will Industrial" "Hong Kong Island" office address OR directory
+[site_extractor] web_search: "Fine Will Industrial" "New Territories" address OR directory
+[site_extractor] fetch_page: https://www.gld.gov.hk/egazette/tc_chi/gazette/file.php?extra=0&no=30&number=4948&type=0&vol=7&year=2003
+[site_extractor] web_search: "Fine Will Industrial Ltd" "Guardforce Centre"
+[site_extractor] web_search: "Fine Will Industrial Ltd" "Unit 8" "Hok Yuen"
+[site_extractor] web_search: "FINE WILL INDUSTRIAL LIMITED" "503249"
+[site_extractor] fetch_page: https://www.seair.co.in/us-importers/ideation.aspx
+[site_extractor] fetch_page: https://www.seair.co.in/us-importers/ideation.aspx?utm_source=openai
+[site_extractor] web_search: "Fine Will Industries Ltd" "Unit G" "Kaiser Estate"
+[site_extractor] web_search: "Fine Will Industrial Ltd" Hong Kong "37-39 Ma Tau Wai Road"
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\scrapingbee_log.jsonl
+
+Combined CSV now holds 2 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\combined.csv
+
+==============================================================================
+[3/5] CAFE DE MI TIERRA SA
+==============================================================================
+Researching site locations for: CAFE DE MI TIERRA SA
+
+Collected 2 distinct candidate address(es).
+
+Company domains treated as first-party: (none reported)
+
+=== Ranked candidates for CAFE DE MI TIERRA SA ===
+- [C] score=0.25 address_city_matched=no   address_country_matched=no
+    address: Km 15.5 Carretera a El Salvador, Plaza Concepción, Nivel 2, Oficina 2E, Zona 7, Santa Catarina Pinula, Guatemala
+    site_type: Office, Coffee export operations
+    source:  https://www.dnb.com/business-directory/company-profiles.cafe_de_mi_tierra_sociedad_anonima.d03fe7b98578340a99d57311f2232c1f.html
+    quote:   Cafe De Mi Tierra Sociedad Anonima | Santa Catarina Pinula, Guatemala | Kilometro 15.5 Carretera A El Salvador, Zona 7 Plaza Concepcion, Nivel 2, of. 2E
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Carretera al Salvador, Lote 142, Km 14.2, Zona 7, Aldea Puerta Parada, Santa Catarina Pinula, 01051, Guatemala
+    site_type: Coffee production/export operations, Coffee handling facility
+    source:  https://www.importgenius.com/suppliers/cafe-de-mi-tierra-s-a
+    quote:   Cafe De Mi Tierra, S.A. Contact Info ... Carretera Al Salvador, Lote 142 Km 14.2 zona 7, Aldea Puerta Parada Santa Catarina Pinula Gu
+
+Ground-truth address row(s) available for 'CAFE DE MI TIERRA SA': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\CAFE_DE_MI_TIERRA_SA__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 10 calls, 196995 in / 3342 out tokens
+TOTAL web_search: 20 calls, 351566 in / 10284 out tokens
+TOTAL scrapingbee: 1 calls, 75 credits (~$0.0150), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 40 (issued: web_search 19/45, fetch_page 19 (uncapped), of which 1 were PDFs parsed locally for free (0 more read by local OCR) and 1/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 2; certificate searches refused: 0)
+TOTAL cost: $0.3006  (chat $0.0186, search tokens $0.0669, search call fee $0.2000, scrapingbee $0.0150)
+  input tokens priced as: 263642 uncached, 237980 cached read, 46939 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         10 calls, 196995 in / 3342 out tokens
+
+--- Queries issued (40) ---
+[site_extractor] web_search: CAFE DE MI TIERRA SA official website
+[site_extractor] fetch_page: https://www.cafedemitierra.com.co/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=CAFE%20DE%20MI%20TIERRA%20SA&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://www.cafedemitierra.com.co/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=CAFE%20DE%20MI%20TIERRA%20SA
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=CAFE%20DE%20MI%20TIERRA%20SA
+[site_extractor] fetch_page: https://www.cafedemitierra.com.co/sitemap_agentic_discovery.xml
+[site_extractor] fetch_page: https://www.cafedemitierra.com.co/pages/contacto
+[site_extractor] fetch_page: https://www.cafedemitierra.com.co/pages/contact
+[site_extractor] fetch_page: https://www.cafedemitierra.com.co/pages/nosotros
+[site_extractor] fetch_page: https://www.cafedemitierra.com.co/policies/legal-notice
+[site_extractor] web_search: "CAFE DE MI TIERRA SA" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: "CAFE DE MI TIERRA" Colombia empresa dirección
+[site_extractor] web_search: "CAFE DE MI TIERRA SA" Colombia dirección sede
+[site_extractor] web_search: site:cafedemitierra.com.co ubicación OR dirección OR finca OR tienda
+[site_extractor] web_search: "Cafe de Mi Tierra" "Santa Catarina Pinula"
+[site_extractor] web_search: "Cafe De Mi Tierra S.A." Guatemala dirección planta finca
+[site_extractor] web_search: "Cafe de Mi Tierra" Guatemala coffee producer exporter
+[site_extractor] web_search: "Cafe de Mi Tierra, S.A." Guatemala address
+[site_extractor] fetch_page: https://www.dnb.com/business-directory/company-profiles.cafe_de_mi_tierra_sociedad_anonima.d03fe7b98578340a99d57311f2232c1f.html
+[site_extractor] fetch_page: https://www.globalcoffeeplatform.org/members/current-gcp-members/
+[site_extractor] fetch_page: https://www.importinfo.com/cafe-de-mi-tierra-s-a
+[site_extractor] fetch_page: https://panjiva.com/Cafe-De-Mi-Tierra-S-A/48020057
+[site_extractor] fetch_page: https://www.kiwa.com/cr/es-cr/noticias/cafe-de-mi-tierra-cuando-los-valores-se-convierten-en-calidad/
+[site_extractor] fetch_page_search_fallback: https://www.dnb.com/business-directory/company-profiles.cafe_de_mi_tierra_sociedad_anonima.d03fe7b98578340a99d57311f2232c1f.html
+[site_extractor] web_search: Google Maps Cafe de Mi Tierra Guatemala City Santa Catarina Pinula office address
+[site_extractor] web_search: Cafe de Mi Tierra coffee plant Quetzaltenango address directory
+[site_extractor] web_search: Cafe de Mi Tierra Guatemala Alta Verapaz Coban address Google Business Profile
+[site_extractor] web_search: Cafe de Mi Tierra office Huehuetenango address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: "Café de Mi Tierra, S.A." Guatemala organic certification address
+[site_extractor] web_search: "CAFE DE MI TIERRA, S.A." "Registro Mercantil" Guatemala
+[site_extractor] web_search: "CAFE DE MI TIERRA, S.A." "Km 21.5" Guatemala
+[site_extractor] web_search: "Cafe de Mi Tierra" Guatemala "Lote 142"
+[site_extractor] web_search: "Cafe de Mi Tierra" Guatemala farm Huehuetenango finca address
+[site_extractor] web_search: "CAFE DE MI TIERRA" Guatemala "Aldea Puerta Parada"
+[site_extractor] fetch_page: https://www.importgenius.com/suppliers/cafe-de-mi-tierra-s-a
+[site_extractor] fetch_page: https://www.maff.go.jp/j/jas/jas_kikaku/pdf/kouji_0909.pdf
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/12712872/persons-significant-control
+[site_extractor] fetch_page: https://es.scribd.com/document/1036311551/Listado-de-Agentes-de-Retencion-Del-Iva-Al-01-04-2026
+[site_extractor] fetch_page_pdf_local: https://www.maff.go.jp/j/jas/jas_kikaku/pdf/kouji_0909.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\scrapingbee_log.jsonl
+
+Combined CSV now holds 3 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\combined.csv
+
+==============================================================================
+[4/5] NICCHIO SOBRINHO
+==============================================================================
+Researching site locations for: NICCHIO SOBRINHO
+
+Collected 6 distinct candidate address(es).
+
+Company domains treated as first-party: site.nscafe.com, nscafe.com.br
+
+=== Ranked candidates for NICCHIO SOBRINHO ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Rua Cândido José Cerqueira, 60, Bairro Engenho da Serra, Manhuaçu, Minas Gerais, 36902-371, Brazil
+    site_type: Branch, Coffee Wholesale/Processing Facility
+    source:  https://mediador.trabalho.gov.br/sistemas/mediador/Resumo/ResumoVisualizar?NrSolicitacao=MR006121%2F2026
+    quote:   NICCHIO SOBRINHO CAFÉ S/A, empresa inscrita sob CNPJ Nº 27.487.131/0010-92, estabelecida na Rua Candido José Cerqueira, 60- – Bairro Engenho da Serra, Manhuaçu-MG
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avenida Barão do Rio Branco, 129-A, Bairro Baixada, Manhuaçu, Minas Gerais, 36902-030, Brazil
+    site_type: Branch, Office
+    source:  https://mediador.trabalho.gov.br/sistemas/mediador/Resumo/ResumoVisualizar?NrSolicitacao=MR006121%2F2026
+    quote:   NICCHIO SOBRINHO CAFÉ S/A empresa inscrita sob CNPJ Nº 27.487.131/0018-40, estabelecida na AV BARAO DO RIO BRANCO, 129-A– Bairro Baixada, Manhuaçu-MG
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Rodovia Gether Lopes de Farias, 2528, Bairro Carlos Germano Naumann, Colatina, Espírito Santo, 29705-200, Brazil
+    site_type: Headquarters, Coffee Storage/Processing Facility, Warehouse
+    source:  https://site.nscafe.com/contato.html
+    quote:   Matriz - Colatina/ES — Rod. Gether Lopes Farias, 2528 — Bairro Carlos Germano Nauman — CEP 29.705-200
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Avenida Nossa Senhora dos Navegantes, 675, Edifício Palácio do Café, 8º andar, Sala 802, Enseada do Suá, Vitória, Espírito Santo, 29050-420, Brazil
+    site_type: Regional Office, Branch
+    source:  https://site.nscafe.com/contato.html
+    quote:   Filial - Vitória/ES — Av. Nossa Senhora dos Navegantes, 675 — Sala 802, Enseada do Suá
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Rua Cândido José Cerqueira, 40, Bairro Engenho da Serra, Manhuaçu, Minas Gerais, 36902-371, Brazil
+    site_type: Branch, Coffee Storage/Processing Facility, Warehouse
+    source:  https://site.nscafe.com/contato.html
+    quote:   Filial - Manhuaçu/MG — Rua Candido José Cerqueira, 40 — Engenho da Serra — Manhuaçu - MG, 36902-371
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Avenida Tereziano Valim, 130, Sala 05, Centro, São João da Boa Vista, São Paulo, 13870-140, Brazil
+    site_type: Branch, Coffee Wholesale/Sales Office
+    source:  https://casadosdados.com.br/solucao/cnpj/nicchio-sobrinho-cafe-sa-27487131001416
+    quote:   Situação Cadastral: ATIVA ... Logradouro: AVENIDA TEREZIANO VALIM ... Número: 130 ... Complemento: SALA 05 ... CEP: 13870-140 ... SAO JOAO DA BOA VISTA
+
+Ground-truth address row(s) available for 'NICCHIO SOBRINHO': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\NICCHIO_SOBRINHO__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 9 calls, 214437 in / 4502 out tokens
+TOTAL web_search: 14 calls, 148763 in / 4897 out tokens
+TOTAL scrapingbee: 13 calls, 33 credits (~$0.0066), 2 failed -> escalated to paid search
+TOTAL tool calls attempted: 32 (issued: web_search 12/45, fetch_page 20 (uncapped), of which 0 were PDFs parsed locally for free (0 more read by local OCR) and 2/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.1902  (chat $0.0189, search tokens $0.0246, search call fee $0.1400, scrapingbee $0.0066)
+  input tokens priced as: 87043 uncached, 235426 cached read, 40731 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          9 calls, 214437 in / 4502 out tokens
+
+--- Queries issued (34) ---
+[site_extractor] web_search: "NICCHIO SOBRINHO" company address
+[site_extractor] web_search: NICCHIO SOBRINHO official website
+[site_extractor] web_search: "NICCHIO SOBRINHO" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://site.nscafe.com/sitemap.xml
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NICCHIO%20SOBRINHO&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://site.nscafe.com/index.html
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=NICCHIO%20SOBRINHO
+[site_extractor] fetch_page: https://nscafe.com.br/
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=NICCHIO%20SOBRINHO
+[site_extractor] fetch_page: https://site.nscafe.com/blog.html
+[site_extractor] fetch_page: https://site.nscafe.com/armazens.html
+[site_extractor] fetch_page: https://site.nscafe.com/contato.html
+[site_extractor] fetch_page: https://site.nscafe.com/codigo.html
+[site_extractor] fetch_page: https://site.nscafe.com/produtos.html
+[site_extractor] web_search: "Nicchio Sobrinho" Vitória ES endereço OR escritório OR filial
+[site_extractor] web_search: "Nicchio Sobrinho" Manhuaçu MG endereço armazém
+[site_extractor] web_search: "Nicchio Sobrinho" Colatina ES endereço armazém
+[site_extractor] web_search: Google Maps NICCHIO SOBRINHO Espírito Santo escritório armazém endereço
+[site_extractor] fetch_page: https://www.waze.com/live-map/directions/nicchio-sobrinho-cafe-r.-candido-cerqueira-40-manhuacu?to=place.w.208406078.2083864167.23654002
+[site_extractor] fetch_page: https://www.cirtrox.com.br/consulta-empresas/empresa/27487131000282-nicchio-sobrinho-cafe
+[site_extractor] fetch_page: https://cnpj.biz/27487131000100
+[site_extractor] fetch_page: https://mediador.trabalho.gov.br/sistemas/mediador/Resumo/ResumoVisualizar?NrSolicitacao=MR006121%2F2026
+[site_extractor] fetch_page_search_fallback: https://cnpj.biz/27487131000100
+[site_extractor] web_search: "27.487.131/0010-92" endereço
+[site_extractor] web_search: "27.487.131/0012-54" endereço
+[site_extractor] web_search: "27.487.131/0014-16" endereço Nicchio
+[site_extractor] web_search: "27.487.131/0018-40" endereço
+[site_extractor] fetch_page: https://www.econodata.com.br/consulta-empresa/27487131001254-nicchio-sobrinho-cafe-sa
+[site_extractor] web_search: "27.487.131/0004-44" endereço Nicchio Sobrinho
+[site_extractor] fetch_page: https://www.econodata.com.br/consulta-empresa/27487131001092-nicchio-sobrinho-cafe-sa
+[site_extractor] fetch_page: https://casadosdados.com.br/solucao/cnpj/nicchio-sobrinho-cafe-sa-27487131001416
+[site_extractor] fetch_page: https://cnpj.biz/27487131001840
+[site_extractor] fetch_page_search_fallback: https://cnpj.biz/27487131001840
+[site_extractor] fetch_page: https://casadosdados.com.br/solucao/cnpj/nicchio-sobrinho-cafe-sa-27487131000444
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\scrapingbee_log.jsonl
+
+Combined CSV now holds 4 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\combined.csv
+
+==============================================================================
+[5/5] COLLOIDS
+==============================================================================
+Researching site locations for: COLLOIDS
+
+Collected 7 distinct candidate address(es).
+
+Company domains treated as first-party: colloids.com, tosaf.com, pwhall.co.uk, pmb.co.uk
+
+=== Ranked candidates for COLLOIDS ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Kirkby Bank Road, Knowsley Industrial Park North, Kirkby, Merseyside, L33 7SY, United Kingdom
+    site_type: Manufacturing Plant, Headquarters, R&D, Technical/Quality Facility, Office
+    source:  https://colloids.com/contact/
+    quote:   Colloids Head Office / Colloids Limited / Kirkby Bank Road / Knowsley Industrial Park North / Merseyside / L33 7SY / UK
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: No. 1 Building, 39 Wanhe Road, Bixi New District, Changshu Economic and Technological Development Zone, Changshu, Jiangsu, 215537, China
+    site_type: Manufacturing Plant, Office
+    source:  https://colloids.com/contact/
+    quote:   Colloids China / Colloids Plastic (Suzhou) Limited / No 1 Building / 39 Wanhe Road, Bixi New District / Changshu Economic and Technological Development Zone / Changshu 215537 / P R China
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Doubak Works, Barton Industrial Park, Mount Pleasant, Bilston, West Midlands, England, WV14 7LH, United Kingdom
+    site_type: Manufacturing Plant
+    source:  https://find-and-update.company-information.service.gov.uk/company/01172715
+    quote:   Registered office address Doubak Works, Barton Industrial Park, Mount Pleasant, Bilston West Midlands, WV14 7LH; Nature of business: 20160 - Manufacture of plastics in primary forms
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 24 Norris Way, Wellingborough Road, Rushden, Northamptonshire, NN10 6BP, United Kingdom
+    site_type: Manufacturing Plant, Production Site
+    source:  https://colloids.com/wp-content/uploads/2026/01/Graphanced-Brochure-200-x-297mm.pdf
+    quote:   Colloids Limited | Rushden, United Kingdom | 24 Norris Way, Wellingborough Road, Rushden, Northamptonshire, NN10 6BP
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4123 Oscar Nelson Jr. Drive, Baytown, Texas, 77523-9903, United States
+    site_type: Manufacturing Plant, Technical Materials Facility
+    source:  https://www.tosaf.com/plant/colloids-inc-usa/
+    quote:   Address / 4123 Oscar Nelson Junior Drive, Baytown, Texas 77523-9903
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Blaenant Industrial Estate, Blaenavon Road, Brynmawr, Ebbw Vale, Gwent, Wales, NP23 4BX, United Kingdom
+    site_type: Manufacturing Plant, R&D/Product Design
+    source:  https://pmb.co.uk/
+    quote:   PMB | Ebbw Vale, United Kingdom | Blaenant Industrial Estate, Blaenavon Road, Brynmawr, Ebbw Vale, NP23 4BX, United Kingdom
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Woodilee Industrial Estate, Woodilee Road, Kirkintilloch, Glasgow, Scotland, G66 3UR, United Kingdom
+    site_type: Manufacturing Plant, R&D, Office
+    source:  https://pwhall.co.uk/
+    quote:   Based in Scotland, UK, PW Hall has fifty years’ experience ... formulation and manufacture of Colour and Additive Masterbatch ... Woodilee Rd, Kirkintilloch, Lenzie, Kirkintilloch, Glasgow G66 3UR
+
+Ground-truth address row(s) available for 'COLLOIDS': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\COLLOIDS__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 11 calls, 321541 in / 6313 out tokens
+TOTAL web_search: 38 calls, 654836 in / 20888 out tokens
+TOTAL scrapingbee: 4 calls, 3 credits (~$0.0006), 1 failed -> escalated to paid search
+TOTAL tool calls attempted: 69 (issued: web_search 35/45, fetch_page 30 (uncapped), of which 3 were PDFs parsed locally for free (0 more read by local OCR) and 3/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 2; searches redirected to known document links: 2; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.5312  (chat $0.0244, search tokens $0.1262, search call fee $0.3800, scrapingbee $0.0006)
+  input tokens priced as: 487696 uncached, 442578 cached read, 46103 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         11 calls, 321541 in / 6313 out tokens
+
+--- Queries issued (71) ---
+[site_extractor] web_search: COLLOIDS company official website
+[site_extractor] fetch_page: https://colloids.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=COLLOIDS&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://colloids.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=COLLOIDS
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=COLLOIDS
+[site_extractor] web_search: Colloids Ltd subsidiaries brands manufacturing sites
+[site_extractor] fetch_page: https://colloids.com/page-sitemap.xml
+[site_extractor] web_search: "Colloids Ltd" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://colloids.com/post-sitemap.xml
+[site_extractor] web_search: Colloids Ltd acquired brands subsidiaries
+[site_extractor] fetch_page: https://colloids.com/cn/colloids-plastic-suzhou-co-ltd-acquires-a-new-site-and-expands-capacity/
+[site_extractor] fetch_page: https://colloids.com/about-us/
+[site_extractor] fetch_page: https://colloids.com/contact/
+[site_extractor] fetch_page: https://colloids.com/wp-content/uploads/2024/03/TS-734327-001.pdf
+[site_extractor] fetch_page: https://colloids.com/about-us/quality/
+[site_extractor] fetch_page: https://www.tosaf.com/plant/colloids-limited/
+[site_extractor] fetch_page: https://colloids.com/wp-content/uploads/2019/10/Colloids-Corporate-Brochure-A5-16pp-English.pdf
+[site_extractor] fetch_page: https://www.tosaf.com/plant/colloids-inc-usa/
+[site_extractor] fetch_page_search_fallback: https://colloids.com/wp-content/uploads/2019/10/Colloids-Corporate-Brochure-A5-16pp-English.pdf
+[site_extractor] fetch_page_pdf_local: https://colloids.com/wp-content/uploads/2024/03/TS-734327-001.pdf
+[site_extractor] web_search: Google Maps Colloids Ltd North West England office address
+[site_extractor] web_search: Google Maps Colloids Ltd London South East office address
+[site_extractor] web_search: Colloids Ltd East Midlands office address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Colloids Ltd East Midlands office address
+[site_extractor] web_search: Colloids Ltd West Midlands office address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Colloids Ltd West Midlands office address
+[site_extractor] web_search: Colloids Ltd office North West England address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Colloids Ltd Yorkshire office address
+[site_extractor] web_search: Colloids Ltd London South East office address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Colloids Ltd Yorkshire office address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Colloids Ltd Scotland office address
+[site_extractor] web_search: Colloids Ltd Scotland office address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Colloids Ltd Wales office address
+[site_extractor] web_search: Colloids Ltd Wales office address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] fetch_page: https://colloids.com/resources-and-press/
+[site_extractor] web_search: Colloids Performance Masterbatches Ltd address site PMB Rushden
+[site_extractor] web_search: Colloids Douglas Baker Plastics Ltd manufacturing address
+[site_extractor] web_search: Colloids Plastic Suzhou Ltd Changshu manufacturing site address
+[site_extractor] web_search: Colloids controlled P.W. Hall Ltd manufacturing address
+[site_extractor] fetch_page: https://colloids.com/wp-content/uploads/2026/01/Graphanced-Brochure-200-x-297mm.pdf
+[site_extractor] web_search: Colloids Ltd Rushden 24 Norris Way current manufacturing site
+[site_extractor] web_search: Colloids Ltd Baytown Texas manufacturing facility address
+[site_extractor] fetch_page_search_fallback: https://colloids.com/wp-content/uploads/2026/01/Graphanced-Brochure-200-x-297mm.pdf
+[site_extractor] web_search: site:colloids.com "Norris Way"
+[site_extractor] web_search: Colloids Ltd sustainability report sites facilities
+[site_extractor] web_search: "Douglas Baker Plastics" address manufacturing
+[site_extractor] fetch_page: https://pwhall.co.uk/
+[site_extractor] web_search: Colloids Ltd planned new facility expansion site
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/01172715
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/SC170917
+[site_extractor] web_search: "Performance Masterbatches Ltd" official website address
+[site_extractor] web_search: Colloids Ltd facilities plant warehouse R&D UK China USA
+[site_extractor] fetch_page: https://colloids.com/cn/company
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/15091098/persons-with-significant-control
+[site_extractor] fetch_page: https://pmb.co.uk/
+[site_extractor] web_search: Tosaf Colloids Plastic Suzhou ownership subsidiary
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/SC170917/persons-with-significant-control
+[site_extractor] web_search: Tosaf Colloids Inc USA Baytown ownership legal entity
+[site_extractor] web_search: Colloids Limited global locations Rushden Baytown Changshu
+[site_extractor] fetch_page_search_fallback: https://pmb.co.uk/
+[site_extractor] web_search: Performance Masterbatches became part of Colloids January 2022
+[site_extractor] fetch_page: https://colloids.com/wp-content/uploads/2022/10/Sustainable-Black-Brochure-DIGITAL.pdf
+[site_extractor] fetch_page: https://colloids.com/wp-content/uploads/2022/10/Black-Standard-Grades-6pp-Booklet-200-x-297mm.pdf
+[site_extractor] web_search: Colloids Limited PMB acquisition Blaenavon Brynmawr
+[site_extractor] fetch_page_pdf_local: https://colloids.com/wp-content/uploads/2022/10/Sustainable-Black-Brochure-DIGITAL.pdf
+[site_extractor] fetch_page_pdf_local: https://colloids.com/wp-content/uploads/2022/10/Black-Standard-Grades-6pp-Booklet-200-x-297mm.pdf
+[site_extractor] fetch_page: https://www.pmb.co.uk/about
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/01145445
+[site_extractor] fetch_page: https://www.pmb.co.uk/contact
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/01145445/persons-with-significant-control
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\scrapingbee_log.jsonl
+
+Combined CSV now holds 5 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\combined.csv
+
+
+==============================================================================
+BATCH SUMMARY
+==============================================================================
+company               rows  search  fetch  paid_fb   bee  credits     cost
+KYNDRYL                111      17     19        0     3        3    0.324
+FINE WILL INDUSTRIAL LIMITED     3      19     15        4    10        4    0.261
+CAFE DE MI TIERRA SA     2      20     19        1     1       75    0.301
+NICCHIO SOBRINHO         6      14     20        2    13       33    0.190
+COLLOIDS                 7      38     30        3     4        3    0.531
+TOTAL                  129     108    103       10    31      118    1.607
+
+Combined results: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard02\combined.csv

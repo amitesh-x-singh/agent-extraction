@@ -8,7 +8,7 @@ source checkout, so a pip-installed copy writes results where it was run rather 
 site-packages.
 
 The per-tool call budgets are fixed constants in config.py (WEB_SEARCH_CALL_BUDGET /
-FETCH_PAGE_CALL_BUDGET) rather than CLI flags, so every run in usage_log.jsonl is comparable
+FETCH_PAGE_PAID_CALL_BUDGET) rather than CLI flags, so every run in usage_log.jsonl is comparable
 against every other; change them there to run a cost experiment.
 
 A --suppliers batch runs companies SERIALLY and never in parallel: usage.py's tracker is a
@@ -38,8 +38,8 @@ for _stream in (sys.stdout, sys.stderr):
 from .address_ground_truth import compare_by_city_country, load_address_ground_truth
 from .address_ground_truth import rows_for_company as address_rows_for_company
 from .config import (
-    EST_SCRAPINGBEE_COST_PER_CREDIT,
-    FETCH_PAGE_CALL_BUDGET,
+    SCRAPINGBEE_COST_PER_CREDIT,
+    FETCH_PAGE_PAID_CALL_BUDGET,
     GROUND_TRUTH_ADDRESS_CSV,
     RESULTS_DIR,
     WEB_SEARCH_CALL_BUDGET,
@@ -121,15 +121,37 @@ class PipelineResult:
         self.tracker = tracker
 
 
-def _run_pipeline(company: str, *, reasoning_effort: str | None = None) -> PipelineResult:
+def user_message(company: str, supplier_url: str | None = None) -> str:
+    """The agent's opening instruction. With a website from the input, the agent starts there;
+    without one it must search for it -- it is never allowed to guess a domain."""
+    message = f"Research physical site locations for: {company}"
+    if supplier_url and supplier_url.strip():
+        message += (
+            f"\n\nThe input gives this company's official website: {supplier_url.strip()}. Start by "
+            "fetching it and its /sitemap.xml instead of searching for the domain."
+        )
+    else:
+        message += (
+            "\n\nNo website was given for this company. Do not guess one: find its official "
+            "website with web_search first."
+        )
+    return message
+
+
+def _run_pipeline(
+    company: str, *, reasoning_effort: str | None = None, supplier_url: str | None = None
+) -> PipelineResult:
     from .agent import build_agent  # deferred: needs OPENAI_API_KEY at import time
+    from .search_tool import _norm_host
 
     tracker = start_tracking()
+    if supplier_url:
+        tracker.record_hosts([_norm_host(supplier_url)])  # the one domain fetch_page trusts up front
     usage_callback = TokenUsageCallbackHandler(tracker)
 
     agent = build_agent(reasoning_effort=reasoning_effort)
     result = agent.invoke(
-        {"messages": [{"role": "user", "content": f"Research physical site locations for: {company}"}]},
+        {"messages": [{"role": "user", "content": user_message(company, supplier_url)}]},
         config={"callbacks": [usage_callback]},
     )
 
@@ -140,7 +162,8 @@ def _run_pipeline(company: str, *, reasoning_effort: str | None = None) -> Pipel
         return PipelineResult([], None, tracker)
 
     candidates = _dedupe_candidates(extraction.candidates)
-    company_domains = _normalize_domains(extraction.company_domains)
+    # An input website is the company's own, so pages on it score as first-party (as in the API).
+    company_domains = _normalize_domains(([supplier_url] if supplier_url else []) + extraction.company_domains)
     # The primary domain can come from either place; notes is the older path and stays as the
     # fallback for a run where the agent fills in only one of the two.
     official_domain = _find_official_domain(extraction.notes) or (company_domains[0] if company_domains else None)
@@ -207,6 +230,7 @@ def run_one(
     *,
     reasoning_effort: str | None = None,
     results_path: Path | None = None,
+    supplier_url: str | None = None,
 ) -> tuple[list[dict], UsageTracker] | None:
     """Research one company end to end and write its results CSV. Returns (ranked, tracker), or
     None if the agent produced no candidates.
@@ -214,8 +238,8 @@ def run_one(
     Returning None rather than calling sys.exit() is what makes this reusable from the batch
     driver: one company finding nothing must not take the other nine down with it.
     """
-    print(f"Researching site locations for: {company}\n")
-    pipeline = _run_pipeline(company, reasoning_effort=reasoning_effort)
+    print(f"Researching site locations for: {company}" + (f" ({supplier_url})" if supplier_url else "") + "\n")
+    pipeline = _run_pipeline(company, reasoning_effort=reasoning_effort, supplier_url=supplier_url)
     if not pipeline.candidates:
         return None
 
@@ -239,7 +263,7 @@ def run_one(
     run_config = {
         "reasoning_effort": reasoning_effort or "medium",  # API default when unset
         "web_search_call_budget": WEB_SEARCH_CALL_BUDGET,
-        "fetch_page_call_budget": FETCH_PAGE_CALL_BUDGET,
+        "fetch_page_paid_call_budget": FETCH_PAGE_PAID_CALL_BUDGET,
         # Records whether fetch_page's middle tier was available, so rows in usage_log.jsonl
         # from before/without it stay comparable against rows with it.
         "scrapingbee_enabled": bool(os.environ.get("SCRAPINGBEE_API_KEY")),
@@ -264,36 +288,43 @@ def run(
     *,
     reasoning_effort: str | None = None,
     output: Path | None = None,
+    supplier_url: str | None = None,
 ) -> None:
     _require_api_keys()
-    if run_one(company, options, reasoning_effort=reasoning_effort, results_path=output) is None:
+    if run_one(company, options, reasoning_effort=reasoning_effort, results_path=output, supplier_url=supplier_url) is None:
         sys.exit(1)
 
 
 _SUPPLIER_COLUMN_NAMES = {"supplier", "supplier_name"}
+_URL_COLUMN_NAMES = {"url", "website", "supplier_url", "website_url", "official_url", "domain"}
 
 
-def _read_suppliers(path: Path) -> list[str]:
-    """Company names from a suppliers CSV. Comma-delimited with a `Supplier,URL` (or
-    `supplier_name,url`) header, unlike the tab-delimited results files. The URL column is
-    ignored: the pipeline discovers a company's domain itself and has no parameter to be told
-    one."""
+def _read_suppliers(path: Path) -> list[tuple[str, str | None]]:
+    """(company, website or None) from a suppliers CSV. Comma-delimited with a `Supplier,URL` (or
+    `supplier_name,website`) header, unlike the tab-delimited results files. A website given here
+    is what the agent starts from; without one it has to search for it, never guess it."""
     with path.open(encoding="utf-8-sig", newline="") as f:
         rows = list(csv.DictReader(f))
-    column = next(
-        (col for col in (rows[0] if rows else {}) if col.strip().lower() in _SUPPLIER_COLUMN_NAMES), None
-    )
+    header = list(rows[0]) if rows else []
+    column = next((col for col in header if col.strip().lower() in _SUPPLIER_COLUMN_NAMES), None)
+    url_column = next((col for col in header if col.strip().lower() in _URL_COLUMN_NAMES), None)
     if not rows or column is None:
         print(f"ERROR: {path} has no 'Supplier' or 'supplier_name' column.", file=sys.stderr)
         sys.exit(1)
-    return [name for row in rows if (name := (row.get(column) or "").strip())]
+    return [
+        (name, ((row.get(url_column) or "").strip() or None) if url_column else None)
+        for row in rows
+        if (name := (row.get(column) or "").strip())
+    ]
 
 
 def run_batch(
     suppliers_path: Path, combined_out: Path, options: OutputOptions, *, reasoning_effort: str | None = None
 ) -> None:
     _require_api_keys()
-    companies = _read_suppliers(suppliers_path)
+    suppliers = _read_suppliers(suppliers_path)
+    websites = dict(suppliers)
+    companies = [name for name, _ in suppliers]
     print(f"Batch: {len(companies)} companies from {suppliers_path}\n{', '.join(companies)}\n")
 
     completed: list[tuple[str, list[dict]]] = []
@@ -303,7 +334,7 @@ def run_batch(
     for i, company in enumerate(companies, start=1):
         print(f"\n{'=' * 78}\n[{i}/{len(companies)}] {company}\n{'=' * 78}")
         try:
-            result = run_one(company, options, reasoning_effort=reasoning_effort)
+            result = run_one(company, options, reasoning_effort=reasoning_effort, supplier_url=websites.get(company))
         except Exception as exc:  # one company's failure must not end the batch
             traceback.print_exc()
             failures.append((company, f"{type(exc).__name__}: {exc}"))
@@ -334,7 +365,7 @@ def _print_batch_summary(
         counts = usage.get("tool_call_counts", {})
         fetch = counts.get("fetch_page", 0)
         paid_fb = counts.get("fetch_page_search_fallback", 0)
-        cost = usage["estimated_cost_usd"]
+        cost = usage["cost_usd"]
         print(
             f"{company:<20}{rows:>6}{usage['web_search_calls']:>8}{fetch:>7}{paid_fb:>9}"
             f"{usage['scrapingbee_calls']:>6}{usage['scrapingbee_credits']:>9}{cost:>9.3f}"
@@ -372,7 +403,7 @@ def _print_usage_summary(tracker: UsageTracker) -> None:
     # "not set" clause only appears when that is the explanation for a zero.
     print(
         f"TOTAL scrapingbee: {usage['scrapingbee_calls']} calls, {usage['scrapingbee_credits']} credits "
-        f"(~${usage['scrapingbee_credits'] * EST_SCRAPINGBEE_COST_PER_CREDIT:.4f}), "
+        f"(~${usage['scrapingbee_credits'] * SCRAPINGBEE_COST_PER_CREDIT:.4f}), "
         f"{usage['scrapingbee_failures']} failed -> escalated to paid search"
         + (
             f"; {usage['scrapingbee_skipped_no_key']} fetches skipped this tier "
@@ -385,12 +416,30 @@ def _print_usage_summary(tracker: UsageTracker) -> None:
     print(
         f"TOTAL tool calls attempted: {usage['tool_calls_attempted']} "
         f"(issued: web_search {counts.get('web_search', 0)}/{WEB_SEARCH_CALL_BUDGET}, "
-        f"fetch_page {counts.get('fetch_page', 0)}/{FETCH_PAGE_CALL_BUDGET}, of which "
-        f"{counts.get('fetch_page_search_fallback', 0)} needed the paid search fallback; "
+        f"fetch_page {counts.get('fetch_page', 0)} (uncapped), of which "
+        f"{counts.get('fetch_page_pdf_local', 0)} were PDFs parsed locally for free "
+        f"({counts.get('fetch_page_pdf_ocr', 0)} more read by local OCR) and "
+        f"{counts.get('fetch_page_search_fallback', 0)}/{FETCH_PAGE_PAID_CALL_BUDGET} needed the "
+        f"paid search fallback; "
         f"refused over budget: {usage['tool_calls_blocked_by_budget']}; "
-        f"site:-queries redirected to fetch_page: {usage['web_searches_redirected_to_fetch']})"
+        f"site:-queries redirected to fetch_page: {usage['web_searches_redirected_to_fetch']}; "
+        f"searches redirected to known document links: {usage.get('web_searches_redirected_to_doc_link', 0)}; "
+        f"near-duplicate searches refused: {usage.get('web_searches_refused_duplicate', 0)}; "
+        f"certificate searches refused: {usage.get('web_searches_refused_no_certificates', 0)})"
     )
-    print(f"TOTAL estimated cost: ${usage['estimated_cost_usd']:.4f} (rough estimate, see config.py)")
+    b = usage["cost_breakdown_usd"]
+    print(
+        f"TOTAL cost: ${usage['cost_usd']:.4f}  "
+        f"(chat ${b['chat_uncached_input'] + b['chat_cached_input'] + b['chat_cache_write'] + b['chat_output']:.4f}, "
+        f"search tokens ${b['web_search_uncached_input'] + b['web_search_cached_input'] + b['web_search_cache_write'] + b['web_search_output']:.4f}, "
+        f"search call fee ${b['web_search_call_fee']:.4f}, "
+        f"scrapingbee ${b['scrapingbee']:.4f})"
+    )
+    print(
+        f"  input tokens priced as: {usage['chat_input_tokens'] + usage['web_search_input_tokens'] - usage['chat_cached_input_tokens'] - usage['web_search_cached_input_tokens'] - usage['chat_cache_write_tokens'] - usage['web_search_cache_write_tokens']} uncached, "
+        f"{usage['chat_cached_input_tokens'] + usage['web_search_cached_input_tokens']} cached read, "
+        f"{usage['chat_cache_write_tokens'] + usage['web_search_cache_write_tokens']} cache write"
+    )
 
     if usage["per_model"]:
         print("\n--- Per-model breakdown (chat only) ---")
@@ -437,6 +486,13 @@ def main() -> None:
     )
     target = parser.add_mutually_exclusive_group(required=True)
     target.add_argument("--company", help="Single company name to research, e.g. 'TENNECO'.")
+    parser.add_argument(
+        "--website",
+        default=None,
+        help="With --company: the company's official website, e.g. https://www.tenneco.com. The "
+        "agent starts from it; without it the agent finds the site with one web search (it never "
+        "guesses a domain). With --input, give websites in a 'URL' or 'website' column instead.",
+    )
     target.add_argument(
         "-i",
         "--input",
@@ -508,7 +564,7 @@ def main() -> None:
         )
         run_batch(args.input, combined_out, options, reasoning_effort=args.reasoning_effort)
     else:
-        run(args.company, options, reasoning_effort=args.reasoning_effort, output=args.output)
+        run(args.company, options, reasoning_effort=args.reasoning_effort, output=args.output, supplier_url=args.website)
 
 
 if __name__ == "__main__":

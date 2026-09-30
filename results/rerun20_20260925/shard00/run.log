@@ -1,0 +1,1284 @@
+Batch: 5 companies from suppliers.csv
+HERBERT HAENCHEN GMBH, HOSHIZAKI, WEYLCHEM PERFORMANCE PRODUCTS, MITRASTAR TECHNOLOGY, HEIDELBERG
+
+
+==============================================================================
+[1/5] HERBERT HAENCHEN GMBH
+==============================================================================
+Researching site locations for: HERBERT HAENCHEN GMBH
+
+Collected 5 distinct candidate address(es).
+
+Company domains treated as first-party: haenchen.de, en.haenchen.de, haenchen.cn, haenchen-hydraulique.fr, haenchen.fr, haenchen-hydraulic.com
+
+=== Ranked candidates for HERBERT HAENCHEN GMBH ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 6 rue des Saules, Wingersheim les quatre Bans, Grand Est, 67170, France
+    site_type: Regional Office, Sales Office
+    source:  https://www.haenchen.fr/mentions-legales.html
+    quote:   © Haenchen Hydraulique S.A.R.L. 6 rue des Saules 67170 Wingersheim les quatre Bans France
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Room 1006, North Tower, No. 1839 Qixin Road, Shanghai, Shanghai Municipality, 201101, China
+    site_type: Regional Office, Sales Office
+    source:  https://haenchen.cn/contact/
+    quote:   中国 Haenchen (Shanghai) Hydraulic Equipments Co., Ltd Room 1006, North Tower, No. 1839 Qixin Road 201101 Shanghai
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Brunnwiesenstr. 3, Ostfildern, Baden-Württemberg, 73760, Germany
+    site_type: Headquarters, Manufacturing Plant, R&D, Engineering, Office
+    source:  https://www.haenchen.de/kontakt/
+    quote:   Stammhaus Herbert Hänchen GmbH Brunnwiesenstr. 3 73760 Ostfildern Deutschland
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Fürfällmühlweg 8, Oettingen in Bayern, Bavaria, 86732, Germany
+    site_type: Manufacturing Plant
+    source:  https://www.haenchen.de/media/pdf/en/en_certificate_iso9001.pdf
+    quote:   Herbert Hänchen GmbH Fürfällmühlweg 8 86732 Oettingen Germany — Production of: Hydraulic cylinders and Hydraulic components
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Hungerbüelstr. 17, Frauenfeld, Thurgau, 8501, Switzerland
+    site_type: Sales Office
+    source:  https://www.haenchen.de/unternehmen/unternehmen/
+    quote:   2026: Tochtergesellschaft Schweiz — Der operative Betrieb der Hänchen Hydraulik AG aus der Schweiz wurde zum 01.07.2026 eingestellt.
+
+Ground-truth address row(s) available for 'HERBERT HAENCHEN GMBH': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\HERBERT_HAENCHEN_GMBH__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 9 calls, 250760 in / 3587 out tokens
+TOTAL web_search: 11 calls, 134326 in / 3453 out tokens
+TOTAL scrapingbee: 0 calls, 0 credits (~$0.0000), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 36 (issued: web_search 11/45, fetch_page 25 (uncapped), of which 3 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.1530  (chat $0.0206, search tokens $0.0224, search call fee $0.1100, scrapingbee $0.0000)
+  input tokens priced as: 86053 uncached, 249599 cached read, 49434 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          9 calls, 250760 in / 3587 out tokens
+
+--- Queries issued (39) ---
+[site_extractor] web_search: HERBERT HAENCHEN GMBH official website
+[site_extractor] fetch_page: https://www.haenchen.de/
+[site_extractor] fetch_page: https://www.haenchen.de/impressum/
+[site_extractor] fetch_page: https://www.haenchen.de/sitemap.xml
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HERBERT%20HAENCHEN%20GMBH&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=Herbert%20Haenchen%20GmbH
+[site_extractor] fetch_page: https://www.haenchen.de/kontakt/
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=HERBERT%20HAENCHEN%20GMBH
+[site_extractor] fetch_page: https://www.haenchen.de/unternehmen/bewerbung-kontakt/
+[site_extractor] fetch_page: https://www.haenchen.de/robots/sitemap/
+[site_extractor] web_search: "Herbert Hänchen GmbH" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://www.haenchen.de/media/pdf/de/de_zertifikat_iso9001.pdf
+[site_extractor] fetch_page: https://haenchen.cn/
+[site_extractor] fetch_page: https://www.haenchen.de/service/download/
+[site_extractor] fetch_page: https://www.haenchen.de/unternehmen/unternehmen/
+[site_extractor] fetch_page: https://haenchen-hydraulique.fr/
+[site_extractor] fetch_page_pdf_local: https://www.haenchen.de/media/pdf/de/de_zertifikat_iso9001.pdf
+[site_extractor] fetch_page: https://haenchen.cn/contact/
+[site_extractor] fetch_page: https://haenchen-hydraulique.fr/contact/
+[site_extractor] fetch_page: https://haenchen.cn/impressum/
+[site_extractor] fetch_page: https://www.haenchen.de/media/pdf/en/en_certificate_iso9001.pdf
+[site_extractor] fetch_page: https://haenchen-hydraulique.fr/mentions-legales/
+[site_extractor] fetch_page_pdf_local: https://www.haenchen.de/media/pdf/en/en_certificate_iso9001.pdf
+[site_extractor] web_search: Herbert Hänchen GmbH Bavaria Bayern branch office address directory
+[site_extractor] web_search: Google Maps Herbert Hänchen Bayern Oettingen office address
+[site_extractor] web_search: Google Maps Herbert Hänchen Germany Baden-Württemberg office address
+[site_extractor] web_search: Herbert Hänchen GmbH Baden-Württemberg Niederlassung Büro Adresse yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: "Herbert Hänchen" Standort Werk Niederlassung Produktionsstandort Deutschland
+[site_extractor] web_search: "Herbert Hänchen GmbH" Taura Verkaufsbüro current address
+[site_extractor] web_search: "Herbert Hänchen GmbH" Oettingen Fürfällmühlweg 8 plant production
+[site_extractor] web_search: "Haenchen (Shanghai) Hydraulic Equipments Co., Ltd" "Qixin Road"
+[site_extractor] web_search: "Haenchen Hydraulique S.A.R.L." "6 rue des Saules"
+[site_extractor] fetch_page: https://www.haenchen.fr/mentions-legales.html
+[site_extractor] fetch_page: https://www.haenchen.de/unternehmen/arbeitgeber/
+[site_extractor] fetch_page: https://www.haenchen.de/unternehmen/unternehmen/
+[site_extractor] fetch_page: https://www.haenchen-hydraulic.com/contact/
+[site_extractor] fetch_page: https://www.haenchen.de/media/pdf/de/de_haenchen-programm-kontakt.pdf
+[site_extractor] fetch_page: https://www.haenchen.fr/contact.html
+[site_extractor] fetch_page_pdf_local: https://www.haenchen.de/media/pdf/de/de_haenchen-programm-kontakt.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\queries_log.jsonl
+
+Combined CSV now holds 1 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\combined.csv
+
+==============================================================================
+[2/5] HOSHIZAKI
+==============================================================================
+Researching site locations for: HOSHIZAKI
+
+Collected 63 distinct candidate address(es).
+
+Company domains treated as first-party: hoshizaki.com, hoshizaki.co.jp, hoshizakiamerica.com, jacksonwws.com, lancerworldwide.com, structuralconcepts.com, fogel-group.com, bremagroup.it, oztiryakiler.com.tr, westernequipments.com, hoshizakimacom.com.br, hoshizaki-europe.com, hoshizaki.com.my, hoshizaki.com.sg, technolux.com.ph, hkr.com.ph, arico.com.vn, hoshizaki.com.cn, dbyc.cn, hoshizaki.com.hk, hoshizaki.com.tw, hoshizaki.co.kr, hoshizaki-sea.com, hoshizaki-sales.co.jp, hoshizaki-hokkaido.co.jp, hoshizaki-tohoku.co.jp, hoshizaki-kitakanto.co.jp, hoshizaki-kanto.co.jp, hoshizaki-tokyo.co.jp, hoshizaki-shonan.co.jp, hoshizaki-hokushinetsu.co.jp, hoshizaki-tokai.co.jp, hoshizaki-keihan.co.jp, hoshizaki-hanshin.co.jp, hoshizaki-chugoku.co.jp, hoshizaki-shikoku.co.jp, hoshizaki-kitakyu.co.jp, hoshizaki-nankyu.jp, hoshizaki-okinawa.co.jp
+
+=== Ranked candidates for HOSHIZAKI ===
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3-16 Sakae-cho Minamiyakata, Toyoake, Aichi, 470-1194, Japan
+    site_type: Headquarters, Manufacturing Plant
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Corporation Head Office — 3-16 Sakae-cho Minamiyakata, Toyoake-shi, Aichi, 470-1194, Japan — Head Office Manufacturer
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 271-13 Kisuki-cho Yamagata, Unnan, Shimane, 699-1393, Japan
+    site_type: Manufacturing Plant, Headquarters
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Corporation Shimane Plant — 271-13 Kisuki-cho Yamagata, Unnan-shi, Shimane, 699-1393, Japan — Manufacturer
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 546 Kisuki-cho Jiryo, Unnan, Shimane, Japan
+    site_type: Manufacturing Plant
+    source:  https://www.hoshizaki.com/en/sustainability/environment/management
+    quote:   (3) Shimane Factory No. 1 546 Kisuki-cho Jiryo, Unnan, Shimane
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 834 Kisuki-cho Kisuki, Unnan, Shimane, Japan
+    site_type: Manufacturing Plant
+    source:  https://www.hoshizaki.com/en/sustainability/environment/management
+    quote:   (4) Shimane Factory No. 2 834 Kisuki-cho Kisuki, Unnan, Shimane
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 231-3 Kisuki-cho Yamagata, Unnan, Shimane, Japan
+    site_type: Manufacturing Plant
+    source:  https://www.hoshizaki.com/en/sustainability/environment/management
+    quote:   (5) Shimane Factory No. 3 231-3 Kisuki-cho Yamagata, Unnan, Shimane
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2525-1 Nakamura, Oku-Unnan-cho, Unnan, Shimane, Japan
+    site_type: Manufacturing Plant
+    source:  https://www.hoshizaki.com/en/sustainability/environment/management
+    quote:   (6) Shimane Yokota Factory 2525-1 Nakamura, Oku-Unnan-cho, Nita-gun, Shimane
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Shinagawa Seaside TS Tower, 4-12-3 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Tokyo, 140-0002, Japan
+    site_type: Sales Office
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Sales Co., Ltd. — Shinagawa Seaside TS Tower, 4-12-3 Higashi-Shinagawa, Shinagawa-ku, Tokyo 140-0002, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4-1-8 Kikusui 1-jo, Sapporo, Hokkaido, 003-0801, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Hokkaido Co., Ltd. — 4-1-8 Kikusui1-jo, Shiroishi-ku, Sapporo-shi, Hokkaido, 003-0801, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2-38 Showa-machi, Sendai, Miyagi, 981-0913, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Tohoku Co., Ltd. — 2-38 Showa-machi, Aoba-ku, Sendai-shi, Miyagi, 981-0913, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3-36 Miyahara-cho, Saitama, Saitama, 331-0812, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Kitakanto Co., Ltd. — 3-36 Miyahara-cho, Kita-ku, Saitama-shi, Saitama, 331-0812, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4-37-33 Hakusan, Bunkyo-ku, Tokyo, Tokyo, 112-0001, Japan
+    site_type: Sales Office, Service Center, R&D/Test Kitchen
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Kanto Co., Ltd. — 4-37-33 Hakusan, Bunkyo-ku, Tokyo, 112-0001, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2-2-5 Sakuragi-cho, Yokohama, Kanagawa, 231-0062, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Shonan Co., Ltd. — 2-2-5 Sakuragi-cho, Naka-ku, Yokohama-shi, Kanagawa, 231-0062, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2-26 Matsushima, Kanazawa, Ishikawa, 920-0364, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Hokushinetsu Co., Ltd. — 2-26 Matsushima, Kanazawa-shi, Ishikawa, 920-0364, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5-21-3 Meieki, Nagoya, Aichi, 450-0002, Japan
+    site_type: Sales Office, Service Center, R&D/Test Kitchen
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Tokai Co., Ltd. — 5-21-3 Meieki, Nakamura-ku, Nagoya-shi, Aichi, 450-0002, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2-2-12 Uchihon-machi, Osaka, Osaka, 540-0026, Japan
+    site_type: Sales Office, Service Center, R&D/Test Kitchen
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Keihan Co., Ltd. — 2-2-12 Uchihon-machi, Chuo-ku, Osaka-shi, Osaka, 540-0026, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3-1-34 Kikawahigashi, Osaka, Osaka, 532-0012, Japan
+    site_type: Sales Office, Service Center, R&D/Test Kitchen
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Hanshin Co., Ltd. — 3-1-34 Kikawahigashi, Yodogawa-ku, Osaka-shi, Osaka, 532-0012, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1-13 Dohashi-cho, Hiroshima, Hiroshima, 730-0854, Japan
+    site_type: Sales Office, Service Center, R&D/Test Kitchen
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Chugoku Co., Ltd. — 1-13 Dohashi-cho, Naka-ku, Hiroshima-shi, Hiroshima, 730-0854, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3-3 Konya-machi, Takamatsu, Kagawa, 760-0027, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Shikoku Co., Ltd. — 3-3 Konya-machi, Takamatsu-shi, Kagawa, 760-0027, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3-18-9 Hakataekiminami, Fukuoka, Fukuoka, 812-0016, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Kitakyu Co., Ltd. — 3-18-9 Hakataekiminami, Hakata-ku, Fukuoka-shi, Fukuoka, 812-0016, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4-41-11 Shimoarata, Kagoshima, Kagoshima, 890-0056, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Nankyu Co., Ltd. — 4-41-11 Shimoarata, Kagoshima-shi, Kagoshima, 890-0056, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3-3-13 Tomari, Naha, Okinawa, 900-0012, Japan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Okinawa Co., Ltd. — 3-3-13 Tomari, Naha-shi, Okinawa, 900-0012, Japan — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 703-10 Kamo-cho Minamigamo, Unnan, Shimane, 699-1104, Japan
+    site_type: Manufacturing Plant
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Nestor Corporation — 703-10 Kamo-cho Minamigamo, Unnan-shi, Shimane, 699-1104, Japan — Manufacturer
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 425-2 Kisuki-cho Higashihinobori, Unnan, Shimane, 699-1323, Japan
+    site_type: Manufacturing Plant
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Sansei Co., Ltd. — 425-2 Kisuki-cho Higashihinobori, Unnan-shi, Shimane, 699-1323, Japan — Manufacturer
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1-2-83 Onoharahigashi, Mino, Osaka, 562-0031, Japan
+    site_type: Manufacturing Plant, Sales Office
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Naomi Co., Ltd. — 1-2-83 Onoharahigashi, Mino-shi, Osaka, 562-0031, Japan — Manufacturer Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 500 Westpark Dr., Suite 300, Peachtree City, Georgia, 30269, United States
+    site_type: Regional Headquarters
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki USA Holdings, Inc. — 500 Westpark Dr. Suite 300, Peachtree City, Georgia, 30269, USA — Regional Headquarters
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 618 Highway 74 South, Peachtree City, Georgia, 30269, United States
+    site_type: Manufacturing Plant, Sales Office, R&D
+    source:  https://www.hoshizakiamerica.com/wp-content/uploads/2025/06/ISO-9001-Certificate.pdf
+    quote:   Hoshizaki America, Inc. 618 Highway 74 South, Peachtree City, GA, 30269, United States — Design and Manufacture of Commercial Refrigeration Equipment and Related Components.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 101 Green Valley Boulevard, Griffin, Georgia, 30224, United States
+    site_type: Manufacturing Plant
+    source:  https://www.hoshizakiamerica.com/wp-content/uploads/2025/06/ISO-9001-Certificate.pdf
+    quote:   101 Green Valley Boulevard, Griffin, GA, 30224, United States — Manufacture of Commercial Refrigeration Equipment and Related Components.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 15121 Frye Rd, Fort Worth, Texas, 76155, United States
+    site_type: Distribution Center, Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki South Central Distribution Center, Inc. — 15121 Frye Rd, Fort Worth, TX 76155, USA — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 790 Challenger St, Brea, California, 92821, United States
+    site_type: Distribution Center, Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Western Distribution Center, Inc. — 790 Challenger St, Brea, CA 92821, USA — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 40 Kenwood Cir #2, Franklin, Massachusetts, 02038, United States
+    site_type: Distribution Center, Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Northeastern Distribution Center, Inc. — 40 Kenwood Cir #2, Franklin, MA 02038, USA — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 875 Corduroy Rd, Lewis Center, Ohio, 43035, United States
+    site_type: Distribution Center, Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Northcentral Distribution Center, Inc. — 875 Corduroy Rd, Lewis Center, OH 43035, USA — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 9600 Satellite Blvd #120, Orlando, Florida, 32837, United States
+    site_type: Distribution Center, Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Southeastern Distribution Center, Inc. — 9600 Satellite Blvd #120, Orlando, FL 32837, USA — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 6655 Lancer Blvd., San Antonio, Texas, 78219, United States
+    site_type: Manufacturing Plant, Sales Office, R&D
+    source:  https://lancerworldwide.com
+    quote:   6655 Lancer Blvd. San Antonio, TX 78219 USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 6209 N. US Highway 25E, Gray, Kentucky, 40734, United States
+    site_type: Manufacturing Plant, Sales Office, R&D, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Jackson WWS, Inc. — 6209 N. US Highway 25E Gray, KY, 40734, USA — Manufacturer Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 888 E. Porter Road, Muskegon, Michigan, 49441, United States
+    site_type: Manufacturing Plant, Sales Office, R&D
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Structural Concepts Corporation — 888 E. Porter Road, Muskegon, Michigan 49441, USA — Manufacturer Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Albert Einstein 201, Lt1, Int 11, Col. Santa Ana Tlapaltitlan Zona Industrial, Toluca, Estado de México, Mexico
+    site_type: Sales Office
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki de Mexico. S. de R.L. de C.V. — Albert Einstein 201, Lt1, Int 11, Col. Santa Ana Tlapaltitlan Zona Industrial, Toluca, Estado de México — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Victoria Vo. 2708 Nte. Colonia Nuevo Mundo, Piedras Negras, Coahuila, 26010, Mexico
+    site_type: Manufacturing Plant, Sales Office
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Industrias Lancermex, S.A. de C.V. — Victoria Vo. 2708 Nte. Colonia Nuevo Mundo Piedras Negras, Coah, Mexico CP 26010 — Manufacturer; Lancer de Mexico ... — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Av. Julia Gaiolli, 474, Guarulhos, São Paulo, 07251-500, Brazil
+    site_type: Manufacturing Plant, Sales Office, R&D
+    source:  https://hoshizakimacom.com.br
+    quote:   HOSHIZAKI MACOM LTDA | Guarulhos, Brazil | Av. Julia Gaiolli, 474 ∙ Guarulhos/SP 07251-500
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3 av. 8-92 Zona 3, Lotificación El Rosario, Mixco, Guatemala, 01057, Guatemala
+    site_type: Manufacturing Plant, Sales Office
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Fogel de Centroamérica, S.A. — 3 av. 8-92 Zona 3, Lotificación El Rosario, Mixco, Guatemala. 01057 — Manufacturer Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Burg.Stramanweg 101, Amsterdam, North Holland, 1101 AA, Netherlands
+    site_type: Regional Headquarters, Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Europe Holdings B.V. — Burg.Stramanweg 101, 1101AA, Amsterdam, The Netherlands — Regional Headquarters; Hoshizaki Europe B.V. — same address — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Stafford Park 7, Telford, Shropshire, TF3 3BQ, United Kingdom
+    site_type: Manufacturing Plant, Sales Office
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Europe Limited — Stafford Park 7, Telford, Shropshire, UK, TF3 3BQ — Manufacturer
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Via dell'Industria, 10, Villa Cortese, Milan, 20035, Italy
+    site_type: Manufacturing Plant, Sales Office, R&D
+    source:  https://bremagroup.it
+    quote:   Via dell'Industria 10, 20035 Villa Cortese (MI), Italy ... soggetta a direzione e coordinamento di Hoshizaki Corporation
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Cumhuriyet Mah. Hadımköy Yolu Cad. No:8, Büyükçekmece, Istanbul, 34500, Türkiye
+    site_type: Manufacturing Plant, Sales Office, R&D
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Oztiryakiler Madeni Esya Sanayi ve Ticaret Anonim Sirketi — Cumhuriyet Mah. Hadimkoy Yolu Cad. No:8 34500 Buyukcekmece, Istanbul, Türkiye — Manufacturer Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Mechelsesteenweg 592, Zaventem, Flemish Brabant, 1930, Belgium
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Lancer Europe N.V. — Mechelsesteenweg 592, 1930 Zaventem, Belgium — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 501-505, Ascot Centre, Sahar Road, near Hotel Hilton, Andheri East, Mumbai, Maharashtra, 400099, India
+    site_type: Manufacturing Plant, Sales Office, R&D
+    source:  https://westernequipments.com
+    quote:   Visit us: 501-505, Ascot Centre, Sahar Road, Near Hotel Hilton, Andheri (East), Mumbai – 400 099
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 18 Boon Lay Way, #01-102/103 Tradehub 21, Singapore, 609966, Singapore
+    site_type: Regional Headquarters, Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Southeast Asia Holdings Pte. Ltd. — 18 Boon Lay Way, #01-102/103 Tradehub 21, SINGAPORE 609966 — Regional Headquarters; Hoshizaki Singapore Pte Ltd — same address — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Kirana Boutique Office, Kirana Avenue 2 Blok C2 No. 6, Jl. Raya Boulevard No.1 Kelapa Gading, Jakarta Utara, DKI Jakarta, 14240, Indonesia
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Pt. Hoshizaki Indonesia — Kirana Boutique Office, Kirana Avenue 2 Blok C2 No. 6, Jl. Raya Boulevard No.1 Kelapa Gading, Jakarta Utara, DKI Jakarta, Indonesia 14240 — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 12, Jalan Penyajak U1/45B, Hicom-Glenmarie Industrial Park, Shah Alam, Selangor, 40150, Malaysia
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Malaysia Sdn. Bhd. — No. 12, Jalan Penyajak U1/45B. Hicom-Glenmarie Industrial Park, 40150 Shah Alam, Selangor, Malaysia — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Unit No. GB-2, Ground Floor, Agustin 1 Building, #28 F. Ortigas Jr. Road, Ortigas Center, Pasig City, Metro Manila, Philippines
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Philippines Corporation — Unit No. GB-2, Ground Floor, Agustin 1 Building, #28 F. Ortigas Jr. Road, Ortigas Center, Pasig City, Philippines — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 99 CP Tower North Park building 9th Floor, Zone D1, Soi Ngamwongwan 47 Intersection 42, Thung Song Hong, Lak Si, Bangkok, 10210, Thailand
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki(Thailand)Limited — No. 99 CP Tower North Park building 9th Floor, Zone D1, Soi Ngamwongwan 47 Intersection 42, Thung Song Hong Subdistrict, Lak Si District, Bangkok 10210, Thailand — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 168/14 Nguyen Gia Tri, Thanh My Tay Ward, Ho Chi Minh City, Vietnam
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Vietnam Corporation — 168/14 Nguyen Gia Tri, Thanh My Tay Ward, Ho Chi Minh City, Vietnam — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 4th Floor THC Building, 2176 Primo Rivera Street, La Paz, Makati City, Metro Manila, Philippines
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Technolux Equipment and Supply Corporation — 4th Floor THC Building, 2176 Primo Rivera Street, La Paz, Makati City, Philippines — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 9705 Kamagong Street, San Antonio Village, Makati City, Metro Manila, Philippines
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   HKR Equipment Corporation — 9705 Kamagong Street, San Antonio Village, Makati City, Philippines — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Lot 25-27 Trung Tam Road, Tan Tao Industrial Zone, Tan Tao Ward, Ho Chi Minh City, Vietnam
+    site_type: Manufacturing Plant, Sales Office
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Vietnam Manufacturing Corporation — Lot 25-27 Trung Tam Road, Tan Tao Industrial Zone, Tan Tao Ward, Ho Chi Minh City, Vietnam — Manufacturer Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 101, 67th Floor, 210 Wenshui Road, Jing'an District, Shanghai, China
+    site_type: Regional Headquarters
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki (China) Holdings Co., Ltd. — No. 101, 67th Floor, 210 Wenshui Road, Jing'an District, Shanghai, China — Regional Headquarters
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 15 Qingqiu Street, Suzhou Industrial Park, Wu Xian, Suzhou, Jiangsu, 215126, China
+    site_type: Manufacturing Plant, Sales Office
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki China Corporation — No. 15 Qingqiu Street, Suzhou Industrial Park, Wu Xian, Jiangsu 215126 China — Manufacturer Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: RM705, Saite Building, 22 Jianguomenwai Street, Chao Yang District, Beijing, 100022, China
+    site_type: Manufacturing Plant, Sales Office
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Beijing Royalkitchen Science And Technology Co., Ltd. — RM705, Saite Building, 22 Jianguomenwai Street, Chao Yang District, Beijing, China 100022 — Manufacturer Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Unit G, 17/F, World Tech Centre, 95 How Ming Street, Kwun Tong, Kowloon, Hong Kong
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Hong Kong Co., Ltd. — Unit G, 17/F, World Tech Centre, 95 How Ming Street, Kwun Tong, Kowloon, Hong Kong — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Room 801, No. 1576, Nanjing Road West, Jing'an District, Shanghai, 200040, China
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Lancer Shanghai Co., Ltd. — Room 801, No. 1576, Nanjing Road West, Jing'an District, Shanghai, 200040, China — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5/F, No. 337, Section 1, Dunhua South Road, Da’an District, Taipei City, 106, Taiwan
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Taiwan, Inc. — 5/F, No. 337, Section 1, Dunhua South Road, Da’an District, Taipei City, Taiwan 106 — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2F, 55, Gangseo-ro 56ga-gil, Gangseo-gu, Seoul, South Korea
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Korea Co., Ltd. — 2F, 55, Gangseo-ro 56ga-gil, Gangseo-gu, Seoul, Korea — Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5 Toogood Avenue, Beverley, South Australia, 5009, Australia
+    site_type: Manufacturing Plant, Sales Office, R&D, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Lancer Pty Ltd — 5 Toogood Avenue, BEVERLEY, SA 5009 — Manufacturer Sales Company
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 9 O'Rorke Street, Onehunga, Auckland, New Zealand
+    site_type: Sales Office, Service Center
+    source:  https://www.hoshizaki.com/en/story/company-directory
+    quote:   Hoshizaki Lancer Limited — 9 O'Rorke Street Onehunga, New Zealand — Sales Company
+
+Ground-truth address row(s) available for 'HOSHIZAKI': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\HOSHIZAKI__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 9 calls, 339105 in / 14179 out tokens
+TOTAL web_search: 26 calls, 407551 in / 25673 out tokens
+TOTAL scrapingbee: 8 calls, 51 credits (~$0.0102), 5 failed -> escalated to paid search
+TOTAL tool calls attempted: 63 (issued: web_search 22/45, fetch_page 41 (uncapped), of which 2 were PDFs parsed locally for free (0 more read by local OCR) and 4/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.4022  (chat $0.0401, search tokens $0.0919, search call fee $0.2600, scrapingbee $0.0102)
+  input tokens priced as: 292828 uncached, 381806 cached read, 72022 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          9 calls, 339105 in / 14179 out tokens
+
+--- Queries issued (69) ---
+[site_extractor] web_search: HOSHIZAKI official website
+[site_extractor] fetch_page: https://www.hoshizaki.com/en
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HOSHIZAKI&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://www.hoshizaki.com/sitemap.xml
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=HOSHIZAKI
+[site_extractor] web_search: HOSHIZAKI global locations subsidiaries brands official
+[site_extractor] fetch_page: https://www.hoshizaki.com/en/brands
+[site_extractor] fetch_page: https://www.hoshizaki.com/en/story/company-directory
+[site_extractor] fetch_page: https://www.hoshizaki.co.jp/en/company/network/list.html
+[site_extractor] fetch_page: https://www.hoshizaki.com/en/story/profile
+[site_extractor] fetch_page: https://www.hoshizaki.com/en/global-reach
+[site_extractor] web_search: "HOSHIZAKI" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page_search_fallback: https://www.hoshizaki.com/en/brands
+[site_extractor] fetch_page_search_fallback: https://www.hoshizaki.com/en/global-reach
+[site_extractor] fetch_page: https://jacksonwws.com
+[site_extractor] fetch_page: https://lancerworldwide.com
+[site_extractor] fetch_page: https://www.hoshizaki.com/en/sustainability/environment/management
+[site_extractor] fetch_page: https://www.hoshizaki.co.jp/en/company/profile.html
+[site_extractor] fetch_page: https://www.hoshizakiamerica.com/wp-content/uploads/2025/06/ISO-9001-Certificate.pdf
+[site_extractor] fetch_page: https://www.hoshizakiamerica.com
+[site_extractor] fetch_page: https://structuralconcepts.com
+[site_extractor] fetch_page: https://fogel-group.com
+[site_extractor] fetch_page: https://oztiryakiler.com.tr
+[site_extractor] fetch_page: https://bremagroup.it
+[site_extractor] fetch_page: https://westernequipments.com
+[site_extractor] fetch_page: https://hoshizakimacom.com.br
+[site_extractor] fetch_page_search_fallback: https://www.hoshizaki.co.jp/en/company/profile.html
+[site_extractor] fetch_page_search_fallback: https://hoshizakimacom.com.br
+[site_extractor] fetch_page_pdf_local: https://www.hoshizakiamerica.com/wp-content/uploads/2025/06/ISO-9001-Certificate.pdf
+[site_extractor] web_search: Google Maps Hoshizaki Hokuriku Hokushinetsu Kanazawa office address
+[site_extractor] web_search: Hoshizaki office Tohoku Miyagi yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Hoshizaki Hokkaido Tohoku Hokkaido office address
+[site_extractor] web_search: Hoshizaki office Niigata Nagano Ishikawa directory address
+[site_extractor] web_search: Hoshizaki office Aichi Gifu Mie Shizuoka directory address
+[site_extractor] web_search: Google Maps Hoshizaki Tokai Nagoya Shizuoka office address
+[site_extractor] web_search: Hoshizaki office Chiba Ibaraki Tochigi Gunma address directory
+[site_extractor] web_search: Google Maps Hoshizaki Keihan Hanshin Osaka Kyoto office address
+[site_extractor] web_search: Google Maps Hoshizaki Tohoku Miyagi office address
+[site_extractor] web_search: Hoshizaki office Hokkaido yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Hoshizaki Kanto Tokyo Saitama Kanagawa office address
+[site_extractor] web_search: Hoshizaki office Kansai Osaka Kyoto Hyogo directory address
+[site_extractor] web_search: Google Maps Hoshizaki Chugoku Shikoku Hiroshima Okayama Takamatsu office address
+[site_extractor] web_search: Google Maps Hoshizaki Kyushu Okinawa Fukuoka Kagoshima Naha office address
+[site_extractor] fetch_page: https://www.hoshizaki-hokkaido.co.jp/office/
+[site_extractor] fetch_page: https://hoshizaki-tohoku.co.jp/company/
+[site_extractor] fetch_page: https://hoshizaki-tokai.co.jp/offices/
+[site_extractor] fetch_page: https://hoshizaki-hokushinetsu.co.jp/office/
+[site_extractor] fetch_page: https://www.hoshizaki-kanto.co.jp/business_office/
+[site_extractor] fetch_page: https://hoshizaki-hanshin.co.jp/location/
+[site_extractor] fetch_page: https://www.hoshizaki-kitakanto.co.jp/location/
+[site_extractor] fetch_page: https://www.hoshizaki-chugoku.co.jp/location/
+[site_extractor] fetch_page: https://www.hoshizaki-shikoku.co.jp/location/
+[site_extractor] fetch_page: https://www.hoshizaki-kitakyu.co.jp/location/
+[site_extractor] fetch_page: https://www.hoshizaki-nankyu.jp/location/
+[site_extractor] fetch_page: https://hoshizaki-keihan.co.jp/location/
+[site_extractor] fetch_page: https://www.hoshizaki-okinawa.co.jp/location/
+[site_extractor] fetch_page: https://www.hoshizaki-shonan.co.jp/location/
+[site_extractor] fetch_page: https://www.hoshizaki-tokyo.co.jp/location/
+[site_extractor] web_search: site:hoshizaki-shikoku.co.jp 営業所一覧 住所
+[site_extractor] web_search: site:hoshizaki-kitakyu.co.jp 営業所一覧 住所
+[site_extractor] web_search: site:hoshizaki-nankyu.jp 営業所一覧 住所
+[site_extractor] web_search: site:hoshizaki-okinawa.co.jp 営業所一覧 住所
+[site_extractor] web_search: site:hoshizaki-shonan.co.jp 営業所一覧 住所
+[site_extractor] fetch_page: https://hoshizaki-shikoku.co.jp/branch.html
+[site_extractor] fetch_page: https://www.hoshizaki-kitakyu.co.jp/map
+[site_extractor] fetch_page: https://hoshizaki-nankyu.jp/about/%E5%96%B6%E6%A5%AD%E6%89%80%E3%81%A8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%8B%A0%E7%82%B9%E4%B8%80%E8%A6%A7
+[site_extractor] fetch_page: https://www.hoshizaki-okinawa.co.jp/relays/download/48/1053/576//?file=%2Ffiles%2Flibs%2F3027%2F%2F202412191304192218.pdf
+[site_extractor] fetch_page: https://hoshizaki-shonan.co.jp/list-of-business-offices/
+[site_extractor] fetch_page_pdf_local: https://www.hoshizaki-okinawa.co.jp/relays/download/48/1053/576//?file=%2Ffiles%2Flibs%2F3027%2F%2F202412191304192218.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\scrapingbee_log.jsonl
+
+Combined CSV now holds 2 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\combined.csv
+
+==============================================================================
+[3/5] WEYLCHEM PERFORMANCE PRODUCTS
+==============================================================================
+Researching site locations for: WEYLCHEM PERFORMANCE PRODUCTS
+
+Collected 13 distinct candidate address(es).
+
+Company domains treated as first-party: weylchem.com, vasantchemicals.com, weylchem-organica.com, catexel.com
+
+=== Ranked candidates for WEYLCHEM PERFORMANCE PRODUCTS ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Edmund-Rumpler-Straße 3, Frankfurt am Main, Hesse, 60549, Germany
+    site_type: Headquarters, Office
+    source:  https://weylchem.com/imprint/
+    quote:   WeylChem International GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt/Main
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Kunstseidestraße 5, Bitterfeld-Wolfen, Saxony-Anhalt, 06766, Germany
+    site_type: Manufacturing Plant, R&D, Custom Synthesis
+    source:  https://www.weylchem-organica.com/en/contact/
+    quote:   “WeylChem ORGANICA” is an exclusive manufacturer of organic fine chemicals... Kunstseidestraße 5 06766 Bitterfeld-Wolfen Deutschland
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 4th Floor, “Iktara”, 1-63/10, Kavuri Hills, Guttala Begumpet, Hyderabad, Telangana, 500033, India
+    site_type: Office, Headquarters
+    source:  https://vasantchemicals.com/contact-us
+    quote:   Vasant Chemicals Pvt Limited, 4th Floor, “iktara” 1-63/10, Kavuri Hills, Guttala Begumpet, Hyderabad – 500 033, Telangana, INDIA.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Alt-Fechenheim 34, Frankfurt am Main, Hesse, 60386, Germany
+    site_type: Manufacturing Plant, R&D, Process Development, Analytical Support
+    source:  https://weylchem.com/companies/allessa-gmbh/
+    quote:   Location Allessa GmbH Alt-Fechenheim 34, 60386 Frankfurt
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Dique de Zierbena, Muelle AZ-1, Zierbena, Bizkaia, 48508, Spain
+    site_type: Manufacturing Plant, Chemical Processing Facility
+    source:  https://weylchem.com/companies/weylchem-bilbao-s-l-u/
+    quote:   WeylChem Bilbao operates a state-of-the art plant... Location WeylChem Bilbao S.L.U. Dique de Zierbena Muelle AZ-1 ES-48508 Zierbena, Bizkaia
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Industriepark Höchst, Brüningstraße 50, Frankfurt am Main, Hesse, 65929, Germany
+    site_type: Manufacturing Plant, Chemical Processing Facility
+    source:  https://weylchem.com/companies/weylchem-intermediates-gmbh/
+    quote:   Our manufacturing plant, located in the Frankfurt Höchst Industrial Park... Industriepark Höchst, Brüningstraße 50, 65929 Frankfurt am Main, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Rue du Flottage, BP 1, Trosly-Breuil, Hauts-de-France, 60350, France
+    site_type: Manufacturing Plant, R&D, Process Development, Analytical Support, Warehouse
+    source:  https://weylchem.com/companies/weylchem-lamotte-s-a-s/
+    quote:   Furthermore, WeylChem Lamotte offers efficient warehouse services... Rue du Flottage, BP. 1, 60350 Trosly Breuil, France
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2401 Doyle Street, Greensboro, North Carolina, 27406, United States
+    site_type: Sales Office, Business Development Hub, Manufacturing Support
+    source:  https://weylchem.com/companies/weylchem-us-inc/
+    quote:   WeylChem US serves as the central sales and business development hub... Location WeylChem US 2401 Doyle Street, Greensboro, NC, 27406 USA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Brühler Straße 2, Wesseling, North Rhine-Westphalia, 50389, Germany
+    site_type: Manufacturing Plant, R&D, Application Technology
+    source:  https://weylchem.com/companies/weylchem-wesseling/
+    quote:   WeylChem Wesseling is a leading supplier of cyanuric chloride and derivates... Brühler Straße 2, 50389 Wesseling, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Plot Nos. 91/C, 91/D & 91D/P, Phase I, IDA Jeedimetla, Hyderabad, Telangana, 500055, India
+    site_type: Manufacturing Plant, R&D, Pilot Plant, Commercial Manufacturing
+    source:  https://www.vasantchemicals.com/commercial-manufacturing/
+    quote:   MANUFACTURING UNITS UNIT I – HYDERABAD UNIT II – CHUTAPURAM (VISAKHAPATNAM)
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Plot No. 10A, Western Sector, APSEZ, Atchutapuram, Andhra Pradesh, 531011, India
+    site_type: Manufacturing Plant, R&D, Pilot Plant, Commercial Manufacturing
+    source:  https://www.vasantchemicals.com/commercial-manufacturing/
+    quote:   MANUFACTURING UNITS UNIT I – HYDERABAD UNIT II – CHUTAPURAM (VISAKHAPATNAM)
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Industriepark Kalle-Albert, Kasteler Straße 45, Wiesbaden, Hesse, 65203, Germany
+    site_type: Manufacturing Plant, Chemical Processing Facility
+    source:  https://www.catexel.com/backend/wp-content/uploads/2024/08/Sustainability-Report-2023-Catexel.pdf
+    quote:   Entity name until December 2023 WeylChem Performance Products GmbH; Entity name as from January 2024 Catexel GmbH. Imprint: Catexel GmbH, Kasteler Strasse 45, 65203 Wiesbaden, Germany
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 95 Rue du Général de Gaulle, BP 60090, Thann, Grand Est, 68802, France
+    site_type: Chemical Manufacturing Plant, Industrial Facility
+    source:  https://www.georisques.gouv.fr/risques/installations/donnees/details/0006700433
+    quote:   Potasse et Produits Chimiques SAS (1) 95, Rue du Général de Gaulle BP 60090, 68802 Thann; État d'activité : En exploitation avec titre
+
+Ground-truth address row(s) available for 'WEYLCHEM PERFORMANCE PRODUCTS': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\WEYLCHEM_PERFORMANCE_PRODUCTS__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 10 calls, 191335 in / 6529 out tokens
+TOTAL web_search: 20 calls, 377595 in / 14517 out tokens
+TOTAL scrapingbee: 3 calls, 76 credits (~$0.0152), 1 failed -> escalated to paid search
+TOTAL tool calls attempted: 50 (issued: web_search 18/45, fetch_page 31 (uncapped), of which 1 were PDFs parsed locally for free (0 more read by local OCR) and 2/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 1; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.3125  (chat $0.0201, search tokens $0.0772, search call fee $0.2000, scrapingbee $0.0152)
+  input tokens priced as: 289547 uncached, 242028 cached read, 37355 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         10 calls, 191335 in / 6529 out tokens
+
+--- Queries issued (52) ---
+[site_extractor] web_search: WEYLCHEM PERFORMANCE PRODUCTS official website
+[site_extractor] fetch_page: https://weylchem.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=WEYLCHEM%20PERFORMANCE%20PRODUCTS&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://weylchem.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=WEYLCHEM%20PERFORMANCE%20PRODUCTS
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=WEYLCHEM%20PERFORMANCE%20PRODUCTS
+[site_extractor] web_search: site:weylchem.com WeylChem locations companies sites
+[site_extractor] fetch_page: https://weylchem.com/page-sitemap.xml
+[site_extractor] fetch_page: https://weylchem.com/post-sitemap.xml
+[site_extractor] web_search: WeylChem subsidiaries acquired brands companies facilities
+[site_extractor] web_search: WeylChem Performance Products plant factory manufacturing address
+[site_extractor] web_search: "WeylChem Performance Products" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://weylchem.com/contact-us/
+[site_extractor] fetch_page: https://weylchem.com/imprint/
+[site_extractor] fetch_page: https://weylchem.com/custom-manufacturing/capabilities/
+[site_extractor] fetch_page: https://weylchem.com/companies/allessa-gmbh/
+[site_extractor] fetch_page: https://weylchem.com/companies/weylchem-bilbao-s-l-u/
+[site_extractor] fetch_page: https://weylchem.com/companies/weylchem-intermediates-gmbh/
+[site_extractor] fetch_page: https://weylchem.com/group/companies/
+[site_extractor] fetch_page: https://weylchem.com/companies/weylchem-lamotte-s-a-s/
+[site_extractor] fetch_page: https://weylchem.com/companies/weylchem-organica/
+[site_extractor] fetch_page: https://weylchem.com/companies/weylchem-us-inc/
+[site_extractor] fetch_page: https://weylchem.com/companies/potasse-et-produits-chimiques-sas/
+[site_extractor] fetch_page: https://weylchem.com/about-us/ownership/
+[site_extractor] fetch_page: https://weylchem.com/about-us/about-weylchem/
+[site_extractor] fetch_page: https://weylchem.com/companies/vasant-chemicals/
+[site_extractor] fetch_page: https://weylchem.com/companies/weylchem-wesseling/
+[site_extractor] fetch_page: https://vasantchemicals.com/
+[site_extractor] fetch_page: https://vasantchemicals.com/contact-us
+[site_extractor] web_search: "WeylChem Performance Products GmbH" address
+[site_extractor] fetch_page: https://echa.europa.eu/documents/10162/e4776639-9b7e-7f9c-a0be-cf667fe4cb7e
+[site_extractor] fetch_page_search_fallback: https://echa.europa.eu/documents/10162/e4776639-9b7e-7f9c-a0be-cf667fe4cb7e
+[site_extractor] web_search: Google Maps WeylChem Germany Bavaria office address
+[site_extractor] web_search: WeylChem office North Rhine-Westphalia address yellowpages OR dnb OR zoominfo
+[site_extractor] web_search: WeylChem Hesse office address Google Business Profile
+[site_extractor] web_search: WeylChem Saxony-Anhalt office address Google Maps
+[site_extractor] web_search: WeylChem Rhineland-Palatinate office address directory
+[site_extractor] web_search: WeylChem Baden-Württemberg office address directory
+[site_extractor] web_search: WeylChem Potasse et Produits Chimiques SAS address Thann
+[site_extractor] web_search: Vasant Chemicals Hyderabad Visakhapatnam manufacturing facility address
+[site_extractor] web_search: WeylChem Performance Products Wiesbaden former site current status
+[site_extractor] web_search: WeylChem France Potasse Thann factory address official
+[site_extractor] fetch_page: https://www.vasantchemicals.com/certificates/
+[site_extractor] fetch_page: https://www.weylchem-organica.com/en/contact/
+[site_extractor] fetch_page: https://www.vasantchemicals.com/commercial-manufacturing/
+[site_extractor] fetch_page: https://www.georisques.gouv.fr/risques/installations/donnees/details/0006700433
+[site_extractor] fetch_page: https://www.catexel.com/backend/wp-content/uploads/2024/08/Sustainability-Report-2023-Catexel.pdf
+[site_extractor] fetch_page: https://www.companyhouse.de/Catexel-Production-GmbH-Wiesbaden
+[site_extractor] web_search: Potasse et Produits Chimiques SAS WeylChem 95 rue du Général de Gaulle 68800 Thann
+[site_extractor] web_search: WeylChem Vasant Chemicals ownership subsidiary ICIG
+[site_extractor] fetch_page_search_fallback: https://www.companyhouse.de/Catexel-Production-GmbH-Wiesbaden
+[site_extractor] fetch_page_pdf_local: https://www.catexel.com/backend/wp-content/uploads/2024/08/Sustainability-Report-2023-Catexel.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\scrapingbee_log.jsonl
+
+Combined CSV now holds 3 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\combined.csv
+
+==============================================================================
+[4/5] MITRASTAR TECHNOLOGY
+==============================================================================
+Researching site locations for: MITRASTAR TECHNOLOGY
+
+Collected 6 distinct candidate address(es).
+
+Company domains treated as first-party: mitrastar.com, zyxelgroup.com
+
+=== Ranked candidates for MITRASTAR TECHNOLOGY ===
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 6, Innovation Road II, Hsinchu Science Park, Hsinchu, Hsinchu County, 30076, Taiwan
+    site_type: Headquarters, Manufacturing Plant, R&D, Engineering, Product Validation and Testing, Office
+    source:  https://www.mitrastar.com/about_list.php?ctwo=awtsetwetw34ewtwrw&lang=eng
+    quote:   MitraStar Technology Corp. No. 6, Innovation Road II, Baoshan Township, Hsinchu Science Park, Hsinchu County, Taiwan, R.O.C.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 1-1, Minshan Road, Wuxi, Jiangsu, China
+    site_type: Manufacturing Plant, R&D, Technical Services
+    source:  https://www.mitrastar.com/about_list.php?ctwo=awtsetwetw34ewtwrw&lang=eng
+    quote:   Wuxi Mitrastar Technology Co., Ltd. 1-1# Minshan Road, Wuxi New Wu District Jiangsu PRC, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3F, No. 1-1, Minshan Road, Wuxi, Jiangsu, China
+    site_type: R&D, Engineering, Technology Services
+    source:  https://www.mitrastar.com/about_list.php?ctwo=awtsetwetw34ewtwrw&lang=eng
+    quote:   Wuxi Genezys Technology Co., Ltd. 3F,1-1 Minshan Road, Wuxi New Wu District Jiangsu PRC, China
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Room 502A31, No. 2020 Zhongshan Road West, Xuhui District, Shanghai, Shanghai Municipality, China
+    site_type: Regional Office, Sales Office, Technology Services
+    source:  https://www.mitrastar.com/about_list.php?ctwo=awtsetwetw34ewtwrw&lang=eng
+    quote:   Shanghai Monetics Telecommunications Co. Room 502A31, No.2020 Zhongshan Road West, Xuhui District, Shanghai, China Sales and technology services
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 11F, No. 223, Sec. 3, Beixin Road, New Taipei City, New Taipei City, 231030, Taiwan
+    site_type: Office, R&D, Engineering
+    source:  https://www.irpro.co/3704/annual/2024/EN/20250529160948-1.pdf
+    quote:   MitraStar Technology Corporation New Taipei Branch Office No. 223, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 4F, No. 2, Kebei 6th Road, Zhunan Township, Miaoli County, Taiwan
+    site_type: Manufacturing Plant
+    source:  https://www.zyxel.com/service-provider/sites/default/files/2023-07/ISO14064-1_greenhouse-gas-inventory-certificate.pdf
+    quote:   Zyxel Communications (mitrastar plant) ... 4F, No. 2, Kebei 6th Road, Zhunan Township, Miaoli County, Taiwan
+
+Ground-truth address row(s) available for 'MITRASTAR TECHNOLOGY': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\MITRASTAR_TECHNOLOGY__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 11 calls, 293971 in / 5231 out tokens
+TOTAL web_search: 26 calls, 430837 in / 18063 out tokens
+TOTAL scrapingbee: 2 calls, 0 credits (~$0.0000), 2 failed -> escalated to paid search
+TOTAL tool calls attempted: 45 (issued: web_search 24/45, fetch_page 20 (uncapped), of which 9 were PDFs parsed locally for free (0 more read by local OCR) and 2/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 1; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.3710  (chat $0.0235, search tokens $0.0874, search call fee $0.2600, scrapingbee $0.0000)
+  input tokens priced as: 316441 uncached, 358181 cached read, 50186 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         11 calls, 293971 in / 5231 out tokens
+
+--- Queries issued (55) ---
+[site_extractor] web_search: MITRASTAR TECHNOLOGY official website
+[site_extractor] fetch_page: https://www.mitrastar.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=MitraStar%20Technology&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://www.mitrastar.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=MitraStar%20Technology
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=MitraStar%20Technology
+[site_extractor] web_search: site:mitrastar.com MitraStar Technology 營運據點 locations address
+[site_extractor] web_search: "MitraStar Technology" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: MitraStar Technology subsidiaries brands annual report facilities
+[site_extractor] web_search: MitraStar Technology headquarters address Taiwan manufacturing plant
+[site_extractor] web_search: MitraStar Technology Corporation address locations
+[site_extractor] fetch_page: https://www.zyxelgroup.com/about%26lang%3Den
+[site_extractor] fetch_page: https://www.mitrastar.com/images_2022/MitraStar_ISO_9001_TAF_Chn_cert_ch.pdf
+[site_extractor] fetch_page: https://www.mitrastar.com/about_list.php?ctwo=awtsetwetw34ewtwrw&lang=eng
+[site_extractor] fetch_page: https://www.mitrastar.com/images_2022/2021_MitraStar_Sustainability_Report.pdf
+[site_extractor] fetch_page: https://www.mitrastar.com/images_2022/2023_Mitrastar_ISO14001_certificate.pdf
+[site_extractor] fetch_page: https://www.zyxelgroup.com/ESG/documents%26lang%3Den
+[site_extractor] fetch_page_pdf_local: https://www.mitrastar.com/images_2022/MitraStar_ISO_9001_TAF_Chn_cert_ch.pdf
+[site_extractor] fetch_page_pdf_local: https://www.mitrastar.com/images_2022/2023_Mitrastar_ISO14001_certificate.pdf
+[site_extractor] fetch_page_pdf_local: https://www.mitrastar.com/images_2022/2021_MitraStar_Sustainability_Report.pdf
+[site_extractor] web_search: Google Maps MitraStar Taiwan Taipei New Taipei office
+[site_extractor] web_search: MitraStar office Taoyuan Taiwan address directory
+[site_extractor] web_search: MitraStar Hsinchu office address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: MitraStar office Miaoli Taiwan address directory
+[site_extractor] web_search: MitraStar office Taichung Taiwan address directory
+[site_extractor] web_search: MitraStar office Changhua Taiwan address directory
+[site_extractor] web_search: MitraStar office Yilan Taiwan address directory
+[site_extractor] web_search: MitraStar office Pingtung Taiwan address directory
+[site_extractor] web_search: MitraStar office Kaohsiung Taiwan address directory
+[site_extractor] web_search: MitraStar office Yunlin Taiwan address directory
+[site_extractor] web_search: MitraStar office Tainan Taiwan address directory
+[site_extractor] web_search: MitraStar office Chiayi Taiwan address directory
+[site_extractor] web_search: MitraStar office Taitung Taiwan address directory
+[site_extractor] web_search: MitraStar office Hualien Taiwan address directory
+[site_extractor] fetch_page: https://www.irpro.co/3704/annual/2024/EN/20250529160948-1.pdf
+[site_extractor] fetch_page: https://www.zyxelgroup.com/images/esg/Wuxi_Mitrastar_Technology_SA8000_certificate_20250212161724.pdf
+[site_extractor] fetch_page: https://www.zyxelgroup.com/images/esg/QC080000_HSPM_Wuxi_2025_20250625135152.pdf
+[site_extractor] fetch_page: https://www.zyxelgroup.com/images/esg/ISO45001_2025_Wuxi_20250625135115.pdf
+[site_extractor] fetch_page: https://www.zyxelgroup.com/images/esg/ISO14001_2025_Wuxi_20250625135027.pdf
+[site_extractor] fetch_page: https://findbiz.nat.gov.tw/fts/company/28113027
+[site_extractor] fetch_page_pdf_local: https://www.zyxelgroup.com/images/esg/QC080000_HSPM_Wuxi_2025_20250625135152.pdf
+[site_extractor] fetch_page_pdf_local: https://www.zyxelgroup.com/images/esg/Wuxi_Mitrastar_Technology_SA8000_certificate_20250212161724.pdf
+[site_extractor] fetch_page_search_fallback: https://findbiz.nat.gov.tw/fts/company/28113027
+[site_extractor] fetch_page_pdf_local: https://www.zyxelgroup.com/images/esg/ISO45001_2025_Wuxi_20250625135115.pdf
+[site_extractor] fetch_page_pdf_local: https://www.zyxelgroup.com/images/esg/ISO14001_2025_Wuxi_20250625135027.pdf
+[site_extractor] fetch_page_pdf_local: https://www.irpro.co/3704/annual/2024/EN/20250529160948-1.pdf
+[site_extractor] web_search: MitraStar Shanghai Monetics Telecommunications Co ownership subsidiary address
+[site_extractor] web_search: MitraStar Technology 2025 sustainability report operation sites New Taipei Wuxi Shanghai
+[site_extractor] web_search: MitraStar Technology New Taipei Branch Office address
+[site_extractor] web_search: MitraStar Wuxi MitraStar Technology Co Ltd subsidiary ownership Wuxi Genezys Technology
+[site_extractor] fetch_page: https://www.irpro.co/3704/financial/293/EN/20240530170749-2.pdf
+[site_extractor] fetch_page: https://www.findcompany.com.tw/%E7%9B%9F%E5%89%B5%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%96%B0%E5%8C%97%E5%88%86%E5%85%AC%E5%8F%B8
+[site_extractor] fetch_page: https://www.mitrastar.com/about_detail.php?cthr=dsxyderyrtrtrer5eyv&lang=eng
+[site_extractor] fetch_page_search_fallback: https://www.findcompany.com.tw/%E7%9B%9F%E5%89%B5%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%96%B0%E5%8C%97%E5%88%86%E5%85%AC%E5%8F%B8
+[site_extractor] fetch_page_pdf_local: https://www.irpro.co/3704/financial/293/EN/20240530170749-2.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\scrapingbee_log.jsonl
+
+Combined CSV now holds 4 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\combined.csv
+
+==============================================================================
+[5/5] HEIDELBERG
+==============================================================================
+Researching site locations for: HEIDELBERG
+
+Collected 46 distinct candidate address(es).
+
+Company domains treated as first-party: heidelberg.com, gallus-group.com, baumfolder.com, amperfied.de
+
+=== Ranked candidates for HEIDELBERG ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Industriegebiet Egelsee, Amstetten, Baden-Württemberg, 73340, Germany
+    site_type: Foundry, Metal Parts Manufacturing, Production, Support
+    source:  https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf
+    quote:   Heidelberg Manufacturing Deutschland GmbH, Industriegebiet Egelsee, 73340 Amstetten, Germany
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Fraunhoferstr. 6, Kiel, Schleswig-Holstein, 24118, Germany
+    site_type: R&D, Software Development, Engineering Office
+    source:  https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf
+    quote:   Heidelberger Druckmaschinen AG, Fraunhoferstrasse 6, 24118 Kiel, Germany
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Austrasse 50, Ludwigsburg, Baden-Württemberg, 71642, Germany
+    site_type: Manufacturing Plant, R&D, Production, Service, Office
+    source:  https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf
+    quote:   Heidelberg Postpress Deutschland GmbH, Austrasse 50, 71642 Ludwigsburg, Germany
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Am Forst 17, Weiden in der Oberpfalz, Bavaria, 92637, Germany
+    site_type: Manufacturing Plant, Assembly, R&D, Office
+    source:  https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf
+    quote:   Heidelberg Web Carton Converting GmbH, Am Forst 17, 92637 Weiden i.d. Oberpfalz, Germany
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Gutenbergring 19, Wiesloch, Baden-Württemberg, 69168, Germany
+    site_type: Sales Office, Service Center, Office
+    source:  https://www.heidelberg.com/de/de/ueber_uns/about_us_overview.jsp
+    quote:   Zentrale ... Heidelberger Druckmaschinen Vertrieb Deutschland GmbH, Gutenbergring 19, 69168 Wiesloch
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: No. 9928, Songze Road, Qingpu Industrial Zone, Shanghai, Shanghai, 201700, China
+    site_type: Manufacturing Plant, Assembly, Sales, Service
+    source:  https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf
+    quote:   Heidelberg Graphic Equipment (Shanghai) Co., Ltd., 9928, Songze Road, Qingpu Industrial Zone, 201700 Shanghai, China
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 3rd Floor, B10 Universal Business Park, No. 10 Jiuxianqiao Road, Chaoyang District, Beijing, Beijing, 100015, China
+    site_type: Regional Office, Sales, Service
+    source:  https://www.heidelberg.com/cn/zh/company_1/contact_info/contactinfo.jsp
+    quote:   Beijing ... 3rd Floor, B10 Universal Business Park No.10 Jiuxianqiao Road, Chaoyang District, Beijing 100015
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Building 710, Lian Tang Pengji Industrial Park, Luo Hu District, Shenzhen, Guangdong, 518004, China
+    site_type: Regional Office, Sales, Service
+    source:  https://www.heidelberg.com/cn/zh/company_1/contact_info/contactinfo.jsp
+    quote:   Shenzhen ... Building 710 Lian Tang Pengji Industrial Park Luo Hu District, Shenzhen, 518004
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Unit B2-C4, 12/F, Guangzhou Everbright Bank Building, 689 Tian He North Road, Guangzhou, Guangdong, 510630, China
+    site_type: Regional Office, Sales, Service
+    source:  https://www.heidelberg.com/cn/zh/company_1/contact_info/contactinfo.jsp
+    quote:   Guangzhou ... Unit B2-C4, 12/F, Guangzhou Everbright Bank Building 689 Tian He North Road Guangzhou 510630
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Room 1520, 15F, South Lippo Tower, No. 62 North Kehua Road, Chengdu, Sichuan, 610041, China
+    site_type: Regional Office, Sales, Service
+    source:  https://www.heidelberg.com/cn/zh/company_1/contact_info/contactinfo.jsp
+    quote:   Chengdu ... Room 1520, 15F, South Lippo Tower, No. 62 North Kehua Road, Chengdu 610041
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Unit 906, AIA Kowloon Tower, Landmark East, 100 How Ming Street, Kwun Tong, Kowloon, Hong Kong, Hong Kong, Hong Kong
+    site_type: Regional Office, Sales, Service
+    source:  https://www.heidelberg.com/cn/zh/company_1/contact_info/contactinfo.jsp
+    quote:   HongKong ... Unit 906, AIA Kowloon Tower Landmark East 100 How Ming Street Kwun Tong, Kowloon
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Navin’s Triumph North Block, First Floor, Old Door No.17, New Door No.134, III Main Road, CIT Nagar, Chennai, Tamil Nadu, 600035, India
+    site_type: Headquarters, Office, Service Center
+    source:  https://www.heidelberg.com/in/en/about_us/contact_us/contact.jsp
+    quote:   HEIDELBERG India Pvt. Ltd ... Navin’s Triumph North Block ... III Main Road, CIT Nagar, Chennai - 600 035
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 601, Solitaire Corp Park, Ground Floor, Building No. 6, Chakala, Andheri (East), Mumbai, Maharashtra, 400093, India
+    site_type: Service Center, Office
+    source:  https://www.heidelberg.com/in/en/about_us/contact_us/contact.jsp
+    quote:   Customer Care Center Mumbai ... 601, Solitaire Corp Park ... Chakala, Andheri (East), Mumbai - 400 093
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: DSM-509, DLF Tower, Shivaji Marg, New Delhi, Delhi, 110015, India
+    site_type: Service Center, Office
+    source:  https://www.heidelberg.com/in/en/about_us/contact_us/contact.jsp
+    quote:   Customer Care Center, Newdelhi & Kolkata ... DSM – 509, DLF Tower, Shivaji Marg, New Delhi – 110 015
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 3-31-8 Higashi-Shinagawa, Shinagawa-ku, Tokyo, Tokyo, 140-8541, Japan
+    site_type: Headquarters, Sales Office, Service Center
+    source:  https://www.heidelberg.com/jp/ja/company/about_us/branch_offices_1/branch_offices_jp.jsp
+    quote:   東京本社 カスタマーセンター ... 〒140-8541 東京都品川区東品川3-31-8
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 2-5-18 Honmachi, Moriguchi, Moriguchi, Osaka, 570-0028, Japan
+    site_type: Regional Office, Sales, Service
+    source:  https://www.heidelberg.com/jp/ja/company/about_us/branch_offices_1/branch_offices_jp.jsp
+    quote:   大阪支社 ... 〒570-0028 大阪府守口市本町2-5-18
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Nishiki Center Building 4F, 3-2-7 Nishiki, Naka-ku, Nagoya, Aichi, 460-0003, Japan
+    site_type: Regional Office, Sales, Service
+    source:  https://www.heidelberg.com/jp/ja/company/about_us/branch_offices_1/branch_offices_jp.jsp
+    quote:   名古屋支社 ... 〒460-0003 名古屋市中区錦3-2-7 錦センタービル4F
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: DHL Supply Chain TBC, 3-2-48 Yashio, Shinagawa-ku, Tokyo, Tokyo, 140-0003, Japan
+    site_type: Logistics Center, Warehouse, Service Parts
+    source:  https://www.heidelberg.com/jp/ja/company/about_us/branch_offices_1/branch_offices_jp.jsp
+    quote:   ジャパン・ロジスティックセンター ... 〒140-0003 東京都品川区八潮3-2-48 DHLサプライチェーンTBC内
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: GLP Osaka 7F, 2-4-43 Nankominami, Suminoe-ku, Osaka, Osaka, 559-0032, Japan
+    site_type: Logistics Center, Warehouse, Service Parts
+    source:  https://www.heidelberg.com/jp/ja/company/about_us/branch_offices_1/branch_offices_jp.jsp
+    quote:   大阪ロジスティックセンター ... 〒559-0032 大阪府大阪市住之江区南港南2-4-43 GLP大阪 7F
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 3074 Chastain Meadows Pkwy NW, Marietta, Georgia, 30066, United States
+    site_type: Headquarters, Office, Sales, Service
+    source:  https://www.heidelberg.com/us/en/about_heidelberg/about_us/company_profile/company_profile.jsp
+    quote:   Our headquarters ... Heidelberg USA Inc, 3074 Chastain Meadows Pkwy NW, Marietta, GA 30066
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 1 Furzeground Way, Stockley Park, Uxbridge, England, UB11 1EZ, United Kingdom
+    site_type: Headquarters, Office, Sales, Service, Repair
+    source:  https://www.heidelberg.com/gb/en/about_us/contact_us_1/contact_us/contact_us.jsp
+    quote:   Our headquarters ... Heidelberg Graphic Equipment Limited, 1 Furzeground Way, Stockley Park, Uxbridge, UB11 1EZ
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Mollerusweg 102, Haarlem, North Holland, 2031 BZ, Netherlands
+    site_type: Office, Sales, Service
+    source:  https://www.heidelberg.com/bnl/nl/about_us_1/company.jsp
+    quote:   HEIDELBERG Benelux in Nederland ... Mollerusweg 102, 2031 BZ Haarlem
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Kareelovenlaan 5, Brussels, Brussels-Capital Region, 1140, Belgium
+    site_type: Office, Sales, Service
+    source:  https://www.heidelberg.com/bnl/nl/about_us_1/company.jsp
+    quote:   HEIDELBERG Benelux in België ... Kareelovenlaan 5, 1140 Brussel
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: ul. Wschodu Słońca 8 (formerly ul. Popularna 82), Warsaw, Masovian Voivodeship, 02-226, Poland
+    site_type: Office, Sales, Service, Spare Parts
+    source:  https://www.heidelberg.com/pl/pl/company/about_us_1/contact/contact.jsp
+    quote:   Heidelberg Polska Sp. z o.o., ul. Wschodu Słońca 8 (dawniej ul. Popularna 82), 02-226 Warszawa
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Level 1, 891 Wellington Road, Rowville, Victoria, 3178, Australia
+    site_type: Headquarters, Office, Sales, Service
+    source:  https://www.heidelberg.com/au/en/about_us/conacts_us/contact_us.jsp
+    quote:   HEIDELBERG Australia ... Level 1, 891 Wellington Road, Rowville, Victoria 3178
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Unit 21, 52A Holker Street, Silverwater, New South Wales, 2128, Australia
+    site_type: Regional Office, Sales, Service
+    source:  https://www.heidelberg.com/au/en/about_us/conacts_us/contact_us.jsp
+    quote:   New South Wales ... Unit 21, 52A Holker Street, Silverwater, NSW 2128
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Unit 1/27 Virginia Street, Geebung, Queensland, 4034, Australia
+    site_type: Regional Office, Sales, Service
+    source:  https://www.heidelberg.com/au/en/about_us/conacts_us/contact_us.jsp
+    quote:   Queensland ... Unit 1/27 Virginia Street, Geebung, Queensland, 4034
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 2c William Pickering Drive, Rosedale, Albany, Auckland, 0632, New Zealand
+    site_type: Office, Sales, Service
+    source:  https://www.heidelberg.com/au/en/about_us/conacts_us/contact_us.jsp
+    quote:   Auckland ... 2c William Pickering Drive, Rosedale, Albany, Auckland 0632
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Alameda África, 624, Polo Empresarial Tamboré, Santana de Parnaíba, São Paulo, 06543-306, Brazil
+    site_type: Office, Sales, Service, Operations Center
+    source:  https://www.heidelberg.com/br/pt/company/about_us/headquarter_1/head_quarter.jsp
+    quote:   Centro Integrado de Operações ... Alameda África, 624, Polo Empresarial Tamboré, 06543-306 Santana de Parnaíba SP
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 159 Kampong Ampat, #05-02 Paeonia Place, Singapore, 368328, Singapore
+    site_type: Office, Sales, Service, Spare Parts
+    source:  https://www.heidelberg.com/sg/en/company_news/about_us/contact_numbers/contact_numbers.jsp
+    quote:   Address: Heidelberg Asia Pte Ltd, 159 Kampong Ampat, #05-02 Paeonia Place, Singapore 368328
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Gutenbergring 20, Walldorf, Baden-Württemberg, 69190, Germany
+    site_type: R&D, Office, E-mobility Technology, Production/Support
+    source:  https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf
+    quote:   Amperfied GmbH, Gutenbergring 20, 69190 Walldorf, Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Kurfürsten-Anlage 52-60, Heidelberg, Baden-Württemberg, 69115, Germany
+    site_type: Headquarters, Office
+    source:  https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/germany/heidelberg/germany___heidelberg.jsp
+    quote:   Heidelberger Druckmaschinen AG - Hauptsitz ... Kurfürsten-Anlage 52-60, 69115 Heidelberg
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Heidelberger Straße, Brandenburg an der Havel, Brandenburg, 14772, Germany
+    site_type: Manufacturing Plant, Production, Office
+    source:  https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/germany/brandenburg/brandenburg.jsp
+    quote:   Fertigung von mechanischen Teilen für die Herstellung von Druckmaschinen ... Heidelberger Straße, 14772 Brandenburg
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Steinbruchstrasse 5, Langgöns-Oberkleen, Hesse, 35428, Germany
+    site_type: Manufacturing Plant, R&D, Service, Office
+    source:  https://www.gallus-group.com/en/about-gallus/about-the-gallus-group/
+    quote:   Location Langgöns, Germany ... Research & Development, Production, Service ... Steinbruchstrasse 5, DE-35428 Langgöns-Oberkleen
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Im Taubental 11, Neuss, North Rhine-Westphalia, 41468, Germany
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/niederlassung_nordwest/niederlassung_nordwest.jsp
+    quote:   Standort Neuss ... Im Taubental 11, 41468 Neuss
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Heidelberger Str. 1, Brandenburg an der Havel, Brandenburg, 14772, Germany
+    site_type: Service Center, Office
+    source:  https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/kontakt_aufnehmen.jsp
+    quote:   Servicestandort Brandenburg ... Heidelberger Druckmaschinen AG, Heidelberger Str. 1, 14772 Brandenburg
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Clarita-Bernhard-Str. 18, Munich, Bavaria, 81249, Germany
+    site_type: Regional Office, Sales Office, Service Center
+    source:  https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/niederlassung_suedwest/niederlassung_suedwest_.jsp
+    quote:   Servicestandort München ... Clarita-Bernhard-Str. 18, 81249 München
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Harzbüchelstrasse 34, St. Gallen, St. Gallen, 9016, Switzerland
+    site_type: Headquarters, R&D, Manufacturing Plant, Service, Sales, Marketing
+    source:  https://www.gallus-group.com/en/about-gallus/about-the-gallus-group/
+    quote:   Location St. Gallen, Switzerland ... Group management and Labels division: Research & Development, Production, Service, Sales, Marketing
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Degersheimerstrasse 14, Extension 9/10, Herisau, Appenzell Ausserrhoden, 9100, Switzerland
+    site_type: Manufacturing Plant, Screen Printing, Office
+    source:  https://www.gallus-group.com/en/about-gallus/about-the-gallus-group/
+    quote:   Location Herisau, Switzerland ... Screen printing division ... 14 Degersheimerstrasse, Extension 9/10
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1660 Campbell Road, Sidney, Ohio, 45365, United States
+    site_type: Manufacturing Plant, Contract Manufacturing, R&D, Sales
+    source:  https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/sidney_usa/usa___sidney__ohio_.jsp
+    quote:   Standort von Heidelberg Postpress ... Produktion von Eindrucklösungen, Falzmaschinen und Insertern ... Baumfolder Corporation, 1660 Campbell Road, Sidney, Ohio 45365
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 24 b, avenue de la Demi-Lune, Roissy-en-France, Île-de-France, 95735, France
+    site_type: Headquarters, Office, Sales, Service
+    source:  https://www.heidelberg.com/global/en/about_heidelberg/company/branch_offices/branch_office_details_705.jsp
+    quote:   HEIDELBERG France SAS, 24 b, avenue de la Demi-Lune, CS 50003 Roissy-en-France, 95735 Roissy Charles de Gaulle Cedex
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Via Trento, 61, Ospiate di Bollate, Lombardy, 20021, Italy
+    site_type: Office, Sales, Service, Spare Parts
+    source:  https://www.heidelberg.com/it/it/services_and_consumables/assistenza/contatti/contatti.jsp
+    quote:   HEIDELBERG Italia, Via Trento, 61, 20021 Ospiate di Bollate, Milano
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Carretera de L'Hospitalet, 98-108, Cornellà de Llobregat, Catalonia, 08940, Spain
+    site_type: Headquarters, Office, Sales, Service, Spare Parts
+    source:  https://www.heidelberg.com/es/es/company/company_1/branch_offices_1/Oficinas_Heidelberg_Spain.jsp
+    quote:   Sede central ... Heidelberg Spain S.L.U., Carretera de L'Hospitalet, 98-108, 08940 Cornellà de Llobregat - Barcelona
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 7195 Tomken Road, Mississauga, Ontario, L5S 1R7, Canada
+    site_type: Headquarters, Office, Sales, Service
+    source:  https://www.heidelberg.com/ca/en/company/company.jsp
+    quote:   Our Canada headquarters ... Heidelberg Canada Graphic Equipment Limited, 7195 Tomken Road, Mississauga, Ontario L5S 1R7
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Hannoversche Str. 10, Hamburg, Hamburg, 21079, Germany
+    site_type: Sales Office, Service Center
+    source:  https://www.oeffnungszeitenbuch.de/filiale/Hamburg-Heidelberger%2520Druckmaschinen%2520Vertrieb%2520Deutschland%2520GmbH%2520Region%2520Nord-2860775S.html
+    quote:   Heidelberger Druckmaschinen Vertrieb Deutschland GmbH Region Nord, Hannoversche Str. 10, 21079 Hamburg
+
+Ground-truth address row(s) available for 'HEIDELBERG': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\HEIDELBERG__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 19 calls, 1106834 in / 12969 out tokens
+TOTAL web_search: 41 calls, 634548 in / 18014 out tokens
+TOTAL scrapingbee: 1 calls, 1 credits (~$0.0002), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 91 (issued: web_search 40/45, fetch_page 51 (uncapped), of which 4 were PDFs parsed locally for free (0 more read by local OCR) and 1/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.5940  (chat $0.0675, search tokens $0.1163, search call fee $0.4100, scrapingbee $0.0002)
+  input tokens priced as: 454651 uncached, 1156378 cached read, 130353 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         19 calls, 1106834 in / 12969 out tokens
+
+--- Queries issued (96) ---
+[site_extractor] web_search: HEIDELBERG official website company
+[site_extractor] fetch_page: https://www.heidelberg.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Heidelberg%20Druckmaschinen&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://www.heidelberg.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=Heidelberg%20Druckmaschinen
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=Heidelberger%20Druckmaschinen
+[site_extractor] web_search: "Heidelberger Druckmaschinen AG" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://www.heidelberg.com/global/en/about_heidelberg/company/sustainability/environmental/iso_14001_certification.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf
+[site_extractor] fetch_page: https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_14001_304925_UM15_2023-11-09_english_logo.pdf
+[site_extractor] fetch_page: https://www.heidelberg.com/global/media/en/global_media/company___about_us/construction_sites/pdf_19/Certificate-IATF-16949-2016.pdf
+[site_extractor] fetch_page_pdf_local: https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_9001_304925_QM15_2023-11-09_english_logo.pdf
+[site_extractor] fetch_page_pdf_local: https://www.heidelberg.com/global/media/en/global_media/company___about_us/sustainability/certificates/HEIDELBERG_ISO_14001_304925_UM15_2023-11-09_english_logo.pdf
+[site_extractor] fetch_page_pdf_local: https://www.heidelberg.com/global/media/en/global_media/company___about_us/construction_sites/pdf_19/Certificate-IATF-16949-2016.pdf
+[site_extractor] web_search: site:heidelberg.com HEIDELBERG locations worldwide offices locations
+[site_extractor] fetch_page: https://www.heidelberg.com/global/en/about_heidelberg/contact_heidelberg.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/en/about_heidelberg/company/branch_offices/branch_office_list.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/media/en/global_media/investor_relations/ir_reports_and_presentations/2023_24/240611_cfs_2324_report.pdf
+[site_extractor] fetch_page_pdf_local: https://www.heidelberg.com/global/media/en/global_media/investor_relations/ir_reports_and_presentations/2023_24/240611_cfs_2324_report.pdf
+[site_extractor] web_search: Heidelberger Druckmaschinen AG subsidiaries brands Gallus Amperfied Heidelberg Technology official
+[site_extractor] fetch_page: https://www.heidelberg.com/global/en/about_heidelberg/press_relations/press_release/press_release_details/press_release_251073.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/en/global_content/subsidiaries.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/en/technologies/technology/technology.jsp
+[site_extractor] fetch_page: https://amperfied.de/
+[site_extractor] fetch_page_search_fallback: https://amperfied.de/
+[site_extractor] fetch_page: https://www.heidelberg.com/uk/en/about_heidelberg/contact_heidelberg.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/cn/zh/about_heidelberg/contact_heidelberg.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/de/de/about_heidelberg/contact_heidelberg.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/ch/de/about_heidelberg/contact_heidelberg.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/us/en/about_heidelberg/contact_heidelberg.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/in/en/about_heidelberg/contact_heidelberg.jsp
+[site_extractor] web_search: Heidelberg Druckmaschinen office North Rhine-Westphalia address directory
+[site_extractor] web_search: Google Maps Heidelberg Druckmaschinen Bavaria office address
+[site_extractor] web_search: Google Maps Heidelberg Druckmaschinen North Rhine-Westphalia office address
+[site_extractor] web_search: Google Maps Heidelberg Druckmaschinen Baden-Württemberg office address
+[site_extractor] web_search: Heidelberg Druckmaschinen office Bavaria address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Heidelberg Druckmaschinen office Baden-Württemberg address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] fetch_page: https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/germany/heidelberg/germany___heidelberg.jsp
+[site_extractor] fetch_page: https://www.gelbeseiten.de/gsbiz/0eb0c5ad-1240-4672-8a29-91a304e62195
+[site_extractor] fetch_page: https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/niederlassung_nordwest/niederlassung_nordwest.jsp
+[site_extractor] fetch_page: https://www.branchenbuchdeutschland.de/branchenbuch/eintrag/heidelberger-druckmaschinen-vertrieb-deutschland-gmbh-servicestandort-muenchen-muenchen-103273675.html
+[site_extractor] fetch_page: https://www.heidelberg.com/de/de/ueber_uns/about_us_overview.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/kontakt_aufnehmen.jsp
+[site_extractor] web_search: Google Maps Heidelberg Druckmaschinen Hesse office address
+[site_extractor] web_search: Google Maps Heidelberg Druckmaschinen Saxony-Anhalt Brandenburg office address
+[site_extractor] web_search: Heidelberg Druckmaschinen office Saxony address directory
+[site_extractor] web_search: Heidelberg Druckmaschinen office Hesse address directory
+[site_extractor] web_search: Heidelberg Druckmaschinen office Schleswig-Holstein address directory
+[site_extractor] web_search: Google Maps Heidelberg Druckmaschinen Lower Saxony office address
+[site_extractor] web_search: Google Maps Heidelberg Druckmaschinen Rhineland-Palatinate office address
+[site_extractor] web_search: Heidelberg Druckmaschinen office Thuringia address directory
+[site_extractor] web_search: Google Maps Heidelberger Druckmaschinen Saarland office address
+[site_extractor] web_search: Heidelberg Druckmaschinen office Saarland address directory
+[site_extractor] web_search: Heidelberg Druckmaschinen office Mecklenburg-Vorpommern address directory
+[site_extractor] web_search: Google Maps Heidelberger Druckmaschinen Mecklenburg-Vorpommern office address
+[site_extractor] web_search: Heidelberg Druckmaschinen office Hamburg Bremen address directory
+[site_extractor] web_search: Google Maps Heidelberger Druckmaschinen Hamburg Bremen office address
+[site_extractor] fetch_page: https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/niederlassung_suedwest/niederlassung_suedwest_.jsp
+[site_extractor] fetch_page: https://www.oeffnungszeitenbuch.de/filiale/Hamburg-Heidelberger%2520Druckmaschinen%2520Vertrieb%2520Deutschland%2520GmbH%2520Region%2520Nord-2860775S.html
+[site_extractor] fetch_page: https://www.heidelberg.com/de/de/ueber_uns/ansprechpartner/zentrales_servicecenter/zentrales_servicecenter.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/germany/brandenburg/brandenburg.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/our_sites.jsp
+[site_extractor] web_search: HD Advanced Technologies GmbH Heidelberg official address
+[site_extractor] web_search: Heidelberg Druckmaschinen manufacturing sites United States Baumfolder official
+[site_extractor] web_search: Baumfolder official website address Sidney Ohio Heidelberger Druckmaschinen subsidiary
+[site_extractor] web_search: Heidelberg Druckmaschinen annual report properties sites addresses 2024
+[site_extractor] web_search: Heidelberg Druckmaschinen sales service office China India Japan official address
+[site_extractor] web_search: Gallus Group official locations address St Gallen Herisau Heidelberg subsidiary
+[site_extractor] fetch_page: https://www.heidelberg.com/jp/ja/company/about_us/branch_offices_1/branch_offices_jp.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/de/about_heidelberg/company/production_sites/sidney_usa/usa___sidney__ohio_.jsp
+[site_extractor] fetch_page: https://www.gallus-group.com/en/about-gallus/about-the-gallus-group/
+[site_extractor] fetch_page: https://www.heidelberg.com/in/en/about_us/contact_us/contact.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/en/about_heidelberg/company/production_sites/germany/wiesloch_walldorf/germany___wiesloch_walldorf.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/us/en/about_heidelberg/about_us/company_profile/company_profile.jsp
+[site_extractor] fetch_page: https://www.baumfolder.com/contact/
+[site_extractor] fetch_page: https://www.heidelberg.com/cn/zh/company_1/contact_info/contactinfo.jsp
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact Poland address
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact Spain address
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact France address
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact Australia address
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact United Kingdom address
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact Canada address
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact Netherlands address
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact Italy address
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact Brazil address
+[site_extractor] web_search: Heidelberg Druckmaschinen official contact Singapore address
+[site_extractor] fetch_page: https://www.heidelberg.com/it/it/services_and_consumables/assistenza/contatti/contatti.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/en/about_heidelberg/company/branch_offices/branch_office_details_705.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/bnl/nl/about_us_1/company.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/es/es/company/company_1/branch_offices_1/Oficinas_Heidelberg_Spain.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/gb/en/about_us/contact_us_1/contact_us/contact_us.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/pl/pl/company/about_us_1/contact/contact.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/au/en/about_us/conacts_us/contact_us.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/ca/en/company/company.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/br/pt/company/about_us/headquarter_1/head_quarter.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/sg/en/company_news/about_us/contact_numbers/contact_numbers.jsp
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\scrapingbee_log.jsonl
+
+Combined CSV now holds 5 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\combined.csv
+
+
+==============================================================================
+BATCH SUMMARY
+==============================================================================
+company               rows  search  fetch  paid_fb   bee  credits     cost
+HERBERT HAENCHEN GMBH     5      11     25        0     0        0    0.153
+HOSHIZAKI               63      26     41        4     8       51    0.402
+WEYLCHEM PERFORMANCE PRODUCTS    13      20     31        2     3       76    0.312
+MITRASTAR TECHNOLOGY     6      26     20        2     2        0    0.371
+HEIDELBERG              45      41     51        1     1        1    0.594
+TOTAL                  132     124    168        9    14      128    1.833
+
+Combined results: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard00\combined.csv

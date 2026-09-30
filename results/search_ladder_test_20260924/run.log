@@ -1,0 +1,605 @@
+Traceback (most recent call last):
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\cli.py", line 306, in run_batch
+    result = run_one(company, options, reasoning_effort=reasoning_effort)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\cli.py", line 218, in run_one
+    pipeline = _run_pipeline(company, reasoning_effort=reasoning_effort)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\cli.py", line 131, in _run_pipeline
+    result = agent.invoke(
+        {"messages": [{"role": "user", "content": f"Research physical site locations for: {company}"}]},
+        config={"callbacks": [usage_callback]},
+    )
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3913, in invoke
+    for chunk in self.stream(
+                 ~~~~~~~~~~~^
+        input,
+        ^^^^^^
+    ...<11 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\main.py", line 2967, in stream
+    for _ in runner.tick(
+             ~~~~~~~~~~~^
+        [t for t in loop.tasks.values() if not t.writes],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        schedule_task=loop.accept_push,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 344, in tick
+    _panic_or_proceed(
+    ~~~~~~~~~~~~~~~~~^
+        futures.done.union(f for f, t in futures.items() if t is not None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        handled_futures=handled_futures,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 687, in _panic_or_proceed
+    raise exc
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_executor.py", line 80, in done
+    task.result()
+    ~~~~~~~~~~~^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 447, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 396, in __get_result
+    raise self._exception
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 617, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 707, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 447, in invoke
+    ret = self.func(*args, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 822, in _func
+    outputs = list(
+        executor.map(self._run_one, tool_calls, input_types, tool_runtimes)
+    )
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 645, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 312, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 454, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 396, in __get_result
+    raise self._exception
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\runnables\config.py", line 650, in _wrapped_fn
+    return contexts.pop().run(fn, *args)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 1061, in _run_one
+    content = _handle_tool_error(e, flag=self._handle_tool_errors)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 434, in _handle_tool_error
+    content = flag(e)  # type: ignore [assignment, call-arg]
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 391, in _default_handle_tool_errors
+    raise e
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 1055, in _run_one
+    return self._wrap_tool_call(tool_request, execute)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langsmith\run_helpers.py", line 781, in wrapper
+    function_result = run_container["context"].run(
+        func, *args, **kwargs
+    )
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\search_tool.py", line 1440, in wrap_tool_call
+    return handler(request)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 1051, in execute
+    return self._execute_tool_sync(req, input_type, config)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 1006, in _execute_tool_sync
+    content = _handle_tool_error(e, flag=self._handle_tool_errors)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 434, in _handle_tool_error
+    content = flag(e)  # type: ignore [assignment, call-arg]
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 391, in _default_handle_tool_errors
+    raise e
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 958, in _execute_tool_sync
+    response = tool.invoke(call_args, config)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\tools\base.py", line 764, in invoke
+    return self.run(tool_input, **kwargs)
+           ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\tools\base.py", line 1132, in run
+    raise error_to_raise
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\tools\base.py", line 1098, in run
+    response = context.run(self._run, *tool_args, **tool_kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\tools\structured.py", line 152, in _run
+    return self.func(*args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\search_tool.py", line 1327, in fetch_page
+    return _free_tier_result(url, plain, note, tracker, agent, rendered=False)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\search_tool.py", line 1267, in _free_tier_result
+    return f"{header}:\n\n{_condense_page_text(fetched.text or '', is_pdf=is_pdf)}{note}"
+              ^^^^^^
+UnboundLocalError: cannot access local variable 'header' where it is not associated with a value
+During task with name 'tools' and id 'f40d82fb-e159-19aa-6fa1-dde351df62c0'
+Traceback (most recent call last):
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\cli.py", line 306, in run_batch
+    result = run_one(company, options, reasoning_effort=reasoning_effort)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\cli.py", line 218, in run_one
+    pipeline = _run_pipeline(company, reasoning_effort=reasoning_effort)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\cli.py", line 131, in _run_pipeline
+    result = agent.invoke(
+        {"messages": [{"role": "user", "content": f"Research physical site locations for: {company}"}]},
+        config={"callbacks": [usage_callback]},
+    )
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\main.py", line 3913, in invoke
+    for chunk in self.stream(
+                 ~~~~~~~~~~~^
+        input,
+        ^^^^^^
+    ...<11 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\main.py", line 2967, in stream
+    for _ in runner.tick(
+             ~~~~~~~~~~~^
+        [t for t in loop.tasks.values() if not t.writes],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        schedule_task=loop.accept_push,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 344, in tick
+    _panic_or_proceed(
+    ~~~~~~~~~~~~~~~~~^
+        futures.done.union(f for f, t in futures.items() if t is not None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        handled_futures=handled_futures,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_runner.py", line 687, in _panic_or_proceed
+    raise exc
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_executor.py", line 80, in done
+    task.result()
+    ~~~~~~~~~~~^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 447, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 396, in __get_result
+    raise self._exception
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\pregel\_retry.py", line 617, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 707, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 447, in invoke
+    ret = self.func(*args, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 822, in _func
+    outputs = list(
+        executor.map(self._run_one, tool_calls, input_types, tool_runtimes)
+    )
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 645, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 312, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 454, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\_base.py", line 396, in __get_result
+    raise self._exception
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Users\AmiteshSingh\AppData\Roaming\uv\python\cpython-3.14-windows-x86_64-none\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\runnables\config.py", line 650, in _wrapped_fn
+    return contexts.pop().run(fn, *args)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 1061, in _run_one
+    content = _handle_tool_error(e, flag=self._handle_tool_errors)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 434, in _handle_tool_error
+    content = flag(e)  # type: ignore [assignment, call-arg]
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 391, in _default_handle_tool_errors
+    raise e
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 1055, in _run_one
+    return self._wrap_tool_call(tool_request, execute)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langsmith\run_helpers.py", line 781, in wrapper
+    function_result = run_container["context"].run(
+        func, *args, **kwargs
+    )
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\search_tool.py", line 1440, in wrap_tool_call
+    return handler(request)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 1051, in execute
+    return self._execute_tool_sync(req, input_type, config)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 1006, in _execute_tool_sync
+    content = _handle_tool_error(e, flag=self._handle_tool_errors)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 434, in _handle_tool_error
+    content = flag(e)  # type: ignore [assignment, call-arg]
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 391, in _default_handle_tool_errors
+    raise e
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langgraph\prebuilt\tool_node.py", line 958, in _execute_tool_sync
+    response = tool.invoke(call_args, config)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\tools\base.py", line 764, in invoke
+    return self.run(tool_input, **kwargs)
+           ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\tools\base.py", line 1132, in run
+    raise error_to_raise
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\tools\base.py", line 1098, in run
+    response = context.run(self._run, *tool_args, **tool_kwargs)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\.venv\Lib\site-packages\langchain_core\tools\structured.py", line 152, in _run
+    return self.func(*args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\search_tool.py", line 1327, in fetch_page
+    return _free_tier_result(url, plain, note, tracker, agent, rendered=False)
+  File "C:\Users\AmiteshSingh\Development\site_extraction_one_agent\src\site_extraction_one_agent\search_tool.py", line 1267, in _free_tier_result
+    return f"{header}:\n\n{_condense_page_text(fetched.text or '', is_pdf=is_pdf)}{note}"
+              ^^^^^^
+UnboundLocalError: cannot access local variable 'header' where it is not associated with a value
+During task with name 'tools' and id '0fedca78-5a78-d95e-2487-dfa0b62ab7f0'
+The following objects are still open and will now be closed: [<PdfDocument 0x2214b5f6850 from <bytes object at 0x2215eacfec0>>, <PdfDocument 0x2215c5c63f0 from <bytes object at 0x2215eb67c20>>, <PdfPage 0x2214b5f4b90>, <PdfPage 0x2215c5c5810>]
+Batch: 5 companies from results\search_ladder_test_20260924\suppliers.csv
+ADFIL, GALLUS GROUP, REDMAN CORPORATION, SCM GROUP, AVX
+
+
+==============================================================================
+[1/5] ADFIL
+==============================================================================
+Researching site locations for: ADFIL
+
+Collected 2 distinct candidate address(es).
+
+Company domains treated as first-party: adfil.com
+
+=== Ranked candidates for ADFIL ===
+- [A] score=1.00 address_city_matched=YES  address_country_matched=YES
+    address: Industriestraat 39, Zone 2, Zele, East Flanders, 9240, Belgium
+    site_type: Manufacturing Plant, R&D Lab, Technical Sales Office
+    source:  https://www.adfil.com/contact
+    quote:   Belgium — Manufacturing plant, R&D lab and Technical Sales office. Belgium Industriestraat 39, Zone 2, 9240 Zele, Belgium
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Saint-Gobain House, East Leake, Loughborough, Leicestershire, LE12 6JU, United Kingdom
+    site_type: Technical Sales Office, Registered Office
+    source:  https://www.adfil.com/gb-en/contact
+    quote:   Technical Sales office with technical concrete knowledge, engineering, on site & application support. United Kingdom Saint-Gobain House East Leake, Loughborough, Leicestershire, LE12, 6JU
+
+Ground-truth address row(s) available for 'ADFIL': 2
+
+Results written to: results\search_ladder_test_20260924\ADFIL__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 7 calls, 123097 in / 2533 out tokens
+TOTAL web_search: 11 calls, 160213 in / 4977 out tokens
+TOTAL scrapingbee: 1 calls, 75 credits (~$0.0150), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 30 (issued: web_search 10/45, fetch_page 20 (uncapped), of which 3 were PDFs parsed locally for free (0 more read by local OCR) and 1/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.1683  (chat $0.0130, search tokens $0.0304, search call fee $0.1100, scrapingbee $0.0150)
+  input tokens priced as: 111805 uncached, 134380 cached read, 37125 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          7 calls, 123097 in / 2533 out tokens
+
+--- Queries issued (34) ---
+[site_extractor] fetch_page: https://www.adfil.com
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=ADFIL&page[size]=50
+[site_extractor] fetch_page: https://www.adfil.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=ADFIL
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=ADFIL
+[site_extractor] fetch_page: https://www.adfil.com/contact
+[site_extractor] fetch_page: https://www.adfil.com/uploads/documents/Legal-notice_Adfil.pdf
+[site_extractor] fetch_page: https://www.adfil.com/certificates
+[site_extractor] fetch_page: https://www.adfil.com/sitemaps-1-section-contact-1-sitemap.xml
+[site_extractor] fetch_page: https://www.adfil.com/sitemaps-1-section-contentPage-1-sitemap.xml
+[site_extractor] fetch_page: https://www.adfil.com/sitemaps-1-section-legal-1-sitemap.xml
+[site_extractor] fetch_page_pdf_local: https://www.adfil.com/uploads/documents/Legal-notice_Adfil.pdf
+[site_extractor] web_search: "ADFIL" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=ADFIL%20LTD
+[site_extractor] fetch_page: https://www.adfil.com/about-us
+[site_extractor] web_search: ADFIL NV subsidiaries ADFIL LTD official
+[site_extractor] web_search: ADFIL plant factory manufacturing warehouse office address Belgium
+[site_extractor] web_search: Google Maps ADFIL Belgium Flanders address
+[site_extractor] web_search: ADFIL Google Business Profile Belgium address Wallonia
+[site_extractor] web_search: ADFIL office West Flanders Limburg Belgium address directory
+[site_extractor] web_search: ADFIL office Antwerp East Flanders address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/03270532
+[site_extractor] fetch_page: https://www.adfil.com/uploads/documents/Adfil_T_and_C_2025.pdf
+[site_extractor] fetch_page_pdf_local: https://www.adfil.com/uploads/documents/Adfil_T_and_C_2025.pdf
+[site_extractor] web_search: Saint-Gobain ADFIL Limited ownership subsidiary acquisition official
+[site_extractor] web_search: ADFIL UK sales office Saint-Gobain House East Leake official
+[site_extractor] web_search: ADFIL Zele Industriestraat 39 manufacturing plant R&D
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/03270532/persons-with-significant-control
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/company/03270532/filing-history
+[site_extractor] fetch_page: https://www.saint-gobain.com/sites/saint-gobain.com/files/media/document/20230926_Acquisition_Adfil_VA.pdf
+[site_extractor] fetch_page: https://www.adfil.com/uploads/documents/XT-BBA-Certificate-19-5715-2020.pdf
+[site_extractor] fetch_page: https://www.adfil.com/gb-en/contact
+[site_extractor] fetch_page_pdf_local: https://www.adfil.com/uploads/documents/XT-BBA-Certificate-19-5715-2020.pdf
+[site_extractor] fetch_page_search_fallback: https://www.saint-gobain.com/sites/saint-gobain.com/files/media/document/20230926_Acquisition_Adfil_VA.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\scrapingbee_log.jsonl
+
+Combined CSV now holds 1 companies: results\search_ladder_test_20260924\combined_5.csv
+
+==============================================================================
+[2/5] GALLUS GROUP
+==============================================================================
+Researching site locations for: GALLUS GROUP
+
+Collected 3 distinct candidate address(es).
+
+Company domains treated as first-party: gallus-group.com
+
+=== Ranked candidates for GALLUS GROUP ===
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Harzbüchelstrasse 34, St. Gallen, St. Gallen, 9016, Switzerland
+    site_type: Headquarters, R&D, Manufacturing Plant, Service, Sales, Marketing, Demonstration and Test Facility
+    source:  https://www.gallus-group.com/en/about-gallus/about-the-gallus-group/
+    quote:   Location St. Gallen, Switzerland — Group management and Labels division: Research & Development, Production, Service, Sales, Marketing — Gallus Ferd. Rüesch AG — 34 Harzbüchelstrasse — CH-9016 St. Gallen
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Degersheimerstrasse 14, Extension 9/10, Herisau, Appenzell Ausserrhoden, 9100, Switzerland
+    site_type: Screen Printing, Manufacturing Plant, R&D, Service, Sales
+    source:  https://www.gallus-group.com/en/about-gallus/about-the-gallus-group/
+    quote:   Location Herisau, Switzerland — Screen printing division — Gallus Ferd. Rüesch AG — 14 Degersheimerstrasse — Extension 9/10 — CH-9100 Herisau
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: Steinbruchstrasse 5, Langgöns-Oberkleen, Hesse, 35428, Germany
+    site_type: Manufacturing Plant, R&D, Production, Assembly, Service
+    source:  https://www.gallus-group.com/en/about-gallus/about-the-gallus-group/
+    quote:   Location Langgöns, Germany — Label business areas: Research & Development, Production, Service — Gallus Printing Machines GmbH — Quarry Road 5 — DE-35428 Langgöns-Oberkleen
+
+Ground-truth address row(s) available for 'GALLUS GROUP': 3
+
+Results written to: results\search_ladder_test_20260924\GALLUS_GROUP__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 6 calls, 140879 in / 2702 out tokens
+TOTAL web_search: 10 calls, 159426 in / 5755 out tokens
+TOTAL scrapingbee: 0 calls, 0 credits (~$0.0000), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 25 (issued: web_search 10/45, fetch_page 15 (uncapped), of which 2 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.1456  (chat $0.0147, search tokens $0.0309, search call fee $0.1000, scrapingbee $0.0000)
+  input tokens priced as: 115571 uncached, 147165 cached read, 37569 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          6 calls, 140879 in / 2702 out tokens
+
+--- Queries issued (27) ---
+[site_extractor] fetch_page: https://www.gallus-group.com
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=GALLUS%20GROUP&page[size]=50
+[site_extractor] fetch_page: https://www.gallus-group.com/sitemap.xml
+[site_extractor] fetch_page: https://en.wikipedia.org/w/index.php?title=Special:Search&search=GALLUS%20GROUP
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=GALLUS%20GROUP
+[site_extractor] web_search: Gallus Group subsidiaries Gallus Stanz Druckmaschinen Gallus Screeny official
+[site_extractor] web_search: "Gallus Group" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: Gallus Group locations subsidiaries Heidelberg Gallus USA Germany Switzerland
+[site_extractor] web_search: GALLUS GROUP official locations Gallus Weltweit contact
+[site_extractor] web_search: site:gallus-group.com Gallus locations contact worldwide
+[site_extractor] web_search: Gallus Group acquired brands subsidiaries official
+[site_extractor] fetch_page: https://www.gallus-group.com/media/downloads/iso-14001-zertifikat-en.pdf
+[site_extractor] fetch_page: https://www.gallus-group.com/en/contact/gallus-worldwide/index.jsp
+[site_extractor] fetch_page: https://www.heidelberg.com/global/en/about_heidelberg/company/production_sites/our_sites.jsp
+[site_extractor] fetch_page: https://www.gallus-group.com/media/downloads/iso-9001-zertifikat-en.pdf
+[site_extractor] fetch_page: https://www.gallus-group.com/en/legal-notice/index.jsp
+[site_extractor] fetch_page: https://www.gallus-group.com/en/about-gallus/about-the-gallus-group/
+[site_extractor] fetch_page_pdf_local: https://www.gallus-group.com/media/downloads/iso-14001-zertifikat-en.pdf
+[site_extractor] fetch_page_pdf_local: https://www.gallus-group.com/media/downloads/iso-9001-zertifikat-en.pdf
+[site_extractor] web_search: Gallus Ferd Rüesch AG address Swiss yellowpages Herisau St Gallen
+[site_extractor] web_search: Gallus Druckmaschinen Switzerland branch office address Swiss directory
+[site_extractor] web_search: Google Maps Gallus Group Switzerland St. Gallen Herisau address
+[site_extractor] web_search: Gallus Group office Switzerland canton St Gallen address directory
+[site_extractor] fetch_page: https://www.gallus-group.com/de/ueber-gallus/ueber-die-gallus-gruppe/
+[site_extractor] fetch_page: https://www.gallus-group.com/en/contact/contact-form/index.jsp
+[site_extractor] fetch_page: https://www.gallus-group.com/en/about-gallus/gallus-experience-center/
+[site_extractor] fetch_page: https://yellowpages.swiss/location.cfm?company=Gallus-Ferd.-Rueesch-AG&key=146261
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+
+Combined CSV now holds 2 companies: results\search_ladder_test_20260924\combined_5.csv
+
+==============================================================================
+[3/5] REDMAN CORPORATION
+==============================================================================
+Researching site locations for: REDMAN CORPORATION
+
+Collected 10 distinct candidate address(es).
+
+Company domains treated as first-party: redmanretail.com, redmandisplay.com, redmancorp.com, redmangroup.cn
+
+=== Ranked candidates for REDMAN CORPORATION ===
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: 111 Tangqiao Road, Yangshe Town, Zhangjiagang, Jiangsu, 215618, China
+    site_type: Manufacturing Plant, R&D, Office
+    source:  https://www.linkedin.com/company/redman-corporation
+    quote:   Headquartered in Jiangsu, China... With over 660,000 square feet of facility and 350 skilled craftsmen under one roof
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: 9 Qigan Road, Zhangjiagang, Jiangsu, 215600, China
+    site_type: Manufacturing Plant, Office
+    source:  https://www.linkedin.com/company/redman-corporation
+    quote:   Locations — Primary — 9 Qigan Road — Zhangjiagang, Jiangsu 215600, CN
+
+- [B] score=0.60 address_city_matched=YES  address_country_matched=YES
+    address: 9999 Jingang Avenue, Huangqiqiao South, Zhangjiagang, Jiangsu, 215618, China
+    site_type: Corporate Facility, Manufacturing/Industrial Facility
+    source:  https://redmangroup.cn/
+    quote:   江苏红人集团有限公司 | Zhangjiagang, China | 江苏省张家港市金港大道9999号
+
+- [C] score=0.25 address_city_matched=no   address_country_matched=no
+    address: 601 Dempster Street, Mount Prospect, Illinois, 60056, United States
+    site_type: Temporary Warehouse
+    source:  https://m.yellowpages.com/downtown-naperville-naperville-il/partitions
+    quote:   Redman Corporation / Redman USA: 601 Dempster Street, Mount Prospect, IL 60056
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 18233 Railroad Street, City of Industry, California, 91748, United States
+    site_type: Warehouse, Office, Assembly/Kitting, Distribution
+    source:  https://www.importinfo.com/redman-usa-inc
+    quote:   REDMAN USA INC — 18233 RAILROAD STREET CITY OF INDUSTRY CA 91748 US
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 916 Woods Drive, Hartland, Wisconsin, 53029, United States
+    site_type: Regional Office, Sales Office
+    source:  https://www.sohu.com/a/199911689_822190
+    quote:   中西部办事处 — 916 Woods Drive,Hartland, WI 53029, U.S.A.
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 5050 Oak Brook Parkway, Suite 100, Norcross, Georgia, 30093, United States
+    site_type: Warehouse, Regional Office, Sales Office
+    source:  https://www.sohu.com/a/199911689_822190
+    quote:   亚特兰大分公司 — 5050 Oak BrookParkway, Suite 100 — Norcross, GA 30093, USA
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 595 Main Street #608, New York, New York, 10044, United States
+    site_type: Regional Office, Sales Office
+    source:  https://www.sohu.com/a/199911689_822190
+    quote:   纽约办事处 — 595 Main Street #608,New York, NY 10044, USA
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Vennestraat 19, Lisse, South Holland, 2161 LE, The Netherlands
+    site_type: European Office, Sales Office
+    source:  https://www.sohu.com/a/199911689_822190
+    quote:   REDMAN EUROPE B.V. — Vennestraat 19, 2161LE, Lisse, The Netherlands
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: 15249 Don Julian Road, City of Industry, California, 91745, United States
+    site_type: Office, Warehouse
+    source:  https://spdf.askci.com/872395-%E8%82%A1%E8%BD%AC%E4%B9%A6.pdf
+    quote:   Redman USA Inc. 红人美国有限公司 | City of Industry, United States | 15249 Don Julia Road, City of Industry, Los Angeles, California
+
+Ground-truth address row(s) available for 'REDMAN CORPORATION': 5
+
+Results written to: results\search_ladder_test_20260924\REDMAN_CORPORATION__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 9 calls, 141172 in / 4919 out tokens
+TOTAL web_search: 35 calls, 808735 in / 27847 out tokens
+TOTAL scrapingbee: 12 calls, 76 credits (~$0.0152), 10 failed -> escalated to paid search
+TOTAL tool calls attempted: 62 (issued: web_search 25/45, fetch_page 37 (uncapped), of which 0 were PDFs parsed locally for free (0 more read by local OCR) and 10/10 needed the paid search fallback; refused over budget: 2; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.5477  (chat $0.0148, search tokens $0.1677, search call fee $0.3500, scrapingbee $0.0152)
+  input tokens priced as: 653680 uncached, 267783 cached read, 28444 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          9 calls, 141172 in / 4919 out tokens
+
+--- Queries issued (72) ---
+[site_extractor] fetch_page: https://www.redmancorp.com
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=REDMAN%20CORPORATION&page[size]=50
+[site_extractor] fetch_page: https://www.redmancorp.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=REDMAN%20CORPORATION
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=REDMAN%20CORPORATION
+[site_extractor] fetch_page_search_fallback: https://www.redmancorp.com/sitemap.xml
+[site_extractor] fetch_page_search_fallback: https://www.redmancorp.com
+[site_extractor] fetch_page: https://www.redmancorp.com/contact
+[site_extractor] fetch_page: https://www.redmancorp.com/contact-us
+[site_extractor] fetch_page: https://www.redmancorp.com/robots.txt
+[site_extractor] fetch_page: https://www.redmancorp.com/about
+[site_extractor] fetch_page: https://www.redmancorp.com/locations
+[site_extractor] web_search: REDMAN CORPORATION company headquarters Zhangjiagang City of Industry Redman Europe
+[site_extractor] fetch_page_search_fallback: https://www.redmancorp.com/contact
+[site_extractor] fetch_page_search_fallback: https://www.redmancorp.com/about
+[site_extractor] fetch_page_search_fallback: https://www.redmancorp.com/locations
+[site_extractor] fetch_page_search_fallback: https://www.redmancorp.com/contact-us
+[site_extractor] fetch_page_search_fallback: https://www.redmancorp.com/robots.txt
+[site_extractor] fetch_page: https://www.redmanretail.com/
+[site_extractor] fetch_page: https://www.redmanretail.com/sitemap.xml
+[site_extractor] fetch_page: https://www.redmanretail.com/contact-us
+[site_extractor] fetch_page: https://www.redmanretail.com/contact
+[site_extractor] fetch_page: https://www.redmanretail.com/about
+[site_extractor] web_search: "REDMAN CORPORATION" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] web_search: "Redman Corporation" subsidiary brand Redman USA Inc Redman Europe B.V.
+[site_extractor] fetch_page: https://www.redmanretail.com/aboutus.html
+[site_extractor] fetch_page: https://www.redmanretail.com/about/
+[site_extractor] fetch_page: https://access.trade.gov/Resources/frn/summary/prc/2019-03820-1.pdf
+[site_extractor] fetch_page: https://www.redmanretail.com/en/contact.html
+[site_extractor] fetch_page: https://www.redmanretail.com/contact/
+[site_extractor] fetch_page: https://www.redmanretail.com/en/about.html
+[site_extractor] fetch_page: https://www.redmanretail.com/contact.html
+[site_extractor] web_search: "Redman Corporation" Jiangsu address manufacturing
+[site_extractor] web_search: "Redman Europe B.V." Vennestraat 19 Lisse
+[site_extractor] web_search: "Redman USA Inc" address City of Industry Hartland Norcross
+[site_extractor] web_search: site:redmanretail.com contact Redman Zhangjiagang address
+[site_extractor] web_search: "Redman Corporation" Zhangjiagang factory address
+[site_extractor] web_search: Google Maps Redman Corporation Jiangsu
+[site_extractor] web_search: "Redman Corporation" warehouse distribution center address
+[site_extractor] web_search: "Redman" "Shanghai" retail displays office
+[site_extractor] web_search: "Redman Corporation" Beijing Shanghai Guangzhou office address
+[site_extractor] web_search: Google Maps Redman Corporation Jiangsu Zhejiang Guangdong
+[site_extractor] web_search: Redman Corporation office Jiangsu China address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] fetch_page: https://www.redmanretail.com/products-services
+[site_extractor] web_search: Google Maps Redman Corporation Jiangsu China OR Redman retail display Jiangsu address
+[site_extractor] fetch_page: https://www.redmanretail.com/Chinese/contact
+[site_extractor] web_search: Google Maps Redman Corporation Shanghai Zhejiang Guangdong China
+[site_extractor] fetch_page: https://www.redmanretail.com/news
+[site_extractor] fetch_page: https://www.redmanretail.com/cn/contact
+[site_extractor] web_search: Redman Corporation office Jiangsu Zhejiang Guangdong address directory
+[site_extractor] fetch_page: https://www.importinfo.com/redman-corporation
+[site_extractor] fetch_page: https://redmangroup.cn/
+[site_extractor] fetch_page: https://www.importinfo.com/redman-usa-inc
+[site_extractor] fetch_page: https://www.sohu.com/a/199911689_822190
+[site_extractor] fetch_page: https://www.linkedin.com/company/redman-corporation
+[site_extractor] fetch_page: https://basic.10jqka.com.cn/872395/company.html
+[site_extractor] web_search: "Redman USA Inc" warehouse Chicago address
+[site_extractor] web_search: "Redman Europe B.V." address Lisse company
+[site_extractor] web_search: "Redman Corporation" "Hartland" "Norcross"
+[site_extractor] web_search: "Redman Corporation" "9999 Jingang Avenue"
+[site_extractor] web_search: "Redman Corporation" facility address
+[site_extractor] web_search: "Jiangsu Redman" subsidiaries Redman USA Europe
+[site_extractor] fetch_page_search_fallback: https://redmangroup.cn/
+[site_extractor] web_search: site:redmanretail.com "Vennestraat" OR "Railroad" OR "Woods Drive"
+[site_extractor] fetch_page: https://www.neeq.com.cn/disclosure/2018/2018-02-08/1518080788_292701.pdf
+[site_extractor] web_search: site:redmanretail.com "111 Tangqiao Road"
+[site_extractor] fetch_page: https://www.redmanretail.com/zh-cn/
+[site_extractor] fetch_page: https://www.redmandisplay.com/
+[site_extractor] fetch_page: https://spdf.askci.com/872395-%E8%82%A1%E8%BD%AC%E4%B9%A6.pdf
+[site_extractor] fetch_page: http://www.redmandisplay.com/
+[site_extractor] fetch_page_search_fallback: https://spdf.askci.com/872395-%E8%82%A1%E8%BD%AC%E4%B9%A6.pdf
+[site_extractor] fetch_page_search_fallback: https://www.neeq.com.cn/disclosure/2018/2018-02-08/1518080788_292701.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\scrapingbee_log.jsonl
+
+Combined CSV now holds 3 companies: results\search_ladder_test_20260924\combined_5.csv
+
+==============================================================================
+[4/5] SCM GROUP
+==============================================================================
+Researching site locations for: SCM GROUP
+
+
+==============================================================================
+[5/5] AVX
+==============================================================================
+Researching site locations for: AVX
+
+
+
+==============================================================================
+BATCH SUMMARY
+==============================================================================
+company               rows  search  fetch  paid_fb   bee  credits     cost
+ADFIL                    2      11     20        1     1       75    0.168
+GALLUS GROUP             3      10     15        0     0        0    0.146
+REDMAN CORPORATION      10      35     37       10    12       76    0.548
+TOTAL                   15      56     72       11    13      151    0.862
+
+Combined results: results\search_ladder_test_20260924\combined_5.csv
+
+FAILED (2):
+  SCM GROUP: UnboundLocalError: cannot access local variable 'header' where it is not associated with a value
+  AVX: UnboundLocalError: cannot access local variable 'header' where it is not associated with a value

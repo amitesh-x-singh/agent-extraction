@@ -1,0 +1,21 @@
+﻿supplier,gt_sites,agent_sites,fs_sites,agent_city_matched,agent_city_recall,fs_city_matched,fs_city_recall,both_city,agent_only_city,fs_only_city,neither_city,combined_city_matched,combined_city_recall,agent_street_matched,agent_street_recall,fs_street_matched,fs_street_recall,both_street,agent_only_street,fs_only_street,neither_street,combined_street_matched,combined_street_recall,agent_fs_same_site,agent_unique_sites,fs_unique_sites,combined_unique_sites
+HERBERT HAENCHEN GMBH,2,5,5,2,1.0,2,1.0,2,0,0,0,2,1.0,2,1.0,2,1.0,2,0,0,0,2,1.0,4,1,1,6
+ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA,1,2,4,1,1.0,1,1.0,1,0,0,0,1,1.0,1,1.0,1,1.0,1,0,0,0,1,1.0,2,0,2,4
+KYNDRYL,86,111,89,77,0.895,78,0.907,75,2,3,6,80,0.93,69,0.802,71,0.826,68,1,3,14,72,0.837,83,28,6,117
+COELNER BENZIN RAFFINERIE KARL A KROSEBERG,1,1,1,1,1.0,1,1.0,1,0,0,0,1,1.0,1,1.0,1,1.0,1,0,0,0,1,1.0,1,0,0,1
+HOSHIZAKI,50,63,72,31,0.62,39,0.78,31,0,8,11,39,0.78,30,0.6,37,0.74,30,0,7,13,37,0.74,57,6,15,78
+GRUPO LAPPI,3,6,7,3,1.0,3,1.0,3,0,0,0,3,1.0,3,1.0,3,1.0,3,0,0,0,3,1.0,6,0,1,7
+FINE WILL INDUSTRIAL LIMITED,1,3,2,0,0.0,0,0.0,0,0,0,1,0,0.0,0,0.0,0,0.0,0,0,0,1,0,0.0,0,3,2,5
+KISAN OLEOCHEM AND DERIVATIVES PVT,3,4,3,3,1.0,3,1.0,3,0,0,0,3,1.0,2,0.667,2,0.667,2,0,0,1,2,0.667,2,2,1,5
+WEYLCHEM PERFORMANCE PRODUCTS,7,13,5,6,0.857,0,0.0,0,6,0,1,6,0.857,6,0.857,0,0.0,0,6,0,1,6,0.857,1,12,4,17
+EXPORTADORA DE CAFE CALIFORNIA,1,15,21,1,1.0,1,1.0,1,0,0,0,1,1.0,1,1.0,1,1.0,1,0,0,0,1,1.0,7,8,14,29
+CAFE DE MI TIERRA SA,1,2,2,0,0.0,0,0.0,0,0,0,1,0,0.0,0,0.0,0,0.0,0,0,0,1,0,0.0,2,0,0,2
+GUANGZHOU FIVE SIX TECHNOLOGY,1,2,3,1,1.0,1,1.0,1,0,0,0,1,1.0,0,0.0,1,1.0,0,0,1,0,1,1.0,2,0,1,3
+MITRASTAR TECHNOLOGY,4,6,6,4,1.0,4,1.0,4,0,0,0,4,1.0,4,1.0,3,0.75,3,1,0,0,4,1.0,4,2,2,8
+BYK ADDITIVES,39,29,38,29,0.744,37,0.949,29,0,8,2,37,0.949,26,0.667,35,0.897,26,0,9,4,35,0.897,28,1,10,39
+NICCHIO SOBRINHO,3,6,8,3,1.0,3,1.0,3,0,0,0,3,1.0,2,0.667,2,0.667,2,0,0,1,2,0.667,5,1,3,9
+YJK INDUSTRIAL GROUP CO LTD,2,5,4,2,1.0,1,0.5,1,1,0,0,2,1.0,2,1.0,1,0.5,1,1,0,0,2,1.0,1,4,3,8
+HEIDELBERG,13,45,41,12,0.923,12,0.923,12,0,0,1,12,0.923,11,0.846,11,0.846,11,0,0,2,11,0.846,29,16,12,57
+CPH CHEMICALS B V,1,1,14,1,1.0,1,1.0,1,0,0,0,1,1.0,1,1.0,1,1.0,1,0,0,0,1,1.0,1,0,13,14
+COLLOIDS,3,7,6,3,1.0,3,1.0,3,0,0,0,3,1.0,3,1.0,3,1.0,3,0,0,0,3,1.0,5,2,1,8
+LEIPZIGER LOGISTIK UND LAGERHAUS,3,4,6,3,1.0,3,1.0,3,0,0,0,3,1.0,3,1.0,3,1.0,3,0,0,0,3,1.0,3,1,3,7

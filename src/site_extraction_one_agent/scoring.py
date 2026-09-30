@@ -195,7 +195,9 @@ def _drops_unmatched_number(candidate_raw: frozenset[str], anchor_raw: frozenset
     return bool(_numeric_tokens(candidate_raw)) and not _numeric_tokens(anchor_raw)
 
 
-def dedupe_by_address_similarity(items: list, address_of, threshold: float = ADDRESS_DEDUPE_JACCARD_THRESHOLD) -> list:
+def dedupe_by_address_similarity(
+    items: list, address_of, threshold: float = ADDRESS_DEDUPE_JACCARD_THRESHOLD, on_duplicate=None
+) -> list:
     """Collapse near-duplicate addresses from `items`, keeping the first occurrence of each
     duplicate cluster (see `_containment` for what counts as "near-duplicate").
 
@@ -208,6 +210,9 @@ def dedupe_by_address_similarity(items: list, address_of, threshold: float = ADD
     one company's candidates, or one supplier+country's site list) -- the common-token filter
     below treats whatever's shared across most of `items` as boilerplate, so mixing in unrelated
     locales would wash out real city/country signal.
+
+    `on_duplicate(kept, dropped)`, if given, is called for each dropped item with the item it
+    duplicated, so a caller can carry the dropped item's data (e.g. its source URL) over.
     """
     raw_tokens = [_address_tokens(address_of(item)) for item in items]
 
@@ -228,11 +233,17 @@ def dedupe_by_address_similarity(items: list, address_of, threshold: float = ADD
     kept_tokens: list[frozenset[str]] = []
     kept_raw: list[frozenset[str]] = []
     for item, tokens, raw in zip(items, compare_tokens, raw_tokens):
-        match = any(
-            _containment(tokens, seen, min_shared) >= threshold and not _drops_unmatched_number(raw, seen_raw)
-            for seen, seen_raw in zip(kept_tokens, kept_raw)
+        match = next(
+            (
+                i
+                for i, (seen, seen_raw) in enumerate(zip(kept_tokens, kept_raw))
+                if _containment(tokens, seen, min_shared) >= threshold and not _drops_unmatched_number(raw, seen_raw)
+            ),
+            None,
         )
-        if match:
+        if match is not None:
+            if on_duplicate is not None:
+                on_duplicate(kept[match], item)
             continue
         kept.append(item)
         kept_tokens.append(tokens)
@@ -255,4 +266,12 @@ def dedupe_ranked_by_address(
     Assumes `ranked` is already sorted best-score-first (as `rank_candidates` returns it), so
     keeping the first entry in each duplicate cluster keeps the most credible source.
     """
-    return dedupe_by_address_similarity(ranked, lambda entry: entry["candidate"].full_address(), threshold)
+    def merge_sources(kept: dict, dropped: dict) -> None:
+        # The duplicate is dropped, its sources are not: they become extra sources of the kept row.
+        kept_c = kept["candidate"]
+        extra = [u for u in dropped["candidate"].all_sources() if u not in kept_c.all_sources()]
+        kept["candidate"] = kept_c.model_copy(update={"other_source_urls": [*kept_c.other_source_urls, *extra]})
+
+    return dedupe_by_address_similarity(
+        ranked, lambda entry: entry["candidate"].full_address(), threshold, on_duplicate=merge_sources
+    )

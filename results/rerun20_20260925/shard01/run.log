@@ -1,0 +1,747 @@
+Batch: 5 companies from suppliers.csv
+ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA, GRUPO LAPPI, EXPORTADORA DE CAFE CALIFORNIA, BYK ADDITIVES, CPH CHEMICALS B V
+
+
+==============================================================================
+[1/5] ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA
+==============================================================================
+Researching site locations for: ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA
+
+Collected 2 distinct candidate address(es).
+
+Company domains treated as first-party: sinarmascepsa.com
+
+=== Ranked candidates for ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA ===
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Jl. Raya Lubuk Gaung, Dusun Nerbit Kecil, Kelurahan Lubuk Gaung, Kecamatan Sungai Sembilan, Dumai, Riau, 28826, Indonesia
+    site_type: Manufacturing Plant, Processing Facility, Laboratory, Logistics/Jetty Operations
+    source:  https://sinarmascepsa.com/company/company-2/
+    quote:   PT Energi Sejahtera Mas (PT ESM) is one of the largest fatty alcohol plants in the world... The plant, which is strategically located in Lubuk Gaung (Dumai, Indonesia)... we strive to offer best-in-class service by managing and operating our own jetty connected to the plant for bulk and container shipments. 📌 Lubuk Gaung – Dumai 28826, Indonesia
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Sinar Mas Land Plaza Menara 3, Lt. 8, Jl. M.H. Thamrin No. 51, Jakarta Pusat, DKI Jakarta, 10350, Indonesia
+    site_type: Registered Office, Office
+    source:  https://api.gleif.org/api/v1/lei-records?filter[fulltext]=PT%20Energi%20Sejahtera%20Mas&page[size]=50
+    quote:   PT. ENERGI SEJAHTERA MAS (ACTIVE) | registered: SINAR MAS LAND PLAZA MENARA 3 LT.8, JL.MH.THAMRIN NO.51, KEL. GONDANGDIA, KEC. MENTENG, KOTA, ADM. JAKARTA PUSAT, PROV. DKI JAKARTA, JAKARTA, 10350, ID
+
+Ground-truth address row(s) available for 'ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\ENERGI_SEJAHTERA_MAS_SINAR_MAS_LAND_PLAZA_MENARA__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 128658 in / 3717 out tokens
+TOTAL web_search: 10 calls, 166379 in / 5938 out tokens
+TOTAL scrapingbee: 3 calls, 26 credits (~$0.0052), 1 failed -> escalated to paid search
+TOTAL tool calls attempted: 34 (issued: web_search 8/45, fetch_page 26 (uncapped), of which 8 were PDFs parsed locally for free (1 more read by local OCR) and 2/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.1509  (chat $0.0132, search tokens $0.0326, search call fee $0.1000, scrapingbee $0.0052)
+  input tokens priced as: 122158 uncached, 145641 cached read, 27238 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 128658 in / 3717 out tokens
+
+--- Queries issued (45) ---
+[site_extractor] web_search: ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA official website
+[site_extractor] fetch_page: https://sinarmascepsa.com/
+[site_extractor] fetch_page: https://sinarmascepsa.com/company/company-2/
+[site_extractor] fetch_page: https://sinarmascepsa.com/sitemap.xml
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=PT%20Energi%20Sejahtera%20Mas&page[size]=50
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=PT%20Energi%20Sejahtera%20Mas
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=PT%20Energi%20Sejahtera%20Mas
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-sitemap-posts-page-1.xml
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-sitemap-posts-company-1.xml
+[site_extractor] fetch_page: https://sinarmascepsa.com/contact-us/
+[site_extractor] fetch_page: https://sinarmascepsa.com/group-companies/
+[site_extractor] fetch_page: https://sinarmascepsa.com/certificates/
+[site_extractor] fetch_page: https://sinarmascepsa.com/sustainability-report/
+[site_extractor] web_search: "PT Energi Sejahtera Mas" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/2024/05/2327A_ENERGY-SEJAHTERA-MAS-_45K_CERT.pdf
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/2024/05/2435B_ENERGI-SEJAHTERA-MAS_14K_CERT_UKAS.pdf
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/2023/08/Laboratory-Certificate.pdf
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/2025/08/RSPO-certificate-to-ESM.pdf
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/2025/02/3057_ENERGI-SEJAHTERA-MAS_22K_UKAS_CERT_R1.pdf
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/2025/01/Sertifikat-CPPOB-ESM..pdf
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/2025/01/2024-ESM-certiificate-ISO-9001-2015.pdf
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/2025/03/2024-ESM-certiificate-EFfCI-Cosmetic-Ingredient.pdf
+[site_extractor] fetch_page_pdf_local: https://sinarmascepsa.com/wp-content/uploads/2025/01/2024-ESM-certiificate-ISO-9001-2015.pdf
+[site_extractor] fetch_page_pdf_local: https://sinarmascepsa.com/wp-content/uploads/2025/08/RSPO-certificate-to-ESM.pdf
+[site_extractor] fetch_page_pdf_local: https://sinarmascepsa.com/wp-content/uploads/2025/03/2024-ESM-certiificate-EFfCI-Cosmetic-Ingredient.pdf
+[site_extractor] fetch_page_pdf_local: https://sinarmascepsa.com/wp-content/uploads/2025/02/3057_ENERGI-SEJAHTERA-MAS_22K_UKAS_CERT_R1.pdf
+[site_extractor] fetch_page_pdf_local: https://sinarmascepsa.com/wp-content/uploads/2024/05/2327A_ENERGY-SEJAHTERA-MAS-_45K_CERT.pdf
+[site_extractor] fetch_page_pdf_local: https://sinarmascepsa.com/wp-content/uploads/2025/01/Sertifikat-CPPOB-ESM..pdf
+[site_extractor] fetch_page_pdf_local: https://sinarmascepsa.com/wp-content/uploads/2024/05/2435B_ENERGI-SEJAHTERA-MAS_14K_CERT_UKAS.pdf
+[site_extractor] fetch_page_pdf_ocr: https://sinarmascepsa.com/wp-content/uploads/2023/08/Laboratory-Certificate.pdf
+[site_extractor] web_search: "PT Energi Sejahtera Mas" Dumai address directory
+[site_extractor] web_search: "PT Energi Sejahtera Mas" office Riau address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps PT Energi Sejahtera Mas Riau Indonesia
+[site_extractor] web_search: "PT Energi Sejahtera Mas" Sumatra office address
+[site_extractor] web_search: "PT Energi Sejahtera Mas" Jakarta office address Google Business Profile
+[site_extractor] web_search: "PT Energi Sejahtera Mas" Indonesia locations branch office
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/sustainability-report/2024%20Annual%20Sustainability%20Report.pdf
+[site_extractor] fetch_page: https://www.semuabis.com/sinarmas-cepsa-pt-energi-sejahtera-mas-021-50529999
+[site_extractor] fetch_page: https://companyhouse.id/energi-sejahtera-mas
+[site_extractor] fetch_page: https://sinarmascepsa.com/about-us/
+[site_extractor] fetch_page: https://www.semuabis.com/pt-energi-sejahtera-mas-0765-7151000
+[site_extractor] fetch_page: https://sinarmascepsa.com/wp-content/uploads/2025/05/Halal-Certificate-PT-Energi-Sejahtera-Mas-BPJPH.pdf
+[site_extractor] fetch_page_search_fallback: https://sinarmascepsa.com/wp-content/uploads/sustainability-report/2024%20Annual%20Sustainability%20Report.pdf
+[site_extractor] fetch_page_pdf_local: https://sinarmascepsa.com/wp-content/uploads/2025/05/Halal-Certificate-PT-Energi-Sejahtera-Mas-BPJPH.pdf
+[site_extractor] fetch_page_search_fallback: https://www.semuabis.com/sinarmas-cepsa-pt-energi-sejahtera-mas-021-50529999
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\scrapingbee_log.jsonl
+
+Combined CSV now holds 1 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\combined.csv
+
+==============================================================================
+[2/5] GRUPO LAPPI
+==============================================================================
+Researching site locations for: GRUPO LAPPI
+
+Collected 7 distinct candidate address(es).
+
+Company domains treated as first-party: grupolappi.com, alempack.pt
+
+=== Ranked candidates for GRUPO LAPPI ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Polígono Industrial Carretera de La Isla, Calle Acueducto Nº 10, Parcela 34, Dos Hermanas, Seville, 41703, Spain
+    site_type: Manufacturing Plant, Headquarters, Office
+    source:  https://www.grupolappi.com/es/contacto/
+    quote:   Además de ser la Sede Central de Lappí Labels & Flexible Packaging, la planta de Sevilla es uno de los centros productivos más versátiles del grupo… Pol. Ind. Ctra de La Isla, C/ Acueducto Nº 10, Parcela 34, 41703 Dos Hermanas (Sevilla)
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Polígono Industrial Sant Ermengol II, Camí de Sagraments Nº 65, Nave 10, Abrera, Barcelona, 08630, Spain
+    site_type: Manufacturing Plant
+    source:  https://www.grupolappi.com/es/contacto/
+    quote:   Barcelona — Lappí Martorell — Pol. Ind. Sant Ermengol II — Camí de Sagraments Nº 65 Nau 10 — 08630 Abrera, Barcelona
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Calle Plomo Nº 32, Polígono Industrial Aimayr, San Martín de la Vega, Madrid, 28330, Spain
+    site_type: Manufacturing Plant
+    source:  https://www.grupolappi.com/es/contacto/
+    quote:   Madrid — LAPPÍ CPM — C/ Plomo, 32 — Pol. Ind. Aimayr — 28330 San Martín de la Vega, Madrid
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Zona Industrial das Fontaínhas, Rua de França Nº 1, Elvas, Portalegre, 7350-006, Portugal
+    site_type: Manufacturing Plant, Warehouse, Laboratory, Office
+    source:  https://alempack.pt/contactos/
+    quote:   Sede — Zona Industrial das Fontaínhas — Rua de França nº 1 — 7350-006 Elvas
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Parque Industrial, Lote 3, Vila Viçosa, Évora, 7160-292, Portugal
+    site_type: Manufacturing Plant
+    source:  https://www.grupolappi.com/es/empresa/
+    quote:   La Unidad 1 de Gráficas Calipolense está especializada en la fabricación de etiquetas para alimentación y bebidas…
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Estrada dos Almocreves Nº 664, Salvaterra de Magos, Santarém, 2120-210, Portugal
+    site_type: Manufacturing Plant
+    source:  https://www.grupolappi.com/wp-content/uploads/2025/07/SGS_ISO-9001_2015_ES.pdf
+    quote:   LAPPÍ PENTA, S.A. — Estrada dos Almocreves, 664, 2120-210 Salvaterra de Magos, Portugal
+
+Ground-truth address row(s) available for 'GRUPO LAPPI': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\GRUPO_LAPPI__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 158447 in / 4869 out tokens
+TOTAL web_search: 23 calls, 320235 in / 12215 out tokens
+TOTAL scrapingbee: 3 calls, 3 credits (~$0.0006), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 41 (issued: web_search 22/45, fetch_page 19 (uncapped), of which 3 were PDFs parsed locally for free (0 more read by local OCR) and 1/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.3083  (chat $0.0171, search tokens $0.0606, search call fee $0.2300, scrapingbee $0.0006)
+  input tokens priced as: 219209 uncached, 223746 cached read, 35727 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 158447 in / 4869 out tokens
+
+--- Queries issued (45) ---
+[site_extractor] web_search: GRUPO LAPPI official website
+[site_extractor] fetch_page: https://www.grupolappi.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=GRUPO%20LAPPI&page[size]=50
+[site_extractor] fetch_page: https://www.grupolappi.com/sitemap.xml
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=GRUPO%20LAPPI
+[site_extractor] fetch_page_search_fallback: https://www.grupolappi.com/sitemap.xml
+[site_extractor] fetch_page: https://www.grupolappi.com/en/contact/
+[site_extractor] fetch_page: https://www.grupolappi.com/en/company/
+[site_extractor] fetch_page: https://www.grupolappi.com/en/csr-and-sustainability/
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=GRUPO%20LAPPI
+[site_extractor] fetch_page: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GRUPO%20LAPPI&type=10-K
+[site_extractor] web_search: "GRUPO LAPPI" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://www.grupolappi.com/wp-content/uploads/2025/07/SGS_ISO-9001_2015_ESSEV_210936_ES.pdf
+[site_extractor] fetch_page: https://www.grupolappi.com/wp-content/uploads/2025/07/SGS_ISO-14001_2015_ESSEV_210937_ES.pdf
+[site_extractor] fetch_page: https://www.grupolappi.com/wp-content/uploads/2025/02/FSC-2030.pdf
+[site_extractor] fetch_page: https://alempack.pt/
+[site_extractor] fetch_page: https://alempack.pt/contactos/
+[site_extractor] fetch_page_pdf_local: https://www.grupolappi.com/wp-content/uploads/2025/02/FSC-2030.pdf
+[site_extractor] fetch_page_pdf_local: https://www.grupolappi.com/wp-content/uploads/2025/07/SGS_ISO-9001_2015_ESSEV_210936_ES.pdf
+[site_extractor] fetch_page_pdf_local: https://www.grupolappi.com/wp-content/uploads/2025/07/SGS_ISO-14001_2015_ESSEV_210937_ES.pdf
+[site_extractor] web_search: Google Maps Grupo Lappi Andalucía office address
+[site_extractor] web_search: Grupo Lappi office Madrid address directory
+[site_extractor] web_search: Google Maps Grupo Lappi Madrid office address
+[site_extractor] web_search: Grupo Lappi office Cataluña address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Grupo Lappi Cataluña office address
+[site_extractor] web_search: Google Maps Grupo Lappi Valencia office address
+[site_extractor] web_search: Grupo Lappi office Andalucía address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Grupo Lappi office Valencia address yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: Google Maps Grupo Lappi Basque Country office address
+[site_extractor] web_search: Grupo Lappi office País Vasco address directory
+[site_extractor] web_search: Google Maps Grupo Lappi Galicia office address
+[site_extractor] web_search: Grupo Lappi office Galicia address directory
+[site_extractor] web_search: Google Maps Grupo Lappi Castilla y León office address
+[site_extractor] web_search: Grupo Lappi office Aragón Murcia Castilla La Mancha address directory
+[site_extractor] web_search: Grupo Lappí subsidiaries Lappí Industrias Gráficas Graficas Martorell Calipolense Penta CPM Internacional Alempack ownership
+[site_extractor] web_search: "Alempack" "Grupo Lappí" acquisition
+[site_extractor] web_search: "Lappí" "Penta - Adhesiv" ownership
+[site_extractor] web_search: "Lappí" "Llopart" Sant Sadurní address current
+[site_extractor] web_search: "Grupo Lappí" "CPM Internacional" "Lappí Penta"
+[site_extractor] web_search: site:grupolappi.com Grupo Lappí acquisition Alempack 2026 Elvas
+[site_extractor] fetch_page: https://dianacapital.com/es/grupo-lappi-participada-de-diana-capital-adquiere-el-100-de-cpm-penta-group-y-consolida-su-liderazgo-en-el-sector-de-etiquetado-en-la-peninsula-iberica/
+[site_extractor] fetch_page: https://dianacapital.com/es/diana-capital-refuerza-el-liderazgo-iberico-de-lappi-con-la-compra-de-alempack-y-duplica-su-negocio-de-embalaje-flexible/
+[site_extractor] fetch_page: https://www.grupolappi.com/es/contacto/
+[site_extractor] fetch_page: https://www.grupolappi.com/es/empresa/
+[site_extractor] fetch_page: https://alempack.pt/certificacao-brc-packaging/
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\scrapingbee_log.jsonl
+
+Combined CSV now holds 2 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\combined.csv
+
+==============================================================================
+[3/5] EXPORTADORA DE CAFE CALIFORNIA
+==============================================================================
+Researching site locations for: EXPORTADORA DE CAFE CALIFORNIA
+
+Collected 15 distinct candidate address(es).
+
+Company domains treated as first-party: ecc.com.mx, eccmexico.com, eccshop.com.mx
+
+=== Ranked candidates for EXPORTADORA DE CAFE CALIFORNIA ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Ave. Nogal S/N, Colonia Centro, Tapachula, Chiapas, 30700, Mexico
+    site_type: Coffee purchasing/benefit center
+    source:  https://eccmexico.com/contacto
+    quote:   Exportadora de Café California S.A. de C.V. | Tapachula, Mexico | Ave Nogal S/N, Centro, 30700 Tapachula, Chiapas
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Blvd. Bosques de la Trinidad S/N, Colonia Plan de Ayala, Tuxtla Gutiérrez, Chiapas, 29020, Mexico
+    site_type: Coffee purchasing/benefit center
+    source:  https://eccmexico.com/contacto
+    quote:   Exportadora de Café California S.A. de C.V. | Tuxtla Gutiérrez, Mexico | Blvd Bosques de la Trinidad S/N, Plan de Ayala, 29020 Tuxtla Gutiérrez, Chiapas
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Ave. Ignacio Zaragoza S/N, Colonia Espejo, Huixtla, Chiapas, 30640, Mexico
+    site_type: Coffee purchasing/benefit center
+    source:  https://eccmexico.com/contacto
+    quote:   Exportadora de Café California S.A. de C.V. | Huixtla, Mexico | Ave Ignacio Zaragoza S/N, Espejo, 30640 Huixtla, Chiapas
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Carretera Comalapa–Ciudad Hidalgo S/N, Centro, Frontera Comalapa, Chiapas, 30140, Mexico
+    site_type: Coffee purchasing/benefit center
+    source:  https://eccmexico.com/contacto
+    quote:   Exportadora de Café California S.A. de C.V. | Frontera Comalapa, Mexico | Crr Comalapa Cd Hgo S/N, Frontera Comalapa Centro, 30140 Frontera Comalapa, Chiapas
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avenida 3a Sur 159 S/N, Chicomuselo, Chiapas, 30120, Mexico
+    site_type: Coffee purchasing/benefit center
+    source:  https://eccmexico.com/contacto
+    quote:   Exportadora de Café California S.A. de C.V. | Chicomuselo, Mexico | Ave 3a Sur 159 S/N, Chicomuselo, 30120 Chicomuselo, Chiapas
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Av. Sexta Norte Oriente S/N, Colonia Castellanos Domínguez, Jaltenango de la Paz, Chiapas, 30370, Mexico
+    site_type: Coffee purchasing/benefit center
+    source:  https://eccmexico.com/contacto
+    quote:   Exportadora de Café California S.A. de C.V. | Jaltenango de la Paz, Mexico | Av. Sexta Nte. Ote. S/N, Castellanos Domínguez, 30370 Jaltenango de la Paz, Chiapas
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Libramiento Norte No. 10 S/N, Colonia 12 de Diciembre, Yajalón, Chiapas, 29930, Mexico
+    site_type: Coffee purchasing/benefit center
+    source:  https://eccmexico.com/contacto
+    quote:   Exportadora de Café California S.A. de C.V. | Yajalón, Mexico | Libramiento Norte No. 10 S/N, Col. 12 de Diciembre, 29930 Yajalón, Chiapas
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Calle General Barrios, Colonia Centro, Xicotepec de Juárez, Puebla, 73080, Mexico
+    site_type: Coffee purchasing/benefit center
+    source:  https://eccmexico.com/contacto
+    quote:   Exportadora de Café California S.A. de C.V. | Xicotepec de Juárez, Mexico | Calle General Barrios, Col. Centro, 73080 Xicotepec de Juárez, Puebla
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Avenida Aguamilpa 134, Ciudad Industrial, Tepic, Nayarit, 63173, Mexico
+    site_type: Coffee purchasing/benefit center
+    source:  https://eccmexico.com/contacto
+    quote:   Exportadora de Café California S.A. de C.V. | Tepic, Mexico | Avenida Aguamilpa 134, Ciudad Industrial, 63173 Tepic, Nayarit
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Av. Framboyanes Lote 21, Fracción A y B, Manzana 6, Ciudad Industrial Bruno Pagliai, Tejería, Veracruz, Veracruz, 91697, Mexico
+    site_type: Headquarters, coffee-processing/industrial facility, coffee collection center
+    source:  https://ecc.com.mx/es/
+    quote:   Nuestros centros de compra y beneficios... Contacto: Av Framboyanes LT 21 Fracc A y B mza 6 Tejería, Cd Industrial, Bruno Pagliai, 91697 Veracruz, Ver.
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Camino Puente Seco S/N, frente al Almacén y Bodegas CFE, Colonia 1.º de Mayo, Tapachula, Chiapas, 30730, Mexico
+    site_type: Coffee purchasing/benefit center; directory-listed alternate address
+    source:  https://www.allbiz.mx/exportadora-de-cafe-california-s-a_1e
+    quote:   Camino Puente Seco S/N frente Almacén y Bodegas C.F., 1o. de Mayo 30730 Tapachula, Chiapas
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Morelos Poniente 17-B, Colonia San Francisco, Huixtla, Chiapas, 30640, Mexico
+    site_type: Coffee purchasing/benefit center; directory-listed alternate address
+    source:  https://www.allbiz.mx/exportadora-de-cafe-california-huixtla-964-642-0159
+    quote:   30640, Morelos Poniente 17B, San Francisco, 30640 Huixtla, Chis., Mexico
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Carretera Jaltenango–San Francisco, km 0.7, Jaltenango de la Paz, Chiapas, 30370, Mexico
+    site_type: Coffee purchasing/benefit center; directory-listed alternate address
+    source:  https://mexicoo.mx/exportadora-de-cafe-california-6296636
+    quote:   Otra ubicación registrada: Carretera Jaltenango–San Francisco, km 0.7, Jaltenango de la Paz.
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Dalias 23, Fraccionamiento Jardín, Fortín de las Flores, Veracruz, 94470, Mexico
+    site_type: Directory-listed office/coffee facility
+    source:  https://mx.eldirectorio.co/empresas/fortin-de-las-flores/establecimiento/exportadora-de-cafe-california-sa-de-cv-137855
+    quote:   Dalias 23, Fraccionamiento Jardín, 94470 Fortín de las Flores, Ver., Mexico
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Av. 5 de Mayo esquina Álvaro Obregón, localidad Sumidero, Fortín de las Flores, Veracruz, 94452, Mexico
+    site_type: Directory-listed office/coffee facility
+    source:  https://www.allbiz.mx/exportadora-de-cafe-california-s-a-de-c_7p-272-742-4395
+    quote:   Otro registro en Av. 5 de Mayo esquina Álvaro Obregón, localidad Sumidero, C.P. 94452.
+
+Ground-truth address row(s) available for 'EXPORTADORA DE CAFE CALIFORNIA': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\EXPORTADORA_DE_CAFE_CALIFORNIA__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 14 calls, 302653 in / 7378 out tokens
+TOTAL web_search: 29 calls, 461804 in / 16636 out tokens
+TOTAL scrapingbee: 14 calls, 53 credits (~$0.0106), 10 failed -> escalated to paid search
+TOTAL tool calls attempted: 61 (issued: web_search 23/45, fetch_page 36 (uncapped), of which 2 were PDFs parsed locally for free (0 more read by local OCR) and 6/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 0; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.4173  (chat $0.0271, search tokens $0.0896, search call fee $0.2900, scrapingbee $0.0106)
+  input tokens priced as: 333685 uncached, 376421 cached read, 54351 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         14 calls, 302653 in / 7378 out tokens
+
+--- Queries issued (67) ---
+[site_extractor] web_search: EXPORTADORA DE CAFE CALIFORNIA official website
+[site_extractor] fetch_page: https://ecc.com.mx/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter[fulltext]=EXPORTADORA%20DE%20CAFE%20CALIFORNIA&page[size]=50
+[site_extractor] fetch_page: https://ecc.com.mx/sitemap.xml
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=Exportadora%20de%20Cafe%20California
+[site_extractor] fetch_page: https://eccshop.com.mx/
+[site_extractor] fetch_page_search_fallback: https://ecc.com.mx/
+[site_extractor] fetch_page_search_fallback: https://ecc.com.mx/sitemap.xml
+[site_extractor] web_search: site:ecc.com.mx Exportadora de Café California ubicaciones oficinas planta contacto
+[site_extractor] web_search: "Exportadora de Café California" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://ecc.com.mx/es/contacto
+[site_extractor] fetch_page: https://ecc.com.mx/es/ubicaciones
+[site_extractor] fetch_page: https://ecc.com.mx/es/nosotros
+[site_extractor] fetch_page: https://ecc.com.mx/es/empresa
+[site_extractor] fetch_page: https://ecc.com.mx/robots.txt
+[site_extractor] fetch_page: https://directoriodecafe.mx/empresas/exportadora-de-cafe-california-ecc
+[site_extractor] web_search: "Exportadora de Café California" subsidiary OR subsidiary company OR NKG
+[site_extractor] web_search: "Exportadora de Café California" "centros de compra" beneficios
+[site_extractor] web_search: "Exportadora de Café California" brands companies Veracruz Emiliano Zapata
+[site_extractor] fetch_page: https://www.nkg.net/group-companies/
+[site_extractor] fetch_page: https://ecc.com.mx/es/contact.html
+[site_extractor] fetch_page: https://ecc.com.mx/es/brands.html
+[site_extractor] fetch_page: https://ecc.com.mx/es/company.html
+[site_extractor] fetch_page: https://ecc.com.mx/es/
+[site_extractor] fetch_page: https://www.gob.mx/cms/uploads/attachment/file/950337/DIRECTORIO_DE_ESTABLECIMIENTOS_DE_CAFE_10-10-2024.pdf
+[site_extractor] web_search: "Exportadora de Café California" Google Maps Veracruz address
+[site_extractor] web_search: "Exportadora de Café California" Veracruz oficina dirección directorio
+[site_extractor] web_search: "Exportadora de Café California" Veracruz yellowpages OR dnb OR zoominfo OR manta
+[site_extractor] web_search: "Exportadora de Café California" Chiapas oficina dirección directorio
+[site_extractor] web_search: "Exportadora de Café California" Chiapas Google Business Profile
+[site_extractor] web_search: "Exportadora de Café California" Puebla oficina dirección directorio
+[site_extractor] web_search: "Exportadora de Café California" Oaxaca oficina dirección directorio
+[site_extractor] web_search: "Exportadora de Café California" Fortín de las Flores dirección
+[site_extractor] web_search: "Exportadora de Café California" Jaltenango dirección teléfono
+[site_extractor] web_search: "Exportadora de Café California" Huixtla dirección teléfono
+[site_extractor] web_search: "Exportadora de Café California" Tapachula dirección oficina bodega
+[site_extractor] web_search: "Exportadora de Café California" Tuxtla Gutiérrez dirección
+[site_extractor] web_search: "Exportadora de Café California" Yajalón dirección
+[site_extractor] web_search: "Exportadora de Café California" México sucursales centros compra beneficios dirección
+[site_extractor] fetch_page: https://www.allbiz.mx/exportadora-de-cafe-california-s-a_1e
+[site_extractor] fetch_page: https://www.allbiz.mx/exportadora-de-cafe-california-huixtla-964-642-0159
+[site_extractor] fetch_page: https://www.allbiz.mx/exportadora-de-cafe-california-s-a-de-c_6q-992-655-0368
+[site_extractor] fetch_page: https://www.allbiz.mx/exportadora-de-cafe-california-s-a-de-c_7p-272-742-4395
+[site_extractor] fetch_page: https://www.seccionamarilla.com.mx/informacion/exportadora-de-cafe-california/cafe-en-grano-depositos-exportadores-y-compra-venta/chiapas/tuxtla-gutierrez/plan-de-ayala/1003844001
+[site_extractor] fetch_page: https://mexicoo.mx/exportadora-de-cafe-california-6298574
+[site_extractor] fetch_page_search_fallback: https://www.allbiz.mx/exportadora-de-cafe-california-s-a_1e
+[site_extractor] fetch_page_search_fallback: https://www.allbiz.mx/exportadora-de-cafe-california-huixtla-964-642-0159
+[site_extractor] fetch_page: https://www.guiatel.com.mx/empresas/exportadora-de-cafe-california-huixtla-chiapas
+[site_extractor] fetch_page: https://mx.eldirectorio.co/empresas/fortin-de-las-flores/establecimiento/exportadora-de-cafe-california-sa-de-cv-137855
+[site_extractor] fetch_page: https://amp.mexicoo.mx/exportadora-de-cafe-california-6379363
+[site_extractor] fetch_page: https://www.dateas.com/es/explore/empresas-mexicanas-nayarit/exportadora-de-cafe-california-sa-de-cv-6141
+[site_extractor] fetch_page: https://eccmexico.com/contacto
+[site_extractor] fetch_page: https://eccmexico.com/
+[site_extractor] fetch_page_search_fallback: https://eccmexico.com/contacto
+[site_extractor] fetch_page_search_fallback: https://eccmexico.com/
+[site_extractor] web_search: "Exportadora de Café California" "Chicomuselo" dirección
+[site_extractor] web_search: "Exportadora de Café California" "Frontera Comalapa"
+[site_extractor] fetch_page: https://eccmexico.com/sitemap.xml
+[site_extractor] web_search: "Exportadora de Café California" NKG ownership 1993 subsidiary
+[site_extractor] fetch_page: https://eccmexico.com/locations
+[site_extractor] fetch_page: https://eccmexico.com/ubicaciones
+[site_extractor] fetch_page: https://mexicoo.mx/exportadora-de-cafe-california-6298577
+[site_extractor] fetch_page: https://www.seccionamarilla.com.mx/resultados/cafe-en-grano-exportadores-compra-venta/chiapas/1
+[site_extractor] fetch_page: https://www.expocafe.mx/wp-content/uploads/2025/09/EXPOCAFE2025_DIRECTORIO_12092025_PC.pdf
+[site_extractor] fetch_page: https://fec-chiapas.com.mx/sistema/biblioteca_digital/07plan-rector-de-la-cafeticultura-ultima-version.pdf
+[site_extractor] fetch_page_pdf_local: https://fec-chiapas.com.mx/sistema/biblioteca_digital/07plan-rector-de-la-cafeticultura-ultima-version.pdf
+[site_extractor] fetch_page_pdf_local: https://www.expocafe.mx/wp-content/uploads/2025/09/EXPOCAFE2025_DIRECTORIO_12092025_PC.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\scrapingbee_log.jsonl
+
+Combined CSV now holds 3 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\combined.csv
+
+==============================================================================
+[4/5] BYK ADDITIVES
+==============================================================================
+Researching site locations for: BYK ADDITIVES
+
+Collected 29 distinct candidate address(es).
+
+Company domains treated as first-party: byk.com, local.byk.com, byk-instruments.com, smallangle.byk.com, ihr-nachbar.byk.com
+
+=== Ranked candidates for BYK ADDITIVES ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Abelstraße 45, Wesel, North Rhine-Westphalia, 46483, Germany
+    site_type: Headquarters, Manufacturing Plant, R&D, Laboratories, Office, Warehouse
+    source:  https://local.byk.com/locations/germany/wesel
+    quote:   Currently, around 1,200 employees and 45 trainees work in laboratories, administration, and production ... at the Wesel site.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: St. Huberter Straße 81, Kempen, North Rhine-Westphalia, 47906, Germany
+    site_type: Manufacturing Plant, Quality Control, Warehouse, Maintenance and Repair
+    source:  https://local.byk.com/locations/germany/kempen
+    quote:   The plant in the Kempen industrial park "Am Selder" produces around 60 products and intermediates in three-shift operation.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Emmelsumer Straße 221, Wesel, North Rhine-Westphalia, 46485, Germany
+    site_type: Logistics Center, Distribution Center, Warehouse, Product Sample Dispatch
+    source:  https://local.byk.com/locations/germany/wesel-emmelsum
+    quote:   Our state-of-the-art logistics center is located in Emmelsum ... From here, we send our additives all over the world.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Stadtwaldstr. 44, Moosburg, Bavaria, 85368, Germany
+    site_type: Manufacturing Plant, R&D
+    source:  https://local.byk.com/locations/germany/moosburg
+    quote:   At our Moosburg site in Bavaria, BYK develops and produces a variety of rheological additives.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Value Park Y42, Schkopau, Saxony-Anhalt, 06258, Germany
+    site_type: Manufacturing Plant, Technology Center, R&D
+    source:  https://local.byk.com/locations/germany/schkopau
+    quote:   BYK Schkopau ... has specialized with its products in the field of thermoplastics and in the manufacture of high-performance modifiers for plastics.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Lausitzer Straße 8, Geretsried, Bavaria, 82538, Germany
+    site_type: Manufacturing Plant, R&D, Engineering Center, Office, Sales
+    source:  https://local.byk.com/locations/germany/geretsried
+    quote:   From its base in Geretsried, BYK-Gardner develops, produces and sells instruments and system solutions for measuring color, appearance and physical surface properties.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Moorfield Road, Widnes, Cheshire, England, WA8 3AA, United Kingdom
+    site_type: Manufacturing Plant, Office, Warehouse
+    source:  https://local.byk.com/locations/great-britain/widnes
+    quote:   Around 110 employees work for BYK at our site in Widnes in the North West England region.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Nijverheidstraat 14, Denekamp, Overijssel, 7591 BM, Netherlands
+    site_type: Manufacturing Plant, R&D, Warehouse
+    source:  https://local.byk.com/locations/netherlands/denekamp
+    quote:   In Denekamp, we develop wax and plastic additives and manufacture them on site at our plant.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Danzigweg 23, Deventer, Overijssel, 7418 EN, Netherlands
+    site_type: Manufacturing Plant, R&D, Warehouse
+    source:  https://local.byk.com/locations/netherlands/deventer
+    quote:   In Deventer, we develop wax and plastic additives and manufacture them on site at our plant.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Rudolf Dieselstraat 8, Nijverdal, Overijssel, 7442 DR, Netherlands
+    site_type: Manufacturing Plant, R&D
+    source:  https://local.byk.com/locations/netherlands/nijverdal
+    quote:   In Nijverdal, we develop wax and plastic additives.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 524 South Cherry Street, Wallingford, Connecticut, 06492, United States
+    site_type: Regional Headquarters, Office, R&D, Manufacturing and Service
+    source:  https://local.byk.com/locations/usa/wallingford
+    quote:   In 1981 that the North American headquarters was established in Wallingford (Connecticut).
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 1335 South 13th Street, Louisville, Kentucky, 40210, United States
+    site_type: Manufacturing Plant, Distribution Center
+    source:  https://local.byk.com/locations/usa/louisville
+    quote:   There are currently around 40 employees working in various departments, primarily responsible for the manufacture and distribution of RHEOBYK products.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 1212 Church Street, Gonzales, Texas, 78629, United States
+    site_type: Manufacturing Plant, R&D
+    source:  https://local.byk.com/locations/usa/gonzales
+    quote:   The Gonzales (Texas) site is the largest BYK production facility.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 4285 Rider Trail North, Suite 200, Earth City, Missouri, 63045, United States
+    site_type: Manufacturing Plant, R&D, Office
+    source:  https://local.byk.com/locations/usa/earth-city
+    quote:   The BYK Earth City location outside St. Louis ... serves as the North American center of excellence for the plastics business line.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 48 Leone Lane, Chester, New York, 10918, United States
+    site_type: Manufacturing Plant, Warehouse, Laboratory, Office
+    source:  https://local.byk.com/locations/usa/chester
+    quote:   Wax emulsions, resins, surfactants, and zinc ammonium carbonate cross-linkers are mainly produced here in day shifts.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Sixth Cuihu Road, Tongling Economic & Technological Development Zone, Tongling City, Anhui Province, 244061, China
+    site_type: Manufacturing Plant, Warehouses, R&D, Utility Facility
+    source:  https://local.byk.com/locations/tongling
+    quote:   The Tongling factory is one of BYK’s top three additive production sites in the whole world.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Pugong Road 25, Shanghai Chemical Industry Park (SCIP), Fengxian District, Shanghai, Shanghai Municipality, 201507, China
+    site_type: Regional Headquarters, Manufacturing Plant, Pilot Plant, R&D, Logistics Center, Warehouse, Office
+    source:  https://local.byk.com/locations/china/shanghai
+    quote:   The Shanghai site ... has been the headquarters of BYK China since December 2018.
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Room 1415, Block A, Jiatai Tower, No. 41 East Forth Ring Road, Chaoyang District, Beijing, Beijing Municipality, 100025, China
+    site_type: Regional Office, Sales Office, Technical Service
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK Additives (Shanghai) Co., Ltd. Beijing Branch; Room 1415, Block A, Jiatai Tower, No. 41 East Forth Ring Road, Chaoyang District, 100025 Beijing
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: G2 208, South China New Materials Innovation Park, No. 31, Kefeng Road, Huangpu District, Guangzhou, Guangdong, 510705, China
+    site_type: Regional Office, Sales Office, Technical Service
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK Additives (Shanghai) Co., Ltd. Guangzhou Branch; G2 208, South China New Materials Innovation Park, No. 31, Kefeng Road, Huangpu District, 510705 Guangzhou
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 438B Alexandra Road, #06-05/06, Singapore, 119968, Singapore
+    site_type: Regional Headquarters, Sales Office, Technical Service
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK Asia Pacific Pte. Ltd.; 438B Alexandra Road, #06-05/06, Singapore 119968, Singapore
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 7F., No. 580, Sec. 1, Minsheng N. Rd., Guishan Dist., Taoyuan City, 33393, Taiwan
+    site_type: Representative Office, Sales Office, Technical Service
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK Asia Pacific Pte. Ltd Taipei Representative Office; 7F., No. 580, Sec. 1, Minsheng N. Rd., Guishan Dist., 33393 Taoyuan City, Taiwan
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: ARIC No. 510, 7-1-3, Doicho, Amagasaki, Hyogo, 660-0083, Japan
+    site_type: Technical Service Laboratory, R&D, Office
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK Japan KK; Amagasaki Technical Service Lab, ARIC No. 510, 7-1-3, Doicho, Hyogo 660-0083 Amagasaki, Japan
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 1-4-4, Dojimahama, Kita-ku, Osaka, Osaka, 530-0004, Japan
+    site_type: Regional Office, Sales Office, Technical Service
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK Japan KK; 1-4-4, Dojimahama, Kita-ku, 530-0004 Osaka, Japan
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 3-29 Ichigaya-Honmuracho, Shinjuku-ku, Tokyo, Tokyo, 162-0845, Japan
+    site_type: Headquarters, Regional Office, Sales Office, Technical Service
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK Japan KK; Tokyo Head Office, 3-29 Ichigaya-Honmuracho, Shinjuku-ku, 162-0845 Tokyo, Japan
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 403, 4th Floor, Quantum, Hiranandani Business Park, Ghodbunder Road, Thane, Mumbai, Maharashtra, 400607, India
+    site_type: Regional Office, Sales Office, Technical Service
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK India Private Limited; 403, 4th Floor, Quantum, Hiranandani Business Park, Ghodbunder Road, Thane, 400607 Mumbai, India
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 147, Mumbai-Pune Road, Pimpri, Pune, Maharashtra, 411018, India
+    site_type: Service Laboratory, Sales Office, Technical Service
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK India Private Limited; 147, Mumbai-Pune Road Pimpri, 411 018 Pune, India
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Av. Marcos Penteado de Ulhoa Rodrigues, 939, Edifício Jacarandá, Castelo Branco Office Park, Tower 1, 8th floor, São Paulo, São Paulo, 06455-000, Brazil
+    site_type: Regional Office, Sales Office
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK do Brasil Ltda.; Av. Marcos Penteado de Ulhoa Rodrigues, 939 ... 06455-000 São Paulo, Brazil
+
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: Av. Aruanã, 280, Tamboré, São Paulo, 06460-010, Brazil
+    site_type: Regional Office, Sales Office, Technical Service
+    source:  https://www.byk.com/en/company-news/locations-distributors
+    quote:   BYK do Brasil Ltda.; Av. Aruanã, 280, 06460-010 Tamboré, Brazil
+
+- [D] score=0.05 address_city_matched=no   address_country_matched=no
+    address: Villanueva 29, Madrid, Community of Madrid, 28001, Spain
+    site_type: Registered Office
+    source:  https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=BYK%20Additives&page%5Bsize%5D=50
+    quote:   BYK ADDITIVES SPAIN SL (ACTIVE) | registered: VILLANUEVA 29, Madrid, 28001, ES | headquarters: VILLANUEVA 29, Madrid, 28001, ES
+
+Ground-truth address row(s) available for 'BYK ADDITIVES': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\BYK_ADDITIVES__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 17 calls, 525708 in / 8595 out tokens
+TOTAL web_search: 21 calls, 368276 in / 9234 out tokens
+TOTAL scrapingbee: 0 calls, 0 credits (~$0.0000), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 68 (issued: web_search 21/45, fetch_page 40 (uncapped), of which 0 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 6; searches redirected to known document links: 0; near-duplicate searches refused: 1; certificate searches refused: 0)
+TOTAL cost: $0.3096  (chat $0.0314, search tokens $0.0682, search call fee $0.2100, scrapingbee $0.0000)
+  input tokens priced as: 276259 uncached, 571654 cached read, 46071 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna         17 calls, 525708 in / 8595 out tokens
+
+--- Queries issued (61) ---
+[site_extractor] web_search: BYK ADDITIVES official website
+[site_extractor] fetch_page: https://www.byk.com/
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=BYK%20Additives&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://www.byk.com/sitemap.xml
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=BYK%20Additives
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=BYK%20Additives
+[site_extractor] fetch_page: https://www.byk.com/en/sitemap.xml
+[site_extractor] fetch_page: https://www.byk.com/en/company/locations-distributors
+[site_extractor] fetch_page: https://www.byk.com/en/sustainability/certificates
+[site_extractor] fetch_page: https://www.byk.com/en/company/company-information
+[site_extractor] fetch_page: https://www.byk.com/en/contact
+[site_extractor] fetch_page: https://www.byk.com/en/sitemap.xml?sitemap=pages&cHash=d151ca5618427c33cc8b307ca60cc3e9
+[site_extractor] fetch_page: https://www.byk.com/en/imprint
+[site_extractor] fetch_page: https://www.byk.com/en/company-news/locations-distributors
+[site_extractor] fetch_page: https://local.byk.com/
+[site_extractor] fetch_page: https://local.byk.com/en/locations/usa
+[site_extractor] fetch_page: https://local.byk.com/en/locations/netherlands
+[site_extractor] fetch_page: https://local.byk.com/en/locations/germany
+[site_extractor] fetch_page: https://local.byk.com/en/locations/china
+[site_extractor] fetch_page: https://local.byk.com/sitemap.xml
+[site_extractor] fetch_page: https://local.byk.com/en/locations/great-britain
+[site_extractor] fetch_page: https://local.byk.com/sitemap.xml?L=en
+[site_extractor] fetch_page: https://local.byk.com/sitemap.xml?sitemap=pages&cHash=36311154323252dd48e70317d1ba3b9b
+[site_extractor] fetch_page: https://local.byk.com/locations/usa/wallingford
+[site_extractor] fetch_page: https://local.byk.com/locations/germany/wesel
+[site_extractor] fetch_page: https://local.byk.com/locations/usa/earth-city
+[site_extractor] fetch_page: https://local.byk.com/locations/germany/kempen
+[site_extractor] fetch_page: https://local.byk.com/locations/usa/louisville
+[site_extractor] fetch_page: https://local.byk.com/locations/usa/gonzales
+[site_extractor] fetch_page: https://local.byk.com/locations/usa/chester
+[site_extractor] fetch_page: https://local.byk.com/locations/tongling
+[site_extractor] fetch_page: https://local.byk.com/locations/great-britain/widnes
+[site_extractor] fetch_page: https://local.byk.com/locations/netherlands/nijverdal
+[site_extractor] fetch_page: https://local.byk.com/locations/netherlands/deventer
+[site_extractor] fetch_page: https://local.byk.com/locations/netherlands/denekamp
+[site_extractor] fetch_page: https://local.byk.com/locations
+[site_extractor] fetch_page: https://local.byk.com/locations/germany/moosburg
+[site_extractor] fetch_page: https://local.byk.com/locations/germany/geretsried
+[site_extractor] fetch_page: https://local.byk.com/locations/china/shanghai
+[site_extractor] fetch_page: https://local.byk.com/locations/germany/schkopau
+[site_extractor] fetch_page: https://local.byk.com/locations/germany/wesel-emmelsum
+[site_extractor] web_search: BYK office address Lower Saxony Germany directory
+[site_extractor] web_search: Google Maps BYK Germany North Rhine-Westphalia office address
+[site_extractor] web_search: BYK office address Bavaria Germany directory
+[site_extractor] web_search: BYK office address Saxony-Anhalt Germany directory
+[site_extractor] web_search: BYK office address Baden-Württemberg Germany directory
+[site_extractor] web_search: BYK office address Hesse Germany directory
+[site_extractor] web_search: BYK office address Rhineland-Palatinate Germany directory
+[site_extractor] web_search: BYK office address Thuringia Germany directory
+[site_extractor] web_search: BYK office address Brandenburg Germany directory
+[site_extractor] web_search: BYK Google Business Profile Germany office branch address
+[site_extractor] web_search: BYK Germany warehouse distribution center address directory
+[site_extractor] web_search: BYK office address Schleswig-Holstein Germany directory
+[site_extractor] web_search: BYK Germany R&D center office address directory
+[site_extractor] web_search: BYK office address Mecklenburg-Vorpommern Germany directory
+[site_extractor] web_search: site:byk.com "BYK" "Spain" address office
+[site_extractor] web_search: site:byk.com "BYK Japan KK" address
+[site_extractor] web_search: site:byk.com "BYK India Private Limited" address
+[site_extractor] web_search: site:byk.com "BYK Asia Pacific" address office
+[site_extractor] web_search: site:byk.com "BYK" "Italy" address office
+[site_extractor] web_search: site:byk.com "BYK Additives" "France" address
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\queries_log.jsonl
+
+Combined CSV now holds 4 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\combined.csv
+
+==============================================================================
+[5/5] CPH CHEMICALS B V
+==============================================================================
+Researching site locations for: CPH CHEMICALS B V
+
+Collected 1 distinct candidate address(es).
+
+Company domains treated as first-party: cphchemicals.com, cphchemicals.nl
+
+=== Ranked candidates for CPH CHEMICALS B V ===
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Amsterdamseweg 204A, Amstelveen, 1182 HL, The Netherlands
+    site_type: Headquarters, Office
+    source:  https://www.cphchemicals.com/_files/ugd/fa85ad_982e9d7467f24368bb373f8f7b827a2a.pdf?utm_source=openai
+    quote:   CPH Chemicals B.V., Amsterdamseweg 204A, 1182 HL Amstelveen, Netherlands
+
+Ground-truth address row(s) available for 'CPH CHEMICALS B V': 0
+
+Results written to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\CPH_CHEMICALS_B_V__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 8 calls, 164018 in / 1960 out tokens
+TOTAL web_search: 17 calls, 360531 in / 6736 out tokens
+TOTAL scrapingbee: 1 calls, 1 credits (~$0.0002), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 31 (issued: web_search 17/45, fetch_page 13 (uncapped), of which 0 were PDFs parsed locally for free (0 more read by local OCR) and 0/10 needed the paid search fallback; refused over budget: 0; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 1; near-duplicate searches refused: 0; certificate searches refused: 0)
+TOTAL cost: $0.2489  (chat $0.0119, search tokens $0.0668, search call fee $0.1700, scrapingbee $0.0002)
+  input tokens priced as: 286017 uncached, 211060 cached read, 27472 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          8 calls, 164018 in / 1960 out tokens
+
+--- Queries issued (30) ---
+[site_extractor] web_search: CPH CHEMICALS B V official website
+[site_extractor] fetch_page: https://www.cphchemicals.com
+[site_extractor] fetch_page: https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=CPH%20CHEMICALS%20B%20V&page%5Bsize%5D=50
+[site_extractor] fetch_page: https://www.cphchemicals.com/sitemap.xml
+[site_extractor] fetch_page: https://en.wikipedia.org/wiki/Special:Search?search=CPH%20CHEMICALS%20B%20V
+[site_extractor] web_search: site:cphchemicals.com CPH Chemicals contact locations offices
+[site_extractor] web_search: "CPH Chemicals" ISO 9001 OR IATF 16949 OR ISO 14001 OR AS9100 certificate
+[site_extractor] fetch_page: https://www.cphchemicals.com/contact
+[site_extractor] fetch_page: https://www.cphchemicals.com/contact-us
+[site_extractor] web_search: "CPH Chemicals" subsidiaries offices UK India Indonesia Hungary Romania Poland
+[site_extractor] fetch_page: https://www.cphchemicals.com/locations
+[site_extractor] fetch_page: https://find-and-update.company-information.service.gov.uk/search/companies?q=CPH%20CHEMICALS%20B%20V
+[site_extractor] fetch_page: https://cphchemicals.nl/contact
+[site_extractor] fetch_page: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CPH%20CHEMICALS%20B%20V&type=10-K
+[site_extractor] fetch_page: https://www.cphchemicals.com/_files/ugd/fa85ad_982e9d7467f24368bb373f8f7b827a2a.pdf?utm_source=openai
+[site_extractor] fetch_page: https://cphchemicals.nl
+[site_extractor] web_search: Google Maps CPH Chemicals Netherlands region office address
+[site_extractor] web_search: "CPH Chemicals B.V." Netherlands address branch warehouse
+[site_extractor] web_search: "CPH Chemicals" Amstelveen OR Amsterdam OR Rotterdam OR Utrecht address
+[site_extractor] web_search: "CPH Chemicals" office Netherlands address directory
+[site_extractor] web_search: "CPH Chemicals" India office address
+[site_extractor] web_search: "CPH Chemicals" Indonesia office address
+[site_extractor] web_search: "CPH Chemicals" United Kingdom office address
+[site_extractor] web_search: "CPH Chemicals" Hungary Romania Poland office address
+[site_extractor] web_search: "CPH Chemicals" Hungary address
+[site_extractor] web_search: "CPH Chemicals" Romania address
+[site_extractor] web_search: "CPH Chemicals" Poland address
+[site_extractor] web_search: "CPH Chemicals" India Pvt Ltd address
+[site_extractor] web_search: "CPH Chemicals" Indonesia address office warehouse
+[site_extractor] fetch_page: https://cphchemicals.com/wp-content/uploads/2026/05/CPH_Sale_Purchase_ClauseIX.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\scrapingbee_log.jsonl
+
+Combined CSV now holds 5 companies: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\combined.csv
+
+
+==============================================================================
+BATCH SUMMARY
+==============================================================================
+company               rows  search  fetch  paid_fb   bee  credits     cost
+ENERGI SEJAHTERA MAS SINAR MAS LAND PLAZA MENARA     2      10     26        2     3       26    0.151
+GRUPO LAPPI              6      23     19        1     3        3    0.308
+EXPORTADORA DE CAFE CALIFORNIA    15      29     36        6    14       53    0.417
+BYK ADDITIVES           29      21     40        0     0        0    0.310
+CPH CHEMICALS B V        1      17     13        0     1        1    0.249
+TOTAL                   53     100    134        9    21       83    1.435
+
+Combined results: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\results\rerun20_20260925\shard01\combined.csv

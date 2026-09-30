@@ -1,0 +1,367 @@
+Researching site locations for: AVX
+
+Collected 38 distinct candidate address(es).
+
+Company domains treated as first-party: kyocera-avx.com, sc.kyocera-avx.com, rfs.kyocera-avx.com, datasheets.kyocera-avx.com
+
+=== Ranked candidates for AVX ===
+- [A] score=1.00 address_city_matched=no   address_country_matched=no
+    address: 46723 Five Mile Road, Plymouth, Michigan, 48170, United States
+    site_type: Sales Office, Service Office
+    source:  https://sc.kyocera-avx.com/business/locations/
+    quote:   KYOCERA AVX Components 46723 Five Mile Road, Plymouth, Michigan 48170
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1 AVX Boulevard, Fountain Inn, South Carolina, 29644-9039, United States
+    site_type: Headquarters, Manufacturing Plant, R&D, Testing, Warehousing, Distribution
+    source:  https://www.kyocera-avx.com/docs/certificates/North_America/South_Carolina/Fountain-Inn_ISO9001.pdf
+    quote:   The design, manufacture, test, inspection, warehousing and distribution of electronic components and materials.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2200 AVX Drive, Myrtle Beach, South Carolina, 29577, United States
+    site_type: Manufacturing Plant, Testing, Shipping
+    source:  https://www.kyocera-avx.com/docs/certificates/North_America/South_Carolina/ISO_9001_MyrtleBeach.pdf
+    quote:   The manufacturing, material receipt, inspection, testing and shipping of electronic components.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5501 Oberlin Drive, Suite 100, San Diego, California, 92121, United States
+    site_type: R&D, Engineering, Design Office
+    source:  https://www.kyocera-avx.com/docs/certificates/North_America/California/SanDiego-ISO9001.pdf
+    quote:   Kyocera AVX Components (San Diego) 5501 Oberlin Drive Suite 100 San Diego, California, 92121
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2201 Corporate Square Boulevard, Jacksonville, Florida, 32216, United States
+    site_type: Manufacturing Plant
+    source:  https://www.kyocera-avx.com/docs/certificates/North_America/Florida/Jacksonville-ISO9001.pdf
+    quote:   Kyocera AVX Components (Jacksonville), Inc. | Jacksonville, United States of America | 2201 Corporate Square Blvd., Jacksonville, FL 32216
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 401 Hill Street, Biddeford, Maine, 04005, United States
+    site_type: Manufacturing Plant, R&D, Testing
+    source:  https://www.kyocera-avx.com/docs/certificates/North_America/Maine/ISO_9001_biddeford.pdf
+    quote:   Design and Manufacture of tantalum capacitors.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 5701 Knowledge Parkway, Erie, Pennsylvania, 16510, United States
+    site_type: Manufacturing Plant, R&D, Design Center, Testing
+    source:  https://www.kyocera-avx.com/docs/certificates/North_America/Penn/Erie-AS9100.pdf
+    quote:   The design, purchasing, marketing, manufacturing and sales of Quartz Crystal, Crystal Oscillators and Low Noise Frequency Control products
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Calle Cojutepeque 4-2, Zona Franca San Bartolo, Ilopango, San Salvador, El Salvador
+    site_type: Manufacturing Plant
+    source:  https://www.kyocera-avx.com/docs/certificates/Central_America/El_Salvador/ISO_9001_El_Salvador.pdf
+    quote:   Kyocera AVX Components PTE. LTD. | Ilopango, El Salvador | Calle Cojutepeque 4-2 Zona Franca San Bartolo
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Av. San Lorenzo No. 651, Parque Industrial Omega, Ciudad Juarez, Chihuahua, 32410, Mexico
+    site_type: Manufacturing Plant, Assembly, Testing, Packaging
+    source:  https://www.kyocera-avx.com/docs/certificates/Central_America/Mexico/Juarez-ISO-9001.pdf
+    quote:   The manufacture, termination, plating, chip test, assembly, test and packaging of single and/or multilayer ceramic capacitors.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Josef-Brandstätter-Straße 2, Salzburg, 5020, Austria
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Austria/Salzburg-ISO9001.pdf
+    quote:   KYOCERA AVX Components (Salzburg) GmbH AT-5020 Salzburg, Josef-Brandstätter-Straße 2
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Spojovací 1613, Bzenec, 69681, Czech Republic
+    site_type: Manufacturing Plant
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_14001_Bzenec.pdf
+    quote:   KYOCERA AVX Components s.r.o. | Bzenec, Czech Republic | Spojovaci 1613, 69681 Bzenec
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Dvorakova 328, Lanskroun, 563 01, Czech Republic
+    site_type: Manufacturing Plant, R&D, Engineering, Assembly, Testing
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_9001_Lanskroun.pdf
+    quote:   Design, development, manufacture, assembly and testing of Tantalum and Niobium Oxide electrolytic capacitors.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Za Olsavkou 303, Uherske Hradiste, 68601, Czech Republic
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_9001_Uherske-Sady.pdf
+    quote:   KYOCERA AVX Components s.r.o, MLC | Uherske Hradiste, Czech Republic | Za Olsavkou 303
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Sokolovska 573, Uherske Hradiste, 68601, Czech Republic
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_9001_Uherske-Sady.pdf
+    quote:   KYOCERA AVX Components s.r.o | Uherske Hradiste, Czech Republic | Sokolovska 573
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Avenue du Colonel Prat, Saint-Apollinaire, 21850, France
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/France/ISO9001-St-Apollinaire.pdf
+    quote:   Design, development and manufacture of passive electronic components and power capacitors.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Benjamin-Fox-Str. 1, Betzdorf, Rhineland-Palatinate, 57518, Germany
+    site_type: Manufacturing Plant, Assembly, Injection Molding, R&D
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Germany/ISO_14001_Betzdorf.pdf
+    quote:   Design and Production of wire and stamped contacts in soldering and Pressfit technology, manufacture of specific cable harnesses, injection moulding/assembly of plastic mechatronic components and standard and complex connector systems
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Betzdorfer Str. 2b, Steineroth, Rhineland-Palatinate, 57518, Germany
+    site_type: Manufacturing Plant, Assembly, Injection Molding
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Germany/ISO_14001_Betzdorf.pdf
+    quote:   Betzdorfer Str. 2b 57518 Steineroth Germany
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Salzstraße 3, Klingenberg, Saxony, 01774, Germany
+    site_type: Manufacturing Plant, R&D, Engineering, Testing
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Klingenberg-ISO9001.pdf
+    quote:   KYOCERA AVX Components (Dresden) GmbH DE-01774 Klingenberg, Salzstraße 3
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Salzstraße 1, Klingenberg, Saxony, 01774, Germany
+    site_type: Manufacturing Plant, R&D, Engineering, Testing
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Klingenberg-ISO9001.pdf
+    quote:   incl. site: DE-01774 Klingenberg, Salzstraße 1
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Feldmark 50, Werne, North Rhine-Westphalia, 59368, Germany
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Werne-ISO9001.pdf
+    quote:   KYOCERA AVX Components (Werne) GmbH | Werne, Germany | DE-59368 Werne, Feldmark 50
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Industriestr. 14, Föritztal, Thuringia, 96524, Germany
+    site_type: R&D, Engineering, Manufacturing, Assembly
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Schierschnitz-ISO9001.pdf
+    quote:   Scope: Development, production, assembly and sales of customized machines
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Olympian Park Unit 2, nr. 637, Remetea Mare, Timiș, 307350, Romania
+    site_type: Manufacturing Plant, R&D, Engineering, Assembly
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/Romania/Timisoara-ISO9001.pdf
+    quote:   Scope: Design, production and assembly of mechatronic components and modules.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Hillmans Way, Coleraine, Northern Ireland, BT52 2DA, United Kingdom
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Europe/United_Kingdom/Coleraine-ISO9001.pdf
+    quote:   KYOCERA AVX Components Limited | Coleraine, United Kingdom | Hillmans Way, Coleraine, BT52 2DA
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: No. 9, Qingling Avenue, Yat-Sen Scientific Industrial Park, Wuqing District, Tianjin, 301726, China
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/China/ISO-9001-Tianjin.pdf
+    quote:   The design and manufacture of ceramic transient voltage suppressors, thermistors and connectors. The manufacture of filters.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Unit 4A & 4B, Building B6, Guangming Science and Technology Park, No. 3009 Guanguang Road, Guangming Street, Guangming District, Shenzhen, Guangdong, China
+    site_type: Manufacturing Plant, Sales Office
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/China/Shenzhen-China-ISO9001.pdf
+    quote:   Office & Production Address: Unit 4A & 4B, Building B6, Guangming Science and Technology Park, No.3009, Guanguang Road
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1F & 3F & 4F, Building C, No. 19, Muqiao Street, Suzhou New District, Suzhou, Jiangsu, 215129, China
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/China/Suzhou-China-IATF16949.pdf
+    quote:   Main Site: 1F & 3F & 4F, Building C, No. 19, Muqiao Street, Suzhou New District
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 21#, 24#, 24-25# (North Half), No. 158-24, Huashan Road, Suzhou New District, Suzhou, Jiangsu, 215129, China
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/China/Suzhou-China-IATF16949.pdf
+    quote:   Extended Site: 21#, 24#, 24-25# (North Half), No.158-24, Huashan Road
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 2F of Building 5#, Building 3#, No. 866, Tongwang Road, Industrial Development Zone, Qingbaijiang District, Chengdu, Sichuan, China
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/China/ISO-9001-Chengdu.pdf
+    quote:   KYOCERA AVX Components (Chengdu) Co., Ltd. | Chengdu, China | 2F of Building 5#, Building 3#, No. 866, Tongwang Road
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Plot No. 410, Sector 8, IMT Manesar, Gurugram (Gurgaon), Haryana, 122050, India
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/India/KAVX-S&C-Haryana-India_ISO14001.pdf
+    quote:   Design and manufacture of sensors (speed sensor & position sensor)
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3 Ha-Marpeh Street, Har Hotzvim Industrial Park, Jerusalem, 9777403, Israel
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/Israel/ISO_9001_Israel.pdf
+    quote:   Kyocera Avx Components (Jerusalem) Ltd | Jerusalem, Israel | 3, Ha-Marpeh St., Har Hotzvim Ind. Park, 9777403
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 1F, 2F, 31 Cheongneung-daero 410beon-gil, Namdong-gu, Incheon, 21691, South Korea
+    site_type: Manufacturing Plant
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/Korea/Incheon-ISO-9001.pdf
+    quote:   Manufacturing of small FPCB, R-F PCB
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 605Ho, 102Dong, 166 Gosan-ro, Dangjeong-dong, SK Ventium, Gunpo-si, Gyeonggi-do, South Korea
+    site_type: Manufacturing Plant
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/Korea/Gunpo-ISO-9001.pdf
+    quote:   KYOCERA AVX Components Gunpo Co., Ltd. | Gunpo-si, Korea | (Dangjeong-dong, SK Ventium), 605Ho, 102Dong, 166, Gosan-ro
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Phase III, Bayan Lepas Free Industrial Zone, Bayan Lepas, Penang, 11900, Malaysia
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/Malaysia/ISO_14001_Malaysia.pdf
+    quote:   Scope: Manufacture of Ceramic Capacitors
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Lot K-05, Que Vo Industrial Park (extended area), Nam Son Ward, Bac Ninh City, Bac Ninh, Vietnam
+    site_type: Manufacturing Plant
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/Vietnam/Vietnam-MC1-ISO9001.pdf
+    quote:   KYOCERA AVX COMPONENTS (BAC NINH) COMPANY LIMITED | Bac Ninh City, Vietnam | Lot K-05, Que Vo Industrial Park
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Lot CN-07, Van Trung Industrial Zone, Van Trung Ward, Viet Yen Town, Bac Giang, Vietnam
+    site_type: Manufacturing Plant
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/Vietnam/Vietnam-MC2-ISO9001.pdf
+    quote:   KYOCERA AVX COMPONENTS (BAC GIANG) COMPANY LIMITED | Viet Yen Town, Vietnam | Lot CN-07, Van Trung Industrial Zone
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 999/45, 999/50 Moo 1, Na-Klang Sub-district, Sung Noen District, Nakhon Ratchasima, 30380, Thailand
+    site_type: Manufacturing Plant, R&D, Engineering
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/Thailand/thailand-bangkok-IATF16949.pdf
+    quote:   The Design and Manufacture of MLCC (Multi-Layer Ceramic Capacitors) and Tantalum Capacitors.
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: 3/F Hilder Centre, 2 Sung Ping Street, Hung Hom, Kowloon, Hong Kong, Hong Kong
+    site_type: Warehousing, Packaging, Logistics, Distribution
+    source:  https://www.kyocera-avx.com/docs/certificates/Asia/Thailand/thailand-bangkok-IATF16949.pdf
+    quote:   Kyocera AVX Components (Asia) Ltd., 3/F Hilder Centre, 2 Sung Ping Street, Hunghom, Kowloon, Kowloon, 122001, Hong Kong : Warehousing, Packaging, Logistics, Distribution
+
+- [B] score=0.60 address_city_matched=no   address_country_matched=no
+    address: Knowledge Park at Penn State Erie, Penn State Behrend campus, Erie, Pennsylvania, United States
+    site_type: Planned Manufacturing Plant, R&D, Design Center, Cleanrooms, Testing Facility
+    source:  https://www.kyocera-avx.com/news/ground-breaking-kavx-erie/
+    quote:   The new 49,000-square-foot manufacturing and design center ... is projected to open on April 30, 2025.
+
+Ground-truth address row(s) available for 'AVX': 0
+
+Results written to: results\cert_pdf_test2_20260924\AVX__effort-medium.csv
+
+=== Token usage / estimated cost ===
+TOTAL chat: 9 calls, 375710 in / 10858 out tokens
+TOTAL web_search: 37 calls, 632453 in / 25120 out tokens
+TOTAL scrapingbee: 4 calls, 4 credits (~$0.0008), 0 failed -> escalated to paid search
+TOTAL tool calls attempted: 80 (issued: web_search 25/45, fetch_page 49 (uncapped), of which 26 were PDFs parsed locally for free and 12/10 needed the paid search fallback; refused over budget: 1; site:-queries redirected to fetch_page: 0; searches redirected to known document links: 6)
+TOTAL cost: $0.5381  (chat $0.0376, search tokens $0.1297, search call fee $0.3700, scrapingbee $0.0008)
+  input tokens priced as: 468180 uncached, 454402 cached read, 85581 cache write
+
+--- Per-model breakdown (chat only) ---
+gpt-5.6-luna          9 calls, 375710 in / 10858 out tokens
+
+--- Queries issued (112) ---
+[site_extractor] web_search: AVX Corporation official website locations worldwide contact subsidiaries brands
+[site_extractor] web_search: site:avx.com AVX locations contact us facilities
+[site_extractor] web_search: AVX Corporation annual report facilities manufacturing plants offices
+[site_extractor] web_search: KYOCERA AVX official locations global sites contact
+[site_extractor] web_search: AVX Corporation subsidiaries acquired brands official
+[site_extractor] web_search: AVX Corporation headquarters address South Carolina official
+[site_extractor] fetch_page: https://www.kyocera-avx.com/contact-us/
+[site_extractor] fetch_page: https://www.sec.gov/Archives/edgar/data/859163/000143774919010375/ex_144849.htm
+[site_extractor] fetch_page: https://www.kyocera-avx.com/about/certificates/
+[site_extractor] fetch_page: https://www.sec.gov/Archives/edgar/data/859163/000143774919010375/avx20190331_10k.htm
+[site_extractor] fetch_page: https://sc.kyocera-avx.com/business/locations/
+[site_extractor] fetch_page: https://www.kyocera-avx.com/about/
+[site_extractor] fetch_page: https://www.kyocera-avx.com/contact-us/authorized/
+[site_extractor] web_search: KYOCERA AVX South Carolina office address Greenville Myrtle Beach directory
+[site_extractor] web_search: KYOCERA AVX office plant California Florida Maine Pennsylvania address
+[site_extractor] web_search: KYOCERA AVX Pennsylvania Erie address directory
+[site_extractor] web_search: AVX Corporation Alabama Georgia North Carolina office address
+[site_extractor] web_search: KYOCERA AVX US locations office sales address
+[site_extractor] web_search: AVX Corporation Texas California New York office address directory
+[site_extractor] web_search: AB Elektronik KYOCERA AVX United States location address
+[site_extractor] web_search: AVX Corporation US manufacturing plant facility address
+[site_extractor] web_search: American Technical Ceramics AVX address Florida New York facility
+[site_extractor] web_search: Google Maps AVX Corporation North Carolina Raleigh facility address
+[site_extractor] web_search: Google Business Profile KYOCERA AVX Michigan Plymouth address
+[site_extractor] web_search: KYOCERA AVX Ohio Indiana Illinois office address directory
+[site_extractor] web_search: KYOCERA AVX Northeast US office manufacturing address
+[site_extractor] web_search: AVX Corporation distribution center warehouse United States address
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/North_America/California/SanDiego-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/North_America/Florida/Jacksonville-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/North_America/Maine/ISO_9001_biddeford.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/North_America/Penn/Erie-AS9100.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/North_America/South_Carolina/Fountain-Inn_ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/North_America/South_Carolina/ISO_9001_MyrtleBeach.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Central_America/El_Salvador/ISO_9001_El_Salvador.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Central_America/Mexico/Juarez-ISO-9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/Austria/Salzburg-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_14001_Bzenec.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_9001_Lanskroun.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_9001_Uherske-Sady.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/North_America/Penn/Erie-AS9100.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/France/ISO9001-St-Apollinaire.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/North_America/South_Carolina/Fountain-Inn_ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Klingenberg-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_9001_Lanskroun.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Werne-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/North_America/Maine/ISO_9001_biddeford.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Schierschnitz-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/North_America/California/SanDiego-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Central_America/Mexico/Juarez-ISO-9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/Germany/ISO_14001_Betzdorf.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/Romania/Timisoara-ISO9001.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_14001_Bzenec.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Central_America/El_Salvador/ISO_9001_El_Salvador.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/North_America/Florida/Jacksonville-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/North_America/South_Carolina/ISO_9001_MyrtleBeach.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Europe/United_Kingdom/Coleraine-ISO9001.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Europe/Czech_Republic/ISO_9001_Uherske-Sady.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Europe/Austria/Salzburg-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Schierschnitz-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Europe/France/ISO9001-St-Apollinaire.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Europe/Romania/Timisoara-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Klingenberg-ISO9001.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Europe/Germany/Werne-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Europe/Germany/ISO_14001_Betzdorf.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Europe/United_Kingdom/Coleraine-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/China/ISO-9001-Chengdu.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/China/ISO-14001-Tianjin.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/India/KAVX-S&C-Haryana-India_ISO14001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/Israel/ISO_9001_Israel.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/Korea/Incheon-ISO-9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/China/Shenzhen-China-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/Malaysia/Penang-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/Korea/Gunpo-ISO-9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/China/Suzhou-China-IATF16949.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/Vietnam/Vietnam-MC1-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/Vietnam/Vietnam-MC2-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/Thailand/thailand-bangkok-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/India/KAVX-S&C-Haryana-India_ISO14001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Central_America/El_Salvador/El-Salvador-ISO-14001.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Asia/Korea/Gunpo-ISO-9001.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Asia/Israel/ISO_9001_Israel.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/China/Shenzhen-China-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/North_America/Maine/Biddeford-ISO-14001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/Malaysia/Penang-ISO9001.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/North_America/South_Carolina/ISO14001_Corporate.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/China/Suzhou-China-IATF16949.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/Korea/Incheon-ISO-9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/Thailand/thailand-bangkok-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/China/ISO-14001-Tianjin.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Central_America/El_Salvador/El-Salvador-ISO-14001.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Asia/China/ISO-9001-Chengdu.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Asia/Vietnam/Vietnam-MC1-ISO9001.pdf
+[site_extractor] fetch_page_search_fallback: https://www.kyocera-avx.com/docs/certificates/Asia/Vietnam/Vietnam-MC2-ISO9001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/North_America/Maine/Biddeford-ISO-14001.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/North_America/South_Carolina/ISO14001_Corporate.pdf
+[site_extractor] web_search: KYOCERA AVX manufacturing facilities 2024 locations annual report
+[site_extractor] web_search: KYOCERA AVX Japan office address Tokyo Kyoto official
+[site_extractor] web_search: KYOCERA AVX Singapore address manufacturing sales official
+[site_extractor] web_search: KYOCERA AVX R&D facility Japan Malaysia Israel Czech Republic address
+[site_extractor] web_search: KYOCERA AVX Hong Kong address official AVX Asia
+[site_extractor] fetch_page: https://global.kyocera.com/ir/pdf/FY24_4Q_ar.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/contact-us/locations/
+[site_extractor] fetch_page: https://www.kyocera-avx.com/locations/
+[site_extractor] fetch_page: https://www.kyocera-avx.com/news/ground-breaking-kavx-erie/
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/China/ISO-9001-Tianjin.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/China/ISO-14001-Chengdu.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/Malaysia/ISO_14001_Malaysia.pdf
+[site_extractor] fetch_page: https://www.kyocera-avx.com/docs/certificates/Asia/Thailand/thailand-bangkok-IATF16949.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/Thailand/thailand-bangkok-IATF16949.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/Malaysia/ISO_14001_Malaysia.pdf
+[site_extractor] fetch_page_pdf_local: https://www.kyocera-avx.com/docs/certificates/Asia/China/ISO-9001-Tianjin.pdf
+[site_extractor] fetch_page_pdf_local: https://global.kyocera.com/ir/pdf/FY24_4Q_ar.pdf
+
+Usage record appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\usage_log.jsonl
+Queries appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\queries_log.jsonl
+ScrapingBee call details appended to: C:\Users\AmiteshSingh\Development\site_extraction_one_agent\scrapingbee_log.jsonl

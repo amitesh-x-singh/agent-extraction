@@ -64,6 +64,25 @@ reordered = dedupe_ranked_by_address(
     ]
 )
 assert len(reordered) == 1, reordered
+# The dropped duplicate's source is kept as an extra source of the surviving row, best first.
+assert reordered[0]["candidate"].all_sources() == [
+    "https://capgemini.com/locations",
+    "https://find-and-update.company-information.service.gov.uk/company/00943935",
+], reordered[0]["candidate"].all_sources()
+
+# Agent-reported extra sources survive, URLs appear once, and the CSV cell is quoted + comma-separated.
+from site_extraction_one_agent.results_csv import _row  # noqa: E402
+
+multi = CandidateAddress(
+    street_address="1 Foo St",
+    source_url="https://acme.com/cert.pdf",
+    other_source_urls=["https://acme.com/locations", "https://acme.com/cert.pdf", " "],
+    evidence_quote="q",
+)
+assert multi.all_sources() == ["https://acme.com/cert.pdf", "https://acme.com/locations"]
+cell = _row("ACME", {"candidate": multi, "tier": "B", "score": 0.6})["all_sources"]
+assert cell == '"https://acme.com/cert.pdf", "https://acme.com/locations"', cell
+print("all_sources: merged on dedupe, deduplicated, quoted in CSV: OK")
 
 # Real duplicate from the same run: same source, one copy has a company-name prefix the other
 # lacks.

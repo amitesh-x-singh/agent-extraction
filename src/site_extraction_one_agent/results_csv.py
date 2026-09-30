@@ -33,9 +33,21 @@ FIELDNAMES = [
     "evidence_quote",
     "gt_address_city_match",
     "gt_address_country_match",
+    "all_sources",
 ]
 
 _TIER_TO_CONFIDENCE = {"A": "High", "B": "Medium", "C": "Low", "D": "Low"}
+# A site found on this many distinct pages/documents is corroborated whatever its best source's tier.
+HIGH_CONFIDENCE_MIN_SOURCES = 3
+
+
+def confidence_for(tier: str, n_sources: int) -> str:
+    """High/Medium/Low for a row: from the best source's tier, promoted to High when at least
+    HIGH_CONFIDENCE_MIN_SOURCES distinct sources list the same address. The one place this is
+    decided, so the CSV and the API/UI never disagree."""
+    if n_sources >= HIGH_CONFIDENCE_MIN_SOURCES:
+        return "High"
+    return _TIER_TO_CONFIDENCE.get(tier, "")
 
 
 def _row(company: str, entry: dict) -> dict:
@@ -50,7 +62,7 @@ def _row(company: str, entry: dict) -> dict:
         "state": c.state_province or "",
         "postal_code": c.postal_code or "",
         "country": c.country or "",
-        "confidence": _TIER_TO_CONFIDENCE.get(entry["tier"], ""),
+        "confidence": confidence_for(entry["tier"], len(c.all_sources())),
         "category": "",
         "legal_entity": c.legal_entity or "",
         "site_name": c.site_name or "",
@@ -64,6 +76,8 @@ def _row(company: str, entry: dict) -> dict:
         "evidence_quote": c.evidence_quote,
         "gt_address_city_match": entry.get("gt_address_city_match", ""),
         "gt_address_country_match": entry.get("gt_address_country_match", ""),
+        # Every source for this site, best first, each URL quoted and comma-separated.
+        "all_sources": ", ".join(f'"{u}"' for u in c.all_sources()),
     }
 
 
